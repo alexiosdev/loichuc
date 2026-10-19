@@ -402,7 +402,7 @@
       "image": "img/bg_tet.jpg"
     },
     {
-      "id": "6",
+      "id": "69",
       "type": "1",
       "name": "Lời chúc 20/11 hay ý nghĩa",
       "sub": [
