@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "sinhnhat_vo_1",
+   "content": "Chúc mừng sinh nhật vợ yêu! Cảm ơn em vì đã luôn ở đây, biến ngôi nhà này thành tổ ấm.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_vo_2",
+   "content": "Sinh nhật vui vẻ em nhé! Chúc vợ anh mãi xinh đẹp, mãi khỏe mạnh và mãi được anh yêu.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_vo_3",
+   "content": "Chúc mừng sinh nhật người phụ nữ của đời anh. Chúc em một tuổi mới thật nhiều niềm vui và ít lo toan.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_vo_4",
+   "content": "Happy birthday vợ yêu! Anh chúc em luôn rạng rỡ như ngày anh lần đầu gặp em.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_vo_5",
+   "content": "Chúc mừng sinh nhật em! Cảm ơn em đã chọn anh, và chúc em một tuổi mới hạnh phúc trọn vẹn.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_vo_6",
+   "content": "Sinh nhật vợ, anh chẳng biết tặng gì hơn ngoài lời hứa sẽ thương em nhiều hơn mỗi năm.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_vo_7",
+   "content": "Chúc mừng sinh nhật bà xã! Chúc em sức khỏe dồi dào, tâm hồn thảnh thơi, da dẻ hồng hào.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_vo_8",
+   "content": "Happy birthday em yêu! Chúc vợ anh tuổi mới bớt vất vả, nhiều thời gian cho riêng mình.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_vo_9",
+   "content": "Chúc mừng sinh nhật vợ! Em là điều may mắn nhất đời anh, chúc em một năm tuổi thật rực rỡ.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_vo_10",
+   "content": "Sinh nhật vui vẻ vợ yêu! Chúc em luôn cười thật tươi, bởi nụ cười của em là ánh sáng của nhà mình.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_vo_11",
+   "content": "Chúc mừng sinh nhật em! Anh chúc vợ mình tuổi mới khỏe mạnh để còn cùng anh đi hết chặng đường dài.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_vo_12",
+   "content": "Happy birthday bà xã! Chúc em mãi trẻ, mãi đẹp và mãi là người anh muốn về nhà mỗi tối.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_vo_13",
+   "content": "Chúc mừng sinh nhật vợ yêu! Cảm ơn em vì những bữa cơm, những lời động viên và cả những lúc em cằn nhằn.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_vo_14",
+   "content": "Sinh nhật em, anh chúc em được chiều chuộng cả ngày và được yêu thương cả đời.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_vo_15",
+   "content": "Chúc mừng sinh nhật vợ! Chúc em tuổi mới an yên, hạnh phúc và luôn có anh bên cạnh.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_vo_16",
+   "content": "Happy birthday em! Anh chúc vợ mình tuổi mới nhan sắc thăng hạng, tâm trạng thăng hoa.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_vo_17",
+   "content": "Chúc mừng sinh nhật bà xã yêu dấu! Chúc em sức khỏe, bình an và thật nhiều điều em mong muốn.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_vo_18",
+   "content": "Sinh nhật vui vẻ vợ nhé! Chúc em mãi là người phụ nữ đáng yêu nhất trong mắt anh.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_vo_19",
+   "content": "Chúc mừng sinh nhật em! Chúc vợ anh tuổi mới ít stress, nhiều spa và nhiều chuyến đi chơi.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_vo_20",
+   "content": "Happy birthday vợ yêu! Anh chúc em một năm tuổi mới mà mọi điều em muốn đều trong tầm tay.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_vo_21",
+   "content": "Chúc mừng sinh nhật vợ! Em đã hy sinh nhiều cho gia đình này, chúc em tuổi mới được sống cho riêng mình nhiều hơn.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_vo_22",
+   "content": "Sinh nhật em yêu, anh chúc em mãi khỏe mạnh, mãi vui tươi và mãi là bà chủ của trái tim anh.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_vo_23",
+   "content": "Chúc mừng sinh nhật bà xã! Chúc em tuổi mới thật nhiều tiếng cười và thật ít nước mắt.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_vo_24",
+   "content": "Happy birthday vợ! Chúc em tuổi mới công việc thuận lợi, con cái ngoan ngoãn, chồng biết điều.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_vo_25",
+   "content": "Chúc mừng sinh nhật em! Anh chúc vợ mình luôn tự tin, luôn kiêu hãnh và luôn hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_vo_26",
+   "content": "Sinh nhật vui vẻ vợ yêu! Chúc em một tuổi mới bình an, đủ đầy và ngập tràn yêu thương.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_vo_27",
+   "content": "Chúc mừng sinh nhật vợ! Cảm ơn em vì đã là hậu phương vững chắc nhất của anh.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_vo_28",
+   "content": "Happy birthday em yêu! Chúc vợ anh tuổi mới xinh hơn, khỏe hơn và được cưng chiều hơn.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_vo_29",
+   "content": "Chúc mừng sinh nhật bà xã! Chúc em tuổi mới toại nguyện mọi điều, kể cả những điều em chưa nói ra.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_vo_30",
+   "content": "Sinh nhật em, anh chúc em luôn có lý do để mỉm cười mỗi sáng thức dậy.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_vo_31",
+   "content": "Chúc mừng sinh nhật vợ yêu! Chúc em sức khỏe dồi dào, tinh thần phơi phới, gia đình êm ấm.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_vo_32",
+   "content": "Happy birthday vợ! Anh chúc em một năm tuổi mới đáng nhớ với thật nhiều kỷ niệm đẹp bên nhau.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_vo_33",
+   "content": "Chúc mừng sinh nhật em! Chúc vợ anh mãi là người phụ nữ hạnh phúc nhất, vì anh sẽ cố gắng vì điều đó.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_vo_34",
+   "content": "Sinh nhật vui vẻ bà xã! Chúc em tuổi mới nhẹ nhàng, thong dong và được chăm sóc thật tốt.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_vo_35",
+   "content": "Chúc mừng sinh nhật vợ! Chúc em tuổi mới sức khỏe như ý, nhan sắc như mơ, hạnh phúc như hiện tại.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_vo_36",
+   "content": "Happy birthday em yêu! Anh chúc em một tuổi mới mà mỗi ngày đều có điều gì đó khiến em vui.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_vo_37",
+   "content": "Chúc mừng sinh nhật bà xã! Chúc em tuổi mới bình an trong tâm và viên mãn trong đời.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_vo_38",
+   "content": "Sinh nhật em yêu, chúc em luôn được yêu thương như cách em đã yêu thương cả nhà.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_vo_39",
+   "content": "Chúc mừng sinh nhật vợ! Chúc em tuổi mới thật nhiều may mắn và thật nhiều niềm vui bất ngờ.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_vo_40",
+   "content": "Happy birthday vợ yêu! Chúc em một năm tuổi mới rực rỡ, tự do và hạnh phúc theo cách em muốn.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_vo_41",
+   "content": "Chúc mừng sinh nhật em! Anh chúc vợ mình mãi khỏe, mãi vui và mãi bên anh.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_vo_42",
+   "content": "Sinh nhật vui vẻ vợ nhé! Chúc em tuổi mới vạn sự như ý, tâm an, đời đẹp.",
+   "translate": ""
+  }
+ ]
+}

@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "sang_tienganh_1",
+   "content": "Good morning! Wishing you a bright day and a peaceful mind.",
+   "translate": ""
+  },
+  {
+   "id": "sang_tienganh_2",
+   "content": "Good morning! May today bring you everything you need and a little extra.",
+   "translate": ""
+  },
+  {
+   "id": "sang_tienganh_3",
+   "content": "Rise and shine! Hope your day is as wonderful as you are.",
+   "translate": ""
+  },
+  {
+   "id": "sang_tienganh_4",
+   "content": "Good morning! May your coffee be strong and your Monday be short.",
+   "translate": ""
+  },
+  {
+   "id": "sang_tienganh_5",
+   "content": "Good morning! Wishing you a productive day and a restful evening.",
+   "translate": ""
+  },
+  {
+   "id": "sang_tienganh_6",
+   "content": "A new day, a new chance. Good morning and good luck!",
+   "translate": ""
+  },
+  {
+   "id": "sang_tienganh_7",
+   "content": "Good morning! May today be kinder than yesterday.",
+   "translate": ""
+  },
+  {
+   "id": "sang_tienganh_8",
+   "content": "Wishing you a beautiful morning and an even better day.",
+   "translate": ""
+  },
+  {
+   "id": "sang_tienganh_9",
+   "content": "Good morning! May your day be filled with small wins.",
+   "translate": ""
+  },
+  {
+   "id": "sang_tienganh_10",
+   "content": "Rise and shine! Today is yours to make something of.",
+   "translate": ""
+  },
+  {
+   "id": "sang_tienganh_11",
+   "content": "Good morning! Wishing you calm mornings and clear thinking.",
+   "translate": ""
+  },
+  {
+   "id": "sang_tienganh_12",
+   "content": "Good morning! May you find a reason to smile before noon.",
+   "translate": ""
+  },
+  {
+   "id": "sang_tienganh_13",
+   "content": "Hope your day starts well and ends even better. Good morning!",
+   "translate": ""
+  },
+  {
+   "id": "sang_tienganh_14",
+   "content": "Good morning! Wishing you energy, focus and a little bit of luck.",
+   "translate": ""
+  },
+  {
+   "id": "sang_tienganh_15",
+   "content": "Good morning! May today be lighter than you expected.",
+   "translate": ""
+  },
+  {
+   "id": "sang_tienganh_16",
+   "content": "Rise and shine! Wishing you a day full of good moments.",
+   "translate": ""
+  },
+  {
+   "id": "sang_tienganh_17",
+   "content": "Good morning! May everything you do today go smoothly.",
+   "translate": ""
+  },
+  {
+   "id": "sang_tienganh_18",
+   "content": "Wishing you a gentle start to a great day. Good morning!",
+   "translate": ""
+  },
+  {
+   "id": "sang_tienganh_19",
+   "content": "Good morning! May your worries stay small and your joys stay big.",
+   "translate": ""
+  },
+  {
+   "id": "sang_tienganh_20",
+   "content": "Good morning! Here is to a fresh start and a good day ahead.",
+   "translate": ""
+  },
+  {
+   "id": "sang_tienganh_21",
+   "content": "Rise and shine! May today bring opportunities, not obstacles.",
+   "translate": ""
+  },
+  {
+   "id": "sang_tienganh_22",
+   "content": "Good morning! Wishing you peace in your mind and strength in your step.",
+   "translate": ""
+  },
+  {
+   "id": "sang_tienganh_23",
+   "content": "Good morning! May this day treat you well in every way.",
+   "translate": ""
+  },
+  {
+   "id": "sang_tienganh_24",
+   "content": "Hope you slept well. Good morning and have a wonderful day!",
+   "translate": ""
+  },
+  {
+   "id": "sang_tienganh_25",
+   "content": "Good morning! May you accomplish what matters and let go of what does not.",
+   "translate": ""
+  },
+  {
+   "id": "sang_tienganh_26",
+   "content": "Rise and shine! Wishing you a day you will be glad you showed up for.",
+   "translate": ""
+  },
+  {
+   "id": "sang_tienganh_27",
+   "content": "Good morning! May kindness find you today, and may you pass it on.",
+   "translate": ""
+  },
+  {
+   "id": "sang_tienganh_28",
+   "content": "Good morning! Wishing you a smooth day and a soft landing tonight.",
+   "translate": ""
+  },
+  {
+   "id": "sang_tienganh_29",
+   "content": "Good morning! May today be the start of something good.",
+   "translate": ""
+  },
+  {
+   "id": "sang_tienganh_30",
+   "content": "Wishing you sunshine, patience and good news today. Good morning!",
+   "translate": ""
+  },
+  {
+   "id": "sang_tienganh_31",
+   "content": "Good morning! May your day be as warm as your morning cup.",
+   "translate": ""
+  },
+  {
+   "id": "sang_tienganh_32",
+   "content": "Rise and shine! Today is a good day to do something you keep postponing.",
+   "translate": ""
+  },
+  {
+   "id": "sang_tienganh_33",
+   "content": "Good morning! Wishing you clarity, calm and plenty of good coffee.",
+   "translate": ""
+  },
+  {
+   "id": "sang_tienganh_34",
+   "content": "Good morning! May everything fall into place today.",
+   "translate": ""
+  },
+  {
+   "id": "sang_tienganh_35",
+   "content": "Hope today brings you joy in unexpected places. Good morning!",
+   "translate": ""
+  },
+  {
+   "id": "sang_tienganh_36",
+   "content": "Good morning! Wishing you strength for the hard parts and gratitude for the rest.",
+   "translate": ""
+  },
+  {
+   "id": "sang_tienganh_37",
+   "content": "Good morning! May your day be productive and your evening be peaceful.",
+   "translate": ""
+  },
+  {
+   "id": "sang_tienganh_38",
+   "content": "Rise and shine! Wishing you a day worth remembering.",
+   "translate": ""
+  },
+  {
+   "id": "sang_tienganh_39",
+   "content": "Good morning! May you be healthy, happy and exactly where you need to be.",
+   "translate": ""
+  },
+  {
+   "id": "sang_tienganh_40",
+   "content": "Good morning! Here is to making today count.",
+   "translate": ""
+  },
+  {
+   "id": "sang_tienganh_41",
+   "content": "Wishing you a wonderful morning and a very good day. Good morning!",
+   "translate": ""
+  },
+  {
+   "id": "sang_tienganh_42",
+   "content": "Good morning! May today be better than you dared to hope.",
+   "translate": ""
+  }
+ ]
+}

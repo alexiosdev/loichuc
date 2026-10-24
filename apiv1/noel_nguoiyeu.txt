@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "noel_nguoiyeu_1",
+   "content": "Giáng sinh này, món quà lớn nhất của anh chính là được ở bên em.",
+   "translate": ""
+  },
+  {
+   "id": "noel_nguoiyeu_2",
+   "content": "Merry Christmas em yêu! Chúc em một mùa Noel ấm áp và ngập tràn hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "noel_nguoiyeu_3",
+   "content": "Giáng sinh an lành em nhé! Mong rằng năm nào chúng mình cũng được đón Noel cùng nhau.",
+   "translate": ""
+  },
+  {
+   "id": "noel_nguoiyeu_4",
+   "content": "Chúc em một Noel thật ngọt ngào. Có em, mùa đông cũng hóa ấm áp.",
+   "translate": ""
+  },
+  {
+   "id": "noel_nguoiyeu_5",
+   "content": "Merry Christmas! Anh chúc em luôn vui, luôn khỏe và luôn được yêu thương.",
+   "translate": ""
+  },
+  {
+   "id": "noel_nguoiyeu_6",
+   "content": "Giáng sinh này, anh chỉ ước được nắm tay em đi dạo dưới ánh đèn lấp lánh.",
+   "translate": ""
+  },
+  {
+   "id": "noel_nguoiyeu_7",
+   "content": "Chúc em một mùa Noel đáng nhớ. Cảm ơn em vì đã ở bên anh suốt một năm qua.",
+   "translate": ""
+  },
+  {
+   "id": "noel_nguoiyeu_8",
+   "content": "Merry Christmas em! Chúc em mọi điều ước đêm Giáng sinh đều thành hiện thực.",
+   "translate": ""
+  },
+  {
+   "id": "noel_nguoiyeu_9",
+   "content": "Giáng sinh an lành! Anh chúc tình yêu của chúng mình mãi ấm áp như đêm nay.",
+   "translate": ""
+  },
+  {
+   "id": "noel_nguoiyeu_10",
+   "content": "Chúc em một Noel thật vui. Em là điều kỳ diệu nhất mà anh từng nhận được.",
+   "translate": ""
+  },
+  {
+   "id": "noel_nguoiyeu_11",
+   "content": "Merry Christmas em yêu! Mong em luôn hạnh phúc, dù mùa đông có lạnh đến đâu.",
+   "translate": ""
+  },
+  {
+   "id": "noel_nguoiyeu_12",
+   "content": "Giáng sinh này, anh chúc em an lành, bình yên và luôn mỉm cười.",
+   "translate": ""
+  },
+  {
+   "id": "noel_nguoiyeu_13",
+   "content": "Chúc em một mùa Noel ấm áp bên gia đình và bên anh.",
+   "translate": ""
+  },
+  {
+   "id": "noel_nguoiyeu_14",
+   "content": "Merry Christmas! Anh chúc em một đêm Giáng sinh thật đẹp và một năm mới rực rỡ.",
+   "translate": ""
+  },
+  {
+   "id": "noel_nguoiyeu_15",
+   "content": "Giáng sinh an lành em nhé! Yêu em nhiều hơn cả những ngôi sao trên cây thông kia.",
+   "translate": ""
+  },
+  {
+   "id": "noel_nguoiyeu_16",
+   "content": "Chúc em một Noel ngọt ngào như chiếc bánh khúc cây em thích.",
+   "translate": ""
+  },
+  {
+   "id": "noel_nguoiyeu_17",
+   "content": "Merry Christmas em! Anh biết ơn vì mùa Giáng sinh này vẫn có em bên cạnh.",
+   "translate": ""
+  },
+  {
+   "id": "noel_nguoiyeu_18",
+   "content": "Giáng sinh này, anh chúc em luôn giữ được nụ cười làm anh ấm lòng.",
+   "translate": ""
+  },
+  {
+   "id": "noel_nguoiyeu_19",
+   "content": "Chúc em một mùa Noel bình an và tràn đầy yêu thương.",
+   "translate": ""
+  },
+  {
+   "id": "noel_nguoiyeu_20",
+   "content": "Merry Christmas! Chúc em một đêm thánh vô cùng, bên người mình thương.",
+   "translate": ""
+  },
+  {
+   "id": "noel_nguoiyeu_21",
+   "content": "Giáng sinh an lành! Anh chúc em sức khỏe, niềm vui và thật nhiều điều bất ngờ.",
+   "translate": ""
+  },
+  {
+   "id": "noel_nguoiyeu_22",
+   "content": "Chúc em một Noel thật ấm. Anh sẽ là chiếc áo khoác của em mùa đông này.",
+   "translate": ""
+  },
+  {
+   "id": "noel_nguoiyeu_23",
+   "content": "Merry Christmas em yêu! Mong rằng Giáng sinh năm sau chúng mình vẫn như thế này.",
+   "translate": ""
+  },
+  {
+   "id": "noel_nguoiyeu_24",
+   "content": "Giáng sinh này, anh chúc em mọi điều tốt đẹp nhất sẽ đến.",
+   "translate": ""
+  },
+  {
+   "id": "noel_nguoiyeu_25",
+   "content": "Chúc em một mùa Noel vui vẻ bên những người em yêu quý.",
+   "translate": ""
+  },
+  {
+   "id": "noel_nguoiyeu_26",
+   "content": "Merry Christmas! Anh chúc em một đêm Giáng sinh thật ý nghĩa và đáng nhớ.",
+   "translate": ""
+  },
+  {
+   "id": "noel_nguoiyeu_27",
+   "content": "Giáng sinh an lành em nhé! Cảm ơn em vì đã làm năm nay của anh trọn vẹn hơn.",
+   "translate": ""
+  },
+  {
+   "id": "noel_nguoiyeu_28",
+   "content": "Chúc em một Noel thật đẹp, đẹp như cách em bước vào đời anh.",
+   "translate": ""
+  },
+  {
+   "id": "noel_nguoiyeu_29",
+   "content": "Merry Christmas em! Anh chúc em bình an, hạnh phúc và luôn được che chở.",
+   "translate": ""
+  },
+  {
+   "id": "noel_nguoiyeu_30",
+   "content": "Giáng sinh này, anh chúc chúng mình mãi bên nhau như ông già Noel và chiếc xe tuần lộc.",
+   "translate": ""
+  },
+  {
+   "id": "noel_nguoiyeu_31",
+   "content": "Chúc em một mùa Noel ngập tràn tiếng cười và hơi ấm.",
+   "translate": ""
+  },
+  {
+   "id": "noel_nguoiyeu_32",
+   "content": "Merry Christmas! Chúc em luôn là cô gái hạnh phúc nhất trong đêm Giáng sinh này.",
+   "translate": ""
+  },
+  {
+   "id": "noel_nguoiyeu_33",
+   "content": "Giáng sinh an lành! Anh chúc em một năm mới sắp tới thật nhiều may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "noel_nguoiyeu_34",
+   "content": "Chúc em một Noel thật vui. Anh chỉ cần em là đủ, không cần quà gì khác.",
+   "translate": ""
+  },
+  {
+   "id": "noel_nguoiyeu_35",
+   "content": "Merry Christmas em yêu! Mong em luôn ấm áp cả trong lòng lẫn ngoài trời.",
+   "translate": ""
+  },
+  {
+   "id": "noel_nguoiyeu_36",
+   "content": "Giáng sinh này, anh chúc em thật nhiều sức khỏe và thật nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "noel_nguoiyeu_37",
+   "content": "Chúc em một mùa Noel an lành bên anh và bên gia đình.",
+   "translate": ""
+  },
+  {
+   "id": "noel_nguoiyeu_38",
+   "content": "Merry Christmas! Anh chúc em mọi ước mơ đều thành, và anh sẽ cùng em thực hiện.",
+   "translate": ""
+  },
+  {
+   "id": "noel_nguoiyeu_39",
+   "content": "Giáng sinh an lành em nhé! Yêu em, mùa đông này và cả những mùa đông sau.",
+   "translate": ""
+  },
+  {
+   "id": "noel_nguoiyeu_40",
+   "content": "Chúc em một Noel thật ấm áp. Cảm ơn em vì tất cả.",
+   "translate": ""
+  },
+  {
+   "id": "noel_nguoiyeu_41",
+   "content": "Merry Christmas em! Chúc em một đêm Giáng sinh ngọt ngào và một đời hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "noel_nguoiyeu_42",
+   "content": "Giáng sinh này, anh chúc em luôn được yêu thương như em xứng đáng.",
+   "translate": ""
+  }
+ ]
+}

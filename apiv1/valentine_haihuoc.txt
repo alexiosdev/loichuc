@@ -1,0 +1,204 @@
+{
+ "result": [
+  {
+   "id": "valentine_haihuoc_1",
+   "content": "Anh ước gì 1 ngày có 25 giờ để anh có 1 giờ không nghĩ đến em! Chúc em luôn mìm cười và cũng nhớ tới anh!. Valentine vui vẻ em nhé!",
+   "translate": ""
+  },
+  {
+   "id": "valentine_haihuoc_2",
+   "content": "Anh hứa sẽ ngồi im nhìn em khóc và làm nhiệm vụ tiếp tế khăn giấy cho em mỗi khi chúng mình xem phim buồn, dù anh thấy cái cảnh ấy chả có gì đáng rỏ nước mắt cả.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_haihuoc_3",
+   "content": "Ngốc ơi! Nếu tình yêu là lực hấp dẫn, thì em là trái đất, còn nếu xinh đẹp là tội ác, thì có lẽ em đáng bị kết án tử hình… Anh yêu em nhiều lắm ngốc à! Hãy bên anh và cùng sát cánh với anh nha ngốc.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_haihuoc_4",
+   "content": "Gấu yêu của em, khi mở mắt ra và đọc được những lời này anh đừng có giật mình nhé bởi vì em chỉ muốn nói với anh một điều rằng \"em yêu anh nhiều lắm\".",
+   "translate": ""
+  },
+  {
+   "id": "valentine_haihuoc_5",
+   "content": "Tặng em một món quà nhỏ bé được gói bằng sự chân thành, buộc bằng sự quan tâm và dính keo bằng lời cầu nguyện của anh để em được bình an và hạnh phúc cả ngày!",
+   "translate": ""
+  },
+  {
+   "id": "valentine_haihuoc_6",
+   "content": "Em đã hỏi tôi rằng: \"Anh sẽ chọn em hay cuộc sống của anh?\". Tôi trả lời rằng: \"Anh sẽ chọn cuộc sống của anh\". Em bỏ đi, nhưng em không biết rằng em chính là cuộc sống của tôi. Chúc Valentine vui vẻ!",
+   "translate": ""
+  },
+  {
+   "id": "valentine_haihuoc_7",
+   "content": "Em bị triệu đến tòa án vì đã bước vào ước mơ của anh, đánh cắp trái tim anh, và cướp đi mọi cảm xúc trong anh. Em bị kết án ở bên anh mãi mãi. Em có gì biện hộ không?",
+   "translate": ""
+  },
+  {
+   "id": "valentine_haihuoc_8",
+   "content": "Châu Âu ngủ, Châu Á cũng đang ngủ, Châu Mỹ đang tối dần, chỉ có đôi mắt đẹp nhất trên thế giới này của em đang đọc tin nhắn của anh. Chúc em Valentine ngọt ngào và ấm áp!",
+   "translate": ""
+  },
+  {
+   "id": "valentine_haihuoc_9",
+   "content": "Anh không biết con đường dẫn đến địa ngục nhưng có một con đường cực kỳ ngắn đưa em đến thiên đường, thiên đường đó chính là em. Chỉ bên em anh mới cảm thấy hạnh phúc và ấm áp. Hãy để cho anh được sống trong thiên đường của em nhé!",
+   "translate": ""
+  },
+  {
+   "id": "valentine_haihuoc_10",
+   "content": "Em ơi, khi em đọc tin nhắn này, e nợ anh 1 cuộc hẹn. Xoá tin nhắn này, e nợ a 1 cuộc tình. Lưu tin nhắn này là e nợ anh 1 nụ hôn. Trả lời anh, em nợ anh tất cả. Còn nếu em không trả lời thì em…. đã yêu anh. Hihi, chúc em Valentine vui vẻ!",
+   "translate": ""
+  },
+  {
+   "id": "valentine_haihuoc_11",
+   "content": "Em à một năm đã qua, chúng ta đã vượt qua nhiều trở ngại, năm qua a đã làm em buồn nhiều rồi a xin lỗi và dù thế nào anh cũng cám ơn em đã luôn bên anh và tin tưởng anh. Cầu chúc em yêu của anh luôn hanh phúc vui vẻ và anh sẽ chăm sóc em nhiều hơn và chúng ta luôn bên nhau em nhé!",
+   "translate": ""
+  },
+  {
+   "id": "valentine_haihuoc_12",
+   "content": "Em yêu à. Anh muốn gửi cho em những lời chúc yêu thương nhất, ngọt ngào nhất vào ngày Valentine. Đơn giản chỉ vì anh muốn nói với em, anh mãi yêu em.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_haihuoc_13",
+   "content": "Hẳn là em đã mỏi nhừ, vì em chạy trong tâm trí anh suốt cả ngày. I love you! Be my Valentine.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_haihuoc_14",
+   "content": "Thuê bao quý khách đang dùng hiện đang bị thuê bao xinh đẹp khác để ý. Đề nghị quý khách chú ý. Thuê bao xinh đẹp này sẽ mãi không bao giờ buông tha cho thuê bao của quý khách đâu. Bời chủ thuê bao xinh đẹp đó đã bị thuê bao quý khách cướp mất trái tim nên không thể sống nếu không có thuê bao quý khách được. Em yêu anh! Chúc anh Valentine vui vẻ, hạnh phúc!",
+   "translate": ""
+  },
+  {
+   "id": "valentine_haihuoc_15",
+   "content": "Em ngọt ngào hơn những viên kẹo và đáng yêu hơn những đóa hồng. Anh chúc em có một ngày lễ tình nhân ngọt ngào, hãy là Valentine ngọt ngào của anh nhé.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_haihuoc_16",
+   "content": "Được yêu em đối với anh mỗi ngày như là hơi thở như là nhịp đập con tim em có biết không. Anh chúc em luôn tràn đầy hạnh phúc ngọt ngào, hãy gìn giữ và nuôi dưỡng tình yêu của chúng mình em nhé.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_haihuoc_17",
+   "content": "Hôm nay anh nhờ bưu điện gửi tới tặng em một món quà. Đó là nỗi nhớ của anh dành cho em lúc này. Nhưng rất tiếc họ từ chối. Họ bảo vì nó quá lớn. Anh phải làm sao đây? Will you be my Valentine?",
+   "translate": ""
+  },
+  {
+   "id": "valentine_haihuoc_18",
+   "content": "Cảm ơn cuộc đời vì đã cho em được gặp anh. Gửi tặng anh những điều ngọt ngào nhất nhân ngày lễ tình nhân. Em yêu anh!",
+   "translate": ""
+  },
+  {
+   "id": "valentine_haihuoc_19",
+   "content": "Anh sẽ luôn lắm tay em ở chỗ đông người, không phải vì sợ em lạc mất, cũng không phải sợ em chạy theo người khác, vì trái tim em đang bị anh cất giữ rồi. Anh chỉ muốn mọi người hiểu ra một điều đơn giản nhất rằng \"em là hoa đã có chủ\".",
+   "translate": ""
+  },
+  {
+   "id": "valentine_haihuoc_20",
+   "content": "Anh có một trái tim và nó là sự thật. Nhưng bây giờ, trái tim đó dã đi theo em rồi. Em giỏi thật đấy, chưa từng có ai làm được điều ấy như em đâu. Hãy quan tâm đến nó như anh đã từng làm em nhé. Bởi vì anh không có nó nữa rồi. Và em đã có cả 2.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_haihuoc_21",
+   "content": "Anh à, chỉ một ngày thiếu vắng giọng nói của anh em đã như người lạc mất linh hồn. Vì anh chính là linh hồn của em đó, anh có biết không? Hãy luôn bên cạnh em nhé người dấu yêu.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_haihuoc_22",
+   "content": "Hãy cùng cố gắng nhé Gấu yêu, chúng mình quyết tâm đỗ đại học yêu thích nhé. Tớ yêu cậu nhiều cám ơn cậu đã động lực thêm sức mạnh trong học tập cũng như trong cuộc sống.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_haihuoc_23",
+   "content": "Đã có đứa nào trong cái đám bạn lẻo mép của mình mách với em rằng anh yêu em nhiều lắm lắm chưa? Chưa có hả? Thôi để anh nói nhé \"I love U\". Happy Valentine's Day!",
+   "translate": ""
+  },
+  {
+   "id": "valentine_haihuoc_24",
+   "content": "Hãy giữ mãi nụ cười trên môi nhé em! Em có biết là, em rất dễ thương khi em cười không? Anh nhìn chỉ muốn Cắn trên đôi môi đó hằng ngày để khắc sâu thêm tính yêu của anh dành cho em. Hãy cho anh cơ hội được chăm sóc nụ cười đó nha em.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_haihuoc_25",
+   "content": "Với thế giới em chỉ là một ai đó. Nhưng với anh, em lại là cả thế giới. Anh biết, mình không giàu để đảm bảo một cuộc sống đầy đủ cho em. Anh biết, mình không ga lăng để tự hào về anh. Anh biết, mình không đẹp trai để em hãnh diện với mọi người. Nhưng anh lại có một tình yêu chân thành dành cho em với tất cả tấm lòng.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_haihuoc_26",
+   "content": "Anh xin lỗi anh, hôm nay đi khám bệnh, bác sĩ bảo anh phải hạn chế với những gì ngọt ngào…mà em lại vô cùng ngọt ngào. Anh đang liều mạng với tin nhắn này đấy. Nhưng bởi vì anh thích sự ngọt ngào của em mất rồi. Chúc em Valentine vui vẻ!",
+   "translate": ""
+  },
+  {
+   "id": "valentine_haihuoc_27",
+   "content": "Thầy Toán dạy anh 1 giờ = 60 phút, 1 phút = 60 giây, nhưng thầy chẳng nói với anh 1 giây không có em lại bằng tới 100 năm. Nhớ em!",
+   "translate": ""
+  },
+  {
+   "id": "valentine_haihuoc_28",
+   "content": "Nếu ai đó hỏi anh cuộc sống tươi đẹp nghĩa là gì. Anh sẽ dựa vào vai em, ôm em thật chặt và nói: Như thế này đó!",
+   "translate": ""
+  },
+  {
+   "id": "valentine_haihuoc_29",
+   "content": "Em xin lỗi anh, hôm nay em bị hạn chế nhắn tin cho anh rồi... Hôm nay khám bệnh, bác sĩ bảo em phải hạn chế với những gì ngọt ngọt… mà anh lại ngọt ngào số một. Em đang liều mạng với tin nhắn này đấy. Happy Valentine's Day.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_haihuoc_30",
+   "content": "Tặng em ba bông hồng. Một bông tượng trưng cho tình cảm của anh. Một bông tượng trưng cho hơi thở của anh. Một bông tượng trưng cho suy nghĩ của anh. Tặng em 3 bông hồng này, anh đã tặng em cuộc đời anh!",
+   "translate": ""
+  },
+  {
+   "id": "valentine_haihuoc_31",
+   "content": "Anh muốn nói với em là anh ghét em lắm, vì em lúc nào cũng ở trong đầu anh, làm anh chẳng có tâm trí làm việc gì cả. Hãy cùng anh đón Valentine hạnh phúc em nhé!",
+   "translate": ""
+  },
+  {
+   "id": "valentine_haihuoc_32",
+   "content": "Từ khi anh đến bên đời là từ khi em cảm thấy mình là người hạnh phúc, may mắn nhất thế gian này. Cảm ơn cuộc đời đã cho em được gặp anh và được yêu anh. Chúng mình sẽ cùng nhau thổi bùng ngọn lửa tình yêu này anh yêu nhé.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_haihuoc_33",
+   "content": "Nếu giọt nước là những nụ hôn, anh sẽ trao em biển cả. Nếu là những ôm ấp vuốt ve anh sẽ tặng em cả rừng cây. Nếu đêm dài là tình yêu anh gửi em cả trởi sao lấp lánh. Nhưng anh không có quyền tặng em trái tim vì nơi đó đã thuộc về em. Chúc em năm mới tình yêu của anh xOXOxOXO",
+   "translate": ""
+  },
+  {
+   "id": "valentine_haihuoc_34",
+   "content": "Mỗi lần anh hành động theo trái tim mình, nó dẫn thẳng tới em. Em thấy đó… trái tim anh chỉ muốn gần trái tim em thôi.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_haihuoc_35",
+   "content": "Đây là Valentine đầu tiên của anh và của chúng ta. Cái nụ hôn đầu tiên ôi sao thật ngọt ngào anh không thể quên được em à, Cám ơn tính yêu mà em dành cho anh. Yêu em nhiều lắm lắm cún con à.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_haihuoc_36",
+   "content": "Valentine này chúc bạn có người tặng hoa, còn không thì tự mua cũng được, hoa nào chẳng thơm.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_haihuoc_37",
+   "content": "Chúc mừng Valentine! Chúc bạn hôm nay không phải xem ảnh cặp đôi trên mạng xã hội.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_haihuoc_38",
+   "content": "Valentine vui vẻ! Chúc các cặp đôi đừng cãi nhau đúng hôm nay, để dành mai cãi.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_haihuoc_39",
+   "content": "Chúc bạn một Valentine ngọt như sô cô la nhưng đừng ngọt quá kẻo tiểu đường.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_haihuoc_40",
+   "content": "Valentine này chúc bạn được tặng quà đúng ý, chứ không phải nồi cơm điện.",
+   "translate": ""
+  }
+ ]
+}

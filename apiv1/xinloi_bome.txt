@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "xinloi_bome_1",
+   "content": "Con xin lỗi bố mẹ. Con biết con đã làm bố mẹ buồn lòng.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_bome_2",
+   "content": "Xin lỗi bố mẹ vì con đã không nghe lời và khiến bố mẹ phải lo lắng.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_bome_3",
+   "content": "Con xin lỗi vì đã nói những lời khiến bố mẹ tổn thương.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_bome_4",
+   "content": "Xin lỗi bố mẹ, con đã suy nghĩ lại và nhận ra mình sai.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_bome_5",
+   "content": "Con xin lỗi vì đã không hiểu được tấm lòng của bố mẹ.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_bome_6",
+   "content": "Xin lỗi bố mẹ vì con đã để bố mẹ phải thất vọng.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_bome_7",
+   "content": "Con xin lỗi. Con biết bố mẹ đã hy sinh rất nhiều cho con.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_bome_8",
+   "content": "Xin lỗi bố mẹ vì con đã vô tâm và ít quan tâm đến bố mẹ.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_bome_9",
+   "content": "Con xin lỗi vì đã không gọi điện về nhà thường xuyên.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_bome_10",
+   "content": "Xin lỗi bố mẹ, con đã quá nóng nảy và cư xử không phải.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_bome_11",
+   "content": "Con xin lỗi vì đã khiến bố mẹ phải lo nghĩ về con.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_bome_12",
+   "content": "Xin lỗi bố mẹ vì con chưa làm được điều bố mẹ mong đợi.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_bome_13",
+   "content": "Con xin lỗi. Con sẽ cố gắng để bố mẹ không phải buồn vì con nữa.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_bome_14",
+   "content": "Xin lỗi bố mẹ vì con đã cãi lời và làm bố mẹ phiền lòng.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_bome_15",
+   "content": "Con xin lỗi vì đã không trân trọng những gì bố mẹ dành cho con.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_bome_16",
+   "content": "Xin lỗi bố mẹ, con biết con cần trưởng thành hơn.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_bome_17",
+   "content": "Con xin lỗi vì đã để bố mẹ phải nhắc đi nhắc lại một chuyện.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_bome_18",
+   "content": "Xin lỗi bố mẹ vì con đã không về thăm nhà như đã hứa.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_bome_19",
+   "content": "Con xin lỗi. Mong bố mẹ tha lỗi cho con lần này.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_bome_20",
+   "content": "Xin lỗi bố mẹ vì con đã làm điều khiến bố mẹ xấu hổ.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_bome_21",
+   "content": "Con xin lỗi vì đã không lắng nghe lời khuyên của bố mẹ.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_bome_22",
+   "content": "Xin lỗi bố mẹ, con đã sai và con sẵn sàng sửa.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_bome_23",
+   "content": "Con xin lỗi vì đã để bố mẹ phải vất vả vì con.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_bome_24",
+   "content": "Xin lỗi bố mẹ vì con đã ích kỷ chỉ nghĩ đến bản thân.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_bome_25",
+   "content": "Con xin lỗi. Con biết tình thương của bố mẹ là vô điều kiện, và con đã không xứng đáng.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_bome_26",
+   "content": "Xin lỗi bố mẹ vì con đã giấu bố mẹ chuyện quan trọng.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_bome_27",
+   "content": "Con xin lỗi vì đã không chăm sóc bố mẹ nhiều hơn.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_bome_28",
+   "content": "Xin lỗi bố mẹ, con sẽ cố gắng để trở thành người con tốt hơn.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_bome_29",
+   "content": "Con xin lỗi vì đã để bố mẹ phải buồn trong suốt thời gian qua.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_bome_30",
+   "content": "Xin lỗi bố mẹ vì con đã không nói lời xin lỗi sớm hơn.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_bome_31",
+   "content": "Con xin lỗi. Con thương bố mẹ nhiều lắm, chỉ là con không biết cách thể hiện.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_bome_32",
+   "content": "Xin lỗi bố mẹ vì con đã làm điều trái với mong muốn của bố mẹ.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_bome_33",
+   "content": "Con xin lỗi vì đã khiến bố mẹ phải mất ngủ vì con.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_bome_34",
+   "content": "Xin lỗi bố mẹ, con biết con đã làm sai và con rất hối hận.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_bome_35",
+   "content": "Con xin lỗi vì đã không ở bên bố mẹ khi bố mẹ cần.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_bome_36",
+   "content": "Xin lỗi bố mẹ vì con đã quên mất những điều quan trọng với gia đình.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_bome_37",
+   "content": "Con xin lỗi. Mong bố mẹ giữ gìn sức khỏe và đừng lo cho con nữa.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_bome_38",
+   "content": "Xin lỗi bố mẹ vì con đã cư xử không đúng mực.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_bome_39",
+   "content": "Con xin lỗi vì đã để bố mẹ phải chờ đợi quá lâu.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_bome_40",
+   "content": "Xin lỗi bố mẹ, từ nay con sẽ ngoan hơn và biết nghĩ hơn.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_bome_41",
+   "content": "Con xin lỗi vì đã không biết ơn đủ nhiều những gì bố mẹ đã làm.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_bome_42",
+   "content": "Xin lỗi bố mẹ thật lòng. Con yêu bố mẹ.",
+   "translate": ""
+  }
+ ]
+}

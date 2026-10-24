@@ -1,0 +1,204 @@
+{
+ "result": [
+  {
+   "id": "nammoi_tonghop_1",
+   "content": "Chúc mừng năm mới! Chúc bạn một năm tràn đầy sức khỏe, niềm vui và thành công.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tonghop_2",
+   "content": "Happy New Year! Chúc bạn khởi đầu năm mới thật suôn sẻ và kết thúc thật rực rỡ.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tonghop_3",
+   "content": "Năm mới đến rồi, chúc bạn bỏ lại mọi muộn phiền năm cũ và đón nhận thật nhiều điều tốt lành.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tonghop_4",
+   "content": "Chúc mừng năm mới! Mong mọi dự định của bạn trong năm nay đều thành hiện thực.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tonghop_5",
+   "content": "Chúc bạn một năm mới an khang, thịnh vượng và vạn sự như ý.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tonghop_6",
+   "content": "Happy New Year! Chúc bạn một năm mới nhiều sức khỏe, nhiều may mắn và nhiều tiếng cười.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tonghop_7",
+   "content": "Năm mới, chúc bạn can đảm bắt đầu những điều mình đã trì hoãn quá lâu.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tonghop_8",
+   "content": "Chúc bạn năm mới công việc hanh thông, tình cảm viên mãn, sức khỏe dồi dào.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tonghop_9",
+   "content": "Happy New Year! Mong năm nay sẽ là năm tuyệt vời nhất của bạn.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tonghop_10",
+   "content": "Năm mới, chúc bạn gặp nhiều cơ hội tốt và đủ bản lĩnh để nắm lấy chúng.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tonghop_11",
+   "content": "Chúc mừng năm mới! Chúc bạn một năm ít lo toan, nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tonghop_12",
+   "content": "Chúc bạn một năm mới rực rỡ, đáng nhớ và thật nhiều trải nghiệm đẹp.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tonghop_13",
+   "content": "Happy New Year! Chúc bạn năm nay đạt được điều mà năm ngoái còn đang ấp ủ.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tonghop_14",
+   "content": "Năm mới, chúc bạn luôn khỏe mạnh để đi thật xa và sống thật đã.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tonghop_15",
+   "content": "Chúc mừng năm mới! Mong mỗi ngày của bạn trong năm nay đều có lý do để mỉm cười.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tonghop_16",
+   "content": "Chúc bạn một năm mới thuận buồm xuôi gió, mọi khó khăn đều hóa thuận lợi.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tonghop_17",
+   "content": "Năm mới, chúc bạn sống chậm lại một chút và hạnh phúc nhiều hơn một chút.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tonghop_18",
+   "content": "Chúc mừng năm mới! Chúc bạn tài lộc dồi dào, sức khỏe bền bỉ, tinh thần phơi phới.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tonghop_19",
+   "content": "Chúc bạn một năm mới mà mọi nỗ lực đều được đền đáp xứng đáng.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tonghop_20",
+   "content": "Năm mới, chúc bạn gặp toàn điều lành và tránh xa mọi muộn phiền.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tonghop_21",
+   "content": "Chúc bạn năm mới mọi mục tiêu đều cán đích và mọi mong ước đều toại.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tonghop_22",
+   "content": "Năm mới, chúc bạn luôn là phiên bản tốt nhất của chính mình.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tonghop_23",
+   "content": "Chúc mừng năm mới! Chúc bạn thật nhiều sức khỏe, bởi có sức khỏe là có tất cả.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tonghop_24",
+   "content": "Chúc bạn một năm mới mở ra những cánh cửa mà bạn chưa từng nghĩ tới.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tonghop_25",
+   "content": "Năm mới, chúc bạn dám mơ lớn và đủ kiên trì để biến giấc mơ thành thật.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tonghop_26",
+   "content": "Chúc mừng năm mới! Chúc bạn một năm mới bình an bên những người bạn yêu quý.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tonghop_27",
+   "content": "Chúc bạn năm mới gặp nhiều quý nhân, làm đâu trúng đó, đi đâu cũng thuận.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tonghop_28",
+   "content": "Năm mới, chúc bạn thật nhiều niềm vui và thật ít tiếc nuối.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tonghop_29",
+   "content": "Chúc mừng năm mới! Chúc bạn một năm mới khởi sắc trong mọi mặt của cuộc sống.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tonghop_30",
+   "content": "Chúc bạn một năm mới đầy ắp tiếng cười và những khoảnh khắc đáng nhớ.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tonghop_31",
+   "content": "Năm mới, chúc bạn luôn giữ được sự tử tế và lạc quan đáng quý của mình.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tonghop_32",
+   "content": "Chúc mừng năm mới! Chúc bạn một năm mới thật đáng sống và thật đáng nhớ.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tonghop_33",
+   "content": "Chúc bạn năm mới tâm an, trí sáng và đời thật vui.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tonghop_34",
+   "content": "Chúc mừng năm mới! Chúc bạn một năm gặt hái thật nhiều thành quả đáng tự hào.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tonghop_35",
+   "content": "Happy New Year! Chúc bạn một năm mới nhiều sức khỏe và nhiều điều may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tonghop_36",
+   "content": "Năm mới, chúc bạn bớt lo lắng và tận hưởng cuộc sống nhiều hơn.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tonghop_37",
+   "content": "Chúc mừng năm mới! Chúc bạn một năm mà mọi cố gắng đều có kết quả.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tonghop_38",
+   "content": "Chúc bạn năm mới thêm bản lĩnh, thêm may mắn và thêm hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tonghop_39",
+   "content": "Happy New Year! Chúc bạn một năm sống thật trọn vẹn và thật ý nghĩa.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tonghop_40",
+   "content": "Năm mới, chúc bạn giữ được những người tốt bên cạnh và bỏ lại những điều không đáng.",
+   "translate": ""
+  }
+ ]
+}

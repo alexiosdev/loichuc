@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "2011_chunhiem_1",
+   "content": "Nhân ngày 20/11, tập thể lớp kính chúc thầy/cô chủ nhiệm luôn mạnh khỏe, hạnh phúc và vui vẻ.",
+   "translate": ""
+  },
+  {
+   "id": "2011_chunhiem_2",
+   "content": "Chúc mừng ngày Nhà giáo Việt Nam! Chúng em kính chúc cô chủ nhiệm một ngày thật ý nghĩa.",
+   "translate": ""
+  },
+  {
+   "id": "2011_chunhiem_3",
+   "content": "Kính chúc thầy chủ nhiệm ngày 20/11 tràn đầy niềm vui và những lời tri ân chân thành.",
+   "translate": ""
+  },
+  {
+   "id": "2011_chunhiem_4",
+   "content": "Nhân ngày 20/11, chúng em xin cảm ơn cô chủ nhiệm vì đã chăm lo cho cả lớp suốt thời gian qua.",
+   "translate": ""
+  },
+  {
+   "id": "2011_chunhiem_5",
+   "content": "Chúc mừng 20/11! Chúng em kính chúc thầy chủ nhiệm sức khỏe dồi dào và gia đình hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "2011_chunhiem_6",
+   "content": "Kính chúc cô chủ nhiệm một ngày Nhà giáo Việt Nam thật ấm áp bên học trò và gia đình.",
+   "translate": ""
+  },
+  {
+   "id": "2011_chunhiem_7",
+   "content": "Nhân ngày 20/11, chúng em chúc thầy/cô chủ nhiệm luôn kiên nhẫn và bao dung như vẫn vậy.",
+   "translate": ""
+  },
+  {
+   "id": "2011_chunhiem_8",
+   "content": "Chúc mừng ngày 20/11! Cảm ơn cô đã không chỉ là giáo viên mà còn như người mẹ thứ hai của lớp.",
+   "translate": ""
+  },
+  {
+   "id": "2011_chunhiem_9",
+   "content": "Kính chúc thầy chủ nhiệm ngày 20/11 vạn sự như ý và thật nhiều may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "2011_chunhiem_10",
+   "content": "Nhân ngày Nhà giáo Việt Nam, tập thể lớp kính chúc cô chủ nhiệm an khang, thịnh vượng.",
+   "translate": ""
+  },
+  {
+   "id": "2011_chunhiem_11",
+   "content": "Chúc mừng 20/11! Chúng em chúc thầy chủ nhiệm mãi khỏe để còn đồng hành cùng lớp mình.",
+   "translate": ""
+  },
+  {
+   "id": "2011_chunhiem_12",
+   "content": "Kính chúc cô chủ nhiệm một ngày 20/11 trọn vẹn và một năm thật nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "2011_chunhiem_13",
+   "content": "Nhân ngày 20/11, chúng em chúc thầy/cô bớt phiền lòng vì lớp mình và nhiều lý do để tự hào hơn.",
+   "translate": ""
+  },
+  {
+   "id": "2011_chunhiem_14",
+   "content": "Chúc mừng ngày Nhà giáo Việt Nam! Chúng em kính chúc cô chủ nhiệm bình an và viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "2011_chunhiem_15",
+   "content": "Kính chúc thầy chủ nhiệm ngày 20/11 nhận được thật nhiều yêu thương từ các thế hệ học trò.",
+   "translate": ""
+  },
+  {
+   "id": "2011_chunhiem_16",
+   "content": "Nhân ngày 20/11, chúng em chúc cô sức khỏe dồi dào và tâm hồn luôn thư thái.",
+   "translate": ""
+  },
+  {
+   "id": "2011_chunhiem_17",
+   "content": "Chúc mừng 20/11! Tập thể lớp kính chúc thầy chủ nhiệm mọi điều tốt đẹp nhất.",
+   "translate": ""
+  },
+  {
+   "id": "2011_chunhiem_18",
+   "content": "Kính chúc cô chủ nhiệm một ngày Nhà giáo Việt Nam thật vui và đáng nhớ.",
+   "translate": ""
+  },
+  {
+   "id": "2011_chunhiem_19",
+   "content": "Nhân ngày 20/11, chúng em xin chúc thầy/cô gia đình thuận hòa, công việc hanh thông.",
+   "translate": ""
+  },
+  {
+   "id": "2011_chunhiem_20",
+   "content": "Chúc mừng ngày 20/11! Chúng em biết ơn cô vì đã luôn hiểu và bênh vực lớp mình.",
+   "translate": ""
+  },
+  {
+   "id": "2011_chunhiem_21",
+   "content": "Kính chúc thầy chủ nhiệm ngày 20/11 an lành, sung túc và ngập tràn niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "2011_chunhiem_22",
+   "content": "Nhân ngày Nhà giáo Việt Nam, chúng em chúc cô chủ nhiệm luôn mạnh khỏe và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "2011_chunhiem_23",
+   "content": "Chúc mừng 20/11! Chúng em kính chúc thầy mọi dự định đều thành và mọi mong ước đều toại.",
+   "translate": ""
+  },
+  {
+   "id": "2011_chunhiem_24",
+   "content": "Kính chúc cô chủ nhiệm một ngày 20/11 thật đặc biệt, bởi cô rất đặc biệt với lớp mình.",
+   "translate": ""
+  },
+  {
+   "id": "2011_chunhiem_25",
+   "content": "Nhân ngày 20/11, tập thể lớp chúc thầy/cô thân tâm an lạc và phúc lộc đầy nhà.",
+   "translate": ""
+  },
+  {
+   "id": "2011_chunhiem_26",
+   "content": "Chúc mừng ngày Nhà giáo Việt Nam! Chúng em chúc cô luôn được học trò kính trọng và yêu quý.",
+   "translate": ""
+  },
+  {
+   "id": "2011_chunhiem_27",
+   "content": "Kính chúc thầy chủ nhiệm ngày 20/11 thật nhiều sức khỏe và thật nhiều tiếng cười.",
+   "translate": ""
+  },
+  {
+   "id": "2011_chunhiem_28",
+   "content": "Nhân ngày 20/11, chúng em kính chúc cô sự nghiệp vẻ vang và cuộc sống viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "2011_chunhiem_29",
+   "content": "Chúc mừng 20/11! Chúng em chúc thầy mãi là người thầy chủ nhiệm mà cả lớp luôn nhớ.",
+   "translate": ""
+  },
+  {
+   "id": "2011_chunhiem_30",
+   "content": "Kính chúc cô chủ nhiệm một ngày Nhà giáo Việt Nam thật trọn vẹn và ý nghĩa.",
+   "translate": ""
+  },
+  {
+   "id": "2011_chunhiem_31",
+   "content": "Nhân ngày 20/11, chúng em chúc thầy/cô luôn khỏe mạnh để tiếp tục dìu dắt lớp mình.",
+   "translate": ""
+  },
+  {
+   "id": "2011_chunhiem_32",
+   "content": "Chúc mừng ngày 20/11! Chúng em kính chúc cô an khang, hạnh phúc và thật nhiều may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "2011_chunhiem_33",
+   "content": "Kính chúc thầy chủ nhiệm ngày 20/11 tràn ngập hoa tươi và lời chúc tốt đẹp.",
+   "translate": ""
+  },
+  {
+   "id": "2011_chunhiem_34",
+   "content": "Nhân ngày Nhà giáo Việt Nam, chúng em chúc cô luôn giữ được sự tận tâm đáng quý.",
+   "translate": ""
+  },
+  {
+   "id": "2011_chunhiem_35",
+   "content": "Chúc mừng 20/11! Tập thể lớp kính chúc thầy sức khỏe như ý và gia đình êm ấm.",
+   "translate": ""
+  },
+  {
+   "id": "2011_chunhiem_36",
+   "content": "Kính chúc cô chủ nhiệm một ngày 20/11 nhẹ nhàng, thảnh thơi và thật nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "2011_chunhiem_37",
+   "content": "Nhân ngày 20/11, chúng em chúc thầy/cô mãi khỏe, mãi vui và mãi là tấm gương cho chúng em.",
+   "translate": ""
+  },
+  {
+   "id": "2011_chunhiem_38",
+   "content": "Chúc mừng ngày Nhà giáo Việt Nam! Cảm ơn cô vì những buổi sinh hoạt lớp mà chúng em sẽ luôn nhớ.",
+   "translate": ""
+  },
+  {
+   "id": "2011_chunhiem_39",
+   "content": "Kính chúc thầy chủ nhiệm ngày 20/11 bình an, viên mãn và tràn đầy hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "2011_chunhiem_40",
+   "content": "Nhân ngày 20/11, chúng em kính chúc cô vạn sự cát tường và mọi điều hanh thông.",
+   "translate": ""
+  },
+  {
+   "id": "2011_chunhiem_41",
+   "content": "Chúc mừng 20/11! Chúng em chúc thầy/cô một ngày thật vui và một đời thật an yên.",
+   "translate": ""
+  },
+  {
+   "id": "2011_chunhiem_42",
+   "content": "Kính chúc cô chủ nhiệm ngày Nhà giáo Việt Nam thật nhiều sức khỏe, niềm vui và thành công.",
+   "translate": ""
+  }
+ ]
+}

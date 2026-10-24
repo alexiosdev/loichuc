@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "sinhnhat_anhchiem_1",
+   "content": "Chúc mừng sinh nhật anh/chị! Em chúc anh chị một tuổi mới sức khỏe dồi dào, công việc thuận lợi, gia đình hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_anhchiem_2",
+   "content": "Sinh nhật chị vui vẻ! Em chúc chị mãi xinh đẹp, mãi rạng rỡ và luôn được yêu thương.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_anhchiem_3",
+   "content": "Chúc mừng sinh nhật anh! Em chúc anh tuổi mới thành công rực rỡ và luôn là niềm tự hào của cả nhà.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_anhchiem_4",
+   "content": "Happy birthday chị! Chúc chị tuổi mới an yên, thuận lợi và ngập tràn niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_anhchiem_5",
+   "content": "Chúc mừng sinh nhật em trai/em gái! Anh chị chúc em tuổi mới khỏe mạnh, vui vẻ và thật nhiều may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_anhchiem_6",
+   "content": "Sinh nhật anh, em chúc anh tuổi mới vững vàng, bản lĩnh và gặt hái thật nhiều thành quả.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_anhchiem_7",
+   "content": "Chúc mừng sinh nhật chị! Cảm ơn chị đã luôn che chở cho em, chúc chị tuổi mới thật hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_anhchiem_8",
+   "content": "Happy birthday anh! Em chúc anh tuổi mới sự nghiệp thăng hoa, tình duyên viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_anhchiem_9",
+   "content": "Chúc mừng sinh nhật em! Chúc em tuổi mới trưởng thành hơn, tự tin hơn và luôn được yêu thương.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_anhchiem_10",
+   "content": "Sinh nhật chị vui vẻ nhé! Em chúc chị tuổi mới bớt lo toan, nhiều thời gian cho bản thân.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_anhchiem_11",
+   "content": "Chúc mừng sinh nhật anh trai! Em chúc anh tuổi mới khỏe mạnh, bình an và luôn gặp may.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_anhchiem_12",
+   "content": "Happy birthday em gái! Chị chúc em tuổi mới xinh đẹp, giỏi giang và thật nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_anhchiem_13",
+   "content": "Chúc mừng sinh nhật chị! Em chúc chị tuổi mới mọi điều hanh thông, mọi mong ước đều thành.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_anhchiem_14",
+   "content": "Sinh nhật anh vui vẻ! Chúc anh tuổi mới sức khỏe bền bỉ, tinh thần phơi phới, công việc suôn sẻ.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_anhchiem_15",
+   "content": "Chúc mừng sinh nhật em trai! Anh chúc em tuổi mới mạnh mẽ, chín chắn và thành công với lựa chọn của mình.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_anhchiem_16",
+   "content": "Happy birthday chị! Em chúc chị tuổi mới thật nhiều sức khỏe và thật nhiều tiếng cười.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_anhchiem_17",
+   "content": "Chúc mừng sinh nhật anh! Chúc anh tuổi mới gặp nhiều quý nhân, nắm nhiều cơ hội tốt.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_anhchiem_18",
+   "content": "Sinh nhật em gái, chị chúc em tuổi mới luôn vui, luôn tự tin và luôn là chính mình.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_anhchiem_19",
+   "content": "Chúc mừng sinh nhật chị! Em chúc chị một tuổi mới viên mãn cả trong công việc lẫn gia đình.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_anhchiem_20",
+   "content": "Happy birthday anh! Chúc anh tuổi mới an khang, thịnh vượng, vạn sự như ý.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_anhchiem_21",
+   "content": "Chúc mừng sinh nhật em! Chúc em tuổi mới học hành tấn tới, công việc hanh thông, cuộc sống vui vẻ.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_anhchiem_22",
+   "content": "Sinh nhật chị, em chúc chị mãi trẻ trung, mãi khỏe mạnh và mãi hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_anhchiem_23",
+   "content": "Chúc mừng sinh nhật anh trai! Em chúc anh tuổi mới thật nhiều thành công và thật nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_anhchiem_24",
+   "content": "Happy birthday em! Anh chị chúc em tuổi mới bình an, khỏe mạnh và gặp toàn điều tốt lành.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_anhchiem_25",
+   "content": "Chúc mừng sinh nhật chị! Chúc chị tuổi mới nhẹ nhàng, thong dong và được cưng chiều thật nhiều.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_anhchiem_26",
+   "content": "Sinh nhật anh vui vẻ nhé! Em chúc anh tuổi mới sức khỏe như ý, sự nghiệp như mơ.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_anhchiem_27",
+   "content": "Chúc mừng sinh nhật em gái! Chị chúc em tuổi mới xinh hơn, giỏi hơn và hạnh phúc hơn.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_anhchiem_28",
+   "content": "Happy birthday chị! Em chúc chị tuổi mới luôn vững vàng và luôn có người đồng hành bên cạnh.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_anhchiem_29",
+   "content": "Chúc mừng sinh nhật anh! Em chúc anh tuổi mới bớt bận rộn, nhiều thời gian nghỉ ngơi hơn.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_anhchiem_30",
+   "content": "Sinh nhật em trai, chị chúc em tuổi mới khỏe mạnh, chăm chỉ và đạt được điều em muốn.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_anhchiem_31",
+   "content": "Chúc mừng sinh nhật chị! Chúc chị tuổi mới ngập tràn yêu thương từ gia đình và bạn bè.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_anhchiem_32",
+   "content": "Happy birthday anh! Chúc anh tuổi mới vạn sự hanh thông, tài lộc dồi dào, gia đạo bình an.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_anhchiem_33",
+   "content": "Chúc mừng sinh nhật em! Chúc em tuổi mới dám mơ lớn và đủ kiên trì để biến giấc mơ thành thật.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_anhchiem_34",
+   "content": "Sinh nhật chị vui vẻ! Em chúc chị tuổi mới an nhiên, tự tại và luôn mỉm cười.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_anhchiem_35",
+   "content": "Chúc mừng sinh nhật anh trai! Chúc anh tuổi mới mạnh khỏe để còn là chỗ dựa cho cả nhà.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_anhchiem_36",
+   "content": "Happy birthday em gái! Chúc em tuổi mới rực rỡ, tự do và hạnh phúc theo cách em muốn.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_anhchiem_37",
+   "content": "Chúc mừng sinh nhật chị! Em chúc chị tuổi mới mọi vất vả đều được đền đáp xứng đáng.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_anhchiem_38",
+   "content": "Sinh nhật anh, em chúc anh tuổi mới thật nhiều may mắn và thật ít trắc trở.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_anhchiem_39",
+   "content": "Chúc mừng sinh nhật em! Chúc em tuổi mới sống thật vui, thật khỏe và thật ý nghĩa.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_anhchiem_40",
+   "content": "Happy birthday chị! Chúc chị một tuổi mới thật đẹp, đúng như chị vốn luôn đẹp.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_anhchiem_41",
+   "content": "Chúc mừng sinh nhật anh/chị! Em chúc anh chị tuổi mới bình an, sung túc và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_anhchiem_42",
+   "content": "Sinh nhật vui vẻ nhé! Dù có lớn thế nào thì anh chị em mình vẫn cứ thân như vậy.",
+   "translate": ""
+  }
+ ]
+}

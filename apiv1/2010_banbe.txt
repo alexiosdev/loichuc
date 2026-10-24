@@ -1,0 +1,204 @@
+{
+ "result": [
+  {
+   "id": "2010_banbe_1",
+   "content": "Gửi tới lời chúc thân thương nhất đến cô bạn/đồng nghiệp luôn tươi vui, hạnh phúc nhé. Hy vọng bạn sẽ đạt được mọi dự định trong tương lai.",
+   "translate": ""
+  },
+  {
+   "id": "2010_banbe_2",
+   "content": "Chúc bạn thân của mình sẽ nhận được thật nhiều quà vào ngày hôm nay. Sớm có người yêu để mình còn được ăn cỗ nhé!!",
+   "translate": ""
+  },
+  {
+   "id": "2010_banbe_3",
+   "content": "Thay mặt 2 mì chính cánh của lớp, chúc các bạn nữ luôn xinh đẹp, học giỏi, thành công và đặc biệt luôn vui cười, rạng rỡ nhé!",
+   "translate": ""
+  },
+  {
+   "id": "2010_banbe_4",
+   "content": "Nhân dịp 20/10, thay mặt anh em trong công ty, chúc chị em phái nữ luôn xinh đẹp, làm việc thì hết sức, vui chơi thì hết mình.",
+   "translate": ""
+  },
+  {
+   "id": "2010_banbe_5",
+   "content": "Chúc phái đẹp của công ty có một ngày 20/10 thật ý nghĩa, tràn ngập hạnh phúc. Đặc biệt là luôn rạng ngời, xinh đẹp trong mắt một nửa còn lại.",
+   "translate": ""
+  },
+  {
+   "id": "2010_banbe_6",
+   "content": "Chúc cô bạn thân của tôi ngày 20/10 nhận được nhiều hoa, nhiều quà, nhiều lời chúc nhé. Ai có chồng thì luôn tươi vui, hạnh phúc. Ai chưa có người yêu thì sớm có người yêu nha!",
+   "translate": ""
+  },
+  {
+   "id": "2010_banbe_7",
+   "content": "Chúc bạn một ngày 20/10 thật ý nghĩa bên người mình yêu thương.",
+   "translate": ""
+  },
+  {
+   "id": "2010_banbe_8",
+   "content": "Nhân dịp 20/10, chúc một nửa thế giới vạn sự như ý, trăm điều bình an.",
+   "translate": ""
+  },
+  {
+   "id": "2010_banbe_9",
+   "content": "Xin gửi tới cô bạn đồng nghiệp lời chúc thật đẹp, ý nghĩa nhân dịp 20/10. Chúc bạn luôn vui vẻ, tràn đầy năng lượng để hoàn thành tốt những nhiệm vụ được giao.",
+   "translate": ""
+  },
+  {
+   "id": "2010_banbe_10",
+   "content": "Cầu chúc cho toàn thể chị em phụ nữ một ngày 20/10 đầy ý nghĩa, luôn là người phụ nữ đẹp và rạng rỡ nhất trong mắt của một nửa còn lại.",
+   "translate": ""
+  },
+  {
+   "id": "2010_banbe_11",
+   "content": "Nhân ngày 20/10, chúc các bạn nữ luôn xinh đẹp, vui vẻ và gặp thật nhiều may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "2010_banbe_12",
+   "content": "Chúc mừng ngày Phụ nữ Việt Nam! Chúc cậu mãi xinh, mãi tươi và mãi đáng yêu như vậy.",
+   "translate": ""
+  },
+  {
+   "id": "2010_banbe_13",
+   "content": "Ngày 20/10, chúc bạn luôn rạng rỡ, tự tin và được yêu thương thật nhiều.",
+   "translate": ""
+  },
+  {
+   "id": "2010_banbe_14",
+   "content": "Nhân ngày 20/10, mình chúc bạn khỏe mạnh, hạnh phúc và sống đúng với điều mình muốn.",
+   "translate": ""
+  },
+  {
+   "id": "2010_banbe_15",
+   "content": "Chúc mừng 20/10! Chúc cậu ngày nào cũng được nhận hoa chứ không chỉ riêng hôm nay.",
+   "translate": ""
+  },
+  {
+   "id": "2010_banbe_16",
+   "content": "Ngày của phụ nữ Việt Nam, chúc bạn luôn tỏa sáng theo cách riêng của mình.",
+   "translate": ""
+  },
+  {
+   "id": "2010_banbe_17",
+   "content": "Nhân ngày 20/10, chúc cậu tình duyên viên mãn, công việc hanh thông, da dẻ hồng hào.",
+   "translate": ""
+  },
+  {
+   "id": "2010_banbe_18",
+   "content": "Chúc mừng ngày 20/10! Chúc bạn bớt lo, bớt nghĩ và cười nhiều hơn mỗi ngày.",
+   "translate": ""
+  },
+  {
+   "id": "2010_banbe_19",
+   "content": "Ngày 20/10, chúc các chị em đồng nghiệp một ngày thật vui và một năm thật rực rỡ.",
+   "translate": ""
+  },
+  {
+   "id": "2010_banbe_20",
+   "content": "Nhân ngày Phụ nữ Việt Nam, chúc bạn gặt hái được mọi điều bạn đang nỗ lực.",
+   "translate": ""
+  },
+  {
+   "id": "2010_banbe_21",
+   "content": "Chúc mừng 20/10! Chúc cậu luôn giữ được nụ cười tươi làm cả hội vui lây.",
+   "translate": ""
+  },
+  {
+   "id": "2010_banbe_22",
+   "content": "Ngày 20/10, mình chúc bạn thật nhiều sức khỏe, niềm vui và thật nhiều quà.",
+   "translate": ""
+  },
+  {
+   "id": "2010_banbe_23",
+   "content": "Nhân ngày 20/10, chúc bạn luôn có người bên cạnh để chia sẻ buồn vui.",
+   "translate": ""
+  },
+  {
+   "id": "2010_banbe_24",
+   "content": "Chúc mừng ngày Phụ nữ Việt Nam! Chúc cậu xinh hơn mỗi ngày và giàu hơn mỗi tháng.",
+   "translate": ""
+  },
+  {
+   "id": "2010_banbe_25",
+   "content": "Ngày 20/10, chúc bạn gác lại mọi muộn phiền và tận hưởng ngày của riêng mình.",
+   "translate": ""
+  },
+  {
+   "id": "2010_banbe_26",
+   "content": "Nhân ngày 20/10, chúc cậu mãi là cô gái tuyệt vời như bây giờ.",
+   "translate": ""
+  },
+  {
+   "id": "2010_banbe_27",
+   "content": "Chúc mừng 20/10! Chúc bạn công việc thuận lợi, tình cảm ngọt ngào, cuộc sống đủ đầy.",
+   "translate": ""
+  },
+  {
+   "id": "2010_banbe_28",
+   "content": "Ngày của chị em, chúc cậu luôn tự tin, luôn kiêu hãnh và luôn hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "2010_banbe_29",
+   "content": "Nhân ngày 20/10, mình chúc bạn tìm được niềm vui trong những điều giản dị.",
+   "translate": ""
+  },
+  {
+   "id": "2010_banbe_30",
+   "content": "Chúc mừng ngày 20/10! Chúc cậu được cưng chiều cả hôm nay và cả những ngày còn lại.",
+   "translate": ""
+  },
+  {
+   "id": "2010_banbe_31",
+   "content": "Ngày 20/10, chúc bạn bình an trong tâm và rực rỡ trong đời.",
+   "translate": ""
+  },
+  {
+   "id": "2010_banbe_32",
+   "content": "Nhân ngày Phụ nữ Việt Nam, chúc cậu luôn giữ được sự tử tế và mạnh mẽ đáng quý.",
+   "translate": ""
+  },
+  {
+   "id": "2010_banbe_33",
+   "content": "Chúc mừng 20/10! Chúc bạn một năm thật nhiều thành tựu và thật ít áp lực.",
+   "translate": ""
+  },
+  {
+   "id": "2010_banbe_34",
+   "content": "Ngày 20/10, chúc cậu luôn hạnh phúc, dù hạnh phúc với cậu là điều gì đi nữa.",
+   "translate": ""
+  },
+  {
+   "id": "2010_banbe_35",
+   "content": "Nhân ngày 20/10, chúc bạn khỏe mạnh, xinh đẹp và sống thật trọn vẹn.",
+   "translate": ""
+  },
+  {
+   "id": "2010_banbe_36",
+   "content": "Chúc mừng ngày Phụ nữ Việt Nam! Chúc cậu nhận được thật nhiều yêu thương hôm nay.",
+   "translate": ""
+  },
+  {
+   "id": "2010_banbe_37",
+   "content": "Ngày 20/10, chúc bạn mọi điều tốt đẹp nhất sẽ đến, như cậu vẫn luôn xứng đáng.",
+   "translate": ""
+  },
+  {
+   "id": "2010_banbe_38",
+   "content": "Nhân ngày 20/10, chúc cậu mãi vui, mãi xinh và mãi là bạn thân của mình.",
+   "translate": ""
+  },
+  {
+   "id": "2010_banbe_39",
+   "content": "Chúc mừng 20/10! Chúc bạn một ngày thật nhẹ nhàng và một tương lai thật xán lạn.",
+   "translate": ""
+  },
+  {
+   "id": "2010_banbe_40",
+   "content": "Ngày 20/10, chúc cậu được yêu thương nhiều như cậu đã yêu thương mọi người.",
+   "translate": ""
+  }
+ ]
+}

@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "noel_banbe_1",
+   "content": "Merry Christmas cậu nhé! Chúc cậu một mùa Noel thật vui và thật ấm áp.",
+   "translate": ""
+  },
+  {
+   "id": "noel_banbe_2",
+   "content": "Giáng sinh an lành! Chúc bạn một mùa lễ ngập tràn niềm vui bên gia đình và bạn bè.",
+   "translate": ""
+  },
+  {
+   "id": "noel_banbe_3",
+   "content": "Chúc cậu một Noel thật đẹp, và nhớ rủ mình đi chơi nhé.",
+   "translate": ""
+  },
+  {
+   "id": "noel_banbe_4",
+   "content": "Merry Christmas! Chúc bạn một đêm Giáng sinh bình an và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "noel_banbe_5",
+   "content": "Giáng sinh này, chúc cậu mọi điều ước đều thành hiện thực.",
+   "translate": ""
+  },
+  {
+   "id": "noel_banbe_6",
+   "content": "Chúc bạn một mùa Noel ấm áp, đủ đầy và thật nhiều tiếng cười.",
+   "translate": ""
+  },
+  {
+   "id": "noel_banbe_7",
+   "content": "Merry Christmas cậu! Chúc cậu năm nay nhận được món quà mình mong nhất.",
+   "translate": ""
+  },
+  {
+   "id": "noel_banbe_8",
+   "content": "Giáng sinh an lành! Chúc bạn luôn khỏe mạnh, vui vẻ và gặp nhiều may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "noel_banbe_9",
+   "content": "Chúc cậu một đêm Noel thật đáng nhớ bên những người cậu yêu quý.",
+   "translate": ""
+  },
+  {
+   "id": "noel_banbe_10",
+   "content": "Merry Christmas! Chúc bạn một mùa Giáng sinh ngọt ngào như bánh khúc cây.",
+   "translate": ""
+  },
+  {
+   "id": "noel_banbe_11",
+   "content": "Giáng sinh này, chúc cậu bỏ lại mọi muộn phiền và đón nhận niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "noel_banbe_12",
+   "content": "Chúc bạn một Noel bình yên và một năm mới sắp tới thật rực rỡ.",
+   "translate": ""
+  },
+  {
+   "id": "noel_banbe_13",
+   "content": "Merry Christmas cậu nhé! Chúc cậu ấm áp cả trong lòng lẫn ngoài trời.",
+   "translate": ""
+  },
+  {
+   "id": "noel_banbe_14",
+   "content": "Giáng sinh an lành! Chúc bạn một mùa lễ thật thảnh thơi và vui vẻ.",
+   "translate": ""
+  },
+  {
+   "id": "noel_banbe_15",
+   "content": "Chúc cậu một Noel thật vui, và mong tình bạn của chúng mình mãi bền.",
+   "translate": ""
+  },
+  {
+   "id": "noel_banbe_16",
+   "content": "Merry Christmas! Chúc bạn mọi điều tốt đẹp nhất trong mùa Giáng sinh này.",
+   "translate": ""
+  },
+  {
+   "id": "noel_banbe_17",
+   "content": "Giáng sinh này, chúc cậu sức khỏe dồi dào và tinh thần luôn phơi phới.",
+   "translate": ""
+  },
+  {
+   "id": "noel_banbe_18",
+   "content": "Chúc bạn một mùa Noel ấm cúng bên gia đình và những người thân yêu.",
+   "translate": ""
+  },
+  {
+   "id": "noel_banbe_19",
+   "content": "Merry Christmas cậu! Chúc cậu một năm mới sắp tới thật nhiều thành công.",
+   "translate": ""
+  },
+  {
+   "id": "noel_banbe_20",
+   "content": "Giáng sinh an lành! Chúc bạn luôn giữ được nụ cười tươi làm cả hội vui lây.",
+   "translate": ""
+  },
+  {
+   "id": "noel_banbe_21",
+   "content": "Chúc cậu một đêm Giáng sinh thật ý nghĩa và thật nhiều kỷ niệm đẹp.",
+   "translate": ""
+  },
+  {
+   "id": "noel_banbe_22",
+   "content": "Merry Christmas! Chúc bạn bình an, hạnh phúc và luôn được yêu thương.",
+   "translate": ""
+  },
+  {
+   "id": "noel_banbe_23",
+   "content": "Giáng sinh này, chúc cậu gặp nhiều điều may mắn và tránh xa mọi muộn phiền.",
+   "translate": ""
+  },
+  {
+   "id": "noel_banbe_24",
+   "content": "Chúc bạn một mùa Noel thật nhẹ nhàng và thật nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "noel_banbe_25",
+   "content": "Merry Christmas cậu nhé! Chúc cậu được ông già Noel ưu ái năm nay.",
+   "translate": ""
+  },
+  {
+   "id": "noel_banbe_26",
+   "content": "Giáng sinh an lành! Chúc bạn một mùa lễ trọn vẹn bên những người quan trọng.",
+   "translate": ""
+  },
+  {
+   "id": "noel_banbe_27",
+   "content": "Chúc cậu một Noel thật ấm, và chúc chúng mình năm nào cũng gặp nhau dịp này.",
+   "translate": ""
+  },
+  {
+   "id": "noel_banbe_28",
+   "content": "Merry Christmas! Chúc bạn một đêm Giáng sinh tuyệt vời và một năm mới thuận lợi.",
+   "translate": ""
+  },
+  {
+   "id": "noel_banbe_29",
+   "content": "Giáng sinh này, chúc cậu sống thật vui và thật trọn vẹn.",
+   "translate": ""
+  },
+  {
+   "id": "noel_banbe_30",
+   "content": "Chúc bạn một mùa Noel ngập tràn hơi ấm và tiếng cười.",
+   "translate": ""
+  },
+  {
+   "id": "noel_banbe_31",
+   "content": "Merry Christmas cậu! Chúc cậu mọi dự định đều thành và mọi mong ước đều toại.",
+   "translate": ""
+  },
+  {
+   "id": "noel_banbe_32",
+   "content": "Giáng sinh an lành! Chúc bạn một mùa lễ an yên và đáng nhớ.",
+   "translate": ""
+  },
+  {
+   "id": "noel_banbe_33",
+   "content": "Chúc cậu một Noel thật vui vẻ, và đừng quên mời mình một bữa nhé.",
+   "translate": ""
+  },
+  {
+   "id": "noel_banbe_34",
+   "content": "Merry Christmas! Chúc bạn luôn mạnh khỏe và luôn hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "noel_banbe_35",
+   "content": "Giáng sinh này, chúc cậu nhận được thật nhiều yêu thương từ mọi người.",
+   "translate": ""
+  },
+  {
+   "id": "noel_banbe_36",
+   "content": "Chúc bạn một mùa Noel bình an, và một năm mới thật nhiều cơ hội tốt.",
+   "translate": ""
+  },
+  {
+   "id": "noel_banbe_37",
+   "content": "Merry Christmas cậu nhé! Chúc cậu một đêm Giáng sinh ấm áp và vui vẻ.",
+   "translate": ""
+  },
+  {
+   "id": "noel_banbe_38",
+   "content": "Giáng sinh an lành! Chúc bạn gác lại mọi lo toan và tận hưởng mùa lễ.",
+   "translate": ""
+  },
+  {
+   "id": "noel_banbe_39",
+   "content": "Chúc cậu một Noel thật đẹp, đúng như cậu vốn luôn tuyệt vời.",
+   "translate": ""
+  },
+  {
+   "id": "noel_banbe_40",
+   "content": "Merry Christmas! Chúc bạn một mùa Giáng sinh đầy ắp niềm vui và hy vọng.",
+   "translate": ""
+  },
+  {
+   "id": "noel_banbe_41",
+   "content": "Giáng sinh này, chúc cậu thật nhiều sức khỏe và thật nhiều may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "noel_banbe_42",
+   "content": "Chúc bạn một đêm Noel ấm áp bên những người bạn yêu quý nhất.",
+   "translate": ""
+  }
+ ]
+}

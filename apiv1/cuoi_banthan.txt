@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "cuoi_banthan_1",
+   "content": "Chúc mừng cậu nhé! Cuối cùng thì cũng tới ngày này. Chúc cậu trăm năm hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_banthan_2",
+   "content": "Chúc mừng đám cưới bạn thân! Chúc cậu và người ấy mãi yêu thương nhau.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_banthan_3",
+   "content": "Nhìn cậu mặc áo cưới mà mình xúc động quá. Chúc cậu hạnh phúc trọn đời nhé.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_banthan_4",
+   "content": "Chúc mừng hạnh phúc cậu! Từ nay cậu có người lo rồi, mình yên tâm.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_banthan_5",
+   "content": "Chúc mừng đám cưới! Chúc bạn thân của mình một hôn nhân thật bền và thật vui.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_banthan_6",
+   "content": "Mừng ngày trọng đại của cậu! Chúc cậu luôn được yêu thương như cậu xứng đáng.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_banthan_7",
+   "content": "Chúc mừng cậu! Mình tin người ấy sẽ chăm sóc cậu thật tốt.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_banthan_8",
+   "content": "Chúc mừng hạnh phúc! Chúc cậu trăm năm hạnh phúc, và nhớ là vẫn phải đi cà phê với mình nhé.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_banthan_9",
+   "content": "Chúc mừng đám cưới bạn thân! Chúc cậu xây được một tổ ấm thật ấm.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_banthan_10",
+   "content": "Mừng cậu lên xe hoa! Chúc cậu và người ấy luôn hiểu và thương nhau.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_banthan_11",
+   "content": "Chúc mừng cậu nhé! Chúc hai bạn thuận vợ thuận chồng, tát biển Đông cũng cạn.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_banthan_12",
+   "content": "Chúc mừng hạnh phúc! Chúc cậu một cuộc sống hôn nhân thật nhẹ nhàng và đầy yêu thương.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_banthan_13",
+   "content": "Chúc mừng đám cưới! Mình vui vì cậu đã tìm được người phù hợp.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_banthan_14",
+   "content": "Mừng ngày cưới của cậu! Chúc cậu mãi giữ được nụ cười rạng rỡ hôm nay.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_banthan_15",
+   "content": "Chúc mừng cậu! Chúc hai bạn sớm sinh quý tử và luôn hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_banthan_16",
+   "content": "Chúc mừng hạnh phúc bạn thân! Chúc cậu trăm năm hạnh phúc, đầu bạc răng long.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_banthan_17",
+   "content": "Chúc mừng đám cưới! Chúc cậu và người ấy luôn kiên nhẫn và bao dung với nhau.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_banthan_18",
+   "content": "Mừng cậu nhé! Chúc cậu một cuộc hôn nhân viên mãn và thật nhiều tiếng cười.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_banthan_19",
+   "content": "Chúc mừng cậu! Từ bạn thân thành người có gia đình rồi, chúc cậu thật hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_banthan_20",
+   "content": "Chúc mừng hạnh phúc! Chúc hai bạn mãi mặn nồng như ngày hôm nay.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_banthan_21",
+   "content": "Chúc mừng đám cưới bạn thân! Chúc cậu luôn được che chở và yêu thương.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_banthan_22",
+   "content": "Mừng ngày vui của cậu! Chúc cậu và người ấy cùng nhau vượt qua mọi điều.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_banthan_23",
+   "content": "Chúc mừng cậu nhé! Chúc cậu một gia đình nhỏ thật ấm áp và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_banthan_24",
+   "content": "Chúc mừng hạnh phúc! Chúc cậu sống vui, sống khỏe và sống thật trọn vẹn.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_banthan_25",
+   "content": "Chúc mừng đám cưới! Chúc hai bạn mãi nắm tay nhau đi hết chặng đường dài.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_banthan_26",
+   "content": "Mừng cậu lên xe hoa! Chúc cậu trăm năm hạnh phúc và thật nhiều may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_banthan_27",
+   "content": "Chúc mừng cậu! Chúc hai bạn xây dựng được một mái ấm đầy tiếng cười.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_banthan_28",
+   "content": "Chúc mừng hạnh phúc bạn thân! Chúc cậu mọi điều tốt đẹp nhất trong chặng đường mới.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_banthan_29",
+   "content": "Chúc mừng đám cưới! Chúc cậu luôn hạnh phúc, và nhớ gọi mình khi cần nhé.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_banthan_30",
+   "content": "Mừng ngày trọng đại! Chúc cậu và người ấy mãi yêu thương và tôn trọng nhau.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_banthan_31",
+   "content": "Chúc mừng cậu nhé! Chúc hai bạn một hôn nhân thật bền và thật đẹp.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_banthan_32",
+   "content": "Chúc mừng hạnh phúc! Chúc cậu luôn là phiên bản vui vẻ nhất của chính mình.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_banthan_33",
+   "content": "Chúc mừng đám cưới bạn thân! Chúc cậu trăm năm hạnh phúc và con đàn cháu đống.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_banthan_34",
+   "content": "Mừng cậu nhé! Chúc hai bạn luôn thấu hiểu và sẻ chia cùng nhau.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_banthan_35",
+   "content": "Chúc mừng cậu! Chúc cậu một cuộc sống vợ chồng êm ấm và viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_banthan_36",
+   "content": "Chúc mừng hạnh phúc! Chúc hai bạn mãi là bờ vai của nhau.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_banthan_37",
+   "content": "Chúc mừng đám cưới! Chúc cậu một khởi đầu thật đẹp cho chặng đường dài.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_banthan_38",
+   "content": "Mừng ngày cưới của cậu! Chúc cậu hạnh phúc hơn cả những gì cậu từng mơ.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_banthan_39",
+   "content": "Chúc mừng cậu nhé! Chúc hai bạn luôn khỏe mạnh và luôn yêu thương nhau.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_banthan_40",
+   "content": "Chúc mừng hạnh phúc bạn thân! Chúc cậu trọn đời bình an và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_banthan_41",
+   "content": "Chúc mừng đám cưới! Mình sẽ luôn ở đây, dù cậu đã có gia đình riêng.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_banthan_42",
+   "content": "Mừng cậu! Chúc cậu và người ấy một cuộc hôn nhân đầy ắp yêu thương.",
+   "translate": ""
+  }
+ ]
+}

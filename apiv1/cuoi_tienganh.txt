@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "cuoi_tienganh_1",
+   "content": "Congratulations on your wedding! Wishing you a lifetime of love and happiness.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tienganh_2",
+   "content": "Congratulations to the happy couple! May your marriage be as beautiful as this day.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tienganh_3",
+   "content": "Wishing you both endless love, laughter and happiness together.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tienganh_4",
+   "content": "Congratulations! May your life together be filled with joy and understanding.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tienganh_5",
+   "content": "Congratulations on your marriage! Here is to a lifetime of adventures together.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tienganh_6",
+   "content": "Wishing you a long and happy marriage filled with love.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tienganh_7",
+   "content": "Congratulations! May you always choose each other, every single day.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tienganh_8",
+   "content": "Wishing the newlyweds a beautiful beginning and a wonderful journey ahead.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tienganh_9",
+   "content": "Congratulations on your wedding day! May your love grow stronger every year.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tienganh_10",
+   "content": "Wishing you both a home full of love and a life full of blessings.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tienganh_11",
+   "content": "Congratulations! May your marriage be a partnership of equals and friends.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tienganh_12",
+   "content": "Wishing you happiness today and always. Congratulations on your wedding!",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tienganh_13",
+   "content": "Congratulations to you both! May you always be each other's safe place.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tienganh_14",
+   "content": "Wishing you a marriage built on patience, kindness and plenty of laughter.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tienganh_15",
+   "content": "Congratulations! May the years ahead be even better than this day.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tienganh_16",
+   "content": "Wishing you both love that lasts and joy that never fades.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tienganh_17",
+   "content": "Congratulations on your wedding! May you grow old together and still hold hands.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tienganh_18",
+   "content": "Wishing the happy couple a lifetime of shared dreams and quiet happiness.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tienganh_19",
+   "content": "Congratulations! May your love story only get better from here.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tienganh_20",
+   "content": "Wishing you both a beautiful marriage and a bright future together.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tienganh_21",
+   "content": "Congratulations on tying the knot! May your life together be wonderful.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tienganh_22",
+   "content": "Wishing you endless happiness as you begin this new chapter.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tienganh_23",
+   "content": "Congratulations! May your marriage be filled with trust, respect and laughter.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tienganh_24",
+   "content": "Wishing you a lifetime of good mornings and peaceful nights together.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tienganh_25",
+   "content": "Congratulations to the newlyweds! May your home be full of warmth.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tienganh_26",
+   "content": "Wishing you both all the happiness in the world on your wedding day.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tienganh_27",
+   "content": "Congratulations! May you always find your way back to each other.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tienganh_28",
+   "content": "Wishing you a marriage as joyful as your wedding day.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tienganh_29",
+   "content": "Congratulations on your wedding! May love guide you through every season.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tienganh_30",
+   "content": "Wishing you both strength in hard times and joy in good ones.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tienganh_31",
+   "content": "Congratulations! Here is to forever, starting today.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tienganh_32",
+   "content": "Wishing the happy couple a future filled with love and good fortune.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tienganh_33",
+   "content": "Congratulations on your marriage! May you always be each other's best friend.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tienganh_34",
+   "content": "Wishing you a beautiful life together, full of love and understanding.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tienganh_35",
+   "content": "Congratulations! May your happiness multiply with every passing year.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tienganh_36",
+   "content": "Wishing you both a wonderful honeymoon and an even better marriage.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tienganh_37",
+   "content": "Congratulations on your wedding day! May your bond only deepen with time.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tienganh_38",
+   "content": "Wishing you love, laughter and a happily ever after.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tienganh_39",
+   "content": "Congratulations! May your marriage bring you everything you hoped for.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tienganh_40",
+   "content": "Wishing you both a lifetime of happiness and a home full of love.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tienganh_41",
+   "content": "Congratulations to you both! May today be the start of something beautiful.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tienganh_42",
+   "content": "Wishing you a long, happy and healthy life together. Congratulations!",
+   "translate": ""
+  }
+ ]
+}

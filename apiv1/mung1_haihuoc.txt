@@ -1,0 +1,204 @@
+{
+ "result": [
+  {
+   "id": "mung1_haihuoc_1",
+   "content": "Mùng 1 đầu tháng suôn sẻ, cả tháng nhiều điều vui vẻ, may mắn. Tiền của đầy túi, tinh thần thoải mái, ăn chơi không lo túng thiếu.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_haihuoc_2",
+   "content": "Chào tháng mới, chúc bạn sẽ có tuần 1 hạnh phúc, tuần 2 tài lộc, tuần 3 sức khỏe, tuần 4 bình an tràn ngập cả tháng.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_haihuoc_3",
+   "content": "Chúc bạn tháng mới càng sung sức, không bực tức, không đau nhức, gấp đôi lợi tức, tiền vào thơm phức.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_haihuoc_4",
+   "content": "Chúc mọi người đầu tháng tràn đầy năng lượng, chiến đấu hết mình để tăng doanh thu và lợi nhuận cho công ty chúng ta ngày càng lớn mạnh hơn.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_haihuoc_5",
+   "content": "Ông mặt trời mọc rồi kìa, với nụ cười ấm áp biết bao! Ông chúc em một buổi sáng tốt lành và mong em sẽ có một ngày đầu tháng thật tuyệt!",
+   "translate": ""
+  },
+  {
+   "id": "mung1_haihuoc_6",
+   "content": "Tháng này sẽ khác tháng kia, tháng này tiền tới tha mà tia sắm đồ.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_haihuoc_7",
+   "content": "Chúc tháng mới an lành, 1 ngày làm việc may mắn và thành công, chúc bạn luôn vui vẻ tràn ngập tiếng cười.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_haihuoc_8",
+   "content": "Vẫy tay tạm biệt cái ví rỗng và một linh hồn chán nản đi nào. Chào đón tháng mới bằng một cuộc đời mới đầy năng lượng!",
+   "translate": ""
+  },
+  {
+   "id": "mung1_haihuoc_9",
+   "content": "Đã bao nhiêu nồi bánh chưng rồi nhưng cậu vẫn ế vậy nên từ đây cho đến khi cậu có bồ thì đầu tháng nào tớ cũng sẽ gửi cho cậu một lời chúc khác nhau. Và đây là tháng đầu tiên thì tớ chúc cậu ra đường được thần tình yêu nhắm trúng nha!",
+   "translate": ""
+  },
+  {
+   "id": "mung1_haihuoc_10",
+   "content": "Những ngày mới với đầy niềm vui và sự phấn khích sẽ đến với bạn trong tháng này. Hãy tận hưởng và hạnh phúc nhé. Chúc bạn có một tháng tuyệt vời phía trước.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_haihuoc_11",
+   "content": "Khi nhận được tin nhắn này thì bạn hãy cười đi nhé, vì ít nhất đâu đó quanh đây có một người mong bạn hạnh phúc, vui vẻ và luôn yêu đời. Chúc bạn ngày đầu của tháng thật vui vẻ nhé!",
+   "translate": ""
+  },
+  {
+   "id": "mung1_haihuoc_12",
+   "content": "Mùng 1 đầu tháng, chúc bạn tiền vào như nước, tiền ra nhỏ giọt.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_haihuoc_13",
+   "content": "Đầu tháng mới, chúc bạn mở ví ra là thấy tiền, mở mắt ra là thấy vui.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_haihuoc_14",
+   "content": "Mùng 1 may mắn! Chúc bạn tháng này không bị trừ lương và không bị sếp mắng.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_haihuoc_15",
+   "content": "Chúc bạn mùng 1 gặp vía tốt, cả tháng mua gì cũng đúng đợt giảm giá.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_haihuoc_16",
+   "content": "Đầu tháng, chúc bạn tháng này tiêu tiền thả ga mà cuối tháng vẫn dư.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_haihuoc_17",
+   "content": "Mùng 1 đầu tháng, chúc bạn đi đâu cũng gặp đèn xanh và luôn có chỗ đỗ xe.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_haihuoc_18",
+   "content": "Chúc bạn một tháng mới ngủ dậy đúng giờ dù đã bấm báo thức mười lần.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_haihuoc_19",
+   "content": "Đầu tháng mới, chúc bạn tháng này deadline tự dời và sếp tự duyệt.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_haihuoc_20",
+   "content": "Mùng 1 may mắn! Chúc bạn tháng này không ai hỏi vay tiền.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_haihuoc_21",
+   "content": "Chúc bạn mùng 1 đầu tháng ăn gì cũng ngon, mua gì cũng rẻ, làm gì cũng thắng.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_haihuoc_22",
+   "content": "Đầu tháng, chúc bạn tháng này trúng số, nhớ chia mình một ít gọi là có lộc.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_haihuoc_23",
+   "content": "Mùng 1 đầu tháng, chúc bạn pin điện thoại luôn đầy và wifi luôn mạnh.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_haihuoc_24",
+   "content": "Chúc bạn một tháng mới nhẹ nhàng, ít họp hành và nhiều ngày nghỉ.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_haihuoc_25",
+   "content": "Đầu tháng mới, chúc bạn tháng này da đẹp dáng xinh và ví lúc nào cũng dày.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_haihuoc_26",
+   "content": "Mùng 1 may mắn! Chúc bạn tháng này điện thoại chỉ toàn tin vui.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_haihuoc_27",
+   "content": "Chúc bạn mùng 1 gặp toàn người tử tế và tránh xa mọi drama.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_haihuoc_28",
+   "content": "Đầu tháng, chúc bạn tháng này làm ít hưởng nhiều, nghỉ nhiều mà vẫn được khen.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_haihuoc_29",
+   "content": "Mùng 1 đầu tháng, chúc bạn may mắn đến mức đi bộ cũng nhặt được tiền.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_haihuoc_30",
+   "content": "Chúc bạn một tháng mới ăn hoài không béo và ngủ hoài không chán.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_haihuoc_31",
+   "content": "Đầu tháng mới, chúc bạn tháng này thoát ế, nếu chưa thì tháng sau mình chúc tiếp.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_haihuoc_32",
+   "content": "Mùng 1 may mắn! Chúc bạn tháng này không phải nghe câu \"bao giờ lấy chồng\".",
+   "translate": ""
+  },
+  {
+   "id": "mung1_haihuoc_33",
+   "content": "Chúc bạn mùng 1 đầu tháng mọi chuyện đều ổn, riêng ví tiền thì rất ổn.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_haihuoc_34",
+   "content": "Đầu tháng, chúc bạn tháng này gặp sếp dễ tính và khách dễ thương.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_haihuoc_35",
+   "content": "Mùng 1 đầu tháng, chúc bạn bớt mua đồ online lúc nửa đêm.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_haihuoc_36",
+   "content": "Chúc bạn một tháng mới nhan sắc thăng hạng và lương cũng thăng theo.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_haihuoc_37",
+   "content": "Đầu tháng mới, chúc bạn tháng này ăn uống thả ga mà cân nặng vẫn đứng yên.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_haihuoc_38",
+   "content": "Mùng 1 may mắn! Chúc bạn tháng này vui như Tết và khỏe như voi.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_haihuoc_39",
+   "content": "Chúc bạn mùng 1 đầu tháng mọi điều như ý, trừ cái cân thì đừng như ý.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_haihuoc_40",
+   "content": "Đầu tháng, chúc bạn tháng này mỗi sáng tỉnh dậy đều thấy mình giàu hơn hôm qua.",
+   "translate": ""
+  }
+ ]
+}

@@ -1,0 +1,204 @@
+{
+ "result": [
+  {
+   "id": "2010_haihuoc_1",
+   "content": "Nhân ngày Phụ nữ Việt Nam, xin gửi chúc chị em phụ nữ đôi lời: \"Tay cầm nhiều hoa, giỏ có nhiều quà Không cần lo việc nhà, vẫn được đi chơi xa Ăn uống thì thả ga, tiền lại không phải trả…\"",
+   "translate": ""
+  },
+  {
+   "id": "2010_haihuoc_2",
+   "content": "Gửi tới người vợ yêu thương của anh một món quà 20/10 có tên là buổi sáng tốt lành, được bọc gói cẩn thận bằng sự chân thành từ anh, buộc dây chắc chắn bằng sự quan tâm và dính keo bằng lời cầu nguyện rằng em phải thật bình an và hạnh phúc nhé! Chúc vợ yêu một ngày 20/10 thật ý nghĩa!",
+   "translate": ""
+  },
+  {
+   "id": "2010_haihuoc_3",
+   "content": "Nhân dịp 20/10 chúc phái đẹp luôn rạng ngời, hạnh phúc và thành công. Chúc chị em sẽ có nhiều chàng trai theo đuổi như lửa bám xăng, răng bám chặt lợi, trời phải có mây và cây sống nhờ đất.",
+   "translate": ""
+  },
+  {
+   "id": "2010_haihuoc_4",
+   "content": "Chúc các bạn nữ một ngày 20/10 hay ăn chóng gầy, tiền nhiều hơn nước, tình chặt như keo và dẻo dai như mèo, có một làn da trắng trẻo, sức khỏe như heo nhé!",
+   "translate": ""
+  },
+  {
+   "id": "2010_haihuoc_5",
+   "content": "Quý khách đang liên lạc tới tổng đài Tình Yêu: bạn hãy chia sẻ hết những niềm vui, nỗi buồn, sự muộn phiền cuộc sống với chúng tôi hàng ngày, cước phí 0 đồng. Chúc quý khách một ngày 20/10 đầy trọn vẹn và tràn ngập niềm vui!",
+   "translate": ""
+  },
+  {
+   "id": "2010_haihuoc_6",
+   "content": "Châu Âu đang ngủ, Châu Á đang say giấc, Châu Mỹ cũng đang tối dần, chỉ có đôi mắt này là đang đọc những lời chúc ngày 20/10 của anh. Chúc em có một ngày 20/10 thật tuyệt vời nhé người yêu!",
+   "translate": ""
+  },
+  {
+   "id": "2010_haihuoc_7",
+   "content": "Nếu em đang cảm thấy lạc lõng, bơ vơ và muộn phiền, hãy gọi ngay cho anh. Tổng đài của anh chỉ dành riêng cho em. Chúc em một ngày 20/10 thật tuyệt vời nhé!",
+   "translate": ""
+  },
+  {
+   "id": "2010_haihuoc_8",
+   "content": "Phiên tòa này được diễn ra vào ngày 20/10: Em bị triệu tập vì đã đi vào cuộc sống của anh, lấy cắp trái tim anh, cướp đi mọi thứ cảm xúc khiến anh lao đao cả ngày. Tòa tuyên án em phải ở bên anh suốt đời, em có biện hộ điều gì không?",
+   "translate": ""
+  },
+  {
+   "id": "2010_haihuoc_9",
+   "content": "Hôm nay là ngày Phụ nữ Việt Nam, anh không ở gần em nhưng đã nhờ bưu điện gửi tặng em một món quà, đó là nỗi nhớ dành cho em lúc này. Tuy nhiên, bưu điện họ lại từ chối vì họ nói rằng nó quá lớn. Anh phải làm sao?",
+   "translate": ""
+  },
+  {
+   "id": "2010_haihuoc_10",
+   "content": "Em yêu, anh mong rằng 1 ngày sẽ có 25 giờ để anh có một giờ không nhớ đến em. Yêu em, chúc em một ngày 20/10 thật vui vẻ và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "2010_haihuoc_11",
+   "content": "Ngày 20/10, chúc chị em được nghỉ nấu cơm một hôm, còn cánh mày râu vào bếp thay.",
+   "translate": ""
+  },
+  {
+   "id": "2010_haihuoc_12",
+   "content": "Chúc mừng 20/10! Chúc chị em hôm nay chỉ việc ngồi chơi, mọi việc nhà đã có người lo.",
+   "translate": ""
+  },
+  {
+   "id": "2010_haihuoc_13",
+   "content": "Nhân ngày 20/10, chúc các chị em xinh đẹp, và chúc các anh nhớ mua hoa kẻo tối về ngủ ngoài hiên.",
+   "translate": ""
+  },
+  {
+   "id": "2010_haihuoc_14",
+   "content": "Ngày 20/10, chúc chị em ăn gì cũng ngon mà cân nặng vẫn đứng yên bất động.",
+   "translate": ""
+  },
+  {
+   "id": "2010_haihuoc_15",
+   "content": "Chúc mừng ngày Phụ nữ Việt Nam! Chúc chị em da đẹp dáng xinh và ví lúc nào cũng dày.",
+   "translate": ""
+  },
+  {
+   "id": "2010_haihuoc_16",
+   "content": "Nhân ngày 20/10, chúc chị em một ngày không phải rửa bát, không phải quét nhà.",
+   "translate": ""
+  },
+  {
+   "id": "2010_haihuoc_17",
+   "content": "Ngày 20/10, chúc chị em mua sắm thả ga mà thẻ vẫn không kêu than.",
+   "translate": ""
+  },
+  {
+   "id": "2010_haihuoc_18",
+   "content": "Chúc mừng 20/10! Chúc chị em trẻ mãi không già, còn các anh thì già mãi không khôn.",
+   "translate": ""
+  },
+  {
+   "id": "2010_haihuoc_19",
+   "content": "Nhân ngày 20/10, chúc chị em hôm nay được làm nữ hoàng, ngày mai tính tiếp.",
+   "translate": ""
+  },
+  {
+   "id": "2010_haihuoc_20",
+   "content": "Ngày 20/10, chúc chị em soi gương là thấy đẹp, mở ví là thấy tiền.",
+   "translate": ""
+  },
+  {
+   "id": "2010_haihuoc_21",
+   "content": "Chúc mừng ngày 20/10! Chúc chị em gặp toàn người tử tế và tránh xa mọi drama.",
+   "translate": ""
+  },
+  {
+   "id": "2010_haihuoc_22",
+   "content": "Nhân ngày 20/10, chúc chị em nhận được hoa thật, chứ không phải hoa gửi qua mạng.",
+   "translate": ""
+  },
+  {
+   "id": "2010_haihuoc_23",
+   "content": "Ngày 20/10, chúc chị em ngủ nướng thỏa thích mà không ai gọi dậy.",
+   "translate": ""
+  },
+  {
+   "id": "2010_haihuoc_24",
+   "content": "Chúc mừng 20/10! Chúc chị em hôm nay được chiều, và 364 ngày còn lại cũng vậy luôn.",
+   "translate": ""
+  },
+  {
+   "id": "2010_haihuoc_25",
+   "content": "Nhân ngày 20/10, chúc chị em ít nếp nhăn, nhiều tiền mặt và nhiều lời khen.",
+   "translate": ""
+  },
+  {
+   "id": "2010_haihuoc_26",
+   "content": "Ngày 20/10, chúc chị em đi đâu cũng được giảm giá, mua gì cũng đúng đợt sale.",
+   "translate": ""
+  },
+  {
+   "id": "2010_haihuoc_27",
+   "content": "Chúc mừng ngày Phụ nữ Việt Nam! Chúc chị em không ai hỏi tuổi, không ai hỏi cân nặng.",
+   "translate": ""
+  },
+  {
+   "id": "2010_haihuoc_28",
+   "content": "Nhân ngày 20/10, chúc chị em hôm nay được phép giận dỗi mà không bị trách.",
+   "translate": ""
+  },
+  {
+   "id": "2010_haihuoc_29",
+   "content": "Ngày 20/10, chúc chị em tóc không rụng, răng không sâu, bụng không to.",
+   "translate": ""
+  },
+  {
+   "id": "2010_haihuoc_30",
+   "content": "Chúc mừng 20/10! Chúc chị em có người nấu cơm, có người rửa bát, có người dọn nhà.",
+   "translate": ""
+  },
+  {
+   "id": "2010_haihuoc_31",
+   "content": "Nhân ngày 20/10, chúc chị em xinh hơn năm ngoái và giàu hơn năm ngoái.",
+   "translate": ""
+  },
+  {
+   "id": "2010_haihuoc_32",
+   "content": "Ngày 20/10, chúc chị em may mắn đến mức đi bộ cũng nhặt được tiền.",
+   "translate": ""
+  },
+  {
+   "id": "2010_haihuoc_33",
+   "content": "Chúc mừng ngày 20/10! Chúc chị em nhan sắc thăng hạng, lương cũng thăng theo.",
+   "translate": ""
+  },
+  {
+   "id": "2010_haihuoc_34",
+   "content": "Nhân ngày 20/10, chúc chị em hôm nay chỉ cần đẹp thôi, việc khác để người khác lo.",
+   "translate": ""
+  },
+  {
+   "id": "2010_haihuoc_35",
+   "content": "Ngày 20/10, chúc chị em điện thoại chỉ toàn tin vui, không có tin nhắn nhắc nợ.",
+   "translate": ""
+  },
+  {
+   "id": "2010_haihuoc_36",
+   "content": "Chúc mừng 20/10! Chúc chị em ăn tiệc thoải mái mà quần áo vẫn vừa.",
+   "translate": ""
+  },
+  {
+   "id": "2010_haihuoc_37",
+   "content": "Nhân ngày 20/10, chúc chị em thoát ế, và nếu đã có đôi thì chúc không bị giận vô cớ.",
+   "translate": ""
+  },
+  {
+   "id": "2010_haihuoc_38",
+   "content": "Ngày 20/10, chúc chị em được tặng quà đúng ý chứ không phải nồi cơm điện.",
+   "translate": ""
+  },
+  {
+   "id": "2010_haihuoc_39",
+   "content": "Chúc mừng ngày Phụ nữ Việt Nam! Chúc chị em vui như Tết, khỏe như voi, đẹp như hoa.",
+   "translate": ""
+  },
+  {
+   "id": "2010_haihuoc_40",
+   "content": "Nhân ngày 20/10, chúc chị em mọi điều như ý, riêng cái cân thì xin đừng như ý.",
+   "translate": ""
+  }
+ ]
+}

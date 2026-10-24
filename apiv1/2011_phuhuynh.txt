@@ -1,0 +1,204 @@
+{
+ "result": [
+  {
+   "id": "2011_phuhuynh_1",
+   "content": "Nhân ngày 20/11, gia đình chúng tôi xin kính chúc thầy cô thật nhiều sức khỏe và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "2011_phuhuynh_2",
+   "content": "Chúc mừng ngày Nhà giáo Việt Nam! Cảm ơn thầy cô đã dạy dỗ con chúng tôi nên người.",
+   "translate": ""
+  },
+  {
+   "id": "2011_phuhuynh_3",
+   "content": "Kính chúc thầy cô ngày 20/11 bình an, vui vẻ và luôn tự hào về nghề mình đã chọn.",
+   "translate": ""
+  },
+  {
+   "id": "2011_phuhuynh_4",
+   "content": "Nhân ngày 20/11, chúng tôi xin gửi tới thầy cô lòng biết ơn chân thành nhất.",
+   "translate": ""
+  },
+  {
+   "id": "2011_phuhuynh_5",
+   "content": "Chúc mừng 20/11! Kính chúc thầy cô sức khỏe dồi dào và gia đình luôn hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "2011_phuhuynh_6",
+   "content": "Kính chúc thầy cô một ngày Nhà giáo Việt Nam thật ấm áp và ý nghĩa.",
+   "translate": ""
+  },
+  {
+   "id": "2011_phuhuynh_7",
+   "content": "Nhân ngày 20/11, chúc thầy cô luôn giữ được tâm huyết với sự nghiệp trồng người.",
+   "translate": ""
+  },
+  {
+   "id": "2011_phuhuynh_8",
+   "content": "Chúc mừng ngày 20/11! Nhờ có thầy cô mà cháu nhà tôi tiến bộ lên từng ngày.",
+   "translate": ""
+  },
+  {
+   "id": "2011_phuhuynh_9",
+   "content": "Kính chúc thầy cô ngày 20/11 vạn sự như ý và thật nhiều may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "2011_phuhuynh_10",
+   "content": "Nhân ngày Nhà giáo Việt Nam, kính chúc thầy cô an khang, thịnh vượng, vạn sự hanh thông.",
+   "translate": ""
+  },
+  {
+   "id": "2011_phuhuynh_11",
+   "content": "Chúc mừng 20/11! Chúc thầy cô luôn khỏe để tiếp tục dìu dắt các con nên người.",
+   "translate": ""
+  },
+  {
+   "id": "2011_phuhuynh_12",
+   "content": "Nhân ngày 20/11, chúng tôi chúc thầy cô bớt vất vả và nhiều thời gian cho gia đình hơn.",
+   "translate": ""
+  },
+  {
+   "id": "2011_phuhuynh_13",
+   "content": "Chúc mừng ngày Nhà giáo Việt Nam! Kính chúc thầy cô bình an và viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "2011_phuhuynh_14",
+   "content": "Kính chúc thầy cô ngày 20/11 nhận được thật nhiều tình cảm từ học trò và phụ huynh.",
+   "translate": ""
+  },
+  {
+   "id": "2011_phuhuynh_15",
+   "content": "Nhân ngày 20/11, chúc thầy cô sức khỏe dồi dào và tâm hồn luôn thư thái.",
+   "translate": ""
+  },
+  {
+   "id": "2011_phuhuynh_16",
+   "content": "Chúc mừng 20/11! Kính chúc thầy cô mọi điều tốt đẹp nhất sẽ luôn đến.",
+   "translate": ""
+  },
+  {
+   "id": "2011_phuhuynh_17",
+   "content": "Kính chúc thầy cô một ngày Nhà giáo Việt Nam thật vui và đáng nhớ.",
+   "translate": ""
+  },
+  {
+   "id": "2011_phuhuynh_18",
+   "content": "Nhân ngày 20/11, chúng tôi xin chúc thầy cô gia đình thuận hòa và sự nghiệp vẻ vang.",
+   "translate": ""
+  },
+  {
+   "id": "2011_phuhuynh_19",
+   "content": "Chúc mừng ngày 20/11! Cảm ơn thầy cô đã kiên nhẫn với cháu nhà tôi suốt thời gian qua.",
+   "translate": ""
+  },
+  {
+   "id": "2011_phuhuynh_20",
+   "content": "Nhân ngày Nhà giáo Việt Nam, chúc thầy cô luôn mạnh khỏe và luôn hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "2011_phuhuynh_21",
+   "content": "Chúc mừng 20/11! Kính chúc thầy cô mọi dự định đều thành và mọi mong ước đều toại.",
+   "translate": ""
+  },
+  {
+   "id": "2011_phuhuynh_22",
+   "content": "Kính chúc thầy cô một ngày 20/11 thật đặc biệt, xứng đáng với công lao thầy cô đã bỏ ra.",
+   "translate": ""
+  },
+  {
+   "id": "2011_phuhuynh_23",
+   "content": "Nhân ngày 20/11, chúc thầy cô thân tâm an lạc và phúc lộc đầy nhà.",
+   "translate": ""
+  },
+  {
+   "id": "2011_phuhuynh_24",
+   "content": "Chúc mừng ngày Nhà giáo Việt Nam! Chúc thầy cô luôn được học trò kính trọng và yêu quý.",
+   "translate": ""
+  },
+  {
+   "id": "2011_phuhuynh_25",
+   "content": "Nhân ngày 20/11, kính chúc thầy cô sự nghiệp vững vàng và cuộc sống viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "2011_phuhuynh_26",
+   "content": "Chúc mừng 20/11! Chúc thầy cô mãi là tấm gương sáng cho các con noi theo.",
+   "translate": ""
+  },
+  {
+   "id": "2011_phuhuynh_27",
+   "content": "Kính chúc thầy cô một ngày Nhà giáo Việt Nam thật trọn vẹn và ý nghĩa.",
+   "translate": ""
+  },
+  {
+   "id": "2011_phuhuynh_28",
+   "content": "Nhân ngày 20/11, chúc thầy cô luôn khỏe mạnh để tiếp tục cống hiến cho giáo dục.",
+   "translate": ""
+  },
+  {
+   "id": "2011_phuhuynh_29",
+   "content": "Chúc mừng ngày 20/11! Kính chúc thầy cô an khang, hạnh phúc và thật nhiều may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "2011_phuhuynh_30",
+   "content": "Kính chúc thầy cô ngày 20/11 tràn ngập hoa tươi và lời chúc tốt đẹp.",
+   "translate": ""
+  },
+  {
+   "id": "2011_phuhuynh_31",
+   "content": "Nhân ngày Nhà giáo Việt Nam, chúc thầy cô luôn giữ được sự tận tâm đáng quý.",
+   "translate": ""
+  },
+  {
+   "id": "2011_phuhuynh_32",
+   "content": "Chúc mừng 20/11! Kính chúc thầy cô sức khỏe như ý và gia đình êm ấm.",
+   "translate": ""
+  },
+  {
+   "id": "2011_phuhuynh_33",
+   "content": "Nhân ngày 20/11, chúc thầy cô mãi khỏe, mãi vui và mãi yêu nghề.",
+   "translate": ""
+  },
+  {
+   "id": "2011_phuhuynh_34",
+   "content": "Chúc mừng ngày Nhà giáo Việt Nam! Gia đình chúng tôi luôn biết ơn thầy cô.",
+   "translate": ""
+  },
+  {
+   "id": "2011_phuhuynh_35",
+   "content": "Nhân ngày 20/11, kính chúc thầy cô vạn sự cát tường và mọi điều hanh thông.",
+   "translate": ""
+  },
+  {
+   "id": "2011_phuhuynh_36",
+   "content": "Chúc mừng 20/11! Chúc thầy cô một ngày thật vui và một đời thật an yên.",
+   "translate": ""
+  },
+  {
+   "id": "2011_phuhuynh_37",
+   "content": "Kính chúc thầy cô ngày Nhà giáo Việt Nam thật nhiều sức khỏe, niềm vui và thành công.",
+   "translate": ""
+  },
+  {
+   "id": "2011_phuhuynh_38",
+   "content": "Nhân ngày 20/11, gia đình xin kính chúc thầy cô luôn mạnh khỏe và hạnh phúc bên gia đình.",
+   "translate": ""
+  },
+  {
+   "id": "2011_phuhuynh_39",
+   "content": "Chúc mừng ngày Nhà giáo Việt Nam! Xin cảm ơn thầy cô đã luôn tận tâm với các con.",
+   "translate": ""
+  },
+  {
+   "id": "2011_phuhuynh_40",
+   "content": "Kính chúc thầy cô ngày 20/11 nhiều niềm vui và thật nhiều sức khỏe.",
+   "translate": ""
+  }
+ ]
+}

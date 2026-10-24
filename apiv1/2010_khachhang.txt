@@ -1,0 +1,204 @@
+{
+ "result": [
+  {
+   "id": "2010_khachhang_1",
+   "content": "Quý khách hàng kính mến, hôm nay là ngày 20/10, một ngày ý nghĩa để tôn vinh những người phụ nữ Việt Nam. Nhân đây, chúc chị có một ngày 20/10 vui vẻ, hạnh phúc và thành công trong cuộc sống, công việc.",
+   "translate": ""
+  },
+  {
+   "id": "2010_khachhang_2",
+   "content": "Chúc mừng ngày Phụ nữ Việt Nam, chúc chị có một ngày thật ý nghĩa, luôn vui vẻ và thành công!",
+   "translate": ""
+  },
+  {
+   "id": "2010_khachhang_3",
+   "content": "Chị A thân mến, cảm ơn chị đã đồng hành cùng công ty trong suốt thời gian qua. Hy vọng thời gian tới chúng ta sẽ tiếp tục hợp tác ở một dự án mới. Nhân ngày 20/10, chúc chị thật nhiều niềm vui, sức khỏe và thành công trong cuộc sống.",
+   "translate": ""
+  },
+  {
+   "id": "2010_khachhang_4",
+   "content": "Cảm ơn C đã tin tưởng và sử dụng dịch vụ của công ty chúng tôi. Nhân dịp 20/10, chúng tôi xin gửi tới bạn những lời chúc tốt đẹp nhất, bạn hãy luôn xinh đẹp, thành công và hạnh phúc trong cuộc sống nhé!",
+   "translate": ""
+  },
+  {
+   "id": "2010_khachhang_5",
+   "content": "Nhân ngày Phụ nữ Việt Nam, chúng tôi muốn gửi tới quý khách hàng những lời chúc tốt đẹp, lời cảm ơn chân thành nhất. Chúc bạn một ngày 20/10 ý nghĩa, vui vẻ và tràn ngập hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "2010_khachhang_6",
+   "content": "D yêu quý, đây là món quà ý nghĩa nhân dịp 20/10 xin gửi tới bạn như một lời cảm ơn, lời chúc tốt đẹp nhất vì bạn đã đồng hành cùng chúng tôi trong suốt thời gian vừa qua.",
+   "translate": ""
+  },
+  {
+   "id": "2010_khachhang_7",
+   "content": "Mừng ngày Phụ nữ Việt Nam 20/10, chúc cho mọi dự định của bạn sẽ luôn thành công, thuận lợi. Cảm ơn bạn đã tin tưởng và đồng hành cùng công ty trong suốt thời gian qua. Hy vọng, thời gian tới sẽ được tiếp tục hợp tác cùng bạn.",
+   "translate": ""
+  },
+  {
+   "id": "2010_khachhang_8",
+   "content": "Nhân ngày 20/10, kính chúc quý khách hàng có một ngày lễ trọn vẹn, hạnh phúc và tràn ngập niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "2010_khachhang_9",
+   "content": "Nhân ngày Phụ nữ Việt Nam 20/10, kính chúc Quý khách hàng nữ luôn xinh đẹp và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "2010_khachhang_10",
+   "content": "Chúc mừng 20/10! Kính chúc Quý khách một ngày thật đặc biệt và thật nhiều may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "2010_khachhang_11",
+   "content": "Nhân ngày 20/10, xin gửi tới Quý khách hàng lời chúc sức khỏe, thành công và viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "2010_khachhang_12",
+   "content": "Kính chúc Quý khách ngày 20/10 tràn ngập niềm vui, hoa tươi và lời yêu thương.",
+   "translate": ""
+  },
+  {
+   "id": "2010_khachhang_13",
+   "content": "Chúc mừng ngày Phụ nữ Việt Nam! Kính chúc Quý khách luôn rạng rỡ và thành đạt.",
+   "translate": ""
+  },
+  {
+   "id": "2010_khachhang_14",
+   "content": "Nhân ngày 20/10, chúng tôi xin tri ân và kính chúc Quý khách hàng vạn sự như ý.",
+   "translate": ""
+  },
+  {
+   "id": "2010_khachhang_15",
+   "content": "Kính chúc Quý khách một ngày 20/10 thật ấm áp bên gia đình và người thân yêu.",
+   "translate": ""
+  },
+  {
+   "id": "2010_khachhang_16",
+   "content": "Chúc mừng 20/10! Kính chúc Quý khách hàng nữ công việc hanh thông, gia đình hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "2010_khachhang_17",
+   "content": "Kính chúc Quý khách hàng ngày 20/10 nhiều sức khỏe, niềm vui và thành công.",
+   "translate": ""
+  },
+  {
+   "id": "2010_khachhang_18",
+   "content": "Chúc mừng ngày 20/10! Xin cảm ơn Quý khách đã luôn tin tưởng và đồng hành cùng chúng tôi.",
+   "translate": ""
+  },
+  {
+   "id": "2010_khachhang_19",
+   "content": "Nhân ngày 20/10, kính chúc Quý khách hàng nữ an khang, thịnh vượng, vạn sự cát tường.",
+   "translate": ""
+  },
+  {
+   "id": "2010_khachhang_20",
+   "content": "Kính chúc Quý khách một ngày 20/10 trọn vẹn và một năm thật rực rỡ.",
+   "translate": ""
+  },
+  {
+   "id": "2010_khachhang_21",
+   "content": "Chúc mừng 20/10! Kính chúc Quý khách luôn được yêu thương và trân trọng.",
+   "translate": ""
+  },
+  {
+   "id": "2010_khachhang_22",
+   "content": "Nhân ngày Phụ nữ Việt Nam, kính chúc Quý khách sức khỏe dồi dào, tâm an, đời vui.",
+   "translate": ""
+  },
+  {
+   "id": "2010_khachhang_23",
+   "content": "Kính chúc Quý khách ngày 20/10 thật nhiều hoa, quà và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "2010_khachhang_24",
+   "content": "Chúc mừng ngày 20/10! Kính chúc Quý khách hàng nữ mãi trẻ trung và tràn đầy năng lượng.",
+   "translate": ""
+  },
+  {
+   "id": "2010_khachhang_25",
+   "content": "Nhân ngày 20/10, kính chúc Quý khách mọi dự định đều thành, mọi mong ước đều toại.",
+   "translate": ""
+  },
+  {
+   "id": "2010_khachhang_26",
+   "content": "Kính chúc Quý khách hàng một ngày 20/10 nhẹ nhàng, thảnh thơi và nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "2010_khachhang_27",
+   "content": "Chúc mừng 20/10! Kính chúc Quý khách luôn giữ được nét duyên dáng và bản lĩnh đáng quý.",
+   "translate": ""
+  },
+  {
+   "id": "2010_khachhang_28",
+   "content": "Kính chúc Quý khách ngày 20/10 hạnh phúc bên gia đình và thành công trong sự nghiệp.",
+   "translate": ""
+  },
+  {
+   "id": "2010_khachhang_29",
+   "content": "Chúc mừng ngày 20/10! Kính chúc Quý khách hàng nữ ngày càng xinh đẹp và thành đạt.",
+   "translate": ""
+  },
+  {
+   "id": "2010_khachhang_30",
+   "content": "Nhân ngày 20/10, chúng tôi kính chúc Quý khách thật nhiều sức khỏe và niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "2010_khachhang_31",
+   "content": "Kính chúc Quý khách hàng một ngày 20/10 ngập tràn yêu thương từ những người thân yêu.",
+   "translate": ""
+  },
+  {
+   "id": "2010_khachhang_32",
+   "content": "Chúc mừng 20/10! Kính chúc Quý khách gặp nhiều may mắn và cơ hội tốt trong năm nay.",
+   "translate": ""
+  },
+  {
+   "id": "2010_khachhang_33",
+   "content": "Nhân ngày Phụ nữ Việt Nam, kính chúc Quý khách hàng luôn tươi trẻ và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "2010_khachhang_34",
+   "content": "Kính chúc Quý khách ngày 20/10 thật ý nghĩa bên những người mình yêu quý.",
+   "translate": ""
+  },
+  {
+   "id": "2010_khachhang_35",
+   "content": "Chúc mừng ngày 20/10! Kính chúc Quý khách hàng nữ an lành, thuận lợi và viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "2010_khachhang_36",
+   "content": "Nhân ngày 20/10, kính chúc Quý khách luôn tỏa sáng theo cách riêng của mình.",
+   "translate": ""
+  },
+  {
+   "id": "2010_khachhang_37",
+   "content": "Kính chúc Quý khách một ngày 20/10 vui vẻ và một năm thật nhiều thắng lợi.",
+   "translate": ""
+  },
+  {
+   "id": "2010_khachhang_38",
+   "content": "Chúc mừng 20/10! Kính chúc Quý khách sức khỏe, hạnh phúc và thành công trọn vẹn.",
+   "translate": ""
+  },
+  {
+   "id": "2010_khachhang_39",
+   "content": "Nhân ngày 20/10, kính chúc Quý khách hàng nữ một ngày thật vui và ý nghĩa.",
+   "translate": ""
+  },
+  {
+   "id": "2010_khachhang_40",
+   "content": "Chúc mừng ngày Phụ nữ Việt Nam! Kính chúc Quý khách sức khỏe và thành công.",
+   "translate": ""
+  }
+ ]
+}

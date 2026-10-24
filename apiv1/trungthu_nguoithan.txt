@@ -1,0 +1,204 @@
+{
+ "result": [
+  {
+   "id": "trungthu_nguoithan_1",
+   "content": "Chúc ba mẹ trung thu đầy sức khoẻ và hạnh phúc. Con sẽ chăm chỉ học tập. bởi con biết đó là điều khiến bố mẹ hạnh phúc nhất. Hãy luôn bên con ba mẹ nhé. Chúng con yêu ba mẹ nhiều lắm.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoithan_2",
+   "content": "Anh trai, Cả nhà đang đón trung thu và nhắc tới anh nhiều lắm. Chúc anh trung thu vui vẻ bên bạn bè nhé.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoithan_3",
+   "content": "Trung thu về rồi, cháu xin chúc sức khỏe ông bà, cha mẹ. Chúc cho một ngày Tết đoàn viên và tràn đầy ý nghĩa tới toàn thể gia đình chúng ta!",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoithan_4",
+   "content": "Con kính chúc cha mẹ Trung thu tràn đầy sức khỏe, hạnh phúc. Con hứa sẽ chăm chỉ học hành, bởi đó là điều mà ba mong muốn nhất ở con. Mong rằng cha mẹ mãi mãi ở bên anh em con. Con yêu ba mẹ nhiều lắm.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoithan_5",
+   "content": "Con chúc ba mẹ đón trung thu vui vẻ, luôn mạnh khoẻ và mãi ở bên chúng con",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoithan_6",
+   "content": "Hãy để con được ôm ba mẹ và gửi ngàn vạn lời chúc tuyệt vời nhất tới ba mẹ trong ngày tết đoàn viên này.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoithan_7",
+   "content": "Trung thu đã về rồi, con kính chúc ba mẹ đón một cái Tết Trung thu vui vẻ, luôn khỏe mạnh và mãi ở bên chúng con. Cảm ơn ba mẹ vì đã tạo ra con trong cuộc đời này.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoithan_8",
+   "content": "Chị à, Trung thu nữa lại về, em lại không được gặp chị. Em muốn nói với chị rằng \"Em nhớ chị của em rất nhiều\". Mong rằng, ở phương trời xa chị luôn mạnh khỏe, đừng buồn chị nhé.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoithan_9",
+   "content": "Nhân dịp Tết Trung Thu, ba mẹ chúc con yêu luôn được vui vẻ, mau ăn chóng lớn và học ngày càng giỏi.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoithan_10",
+   "content": "Ngày Tết đoàn viên đã đến gần, em chúc gia đình anh chị luôn khoẻ mạnh, hạnh phúc và cầu mong những điều tốt đẹp nhất sẽ đến",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoithan_11",
+   "content": "Cám ơn Mẹ, người đã sinh ra con và nuôi dưỡng con cho tới ngày trưởng thành. Cám ơn Mẹ, về những tháng ngày nhọc nhằn đã làm lưng Mẹ còng xuống, đôi mắt mẹ thâm quầng vì những đêm không ngủ, về những nỗi buồn lo mà Mẹ đã từng âm thầm chịu đựng trong suốt bao năm qua….Con chúc Mẹ một ngày trung thu thật vui vẻ và sống khỏe, con yêu Mẹ nhiều.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoithan_12",
+   "content": "Con không biết nói gì ngoài lời cảm ơn và mong muốn sẽ được ở bên ba mẹ. Hãy luôn là điểm tựa của con ba mẹ nhé.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoithan_13",
+   "content": "Trung Thu đã tới anh chúc em gái bé bỏng vui vẻ, học giỏi, ngày càng xinh đẹp, đặc biệt nhận được thật nhiều quà nữa nhé!",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoithan_14",
+   "content": "Thêm một cái tết Trung Thu nữa lại về, con kính chúc ông bà sức khỏe dồi dào, mỗi ngày đều tràn ngập niềm vui. Và đặc biệt, có thể cùng cháu đón thêm nhiều ngày Tết Trung Thu nữa, ông bà nhé! Cháu ngoan của ông bà!",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoithan_15",
+   "content": "Ngày Trung thu, cháu chúc ông bà luôn mạnh khỏe, phúc như Đông hải, thọ tỷ Nam sơn. Chúc cho một ngày Tết đoàn viên và tràn đầy ý nghĩa tới toàn thể đại gia đình chúng ta.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoithan_16",
+   "content": "Chúc cả gia đình ta đón Tết Trung Thu an yên, hạnh phúc!",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoithan_17",
+   "content": "Chúc anh trai yêu quý của em Trung Thu vui vẻ và đừng quên mua quà cho em gái ngoan của anh nha!",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoithan_18",
+   "content": "Trung thu này con không về phá cỗ cùng gia đình mình. Con kính chúc bố mẹ, chúc các em đón trung thu vui vẻ, ấm áp. Con nhớ và yêu mọi người nhiều.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoithan_19",
+   "content": "Không khí Tết Trung Thu đã bắt đầu, chị chúc bé cưng luôn luôn được vui vẻ, học giỏi và mãi là em gái ngoan của chị",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoithan_20",
+   "content": "Trung thu đã đến rồi, con kính chúc ba mẹ đón một cái Tết Trung thu thật vui vẻ, luôn khỏe mạnh và mãi ở bên chúng con. Cảm ơn ba mẹ vì đã tạo ra con trong cuộc đời này.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoithan_21",
+   "content": "Con cảm ơn cha mẹ đã mang con đến với thế giới tươi đẹp này và con rất hạnh phúc khi được làm con của ba mẹ. Nhân ngày Tết Trung Thu con kính chúc ba mẹ vui vẻ, hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoithan_22",
+   "content": "Thời gian trôi nhanh thật, con lớn lên bố mẹ cũng ngày càng già đi. Nhưng những nét đẹp hiền hậu trên khuôn mặt của bố mẹ vẫn như ngày đầu con nhìn thấy. Tình yêu mà bố mẹ dành cho con tựa núi Thái Sơn và không gì có thể sánh bằng. Con đã xa nhà tính cũng gần 3 cái trung thu rồi, ngày tết đoàn viên mà con không có ở nhà, con nhớ bố mẹ nhiều lắm, chúc bố mẹ an vui và luôn mạnh khỏe. Con yêu bố mẹ nhất trên đời!",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoithan_23",
+   "content": "Chị gái à, cả nhà mình đang quây quần bên nhau ngắm chị Hằng và phá cỗ vui lắm chị à. Chúc chị trung thu vui vẻ và ý nghĩa bên bạn bè chị nhé.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoithan_24",
+   "content": "Trong ngày đoàn viên gia đình sum họp nhưng con lại không thể ở bên bố mẹ vì còn bận cho việc học tập. Tuy không thể về nhà nhưng con muốn gởi đến bố mẹ lời chúc Tết Trung Thu thật vui vẻ hạnh phúc. Con yêu bố mẹ nhiều lắm!",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoithan_25",
+   "content": "Kính chúc bố mẹ Tết Trung thu thật dồi dào sức khỏe, vui vẻ hạnh phúc bên chúng con và sẽ mãi là chỗ dựa tinh thần vững chắc cho chúng con.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoithan_26",
+   "content": "Lại 1 cái tết trung thu nữa lại về, con kính chúc ông bà, cha mẹ sẽ có 1 các tết trung thu thật vui vẻ và hạnh phúc và luôn luôn khỏe mạnh để ở bên các con nhé.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoithan_27",
+   "content": "Mẹ ơi! Một trung thu nữa lại về rồi, lòng con nhớ thương mẹ vô cùng. Con nhớ cái tết trung thu ở quê mình ấm áp với mùi bánh nướng thơm nức, con nhớ tiếng trống lân, nhớ hình dáng của những chiếc lồng đèn của bọn trẻ con…Ước gì con được ở quê hương giờ này mẹ nhỉ!",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoithan_28",
+   "content": "Trung thu đến rồi, chúc các bé hay ăn, chóng lớn, mãi là bé ngoan.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoithan_29",
+   "content": "Trung thu này, con chúc cả nhà mình một mùa đoàn viên thật ấm áp và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoithan_30",
+   "content": "Chúc mừng Trung thu! Con kính chúc ông bà mạnh khỏe và vui vầy bên con cháu.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoithan_31",
+   "content": "Trung thu an lành! Con chúc bố mẹ sức khỏe dồi dào và luôn vui vẻ.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoithan_32",
+   "content": "Chúc cả nhà một mùa Trung thu tròn đầy như vầng trăng rằm tháng Tám.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoithan_33",
+   "content": "Trung thu này, con chúc gia đình mình luôn bên nhau và luôn hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoithan_34",
+   "content": "Chúc mừng Tết Trung thu! Con kính chúc ông bà bố mẹ bình an và an yên.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoithan_35",
+   "content": "Trung thu an lành! Chúc cả nhà một đêm rằm thật đẹp bên mâm cỗ ấm cúng.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoithan_36",
+   "content": "Con chúc gia đình mình một mùa Trung thu ngập tràn tiếng cười và yêu thương.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoithan_37",
+   "content": "Trung thu này, con chúc bố mẹ bớt vất vả và có nhiều thời gian nghỉ ngơi hơn.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoithan_38",
+   "content": "Chúc mừng Trung thu! Con kính chúc cả nhà mọi điều tốt đẹp nhất.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoithan_39",
+   "content": "Trung thu an lành! Chúc gia đình mình một mùa đoàn viên thật trọn vẹn.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoithan_40",
+   "content": "Con chúc cả nhà một Trung thu ấm áp, dù ai ở xa cũng hướng về gia đình.",
+   "translate": ""
+  }
+ ]
+}

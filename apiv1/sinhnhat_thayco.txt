@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "sinhnhat_thayco_1",
+   "content": "Chúc mừng sinh nhật thầy/cô! Em kính chúc thầy cô một tuổi mới dồi dào sức khỏe, luôn vui và luôn yêu nghề.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_thayco_2",
+   "content": "Happy birthday cô! Em kính chúc cô tuổi mới mạnh khỏe, hạnh phúc và luôn rạng rỡ trên bục giảng.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_thayco_3",
+   "content": "Chúc mừng sinh nhật thầy! Em chúc thầy tuổi mới nhiều sức khỏe để tiếp tục dìu dắt bao thế hệ học trò.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_thayco_4",
+   "content": "Kính chúc cô một tuổi mới an lành, bình yên và luôn được học trò yêu quý.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_thayco_5",
+   "content": "Chúc mừng sinh nhật thầy/cô! Cảm ơn thầy cô vì tất cả, chúc thầy cô tuổi mới thật nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_thayco_6",
+   "content": "Happy birthday thầy! Em kính chúc thầy tuổi mới sức khỏe dẻo dai, tinh thần minh mẫn.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_thayco_7",
+   "content": "Chúc mừng sinh nhật cô! Chúc cô tuổi mới mãi trẻ trung, mãi nhiệt huyết và mãi được trò thương.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_thayco_8",
+   "content": "Kính chúc thầy tuổi mới vạn sự như ý, gia đình hạnh phúc, sự nghiệp trồng người viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_thayco_9",
+   "content": "Chúc mừng sinh nhật cô! Em chúc cô tuổi mới bớt vất vả, nhiều thời gian nghỉ ngơi hơn.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_thayco_10",
+   "content": "Happy birthday thầy/cô! Em kính chúc thầy cô tuổi mới an khang, thịnh vượng, vạn sự hanh thông.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_thayco_11",
+   "content": "Chúc mừng sinh nhật thầy! Chúc thầy tuổi mới luôn giữ được ngọn lửa nghề đáng quý.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_thayco_12",
+   "content": "Kính chúc cô một tuổi mới khỏe mạnh, vui vẻ và ngập tràn yêu thương từ học trò.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_thayco_13",
+   "content": "Chúc mừng sinh nhật thầy/cô! Chúc thầy cô tuổi mới mọi điều tốt đẹp nhất sẽ đến.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_thayco_14",
+   "content": "Happy birthday cô! Em chúc cô tuổi mới luôn xinh đẹp, luôn dịu dàng và luôn hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_thayco_15",
+   "content": "Chúc mừng sinh nhật thầy! Em kính chúc thầy tuổi mới bình an, viên mãn và nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_thayco_16",
+   "content": "Kính chúc thầy cô một tuổi mới dồi dào sức khỏe, tâm hồn thư thái, cuộc sống đủ đầy.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_thayco_17",
+   "content": "Chúc mừng sinh nhật cô! Chúc cô tuổi mới gặt hái thêm nhiều thế hệ học trò thành đạt.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_thayco_18",
+   "content": "Happy birthday thầy! Chúc thầy tuổi mới mạnh khỏe, an vui và luôn tự hào về học trò của mình.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_thayco_19",
+   "content": "Chúc mừng sinh nhật thầy/cô! Em chúc thầy cô tuổi mới thật nhiều sức khỏe và thật nhiều tiếng cười.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_thayco_20",
+   "content": "Kính chúc cô tuổi mới nhẹ nhàng, thong dong và luôn được yêu thương.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_thayco_21",
+   "content": "Chúc mừng sinh nhật thầy! Em chúc thầy tuổi mới công việc thuận lợi, gia đình êm ấm.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_thayco_22",
+   "content": "Happy birthday cô! Em kính chúc cô tuổi mới an nhiên, tự tại và luôn mỉm cười.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_thayco_23",
+   "content": "Chúc mừng sinh nhật thầy/cô! Chúc thầy cô tuổi mới sức khỏe như ý, hạnh phúc trọn vẹn.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_thayco_24",
+   "content": "Kính chúc thầy một tuổi mới tràn đầy năng lượng và thật nhiều điều may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_thayco_25",
+   "content": "Chúc mừng sinh nhật cô! Chúc cô tuổi mới luôn khỏe để còn truyền cảm hứng cho bao lớp học trò.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_thayco_26",
+   "content": "Happy birthday thầy! Em chúc thầy tuổi mới vạn sự cát tường, phúc lộc đầy nhà.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_thayco_27",
+   "content": "Chúc mừng sinh nhật thầy/cô! Chúc thầy cô tuổi mới ít lo toan, nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_thayco_28",
+   "content": "Kính chúc cô tuổi mới mọi dự định đều thành, mọi mong ước đều toại.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_thayco_29",
+   "content": "Chúc mừng sinh nhật thầy! Em kính chúc thầy tuổi mới khỏe mạnh, bình an và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_thayco_30",
+   "content": "Happy birthday cô! Chúc cô tuổi mới rực rỡ, đáng nhớ và ngập tràn yêu thương.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_thayco_31",
+   "content": "Chúc mừng sinh nhật thầy/cô! Em chúc thầy cô tuổi mới luôn được học trò nhớ tới và biết ơn.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_thayco_32",
+   "content": "Kính chúc thầy một tuổi mới an khang, trường thọ và thật nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_thayco_33",
+   "content": "Chúc mừng sinh nhật cô! Chúc cô tuổi mới sức khỏe bền bỉ, tinh thần phơi phới.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_thayco_34",
+   "content": "Happy birthday thầy! Em chúc thầy tuổi mới thành công, viên mãn và luôn hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_thayco_35",
+   "content": "Chúc mừng sinh nhật thầy/cô! Chúc thầy cô tuổi mới gặp nhiều may mắn và điều lành.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_thayco_36",
+   "content": "Kính chúc cô một tuổi mới thật đẹp, đúng như tấm lòng cô dành cho học trò.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_thayco_37",
+   "content": "Chúc mừng sinh nhật thầy! Chúc thầy tuổi mới mọi khó khăn đều qua, mọi điều tốt đều đến.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_thayco_38",
+   "content": "Happy birthday cô! Em kính chúc cô tuổi mới bình an, sung túc và tràn đầy hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_thayco_39",
+   "content": "Chúc mừng sinh nhật thầy/cô! Em chúc thầy cô tuổi mới sống vui, sống khỏe, sống ý nghĩa.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_thayco_40",
+   "content": "Kính chúc thầy cô tuổi mới thân tâm an lạc, gia đình hòa thuận, sự nghiệp vẻ vang.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_thayco_41",
+   "content": "Chúc mừng sinh nhật cô! Chúc cô tuổi mới luôn giữ được nụ cười ấm áp ấy.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_thayco_42",
+   "content": "Happy birthday thầy/cô! Em kính chúc thầy cô một tuổi mới trọn vẹn và thật nhiều may mắn.",
+   "translate": ""
+  }
+ ]
+}

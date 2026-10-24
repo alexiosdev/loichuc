@@ -1,0 +1,204 @@
+{
+ "result": [
+  {
+   "id": "mung1_tonghop_1",
+   "content": "Chúc ngày mùng 1 đầu tháng may mắn, nhiều tài lộc, cả tháng thuận lợi làm ăn phát đạt và hạnh phúc cả nhà nhé!",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tonghop_2",
+   "content": "Hôm nay mùng 1 đầu tháng là thời điểm tốt để chăm sóc một số doanh nghiệp mới và đặt mục tiêu mới. Chúc bạn một tháng đầy thành công với những thành tựu to lớn!",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tonghop_3",
+   "content": "Hôm nay mùng 1 đầu tháng, chúc mọi người sức khỏe và vui vẻ, có sức khỏe, có vui vẻ sẽ gặp may mắn cả tháng.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tonghop_4",
+   "content": "Chúc tất cả mọi người có một tháng mới với tinh thần luôn sảng khoái, vui vẻ, sức khoẻ luôn dồi dào",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tonghop_5",
+   "content": "Chúc mọi người đón chào tháng mới tràn ngập ấm áp yêu thương, thân khoẻ – tâm an – tứ đại điều hòa!!! Mùng 1 an nhiên cho cả tháng hạnh phúc nhé.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tonghop_6",
+   "content": "Chúc mọi người một tháng mới với nhiều điều may mắn, làm ăn phát đạt, thành công trong cuộc sống.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tonghop_7",
+   "content": "Tháng mới đến rồi, chúc cho người thân yêu của tôi một tháng mới tràn đầy năng lực, làm việc hết mình để việc kinh doanh buôn bán thuận lợi, suôn sẻ.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tonghop_8",
+   "content": "Chúc mọi người tháng mới mọi điều bình an, gặp nhiều may mắn trong việc buôn bán.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tonghop_9",
+   "content": "Tháng mới, chúc cho cửa hàng của bạn ngày càng có nhiều khách đến thăm, làm ăn phát đạt, kinh doanh được suôn sẻ.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tonghop_10",
+   "content": "Chúc cửa hàng của bạn một tháng mới kinh doanh suôn sẻ, thuận lợi và phát đạt.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tonghop_11",
+   "content": "Chúc mọi người tháng mới dồi dào sức khỏe, kinh doanh gặp nhiều may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tonghop_12",
+   "content": "Chúc bạn mùng 1 đầu tháng thật nhiều may mắn, bình an và mọi sự hanh thông.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tonghop_13",
+   "content": "Đầu tháng mới, chúc bạn mọi việc thuận lợi, tâm an và gặp nhiều điều tốt lành.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tonghop_14",
+   "content": "Mùng 1 may mắn! Chúc bạn một tháng mới khỏe mạnh, vui vẻ và đủ đầy.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tonghop_15",
+   "content": "Chúc bạn mùng 1 bình an, cả tháng hanh thông, vạn sự như ý.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tonghop_16",
+   "content": "Mùng 1 đầu tháng, chúc bạn một tháng mới nhiều lộc, nhiều may và nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tonghop_17",
+   "content": "Chúc bạn một tháng mới bình an, sức khỏe dồi dào và công việc suôn sẻ.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tonghop_18",
+   "content": "Đầu tháng mới, chúc bạn mọi dự định đều thành và mọi mong ước đều toại.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tonghop_19",
+   "content": "Mùng 1 may mắn! Chúc bạn tháng này gặt hái thật nhiều thành quả.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tonghop_20",
+   "content": "Chúc bạn mùng 1 tâm an, trí sáng và cả tháng đều thuận lợi.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tonghop_21",
+   "content": "Đầu tháng, chúc bạn một tháng mới nhẹ nhàng, thong dong và vui vẻ.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tonghop_22",
+   "content": "Mùng 1 đầu tháng, chúc bạn gặp vía lành, làm gì cũng thuận.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tonghop_23",
+   "content": "Chúc bạn một tháng mới an khang, thịnh vượng và vạn sự cát tường.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tonghop_24",
+   "content": "Đầu tháng mới, chúc bạn bỏ lại mọi muộn phiền tháng cũ và đón nhận điều tốt lành.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tonghop_25",
+   "content": "Mùng 1 may mắn! Chúc bạn tháng này nhiều sức khỏe và thật ít lo toan.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tonghop_26",
+   "content": "Chúc bạn mùng 1 bình an, cả tháng may mắn, cả năm hanh thông.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tonghop_27",
+   "content": "Đầu tháng, chúc bạn mọi khó khăn đều hóa thuận lợi và mọi nỗ lực đều được đền đáp.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tonghop_28",
+   "content": "Mùng 1 đầu tháng, chúc bạn một tháng mới tràn đầy năng lượng tích cực.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tonghop_29",
+   "content": "Chúc bạn một tháng mới bình yên, hạnh phúc và thật nhiều điều may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tonghop_30",
+   "content": "Đầu tháng mới, chúc bạn tâm luôn an, lòng luôn nhẹ và đời luôn vui.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tonghop_31",
+   "content": "Mùng 1 may mắn! Chúc bạn tháng này mọi mục tiêu đều cán đích.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tonghop_32",
+   "content": "Chúc bạn mùng 1 đầu tháng an lành, và cả tháng đều an lành như vậy.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tonghop_33",
+   "content": "Đầu tháng, chúc bạn một tháng mới khởi sắc trong mọi mặt của cuộc sống.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tonghop_34",
+   "content": "Mùng 1 đầu tháng, chúc bạn gặp toàn điều lành và tránh xa điều dữ.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tonghop_35",
+   "content": "Chúc bạn một tháng mới đủ đầy, sung túc và thật nhiều tiếng cười.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tonghop_36",
+   "content": "Đầu tháng mới, chúc bạn mọi việc hanh thông và tâm luôn thanh thản.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tonghop_37",
+   "content": "Mùng 1 may mắn! Chúc bạn một tháng mới bình an và thật nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tonghop_38",
+   "content": "Chúc bạn mùng 1 thật nhiều may mắn, và chúc cả tháng đều suôn sẻ.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tonghop_39",
+   "content": "Đầu tháng, chúc bạn sức khỏe dồi dào, tinh thần phơi phới và tài lộc viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tonghop_40",
+   "content": "Mùng 1 đầu tháng, chúc bạn mọi điều may mắn và một tháng thật suôn sẻ.",
+   "translate": ""
+  }
+ ]
+}

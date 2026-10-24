@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "sinhnhat_sep_1",
+   "content": "Kính chúc mừng sinh nhật sếp! Em chúc sếp một tuổi mới sức khỏe dồi dào, công việc hanh thông, gia đình hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_sep_2",
+   "content": "Happy birthday sếp! Em kính chúc sếp tuổi mới luôn sáng suốt, vững vàng và gặt hái thêm nhiều thành công.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_sep_3",
+   "content": "Chúc mừng sinh nhật sếp! Chúc sếp tuổi mới dẫn dắt công ty chinh phục những cột mốc cao hơn nữa.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_sep_4",
+   "content": "Kính chúc sếp một tuổi mới an khang, thịnh vượng, vạn sự như ý và luôn tràn đầy năng lượng.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_sep_5",
+   "content": "Chúc mừng sinh nhật sếp! Em chúc sếp tuổi mới bớt bận rộn, nhiều thời gian hơn cho gia đình.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_sep_6",
+   "content": "Happy birthday! Em kính chúc sếp tuổi mới mạnh khỏe, minh mẫn và giữ mãi phong độ dẫn dắt.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_sep_7",
+   "content": "Chúc mừng sinh nhật sếp! Cảm ơn sếp vì đã luôn tin tưởng và tạo cơ hội cho chúng em.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_sep_8",
+   "content": "Kính chúc sếp tuổi mới tài lộc dồi dào, sự nghiệp thăng hoa, gia đạo bình an.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_sep_9",
+   "content": "Chúc mừng sinh nhật sếp! Chúc sếp tuổi mới mọi quyết sách đều mang lại quả ngọt.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_sep_10",
+   "content": "Happy birthday sếp! Em chúc sếp một tuổi mới thật nhiều niềm vui và thật ít áp lực.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_sep_11",
+   "content": "Chúc mừng sinh nhật sếp! Em kính chúc sếp sức khỏe như núi Thái Sơn, trí tuệ luôn minh mẫn.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_sep_12",
+   "content": "Kính chúc sếp tuổi mới hanh thông mọi việc, thuận lợi mọi đường, viên mãn mọi điều.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_sep_13",
+   "content": "Chúc mừng sinh nhật sếp! Chúc sếp tuổi mới luôn là chỗ dựa vững chắc cho cả đội ngũ.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_sep_14",
+   "content": "Happy birthday! Em kính chúc sếp tuổi mới gặt hái trọn vẹn những gì sếp đã gieo trồng.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_sep_15",
+   "content": "Chúc mừng sinh nhật sếp! Chúc sếp tuổi mới an khang, hạnh phúc và thật nhiều thành tựu.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_sep_16",
+   "content": "Kính chúc sếp một tuổi mới dồi dào sinh lực, vững tay chèo đưa công ty vượt mọi sóng gió.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_sep_17",
+   "content": "Chúc mừng sinh nhật sếp! Em chúc sếp tuổi mới nhiều sức khỏe để tiếp tục truyền cảm hứng cho chúng em.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_sep_18",
+   "content": "Happy birthday sếp! Chúc sếp tuổi mới công danh rộng mở, tài lộc đầy nhà.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_sep_19",
+   "content": "Chúc mừng sinh nhật sếp! Chúc sếp tuổi mới tâm an, trí sáng, sự nghiệp vững vàng.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_sep_20",
+   "content": "Kính chúc sếp tuổi mới trăm điều như ý, ngàn điều tốt lành, vạn sự cát tường.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_sep_21",
+   "content": "Chúc mừng sinh nhật sếp! Em chúc sếp tuổi mới thật nhiều cơ hội tốt và nhiều đối tác tin cậy.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_sep_22",
+   "content": "Happy birthday! Em kính chúc sếp và gia đình một tuổi mới bình an, sung túc, hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_sep_23",
+   "content": "Chúc mừng sinh nhật sếp! Chúc sếp tuổi mới giữ mãi ngọn lửa nhiệt huyết đáng ngưỡng mộ.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_sep_24",
+   "content": "Kính chúc sếp một tuổi mới khỏe mạnh, thảnh thơi và thật nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_sep_25",
+   "content": "Chúc mừng sinh nhật sếp! Chúc sếp tuổi mới mọi mục tiêu đều cán đích ngoạn mục.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_sep_26",
+   "content": "Happy birthday sếp! Em chúc sếp tuổi mới thân tâm an lạc, công việc thuận buồm xuôi gió.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_sep_27",
+   "content": "Chúc mừng sinh nhật sếp! Chúc sếp tuổi mới phúc lộc song toàn, con cháu hiếu thảo.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_sep_28",
+   "content": "Kính chúc sếp tuổi mới bản lĩnh vững vàng và luôn gặp được những điều may mắn nhất.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_sep_29",
+   "content": "Chúc mừng sinh nhật sếp! Em chúc sếp tuổi mới doanh số bứt phá, đội ngũ đoàn kết.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_sep_30",
+   "content": "Happy birthday! Kính chúc sếp tuổi mới sức khỏe bền bỉ, tinh thần phơi phới.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_sep_31",
+   "content": "Chúc mừng sinh nhật sếp! Chúc sếp tuổi mới gặp quý nhân phù trợ, gặp thời gặp vận.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_sep_32",
+   "content": "Kính chúc sếp một tuổi mới rực rỡ, đáng nhớ và thật nhiều thành công.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_sep_33",
+   "content": "Chúc mừng sinh nhật sếp! Em chúc sếp tuổi mới luôn giữ được nụ cười và sự điềm tĩnh.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_sep_34",
+   "content": "Happy birthday sếp! Chúc sếp tuổi mới mọi khó khăn đều hóa cơ hội.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_sep_35",
+   "content": "Chúc mừng sinh nhật sếp! Kính chúc sếp tuổi mới an khang thịnh vượng, vạn sự hanh thông.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_sep_36",
+   "content": "Kính chúc sếp tuổi mới nhiều sức khỏe, nhiều niềm vui và nhiều chuyến đi đáng nhớ.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_sep_37",
+   "content": "Chúc mừng sinh nhật sếp! Chúc sếp tuổi mới dẫn đầu, tiên phong và luôn vững vàng.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_sep_38",
+   "content": "Happy birthday! Em kính chúc sếp tuổi mới thành công nối tiếp thành công.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_sep_39",
+   "content": "Chúc mừng sinh nhật sếp! Chúc sếp tuổi mới bình an trong tâm, viên mãn trong đời.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_sep_40",
+   "content": "Kính chúc sếp một tuổi mới ngập tràn niềm vui, sức khỏe và may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_sep_41",
+   "content": "Chúc mừng sinh nhật sếp! Em chúc sếp tuổi mới mọi điều mong cầu đều được như ý.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_sep_42",
+   "content": "Happy birthday sếp! Chúc sếp tuổi mới thật nhiều hạnh phúc bên gia đình và thành công trong sự nghiệp.",
+   "translate": ""
+  }
+ ]
+}

@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "tet_haihuoc_1",
+   "content": "Năm mới chúc bạn tiền vào như nước sông Đà, tiền ra nhỏ giọt như cà phê phin.",
+   "translate": ""
+  },
+  {
+   "id": "tet_haihuoc_2",
+   "content": "Chúc bạn năm mới gầy đi mười cân nhưng ăn uống vẫn thả ga, điều này khó nhưng cứ chúc đã.",
+   "translate": ""
+  },
+  {
+   "id": "tet_haihuoc_3",
+   "content": "Năm mới chúc bạn sức khỏe dồi dào, đi làm chăm chỉ, về nhà có người nấu cơm sẵn.",
+   "translate": ""
+  },
+  {
+   "id": "tet_haihuoc_4",
+   "content": "Chúc bạn một năm mới thoát ế thành công, nếu không thì năm sau mình lại chúc tiếp.",
+   "translate": ""
+  },
+  {
+   "id": "tet_haihuoc_5",
+   "content": "Năm mới chúc bạn ngủ nướng không bị gọi, đi trễ không bị trừ lương, làm sai không bị mắng.",
+   "translate": ""
+  },
+  {
+   "id": "tet_haihuoc_6",
+   "content": "Chúc bạn năm mới trúng số độc đắc, nhớ chia mình một ít gọi là lộc đầu năm.",
+   "translate": ""
+  },
+  {
+   "id": "tet_haihuoc_7",
+   "content": "Năm mới chúc bạn da đẹp dáng xinh, tiền đầy túi và crush nhắn tin trước.",
+   "translate": ""
+  },
+  {
+   "id": "tet_haihuoc_8",
+   "content": "Chúc bạn một năm mới deadline tự dời, sếp tự duyệt, lương tự tăng.",
+   "translate": ""
+  },
+  {
+   "id": "tet_haihuoc_9",
+   "content": "Năm mới chúc bạn ăn Tết thả phanh mà cân nặng vẫn đứng yên bất động.",
+   "translate": ""
+  },
+  {
+   "id": "tet_haihuoc_10",
+   "content": "Chúc bạn năm mới mở mắt ra là thấy tiền, nhắm mắt lại là ngủ ngon.",
+   "translate": ""
+  },
+  {
+   "id": "tet_haihuoc_11",
+   "content": "Năm mới chúc bạn pin điện thoại lúc nào cũng đầy, wifi lúc nào cũng mạnh, ví lúc nào cũng dày.",
+   "translate": ""
+  },
+  {
+   "id": "tet_haihuoc_12",
+   "content": "Chúc bạn một năm mới gặp toàn người tử tế, tránh xa mọi drama không cần thiết.",
+   "translate": ""
+  },
+  {
+   "id": "tet_haihuoc_13",
+   "content": "Năm mới chúc bạn xinh hơn năm ngoái, giàu hơn năm ngoái, và bớt lười hơn năm ngoái một chút thôi.",
+   "translate": ""
+  },
+  {
+   "id": "tet_haihuoc_14",
+   "content": "Chúc bạn năm mới đi đâu cũng có chỗ đỗ xe, mua gì cũng đúng đợt giảm giá.",
+   "translate": ""
+  },
+  {
+   "id": "tet_haihuoc_15",
+   "content": "Năm mới chúc bạn sức khỏe như trâu, tiền nhiều như lá, tình yêu đẹp như phim.",
+   "translate": ""
+  },
+  {
+   "id": "tet_haihuoc_16",
+   "content": "Chúc bạn một năm mới không bị hỏi tuổi, không bị hỏi lương, không bị hỏi bao giờ cưới.",
+   "translate": ""
+  },
+  {
+   "id": "tet_haihuoc_17",
+   "content": "Năm mới chúc bạn ăn gì cũng ngon, mua gì cũng rẻ, làm gì cũng thắng.",
+   "translate": ""
+  },
+  {
+   "id": "tet_haihuoc_18",
+   "content": "Chúc bạn năm mới thức dậy đúng giờ dù đã bấm báo thức mười lần.",
+   "translate": ""
+  },
+  {
+   "id": "tet_haihuoc_19",
+   "content": "Năm mới chúc bạn trúng thưởng, trúng quà, trúng tim ai đó và tuyệt đối không trúng gió.",
+   "translate": ""
+  },
+  {
+   "id": "tet_haihuoc_20",
+   "content": "Chúc bạn một năm mới cân nặng giảm, lương tăng, tóc dày, da sáng.",
+   "translate": ""
+  },
+  {
+   "id": "tet_haihuoc_21",
+   "content": "Năm mới chúc bạn làm ít hưởng nhiều, ngủ nhiều mà vẫn được khen chăm chỉ.",
+   "translate": ""
+  },
+  {
+   "id": "tet_haihuoc_22",
+   "content": "Chúc bạn năm mới mọi chuyện đều ổn, trừ chuyện ví tiền thì phải rất ổn.",
+   "translate": ""
+  },
+  {
+   "id": "tet_haihuoc_23",
+   "content": "Năm mới chúc bạn thoát khỏi cảnh cuối tháng ăn mì gói, đầu tháng tiêu như đại gia.",
+   "translate": ""
+  },
+  {
+   "id": "tet_haihuoc_24",
+   "content": "Chúc bạn một năm mới nhà có người dọn, cơm có người nấu, bát có người rửa.",
+   "translate": ""
+  },
+  {
+   "id": "tet_haihuoc_25",
+   "content": "Năm mới chúc bạn đi làm vui như đi chơi, lĩnh lương nhiều như trúng số.",
+   "translate": ""
+  },
+  {
+   "id": "tet_haihuoc_26",
+   "content": "Chúc bạn năm mới gặp sếp dễ tính, gặp khách dễ thương, gặp người yêu dễ chiều.",
+   "translate": ""
+  },
+  {
+   "id": "tet_haihuoc_27",
+   "content": "Năm mới chúc bạn ít họp hơn, ít báo cáo hơn, nhưng thưởng thì nhiều hơn hẳn.",
+   "translate": ""
+  },
+  {
+   "id": "tet_haihuoc_28",
+   "content": "Chúc bạn một năm mới điện thoại reo toàn tin vui, không có tin nhắn nhắc nợ.",
+   "translate": ""
+  },
+  {
+   "id": "tet_haihuoc_29",
+   "content": "Năm mới chúc bạn ăn ngủ điều độ, tiêu tiền vô độ mà tài khoản vẫn dư dả.",
+   "translate": ""
+  },
+  {
+   "id": "tet_haihuoc_30",
+   "content": "Chúc bạn năm mới nhan sắc thăng hạng, sự nghiệp thăng tiến, cân nặng đứng im.",
+   "translate": ""
+  },
+  {
+   "id": "tet_haihuoc_31",
+   "content": "Năm mới chúc bạn mỗi sáng thức dậy đều thấy mình giàu hơn hôm qua một chút.",
+   "translate": ""
+  },
+  {
+   "id": "tet_haihuoc_32",
+   "content": "Chúc bạn một năm mới không phải nghe câu \"khi nào lấy chồng\" từ bất kỳ ai.",
+   "translate": ""
+  },
+  {
+   "id": "tet_haihuoc_33",
+   "content": "Năm mới chúc bạn thành công rực rỡ, và nhớ khao cả hội một bữa cho phải phép.",
+   "translate": ""
+  },
+  {
+   "id": "tet_haihuoc_34",
+   "content": "Chúc bạn năm mới may mắn đến mức đi bộ cũng nhặt được tiền.",
+   "translate": ""
+  },
+  {
+   "id": "tet_haihuoc_35",
+   "content": "Năm mới chúc bạn ăn Tết no say, nhưng nhớ chừa chỗ cho bánh chưng nhà mình.",
+   "translate": ""
+  },
+  {
+   "id": "tet_haihuoc_36",
+   "content": "Chúc bạn một năm mới làm gì cũng được, trừ việc quên sinh nhật mình.",
+   "translate": ""
+  },
+  {
+   "id": "tet_haihuoc_37",
+   "content": "Năm mới chúc bạn thoát FA, nếu đã có đôi thì chúc không bị giận dỗi vô cớ.",
+   "translate": ""
+  },
+  {
+   "id": "tet_haihuoc_38",
+   "content": "Chúc bạn năm mới tiền tiêu không hết, việc làm không mệt, người yêu không ghen.",
+   "translate": ""
+  },
+  {
+   "id": "tet_haihuoc_39",
+   "content": "Năm mới chúc bạn mọi điều như ý, riêng cái bụng thì xin đừng như ý quá.",
+   "translate": ""
+  },
+  {
+   "id": "tet_haihuoc_40",
+   "content": "Chúc bạn một năm mới tỉnh táo hơn, bớt mua đồ online lúc nửa đêm.",
+   "translate": ""
+  },
+  {
+   "id": "tet_haihuoc_41",
+   "content": "Năm mới chúc bạn đi đâu cũng gặp quý nhân, về nhà thì gặp cơm nóng canh ngọt.",
+   "translate": ""
+  },
+  {
+   "id": "tet_haihuoc_42",
+   "content": "Chúc bạn năm mới vui như Tết, khỏe như voi và giàu như trong mơ.",
+   "translate": ""
+  }
+ ]
+}

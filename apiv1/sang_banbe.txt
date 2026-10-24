@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "sang_banbe_1",
+   "content": "Chào buổi sáng cậu nhé! Chúc cậu một ngày mới tràn đầy năng lượng và thật nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "sang_banbe_2",
+   "content": "Buổi sáng tốt lành! Chúc bạn một ngày làm việc hiệu quả và nhiều điều may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "sang_banbe_3",
+   "content": "Chào ngày mới! Chúc cậu hôm nay mọi việc đều suôn sẻ và tâm trạng luôn vui vẻ.",
+   "translate": ""
+  },
+  {
+   "id": "sang_banbe_4",
+   "content": "Dậy đi nào, một ngày mới đang chờ. Chúc cậu hôm nay thật nhiều năng lượng.",
+   "translate": ""
+  },
+  {
+   "id": "sang_banbe_5",
+   "content": "Chào buổi sáng! Chúc bạn một ngày nhẹ nhàng, thuận lợi và đầy cảm hứng.",
+   "translate": ""
+  },
+  {
+   "id": "sang_banbe_6",
+   "content": "Buổi sáng an lành! Chúc cậu hôm nay gặp toàn điều tốt và tránh xa phiền muộn.",
+   "translate": ""
+  },
+  {
+   "id": "sang_banbe_7",
+   "content": "Chào ngày mới cậu nhé! Chúc cậu một ngày thật vui và thật hiệu quả.",
+   "translate": ""
+  },
+  {
+   "id": "sang_banbe_8",
+   "content": "Chúc bạn một buổi sáng tươi mới và một ngày tràn ngập tiếng cười.",
+   "translate": ""
+  },
+  {
+   "id": "sang_banbe_9",
+   "content": "Chào buổi sáng! Hôm nay chúc cậu làm được nhiều việc và vẫn còn sức để đi chơi tối.",
+   "translate": ""
+  },
+  {
+   "id": "sang_banbe_10",
+   "content": "Buổi sáng tốt lành! Chúc bạn khởi đầu ngày mới thật suôn sẻ.",
+   "translate": ""
+  },
+  {
+   "id": "sang_banbe_11",
+   "content": "Chào ngày mới! Chúc cậu hôm nay bình an, khỏe mạnh và luôn mỉm cười.",
+   "translate": ""
+  },
+  {
+   "id": "sang_banbe_12",
+   "content": "Chúc bạn một buổi sáng đầy nắng và một ngày đầy may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "sang_banbe_13",
+   "content": "Chào buổi sáng cậu! Nhớ ăn sáng đầy đủ rồi hãy bắt đầu công việc nhé.",
+   "translate": ""
+  },
+  {
+   "id": "sang_banbe_14",
+   "content": "Buổi sáng an lành! Chúc bạn một ngày mới nhẹ nhàng và thật nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "sang_banbe_15",
+   "content": "Chào ngày mới! Chúc cậu hôm nay mọi dự định đều hoàn thành đúng kế hoạch.",
+   "translate": ""
+  },
+  {
+   "id": "sang_banbe_16",
+   "content": "Chúc bạn một buổi sáng tốt lành và một ngày thật đáng nhớ.",
+   "translate": ""
+  },
+  {
+   "id": "sang_banbe_17",
+   "content": "Chào buổi sáng! Chúc cậu hôm nay gặp nhiều người tử tế và nhiều chuyện vui.",
+   "translate": ""
+  },
+  {
+   "id": "sang_banbe_18",
+   "content": "Buổi sáng tốt lành! Chúc bạn tinh thần phơi phới và năng lượng dồi dào.",
+   "translate": ""
+  },
+  {
+   "id": "sang_banbe_19",
+   "content": "Chào ngày mới cậu nhé! Chúc cậu một ngày không stress và nhiều tiếng cười.",
+   "translate": ""
+  },
+  {
+   "id": "sang_banbe_20",
+   "content": "Chúc bạn buổi sáng an lành và một ngày làm việc thật trôi chảy.",
+   "translate": ""
+  },
+  {
+   "id": "sang_banbe_21",
+   "content": "Chào buổi sáng! Hôm nay chúc cậu đủ cà phê và đủ động lực để chiến đấu.",
+   "translate": ""
+  },
+  {
+   "id": "sang_banbe_22",
+   "content": "Buổi sáng an lành! Chúc bạn một ngày mới tràn đầy hy vọng.",
+   "translate": ""
+  },
+  {
+   "id": "sang_banbe_23",
+   "content": "Chào ngày mới! Chúc cậu hôm nay mọi việc đều nhẹ nhàng và thuận lợi.",
+   "translate": ""
+  },
+  {
+   "id": "sang_banbe_24",
+   "content": "Chúc bạn một buổi sáng vui vẻ và một ngày thật nhiều thành quả.",
+   "translate": ""
+  },
+  {
+   "id": "sang_banbe_25",
+   "content": "Chào buổi sáng cậu! Chúc cậu hôm nay giữ được tâm trạng tốt suốt cả ngày.",
+   "translate": ""
+  },
+  {
+   "id": "sang_banbe_26",
+   "content": "Buổi sáng tốt lành! Chúc bạn một ngày mới khởi sắc và đầy may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "sang_banbe_27",
+   "content": "Chào ngày mới! Chúc cậu hôm nay bớt lo, bớt nghĩ và vui nhiều hơn.",
+   "translate": ""
+  },
+  {
+   "id": "sang_banbe_28",
+   "content": "Chúc bạn một buổi sáng bình yên và một ngày thật trọn vẹn.",
+   "translate": ""
+  },
+  {
+   "id": "sang_banbe_29",
+   "content": "Chào buổi sáng! Chúc cậu hôm nay làm việc hiệu quả và nghỉ ngơi đủ đầy.",
+   "translate": ""
+  },
+  {
+   "id": "sang_banbe_30",
+   "content": "Buổi sáng an lành! Chúc bạn một ngày mới ngập tràn năng lượng tích cực.",
+   "translate": ""
+  },
+  {
+   "id": "sang_banbe_31",
+   "content": "Chào ngày mới cậu nhé! Chúc cậu hôm nay gặt hái được điều mình mong.",
+   "translate": ""
+  },
+  {
+   "id": "sang_banbe_32",
+   "content": "Chúc bạn buổi sáng tốt lành và một ngày đầy ắp niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "sang_banbe_33",
+   "content": "Chào buổi sáng! Hôm nay chúc cậu mọi khó khăn đều hóa thuận lợi.",
+   "translate": ""
+  },
+  {
+   "id": "sang_banbe_34",
+   "content": "Buổi sáng tốt lành! Chúc bạn một ngày mới an lành và thật nhiều may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "sang_banbe_35",
+   "content": "Chào ngày mới! Chúc cậu hôm nay tự tin và làm chủ được mọi việc.",
+   "translate": ""
+  },
+  {
+   "id": "sang_banbe_36",
+   "content": "Chúc bạn một buổi sáng thật đẹp và một ngày thật ý nghĩa.",
+   "translate": ""
+  },
+  {
+   "id": "sang_banbe_37",
+   "content": "Chào buổi sáng cậu! Chúc cậu hôm nay nhiều niềm vui và ít deadline.",
+   "translate": ""
+  },
+  {
+   "id": "sang_banbe_38",
+   "content": "Buổi sáng an lành! Chúc bạn một ngày mới bình an và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "sang_banbe_39",
+   "content": "Chào ngày mới! Chúc cậu hôm nay mọi điều tốt đẹp nhất sẽ đến.",
+   "translate": ""
+  },
+  {
+   "id": "sang_banbe_40",
+   "content": "Chúc bạn một buổi sáng tràn đầy nắng ấm và một ngày tràn đầy niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "sang_banbe_41",
+   "content": "Chào buổi sáng! Chúc cậu một ngày mới thật suôn sẻ và thật đáng sống.",
+   "translate": ""
+  },
+  {
+   "id": "sang_banbe_42",
+   "content": "Buổi sáng tốt lành cậu nhé! Chúc cậu hôm nay cười nhiều hơn hôm qua.",
+   "translate": ""
+  }
+ ]
+}

@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "halloween_1",
+   "content": "Happy Halloween! Chúc bạn một đêm Halloween thật vui và thật nhiều kẹo.",
+   "translate": ""
+  },
+  {
+   "id": "halloween_2",
+   "content": "Chúc mừng Halloween! Chúc bạn hóa trang thật ấn tượng và chơi thật đã.",
+   "translate": ""
+  },
+  {
+   "id": "halloween_3",
+   "content": "Happy Halloween! Chúc bạn một mùa lễ hội ma quái thật thú vị.",
+   "translate": ""
+  },
+  {
+   "id": "halloween_4",
+   "content": "Halloween vui vẻ! Chúc bạn không bị ai hù, mà chỉ đi hù người khác thôi.",
+   "translate": ""
+  },
+  {
+   "id": "halloween_5",
+   "content": "Chúc mừng Halloween! Chúc bạn một đêm đầy bí ngô, kẹo ngọt và tiếng cười.",
+   "translate": ""
+  },
+  {
+   "id": "halloween_6",
+   "content": "Happy Halloween! Chúc bạn có bộ trang phục đẹp nhất bữa tiệc tối nay.",
+   "translate": ""
+  },
+  {
+   "id": "halloween_7",
+   "content": "Halloween vui vẻ! Chúc bạn gõ cửa nhà nào cũng được cho kẹo.",
+   "translate": ""
+  },
+  {
+   "id": "halloween_8",
+   "content": "Chúc mừng Halloween! Chúc bạn một đêm thật vui với bạn bè.",
+   "translate": ""
+  },
+  {
+   "id": "halloween_9",
+   "content": "Happy Halloween! Chúc bạn tận hưởng không khí lễ hội thật trọn vẹn.",
+   "translate": ""
+  },
+  {
+   "id": "halloween_10",
+   "content": "Halloween vui vẻ! Chúc bạn hù dọa thành công và cười thật nhiều.",
+   "translate": ""
+  },
+  {
+   "id": "halloween_11",
+   "content": "Chúc mừng Halloween! Chúc bạn một mùa lễ hội an toàn và vui vẻ.",
+   "translate": ""
+  },
+  {
+   "id": "halloween_12",
+   "content": "Happy Halloween! Chúc bạn không gặp ma, chỉ gặp toàn điều vui.",
+   "translate": ""
+  },
+  {
+   "id": "halloween_13",
+   "content": "Halloween vui vẻ! Chúc bạn có những bức ảnh hóa trang thật đẹp.",
+   "translate": ""
+  },
+  {
+   "id": "halloween_14",
+   "content": "Chúc mừng Halloween! Chúc bạn một đêm thật đáng nhớ và thật thú vị.",
+   "translate": ""
+  },
+  {
+   "id": "halloween_15",
+   "content": "Happy Halloween! Chúc bạn nhận được thật nhiều kẹo và thật ít trò chọc phá.",
+   "translate": ""
+  },
+  {
+   "id": "halloween_16",
+   "content": "Halloween vui vẻ! Chúc bạn một buổi tối đầy màu sắc và tiếng cười.",
+   "translate": ""
+  },
+  {
+   "id": "halloween_17",
+   "content": "Chúc mừng Halloween! Chúc bạn tận hưởng một đêm thật khác biệt.",
+   "translate": ""
+  },
+  {
+   "id": "halloween_18",
+   "content": "Happy Halloween! Chúc bạn hóa trang thật chất và chơi thật vui.",
+   "translate": ""
+  },
+  {
+   "id": "halloween_19",
+   "content": "Halloween vui vẻ! Chúc bạn một mùa lễ hội thật nhiều kỷ niệm đẹp.",
+   "translate": ""
+  },
+  {
+   "id": "halloween_20",
+   "content": "Chúc mừng Halloween! Chúc bạn không bị dọa đến mức mất ngủ nhé.",
+   "translate": ""
+  },
+  {
+   "id": "halloween_21",
+   "content": "Happy Halloween! Chúc bạn một đêm thật vui và thật nhiều niềm vui bất ngờ.",
+   "translate": ""
+  },
+  {
+   "id": "halloween_22",
+   "content": "Halloween vui vẻ! Chúc bạn có một bữa tiệc thật tuyệt bên bạn bè.",
+   "translate": ""
+  },
+  {
+   "id": "halloween_23",
+   "content": "Chúc mừng Halloween! Chúc bạn một đêm lễ hội an toàn và vui vẻ.",
+   "translate": ""
+  },
+  {
+   "id": "halloween_24",
+   "content": "Happy Halloween! Chúc bạn nhận được nhiều kẹo hơn cả lũ trẻ hàng xóm.",
+   "translate": ""
+  },
+  {
+   "id": "halloween_25",
+   "content": "Halloween vui vẻ! Chúc bạn có bộ đồ hóa trang khiến ai cũng phải nhìn.",
+   "translate": ""
+  },
+  {
+   "id": "halloween_26",
+   "content": "Chúc mừng Halloween! Chúc bạn một tối thật vui vẻ và thoải mái.",
+   "translate": ""
+  },
+  {
+   "id": "halloween_27",
+   "content": "Happy Halloween! Chúc bạn chơi hết mình và cười hết cỡ.",
+   "translate": ""
+  },
+  {
+   "id": "halloween_28",
+   "content": "Halloween vui vẻ! Chúc bạn một mùa lễ hội thật đáng nhớ.",
+   "translate": ""
+  },
+  {
+   "id": "halloween_29",
+   "content": "Chúc mừng Halloween! Chúc bạn có những khoảnh khắc thật vui bên bạn bè.",
+   "translate": ""
+  },
+  {
+   "id": "halloween_30",
+   "content": "Happy Halloween! Chúc bạn một đêm đầy bất ngờ nhưng toàn bất ngờ dễ thương.",
+   "translate": ""
+  },
+  {
+   "id": "halloween_31",
+   "content": "Halloween vui vẻ! Chúc bạn tận hưởng không khí ma mị một cách thật vui.",
+   "translate": ""
+  },
+  {
+   "id": "halloween_32",
+   "content": "Chúc mừng Halloween! Chúc bạn một buổi tối thú vị và đáng nhớ.",
+   "translate": ""
+  },
+  {
+   "id": "halloween_33",
+   "content": "Happy Halloween! Chúc bạn hóa trang thành công và được khen hết lời.",
+   "translate": ""
+  },
+  {
+   "id": "halloween_34",
+   "content": "Halloween vui vẻ! Chúc bạn một đêm thật vui, thật an toàn và thật nhiều kẹo.",
+   "translate": ""
+  },
+  {
+   "id": "halloween_35",
+   "content": "Chúc mừng Halloween! Chúc bạn có một mùa lễ hội tràn ngập tiếng cười.",
+   "translate": ""
+  },
+  {
+   "id": "halloween_36",
+   "content": "Happy Halloween! Chúc bạn không gặp rắc rối nào, chỉ gặp toàn niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "halloween_37",
+   "content": "Halloween vui vẻ! Chúc bạn một đêm hóa trang thật ấn tượng.",
+   "translate": ""
+  },
+  {
+   "id": "halloween_38",
+   "content": "Chúc mừng Halloween! Chúc bạn tận hưởng từng khoảnh khắc của đêm nay.",
+   "translate": ""
+  },
+  {
+   "id": "halloween_39",
+   "content": "Happy Halloween! Chúc bạn một mùa Halloween vui vẻ và an lành.",
+   "translate": ""
+  },
+  {
+   "id": "halloween_40",
+   "content": "Halloween vui vẻ! Chúc bạn có thật nhiều ảnh đẹp và thật nhiều kỷ niệm.",
+   "translate": ""
+  },
+  {
+   "id": "halloween_41",
+   "content": "Chúc mừng Halloween! Chúc bạn một đêm thật vui bên những người bạn thân.",
+   "translate": ""
+  },
+  {
+   "id": "halloween_42",
+   "content": "Happy Halloween! Chúc bạn kẹo đầy túi và nụ cười đầy mặt.",
+   "translate": ""
+  }
+ ]
+}

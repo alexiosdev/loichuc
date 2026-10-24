@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "cuoi_haihuoc_1",
+   "content": "Chúc mừng đám cưới! Chúc hai bạn trăm năm hạnh phúc, và chúc cậu từ nay có người quản lý tài chính giúp.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_haihuoc_2",
+   "content": "Chúc mừng hạnh phúc! Từ nay cậu chính thức hết tự do, mình chia buồn và chúc mừng cùng lúc.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_haihuoc_3",
+   "content": "Chúc mừng đám cưới! Chúc hai bạn cãi nhau ít thôi, và nếu cãi thì nhớ làm lành trong ngày.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_haihuoc_4",
+   "content": "Chúc cậu trăm năm hạnh phúc! Nhớ là từ giờ muốn đi nhậu phải xin phép đấy.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_haihuoc_5",
+   "content": "Chúc mừng ngày vui! Chúc hai bạn mãi yêu nhau, và chúc cậu mãi nhớ ngày kỷ niệm.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_haihuoc_6",
+   "content": "Chúc mừng đám cưới! Chúc hai bạn thuận vợ thuận chồng, tát biển Đông cũng cạn, nhưng đừng tát nhau nhé.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_haihuoc_7",
+   "content": "Chúc mừng hạnh phúc! Chúc cậu từ nay cơm ngon canh ngọt và bát đũa có người rửa.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_haihuoc_8",
+   "content": "Chúc mừng đám cưới! Chúc hai bạn sớm sinh quý tử, nhưng từ từ thôi, hưởng thụ đã.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_haihuoc_9",
+   "content": "Chúc cậu lên xe hoa vui vẻ! Chúc cậu mãi giữ được quyền quyết định, dù chỉ là chọn món ăn tối.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_haihuoc_10",
+   "content": "Chúc mừng ngày trọng đại! Chúc hai bạn hạnh phúc, và chúc ví của cậu luôn còn chút tiền riêng.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_haihuoc_11",
+   "content": "Chúc mừng đám cưới! Chúc hai bạn mãi mặn nồng, mặn vừa thôi kẻo cao huyết áp.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_haihuoc_12",
+   "content": "Chúc mừng hạnh phúc! Chúc cậu từ nay đi đâu cũng có người đi cùng, kể cả đi họp lớp.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_haihuoc_13",
+   "content": "Chúc mừng đám cưới! Chúc hai bạn trăm năm hạnh phúc, và chúc cậu nhớ sinh nhật vợ.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_haihuoc_14",
+   "content": "Chúc cậu hạnh phúc nhé! Từ nay cậu có hai sếp rồi, ở công ty một và ở nhà một.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_haihuoc_15",
+   "content": "Chúc mừng ngày vui! Chúc hai bạn luôn hiểu nhau, nhất là lúc chia việc nhà.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_haihuoc_16",
+   "content": "Chúc mừng đám cưới! Chúc cậu luôn thắng trong mọi cuộc tranh luận, bằng cách im lặng.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_haihuoc_17",
+   "content": "Chúc mừng hạnh phúc! Chúc hai bạn sống với nhau đến đầu bạc răng long, và cùng đi khám răng định kỳ.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_haihuoc_18",
+   "content": "Chúc mừng đám cưới! Chúc cậu từ nay không còn phải ăn mì gói lúc nửa đêm nữa.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_haihuoc_19",
+   "content": "Chúc cậu trăm năm hạnh phúc! Nhớ là lương về thì nộp đúng hạn nhé.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_haihuoc_20",
+   "content": "Chúc mừng ngày trọng đại! Chúc hai bạn mãi yêu nhau như hồi còn chưa cưới.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_haihuoc_21",
+   "content": "Chúc mừng đám cưới! Chúc hai bạn hạnh phúc, và chúc cậu học nhanh cách nói câu \"em nói đúng\".",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_haihuoc_22",
+   "content": "Chúc mừng hạnh phúc! Chúc cậu từ nay có người nhắc uống thuốc và nhắc mặc áo ấm.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_haihuoc_23",
+   "content": "Chúc mừng đám cưới! Chúc hai bạn mãi vui, và chúc cậu vẫn được đi đá bóng cuối tuần.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_haihuoc_24",
+   "content": "Chúc cậu hạnh phúc nhé! Chúc hai bạn con đàn cháu đống, nhưng nhớ tính toán kinh tế trước.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_haihuoc_25",
+   "content": "Chúc mừng ngày vui! Chúc hai bạn ít giận nhau, và nếu giận thì đừng quá ba tiếng.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_haihuoc_26",
+   "content": "Chúc mừng đám cưới! Chúc cậu từ nay có người chia sẻ hóa đơn tiền điện.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_haihuoc_27",
+   "content": "Chúc mừng hạnh phúc! Chúc hai bạn mãi bên nhau, kể cả khi remote control chỉ có một cái.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_haihuoc_28",
+   "content": "Chúc mừng đám cưới! Chúc cậu luôn nhớ rằng vợ luôn đúng, kể cả khi vợ sai.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_haihuoc_29",
+   "content": "Chúc cậu trăm năm hạnh phúc! Chúc hai bạn ăn ý đến mức không cần nói cũng hiểu.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_haihuoc_30",
+   "content": "Chúc mừng ngày trọng đại! Chúc cậu từ nay có người cùng lười vào cuối tuần.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_haihuoc_31",
+   "content": "Chúc mừng đám cưới! Chúc hai bạn hạnh phúc và chúc cậu vẫn còn được chơi game.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_haihuoc_32",
+   "content": "Chúc mừng hạnh phúc! Chúc hai bạn mãi yêu nhau, và chúc cân nặng của cả hai đừng tăng quá nhanh.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_haihuoc_33",
+   "content": "Chúc mừng đám cưới! Chúc cậu từ nay có người cùng xem phim mà không tranh remote.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_haihuoc_34",
+   "content": "Chúc cậu hạnh phúc nhé! Chúc hai bạn trăm năm hạnh phúc và tủ lạnh luôn đầy đồ ăn.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_haihuoc_35",
+   "content": "Chúc mừng ngày vui! Chúc hai bạn luôn vui vẻ, và chúc cậu đừng ngáy to quá.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_haihuoc_36",
+   "content": "Chúc mừng đám cưới! Chúc hai bạn mãi mặn nồng, và chúc nhà mình luôn có wifi mạnh.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_haihuoc_37",
+   "content": "Chúc mừng hạnh phúc! Chúc cậu từ nay có bạn đời, và vẫn còn bạn nhậu là mình.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_haihuoc_38",
+   "content": "Chúc mừng đám cưới! Chúc hai bạn hạnh phúc, và nhớ mời mình ăn cưới lần nữa nếu có dịp.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_haihuoc_39",
+   "content": "Chúc cậu trăm năm hạnh phúc! Chúc hai bạn mãi hợp nhau, nhất là khoản gu ăn uống.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_haihuoc_40",
+   "content": "Chúc mừng ngày trọng đại! Chúc cậu từ nay bớt lông bông và chăm chỉ hơn hẳn.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_haihuoc_41",
+   "content": "Chúc mừng đám cưới! Chúc hai bạn luôn thương nhau, và luôn chia việc nhà công bằng.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_haihuoc_42",
+   "content": "Chúc mừng hạnh phúc! Chúc cậu hạnh phúc đến mức bạn bè phải ghen tị.",
+   "translate": ""
+  }
+ ]
+}

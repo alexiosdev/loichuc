@@ -1,0 +1,204 @@
+{
+ "result": [
+  {
+   "id": "2010_vo_1",
+   "content": "Vợ yêu à! Anh thực sự thầm cảm ơn ông trời đã mang em đến bên anh. Nhân ngày 20/10, anh chúc em luôn vui tươi, xinh đẹp và mãi bên anh nhé!",
+   "translate": ""
+  },
+  {
+   "id": "2010_vo_2",
+   "content": "Vợ yêu quý, với anh, có em bên cạnh thực sự là một điều hằng mong ước. Trong ngày 20/10 đặc biệt này, anh muốn gửi tới em ngàn lời yêu thương và một tấm lòng với tình cảm nồng cháy. Cảm ơn em đã đến bên anh.",
+   "translate": ""
+  },
+  {
+   "id": "2010_vo_3",
+   "content": "Chúc người bạn \"ngàn kiếp\" của anh một ngày 20/10 ý nghĩa, hạnh phúc và tràn ngập niềm vui!",
+   "translate": ""
+  },
+  {
+   "id": "2010_vo_4",
+   "content": "Vợ yêu ơi, anh đã rất may mắn vì đã có em trong cuộc đời này. Nhân ngày 20/10, anh chúc vợ luôn mạnh khỏe, vui vẻ và là hậu phương vững chắc của anh và các con nhé!",
+   "translate": ""
+  },
+  {
+   "id": "2010_vo_5",
+   "content": "Nhân dịp 20/10, anh chúc \"đồng chí vợ\" có một ngày ý nghĩa, tuyệt vời và đầy ngọt ngào. Hơn hết, chúc em có 365 ngày luôn có nhiều niềm vui và hạnh phúc khi ở bên cạnh anh.",
+   "translate": ""
+  },
+  {
+   "id": "2010_vo_6",
+   "content": "Nhân ngày 20/10, anh chúc vợ những điều tốt đẹp nhất, mọi giông tố cuộc đời để anh lo. Việc của em là hãy sống vui và luôn yêu thương, vun đắp hạnh phúc gia đình em nhé!",
+   "translate": ""
+  },
+  {
+   "id": "2010_vo_7",
+   "content": "Chúc vợ yêu của anh ngày 20/10 thật ngọt ngào và tràn đầy hạnh phúc!",
+   "translate": ""
+  },
+  {
+   "id": "2010_vo_8",
+   "content": "Happy Vietnamese Women's Day vợ yêu, cảm ơn em rất nhiều vì đã đến bên anh, em mãi là người anh trân trọng và yêu thương đến hết cuộc đời này.",
+   "translate": ""
+  },
+  {
+   "id": "2010_vo_9",
+   "content": "Vợ yêu của anh, chúc em một ngày 20/10 tràn ngập niềm vui, trẻ trung và mãi mãi bên anh nhé!",
+   "translate": ""
+  },
+  {
+   "id": "2010_vo_10",
+   "content": "Em yêu à, ngày 20/10 với anh thực sự là một ngày đặc biệt, ngày mà anh có thể lấy hết tình cảm này để bày tỏ với em. Anh mong em sẽ luôn vui tươi, xinh đẹp và là hậu phương vững chắc của anh trên mọi chặng đường.",
+   "translate": ""
+  },
+  {
+   "id": "2010_vo_11",
+   "content": "Nhân ngày Phụ nữ Việt Nam 20/10, anh muốn gửi tới vợ yêu những lời ngọt ngào và chân thành nhất.",
+   "translate": ""
+  },
+  {
+   "id": "2010_vo_12",
+   "content": "Anh thầm cảm ơn cuộc đời đã mang em tới bên anh, nhân dịp 20/10 đầy ý nghĩa, anh luôn mong những điều tốt đẹp nhất đến với vợ của anh. Happy Vietnam Women's Day.",
+   "translate": ""
+  },
+  {
+   "id": "2010_vo_13",
+   "content": "Nhân ngày 20/10, anh chúc em luôn xinh đẹp, mạnh khỏe và hạnh phúc bên anh.",
+   "translate": ""
+  },
+  {
+   "id": "2010_vo_14",
+   "content": "Chúc mừng ngày Phụ nữ Việt Nam! Anh chúc vợ yêu một ngày thật nhẹ nhàng và được chiều chuộng.",
+   "translate": ""
+  },
+  {
+   "id": "2010_vo_15",
+   "content": "Ngày 20/10, anh chúc em mãi rạng rỡ như ngày anh lần đầu gặp em.",
+   "translate": ""
+  },
+  {
+   "id": "2010_vo_16",
+   "content": "Nhân ngày 20/10, cảm ơn em vì đã là hậu phương vững chắc của anh suốt bấy lâu.",
+   "translate": ""
+  },
+  {
+   "id": "2010_vo_17",
+   "content": "Chúc mừng 20/10 vợ yêu! Anh chúc em bớt vất vả, nhiều thời gian cho bản thân hơn.",
+   "translate": ""
+  },
+  {
+   "id": "2010_vo_18",
+   "content": "Ngày của phụ nữ Việt Nam, anh chúc em luôn tự tin, luôn kiêu hãnh và luôn được yêu.",
+   "translate": ""
+  },
+  {
+   "id": "2010_vo_19",
+   "content": "Nhân ngày 20/10, anh chúc người yêu của anh một ngày thật vui và một đời thật hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "2010_vo_20",
+   "content": "Chúc mừng ngày 20/10! Anh chúc em sức khỏe dồi dào và tâm hồn luôn thảnh thơi.",
+   "translate": ""
+  },
+  {
+   "id": "2010_vo_21",
+   "content": "Ngày 20/10, anh chúc em mọi điều em mong đều thành hiện thực.",
+   "translate": ""
+  },
+  {
+   "id": "2010_vo_22",
+   "content": "Nhân ngày Phụ nữ Việt Nam, anh chúc em mãi là người phụ nữ đẹp nhất trong mắt anh.",
+   "translate": ""
+  },
+  {
+   "id": "2010_vo_23",
+   "content": "Chúc mừng 20/10! Anh chúc em một ngày không bếp núc, không việc nhà, chỉ có nghỉ ngơi.",
+   "translate": ""
+  },
+  {
+   "id": "2010_vo_24",
+   "content": "Ngày 20/10, anh chúc em luôn giữ được nụ cười làm anh say đắm.",
+   "translate": ""
+  },
+  {
+   "id": "2010_vo_25",
+   "content": "Nhân ngày 20/10, anh chúc em an yên, hạnh phúc và luôn có anh bên cạnh.",
+   "translate": ""
+  },
+  {
+   "id": "2010_vo_26",
+   "content": "Chúc mừng ngày Phụ nữ Việt Nam! Anh chúc em công việc thuận lợi và tinh thần luôn phơi phới.",
+   "translate": ""
+  },
+  {
+   "id": "2010_vo_27",
+   "content": "Ngày 20/10, anh chúc em thật nhiều hoa, thật nhiều quà và thật nhiều yêu thương.",
+   "translate": ""
+  },
+  {
+   "id": "2010_vo_28",
+   "content": "Nhân ngày 20/10, anh chúc em mãi trẻ, mãi đẹp và mãi là của anh.",
+   "translate": ""
+  },
+  {
+   "id": "2010_vo_29",
+   "content": "Chúc mừng 20/10 em yêu! Anh chúc em một ngày được nâng niu trọn vẹn.",
+   "translate": ""
+  },
+  {
+   "id": "2010_vo_30",
+   "content": "Ngày của phụ nữ Việt Nam, anh chúc em sống thật vui và thật trọn vẹn cho mình.",
+   "translate": ""
+  },
+  {
+   "id": "2010_vo_31",
+   "content": "Nhân ngày 20/10, anh chúc em sức khỏe như ý, nhan sắc như mơ, hạnh phúc như hiện tại.",
+   "translate": ""
+  },
+  {
+   "id": "2010_vo_32",
+   "content": "Chúc mừng ngày 20/10! Cảm ơn em vì những điều nhỏ bé em làm mỗi ngày cho gia đình mình.",
+   "translate": ""
+  },
+  {
+   "id": "2010_vo_33",
+   "content": "Ngày 20/10, anh chúc em bớt lo, bớt nghĩ và cười nhiều hơn.",
+   "translate": ""
+  },
+  {
+   "id": "2010_vo_34",
+   "content": "Nhân ngày Phụ nữ Việt Nam, anh chúc em mọi vất vả đều được đền đáp xứng đáng.",
+   "translate": ""
+  },
+  {
+   "id": "2010_vo_35",
+   "content": "Chúc mừng 20/10! Anh chúc em một ngày thật đặc biệt, bởi em rất đặc biệt với anh.",
+   "translate": ""
+  },
+  {
+   "id": "2010_vo_36",
+   "content": "Ngày 20/10, anh chúc em luôn khỏe mạnh để cùng anh đi hết chặng đường dài phía trước.",
+   "translate": ""
+  },
+  {
+   "id": "2010_vo_37",
+   "content": "Nhân ngày 20/10, anh chúc em thật nhiều niềm vui và thật ít muộn phiền.",
+   "translate": ""
+  },
+  {
+   "id": "2010_vo_38",
+   "content": "Chúc mừng ngày Phụ nữ Việt Nam! Anh yêu em, và sẽ cố gắng để em luôn hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "2010_vo_39",
+   "content": "Ngày 20/10, anh chúc em an nhiên, tự tại và viên mãn trong cuộc sống.",
+   "translate": ""
+  },
+  {
+   "id": "2010_vo_40",
+   "content": "Nhân ngày 20/10, anh chúc em được yêu thương nhiều như cách em đã yêu thương cả nhà.",
+   "translate": ""
+  }
+ ]
+}

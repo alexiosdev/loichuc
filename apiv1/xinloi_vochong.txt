@@ -1,0 +1,204 @@
+{
+ "result": [
+  {
+   "id": "xinloi_vochong_1",
+   "content": "Anh xin lỗi em. Anh biết mình đã sai và anh thật sự muốn sửa.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_vochong_2",
+   "content": "Xin lỗi vì đã để em phải một mình gánh vác việc nhà. Anh sẽ chia sẻ nhiều hơn.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_vochong_3",
+   "content": "Anh xin lỗi vì đã nói những lời làm em tổn thương. Anh hối hận lắm.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_vochong_4",
+   "content": "Xin lỗi em, anh đã quá tập trung vào công việc mà quên mất gia đình.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_vochong_5",
+   "content": "Anh xin lỗi vì đã không lắng nghe em. Từ giờ anh sẽ nghe em nhiều hơn.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_vochong_6",
+   "content": "Xin lỗi vì đã khiến em phải lo lắng và mệt mỏi.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_vochong_7",
+   "content": "Anh xin lỗi. Chúng mình đã đi cùng nhau xa thế này, anh không muốn làm hỏng nó.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_vochong_8",
+   "content": "Xin lỗi em vì đã quên ngày quan trọng của chúng mình.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_vochong_9",
+   "content": "Anh xin lỗi vì đã nóng giận vô cớ. Em không đáng phải chịu điều đó.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_vochong_10",
+   "content": "Xin lỗi vì anh đã vô tâm với những gì em làm cho gia đình này.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_vochong_11",
+   "content": "Anh xin lỗi em. Mong em bỏ qua cho anh lần này.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_vochong_12",
+   "content": "Xin lỗi vì đã để em phải nhắc đi nhắc lại một chuyện.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_vochong_13",
+   "content": "Anh xin lỗi vì đã không giữ lời hứa với em và với con.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_vochong_14",
+   "content": "Xin lỗi em, anh biết mình cần thay đổi và anh sẽ cố gắng.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_vochong_15",
+   "content": "Anh xin lỗi vì đã để những chuyện nhỏ làm không khí gia đình nặng nề.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_vochong_16",
+   "content": "Anh xin lỗi. Anh biết mình đã làm em thất vọng.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_vochong_17",
+   "content": "Xin lỗi em vì những ngày qua anh đã khiến em buồn.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_vochong_18",
+   "content": "Anh xin lỗi vì đã không hiểu được áp lực mà em đang chịu.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_vochong_19",
+   "content": "Xin lỗi vì đã để em khóc. Anh thấy mình thật tệ.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_vochong_20",
+   "content": "Anh xin lỗi em. Anh muốn gia đình mình lại vui vẻ như trước.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_vochong_21",
+   "content": "Anh xin lỗi vì đã quên mất rằng em cũng cần được quan tâm.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_vochong_22",
+   "content": "Xin lỗi em, anh sẽ dành nhiều thời gian hơn cho gia đình mình.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_vochong_23",
+   "content": "Anh xin lỗi. Anh hiểu em mệt, và anh sẽ đỡ đần em nhiều hơn.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_vochong_24",
+   "content": "Xin lỗi vì đã khiến em phải nghi ngờ tình cảm của anh.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_vochong_25",
+   "content": "Anh xin lỗi em. Mong chúng mình bỏ qua chuyện này và bắt đầu lại.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_vochong_26",
+   "content": "Xin lỗi vì anh đã không đủ kiên nhẫn với em.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_vochong_27",
+   "content": "Anh xin lỗi vì đã để em phải chịu đựng tính xấu của anh.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_vochong_28",
+   "content": "Xin lỗi em, anh biết mình may mắn thế nào khi có em.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_vochong_29",
+   "content": "Anh xin lỗi vì đã làm hỏng ngày hôm nay của cả nhà.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_vochong_30",
+   "content": "Xin lỗi vì đã không nói lời xin lỗi sớm hơn.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_vochong_31",
+   "content": "Anh xin lỗi em. Anh sẽ cố gắng để em không phải buồn vì anh nữa.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_vochong_32",
+   "content": "Xin lỗi vì đã quên những điều nhỏ nhặt mà em luôn nhớ.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_vochong_33",
+   "content": "Anh xin lỗi. Chúng mình nói chuyện nhé, anh không muốn giữ khoảng cách này.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_vochong_34",
+   "content": "Anh xin lỗi vì đã để em phải tự xoay sở một mình.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_vochong_35",
+   "content": "Xin lỗi em. Anh thương em, và anh sẽ chứng minh điều đó bằng hành động.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_vochong_36",
+   "content": "Anh xin lỗi vì đã không trân trọng những bữa cơm em nấu mỗi ngày.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_vochong_37",
+   "content": "Xin lỗi em thật lòng. Cho anh cơ hội để làm lại nhé.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_vochong_38",
+   "content": "Anh xin lỗi vì đã không nhận ra em đã mệt đến thế nào.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_vochong_39",
+   "content": "Xin lỗi em, anh hứa sẽ thay đổi và sẽ giữ đúng lời hứa lần này.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_vochong_40",
+   "content": "Anh xin lỗi. Dù ai đúng ai sai, anh cũng không muốn chúng mình xa cách.",
+   "translate": ""
+  }
+ ]
+}

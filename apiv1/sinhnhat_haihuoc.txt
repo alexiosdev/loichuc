@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "sinhnhat_haihuoc_1",
+   "content": "Chúc mừng sinh nhật! Chúc bạn tuổi mới thêm tuổi nhưng đừng thêm cân nhé.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_haihuoc_2",
+   "content": "Happy birthday! Chúc bạn tuổi mới da căng, tóc dày, ví đầy và crush trả lời tin nhắn.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_haihuoc_3",
+   "content": "Chúc mừng sinh nhật! Thêm một tuổi là thêm một lý do để đòi quà, chúc bạn đòi thành công.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_haihuoc_4",
+   "content": "Sinh nhật vui vẻ! Chúc bạn tuổi mới giàu đến mức không cần nhìn giá tiền khi mua sắm.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_haihuoc_5",
+   "content": "Chúc mừng sinh nhật! Chúc bạn tuổi mới trẻ mãi không già, nếu già thì già thật đẹp.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_haihuoc_6",
+   "content": "Happy birthday! Chúc bạn tuổi mới ngủ dậy là thấy tiền, soi gương là thấy đẹp.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_haihuoc_7",
+   "content": "Chúc mừng sinh nhật! Năm nay chúc bạn thoát ế, nếu không thì năm sau mình chúc tiếp.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_haihuoc_8",
+   "content": "Sinh nhật vui vẻ nhé! Chúc bạn tuổi mới ăn hoài không béo, ngủ hoài không chán.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_haihuoc_9",
+   "content": "Chúc mừng sinh nhật! Chúc bạn tuổi mới mọi điều như ý, trừ cái cân là mong nó đứng yên.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_haihuoc_10",
+   "content": "Happy birthday! Chúc bạn tuổi mới ít nếp nhăn, nhiều tiền mặt.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_haihuoc_11",
+   "content": "Chúc mừng sinh nhật! Chúc bạn tuổi mới đi đâu cũng được giảm giá, mua gì cũng đúng đợt sale.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_haihuoc_12",
+   "content": "Sinh nhật vui vẻ! Chúc bạn tuổi mới pin điện thoại luôn đầy, wifi luôn mạnh, lòng luôn vui.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_haihuoc_13",
+   "content": "Chúc mừng sinh nhật! Chúc bạn tuổi mới không ai hỏi lương, không ai hỏi tuổi, không ai hỏi bao giờ cưới.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_haihuoc_14",
+   "content": "Happy birthday! Chúc bạn tuổi mới thức dậy đúng giờ dù đã bấm báo thức mười lần.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_haihuoc_15",
+   "content": "Chúc mừng sinh nhật! Chúc bạn tuổi mới xinh hơn năm ngoái, giàu hơn năm ngoái, và lười như năm ngoái cũng được.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_haihuoc_16",
+   "content": "Sinh nhật vui vẻ nhé! Chúc bạn tuổi mới trúng số, nhớ chia mình một ít gọi là có lộc.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_haihuoc_17",
+   "content": "Chúc mừng sinh nhật! Chúc bạn tuổi mới deadline tự dời, sếp tự duyệt, lương tự tăng.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_haihuoc_18",
+   "content": "Happy birthday! Chúc bạn tuổi mới gặp toàn người tử tế và tránh xa mọi drama.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_haihuoc_19",
+   "content": "Chúc mừng sinh nhật! Chúc bạn tuổi mới ăn ngon ngủ kỹ, tiêu tiền thả ga mà tài khoản vẫn dư.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_haihuoc_20",
+   "content": "Sinh nhật vui vẻ! Chúc bạn tuổi mới tóc không rụng, răng không sâu, bụng không to.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_haihuoc_21",
+   "content": "Chúc mừng sinh nhật! Chúc bạn tuổi mới may mắn đến mức đi bộ cũng nhặt được tiền.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_haihuoc_22",
+   "content": "Happy birthday! Chúc bạn tuổi mới làm ít hưởng nhiều, nghỉ nhiều mà vẫn được khen.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_haihuoc_23",
+   "content": "Chúc mừng sinh nhật! Chúc bạn tuổi mới nhan sắc thăng hạng, cân nặng đứng im, lương thăng tiến.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_haihuoc_24",
+   "content": "Sinh nhật vui vẻ nhé! Chúc bạn tuổi mới điện thoại chỉ toàn tin vui, không có tin nhắn nhắc nợ.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_haihuoc_25",
+   "content": "Chúc mừng sinh nhật! Chúc bạn tuổi mới bớt mua đồ online lúc nửa đêm, nhưng nếu mua thì nhớ mua cho mình luôn.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_haihuoc_26",
+   "content": "Happy birthday! Chúc bạn tuổi mới gặp sếp dễ tính, gặp khách dễ thương, gặp người yêu dễ chiều.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_haihuoc_27",
+   "content": "Chúc mừng sinh nhật! Chúc bạn tuổi mới thông minh hơn một chút, nhưng vẫn ngốc nghếch đáng yêu như vậy.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_haihuoc_28",
+   "content": "Sinh nhật vui vẻ! Chúc bạn tuổi mới đi đâu cũng có chỗ đỗ xe và luôn gặp đèn xanh.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_haihuoc_29",
+   "content": "Chúc mừng sinh nhật! Chúc bạn tuổi mới sức khỏe như trâu, tiền nhiều như lá, tình đẹp như phim.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_haihuoc_30",
+   "content": "Happy birthday! Chúc bạn tuổi mới ăn Tết, ăn tiệc, ăn cưới thoải mái mà quần áo vẫn vừa.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_haihuoc_31",
+   "content": "Chúc mừng sinh nhật! Chúc bạn tuổi mới mỗi sáng tỉnh dậy đều thấy mình giàu hơn hôm qua.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_haihuoc_32",
+   "content": "Sinh nhật vui vẻ nhé! Chúc bạn tuổi mới sống lâu trăm tuổi, nhưng nhan sắc giữ nguyên tuổi đôi mươi.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_haihuoc_33",
+   "content": "Chúc mừng sinh nhật! Chúc bạn tuổi mới không phải nghe câu \"hồi xưa gầy lắm\" từ bất kỳ ai.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_haihuoc_34",
+   "content": "Happy birthday! Chúc bạn tuổi mới nhiều bạn tốt, ít bạn vay tiền không trả.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_haihuoc_35",
+   "content": "Chúc mừng sinh nhật! Chúc bạn tuổi mới mọi chuyện đều ổn, riêng ví tiền thì phải rất ổn.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_haihuoc_36",
+   "content": "Sinh nhật vui vẻ! Chúc bạn tuổi mới có người nấu cơm, có người rửa bát, có người dọn nhà.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_haihuoc_37",
+   "content": "Chúc mừng sinh nhật! Chúc bạn tuổi mới thành công rực rỡ, và nhớ khao cả hội một bữa.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_haihuoc_38",
+   "content": "Happy birthday! Chúc bạn tuổi mới bớt lướt điện thoại, nhưng vẫn nhớ thả tim bài của mình.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_haihuoc_39",
+   "content": "Chúc mừng sinh nhật! Chúc bạn tuổi mới trẻ khỏe, vui vẻ và tuyệt đối không trúng gió.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_haihuoc_40",
+   "content": "Sinh nhật vui vẻ nhé! Chúc bạn tuổi mới vui như Tết, khỏe như voi, giàu như trong mơ.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_haihuoc_41",
+   "content": "Chúc mừng sinh nhật! Thêm một tuổi, chúc bạn bớt dại một chút thôi, đừng bớt nhiều quá mất vui.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_haihuoc_42",
+   "content": "Happy birthday! Chúc bạn tuổi mới mọi điều tốt đẹp, và năm sau vẫn nhớ mời mình đi ăn nhé.",
+   "translate": ""
+  }
+ ]
+}

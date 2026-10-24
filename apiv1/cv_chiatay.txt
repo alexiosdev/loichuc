@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "cv_chiatay_1",
+   "content": "Chúc bạn may mắn ở chặng đường mới! Cảm ơn vì những ngày tháng cùng làm việc.",
+   "translate": ""
+  },
+  {
+   "id": "cv_chiatay_2",
+   "content": "Chia tay bạn thật buồn, nhưng chúc bạn thành công ở nơi mới nhé.",
+   "translate": ""
+  },
+  {
+   "id": "cv_chiatay_3",
+   "content": "Chúc bạn mọi điều tốt đẹp ở công ty mới. Cả phòng sẽ nhớ bạn nhiều.",
+   "translate": ""
+  },
+  {
+   "id": "cv_chiatay_4",
+   "content": "Cảm ơn bạn vì tất cả. Chúc bạn một khởi đầu thật thuận lợi ở nơi mới.",
+   "translate": ""
+  },
+  {
+   "id": "cv_chiatay_5",
+   "content": "Chúc bạn thành công và hạnh phúc trên con đường mình đã chọn.",
+   "translate": ""
+  },
+  {
+   "id": "cv_chiatay_6",
+   "content": "Chia tay nhé! Chúc bạn luôn giữ được nhiệt huyết và sự tử tế đáng quý.",
+   "translate": ""
+  },
+  {
+   "id": "cv_chiatay_7",
+   "content": "Chúc bạn ở nơi mới gặp nhiều đồng nghiệp tốt và nhiều cơ hội tốt.",
+   "translate": ""
+  },
+  {
+   "id": "cv_chiatay_8",
+   "content": "Cảm ơn vì đã là một người đồng đội tuyệt vời. Chúc bạn mọi sự hanh thông.",
+   "translate": ""
+  },
+  {
+   "id": "cv_chiatay_9",
+   "content": "Chúc bạn may mắn! Dù đi đâu thì chúng ta vẫn là bạn nhé.",
+   "translate": ""
+  },
+  {
+   "id": "cv_chiatay_10",
+   "content": "Chia tay bạn, chúc bạn một chương mới thật rực rỡ trong sự nghiệp.",
+   "translate": ""
+  },
+  {
+   "id": "cv_chiatay_11",
+   "content": "Chúc bạn thành công ở môi trường mới và sớm tạo được dấu ấn riêng.",
+   "translate": ""
+  },
+  {
+   "id": "cv_chiatay_12",
+   "content": "Cảm ơn bạn vì những ngày tháng cùng chiến đấu. Chúc bạn thật nhiều may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "cv_chiatay_13",
+   "content": "Chúc bạn ở nơi mới luôn vui vẻ, tiến bộ và được trọng dụng.",
+   "translate": ""
+  },
+  {
+   "id": "cv_chiatay_14",
+   "content": "Chia tay nhé! Chúc bạn giữ sức khỏe và luôn hạnh phúc với lựa chọn của mình.",
+   "translate": ""
+  },
+  {
+   "id": "cv_chiatay_15",
+   "content": "Chúc bạn mọi điều thuận lợi phía trước. Nhớ ghé thăm công ty cũ nhé.",
+   "translate": ""
+  },
+  {
+   "id": "cv_chiatay_16",
+   "content": "Cảm ơn vì tất cả những gì bạn đã đóng góp. Chúc bạn thành công rực rỡ.",
+   "translate": ""
+  },
+  {
+   "id": "cv_chiatay_17",
+   "content": "Chúc bạn một hành trình mới thật đáng nhớ và thật nhiều thành quả.",
+   "translate": ""
+  },
+  {
+   "id": "cv_chiatay_18",
+   "content": "Chia tay bạn, chúc bạn luôn tự tin và luôn bản lĩnh ở nơi mới.",
+   "translate": ""
+  },
+  {
+   "id": "cv_chiatay_19",
+   "content": "Chúc bạn gặp nhiều quý nhân và nắm bắt được nhiều cơ hội tốt.",
+   "translate": ""
+  },
+  {
+   "id": "cv_chiatay_20",
+   "content": "Cảm ơn bạn vì những kỷ niệm đẹp. Chúc bạn hạnh phúc trên con đường mới.",
+   "translate": ""
+  },
+  {
+   "id": "cv_chiatay_21",
+   "content": "Chúc bạn thuận lợi ngay từ những ngày đầu ở công ty mới.",
+   "translate": ""
+  },
+  {
+   "id": "cv_chiatay_22",
+   "content": "Chia tay nhé! Chúc bạn sớm thích nghi và gặt hái thật nhiều thành công.",
+   "translate": ""
+  },
+  {
+   "id": "cv_chiatay_23",
+   "content": "Chúc bạn luôn khỏe mạnh, vui vẻ và tiến xa hơn nữa.",
+   "translate": ""
+  },
+  {
+   "id": "cv_chiatay_24",
+   "content": "Cảm ơn vì đã cùng nhau đi qua những dự án khó. Chúc bạn may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "cv_chiatay_25",
+   "content": "Chúc bạn một khởi đầu đẹp và một tương lai thật rộng mở.",
+   "translate": ""
+  },
+  {
+   "id": "cv_chiatay_26",
+   "content": "Chia tay bạn, chúc bạn tìm được môi trường thực sự phù hợp với mình.",
+   "translate": ""
+  },
+  {
+   "id": "cv_chiatay_27",
+   "content": "Chúc bạn thành công và đừng quên những người bạn ở đây nhé.",
+   "translate": ""
+  },
+  {
+   "id": "cv_chiatay_28",
+   "content": "Cảm ơn bạn vì sự nhiệt tình suốt thời gian qua. Chúc bạn vạn sự hanh thông.",
+   "translate": ""
+  },
+  {
+   "id": "cv_chiatay_29",
+   "content": "Chúc bạn ở nơi mới luôn được ghi nhận và phát triển hết khả năng.",
+   "translate": ""
+  },
+  {
+   "id": "cv_chiatay_30",
+   "content": "Chia tay nhé! Chúc bạn giữ mãi sự lạc quan đáng quý của mình.",
+   "translate": ""
+  },
+  {
+   "id": "cv_chiatay_31",
+   "content": "Chúc bạn mọi dự định đều thành và mọi nỗ lực đều được đền đáp.",
+   "translate": ""
+  },
+  {
+   "id": "cv_chiatay_32",
+   "content": "Cảm ơn vì đã là một đồng nghiệp tuyệt vời. Chúc bạn thật nhiều thành công.",
+   "translate": ""
+  },
+  {
+   "id": "cv_chiatay_33",
+   "content": "Chúc bạn một chặng đường mới thuận lợi và tràn đầy cơ hội.",
+   "translate": ""
+  },
+  {
+   "id": "cv_chiatay_34",
+   "content": "Chia tay bạn, chúc bạn luôn vui vẻ và luôn thành công.",
+   "translate": ""
+  },
+  {
+   "id": "cv_chiatay_35",
+   "content": "Chúc bạn sớm có những thành tích đầu tiên ở nơi làm việc mới.",
+   "translate": ""
+  },
+  {
+   "id": "cv_chiatay_36",
+   "content": "Cảm ơn bạn vì tất cả. Chúc bạn bình an và hạnh phúc trên chặng đường mới.",
+   "translate": ""
+  },
+  {
+   "id": "cv_chiatay_37",
+   "content": "Chúc bạn may mắn, mạnh khỏe và gặt hái thật nhiều thành quả.",
+   "translate": ""
+  },
+  {
+   "id": "cv_chiatay_38",
+   "content": "Chia tay nhé! Chúc bạn một tương lai thật xán lạn phía trước.",
+   "translate": ""
+  },
+  {
+   "id": "cv_chiatay_39",
+   "content": "Chúc bạn giữ được sự chuyên nghiệp và tử tế ở bất cứ đâu bạn đến.",
+   "translate": ""
+  },
+  {
+   "id": "cv_chiatay_40",
+   "content": "Cảm ơn vì những ngày tháng đã qua. Chúc bạn thành công và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "cv_chiatay_41",
+   "content": "Chúc bạn ở nơi mới luôn tự tin và luôn đạt được điều mình muốn.",
+   "translate": ""
+  },
+  {
+   "id": "cv_chiatay_42",
+   "content": "Chia tay bạn, chúc bạn mọi điều tốt đẹp nhất trong chặng đường sắp tới.",
+   "translate": ""
+  }
+ ]
+}

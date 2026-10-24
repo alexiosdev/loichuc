@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "tet_sep_1",
+   "content": "Kính chúc sếp một năm mới an khang thịnh vượng, sức khỏe dồi dào, dẫn dắt công ty gặt hái thêm nhiều thành công rực rỡ.",
+   "translate": ""
+  },
+  {
+   "id": "tet_sep_2",
+   "content": "Nhân dịp năm mới, em kính chúc sếp và gia đình một mùa xuân ấm áp, vạn sự như ý, công việc hanh thông, tài lộc đầy nhà.",
+   "translate": ""
+  },
+  {
+   "id": "tet_sep_3",
+   "content": "Chúc sếp năm mới luôn giữ được ngọn lửa nhiệt huyết, sáng suốt trong mọi quyết định và luôn là chỗ dựa vững chắc cho cả đội ngũ.",
+   "translate": ""
+  },
+  {
+   "id": "tet_sep_4",
+   "content": "Năm mới kính chúc sếp sức khỏe như núi Thái Sơn, trí tuệ như biển cả, mọi kế hoạch đều thuận buồm xuôi gió.",
+   "translate": ""
+  },
+  {
+   "id": "tet_sep_5",
+   "content": "Em xin gửi tới sếp lời chúc năm mới tốt đẹp nhất: an khang, thịnh vượng, công danh rộng mở, gia đạo bình an.",
+   "translate": ""
+  },
+  {
+   "id": "tet_sep_6",
+   "content": "Chúc sếp một năm mới bội thu, doanh số tăng trưởng vượt bậc, đội ngũ đoàn kết và khách hàng ngày càng tin yêu.",
+   "translate": ""
+  },
+  {
+   "id": "tet_sep_7",
+   "content": "Xuân sang, kính chúc sếp cùng gia quyến dồi dào sức khỏe, tràn đầy niềm vui, mọi dự định đều thành hiện thực.",
+   "translate": ""
+  },
+  {
+   "id": "tet_sep_8",
+   "content": "Năm mới, em chúc sếp luôn vững tay chèo đưa con thuyền công ty vượt qua mọi sóng gió, cập bến thành công.",
+   "translate": ""
+  },
+  {
+   "id": "tet_sep_9",
+   "content": "Kính chúc sếp năm mới phát tài phát lộc, tiền vào như nước, công việc suôn sẻ, gia đình hạnh phúc viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "tet_sep_10",
+   "content": "Chúc sếp một năm mới nhiều sức khỏe để tiếp tục truyền cảm hứng cho chúng em, và thật nhiều niềm vui bên gia đình.",
+   "translate": ""
+  },
+  {
+   "id": "tet_sep_11",
+   "content": "Nhân dịp đầu xuân, em kính chúc sếp vạn sự cát tường, tâm an trí sáng, sự nghiệp ngày một thăng hoa.",
+   "translate": ""
+  },
+  {
+   "id": "tet_sep_12",
+   "content": "Chúc sếp năm mới gặt hái trọn vẹn những gì đã gieo trồng suốt một năm qua, và còn hơn thế nữa.",
+   "translate": ""
+  },
+  {
+   "id": "tet_sep_13",
+   "content": "Năm mới kính chúc sếp mạnh khỏe, bình an, luôn giữ được sự điềm tĩnh và tầm nhìn xa như vẫn luôn như vậy.",
+   "translate": ""
+  },
+  {
+   "id": "tet_sep_14",
+   "content": "Chúc sếp đón một cái Tết thật đầm ấm bên gia đình, và trở lại với thật nhiều năng lượng cho một năm bứt phá.",
+   "translate": ""
+  },
+  {
+   "id": "tet_sep_15",
+   "content": "Em kính chúc sếp năm mới sự nghiệp thênh thang, tài lộc dồi dào, và luôn có những cộng sự xứng đáng bên cạnh.",
+   "translate": ""
+  },
+  {
+   "id": "tet_sep_16",
+   "content": "Xuân về, kính chúc sếp sức khỏe tràn đầy, tinh thần phơi phới, mọi quyết sách đều mang lại quả ngọt.",
+   "translate": ""
+  },
+  {
+   "id": "tet_sep_17",
+   "content": "Chúc sếp một năm mới an khang, hạnh phúc, công ty ngày càng lớn mạnh và vươn xa hơn nữa.",
+   "translate": ""
+  },
+  {
+   "id": "tet_sep_18",
+   "content": "Năm mới, em chúc sếp luôn giữ được nụ cười, bởi nụ cười của sếp là động lực của cả phòng.",
+   "translate": ""
+  },
+  {
+   "id": "tet_sep_19",
+   "content": "Kính chúc sếp năm mới trăm điều như ý, ngàn điều tốt lành, công việc thuận lợi, gia đình êm ấm.",
+   "translate": ""
+  },
+  {
+   "id": "tet_sep_20",
+   "content": "Chúc sếp bước sang năm mới với thật nhiều cơ hội tốt, nhiều đối tác tin cậy và nhiều thắng lợi đáng nhớ.",
+   "translate": ""
+  },
+  {
+   "id": "tet_sep_21",
+   "content": "Nhân dịp năm mới, em kính chúc sếp luôn mạnh khỏe, minh mẫn và giữ mãi phong độ dẫn dắt mà chúng em luôn ngưỡng mộ.",
+   "translate": ""
+  },
+  {
+   "id": "tet_sep_22",
+   "content": "Chúc sếp một năm mới thật nhiều may mắn, mọi khó khăn đều hóa thuận lợi, mọi nỗ lực đều được đền đáp.",
+   "translate": ""
+  },
+  {
+   "id": "tet_sep_23",
+   "content": "Năm mới kính chúc sếp phúc lộc song toàn, gia đình thuận hòa, sự nghiệp vững vàng như bàn thạch.",
+   "translate": ""
+  },
+  {
+   "id": "tet_sep_24",
+   "content": "Chúc sếp một mùa xuân an lành, một năm mới rực rỡ và một hành trình phía trước đầy ắp thành công.",
+   "translate": ""
+  },
+  {
+   "id": "tet_sep_25",
+   "content": "Em xin chúc sếp năm mới thân tâm an lạc, công việc hanh thông, mọi điều mong cầu đều được như ý.",
+   "translate": ""
+  },
+  {
+   "id": "tet_sep_26",
+   "content": "Kính chúc sếp năm mới tiền tài như nước sông Đà, sức khỏe dẻo dai, niềm vui tràn ngập mỗi ngày.",
+   "translate": ""
+  },
+  {
+   "id": "tet_sep_27",
+   "content": "Chúc sếp năm mới giữ vững ngọn cờ đầu, dẫn dắt công ty chinh phục những cột mốc cao hơn nữa.",
+   "translate": ""
+  },
+  {
+   "id": "tet_sep_28",
+   "content": "Nhân dịp xuân mới, em kính chúc sếp và gia đình dồi dào sức khỏe, an khang thịnh vượng, vạn sự hanh thông.",
+   "translate": ""
+  },
+  {
+   "id": "tet_sep_29",
+   "content": "Chúc sếp một năm mới ít áp lực, nhiều niềm vui, nhiều thời gian cho bản thân và gia đình.",
+   "translate": ""
+  },
+  {
+   "id": "tet_sep_30",
+   "content": "Năm mới, kính chúc sếp luôn sáng suốt, luôn bản lĩnh và luôn gặp được những điều may mắn nhất.",
+   "translate": ""
+  },
+  {
+   "id": "tet_sep_31",
+   "content": "Chúc sếp năm mới công thành danh toại, phúc lộc đầy nhà, con cháu hiếu thảo, gia đạo hưng long.",
+   "translate": ""
+  },
+  {
+   "id": "tet_sep_32",
+   "content": "Em kính chúc sếp một năm mới đột phá: doanh thu đột phá, đội ngũ đột phá và cả sức khỏe cũng đột phá.",
+   "translate": ""
+  },
+  {
+   "id": "tet_sep_33",
+   "content": "Chúc sếp đón xuân sang với tâm thế thảnh thơi, bỏ lại sau lưng những lo toan của năm cũ.",
+   "translate": ""
+  },
+  {
+   "id": "tet_sep_34",
+   "content": "Năm mới kính chúc sếp buôn may bán đắt, hợp đồng nối tiếp hợp đồng, khách hàng nối tiếp khách hàng.",
+   "translate": ""
+  },
+  {
+   "id": "tet_sep_35",
+   "content": "Chúc sếp một năm mới trọn vẹn: sức khỏe trọn vẹn, hạnh phúc trọn vẹn và thành công trọn vẹn.",
+   "translate": ""
+  },
+  {
+   "id": "tet_sep_36",
+   "content": "Nhân dịp năm mới, em chúc sếp luôn giữ được lửa nghề và truyền được ngọn lửa ấy cho thế hệ kế cận.",
+   "translate": ""
+  },
+  {
+   "id": "tet_sep_37",
+   "content": "Kính chúc sếp năm mới bình an trong tâm, vững vàng trong nghề, viên mãn trong đời.",
+   "translate": ""
+  },
+  {
+   "id": "tet_sep_38",
+   "content": "Chúc sếp năm mới mọi dự án đều về đích đúng hẹn, mọi mục tiêu đều cán mốc ngoạn mục.",
+   "translate": ""
+  },
+  {
+   "id": "tet_sep_39",
+   "content": "Em kính chúc sếp một năm mới gặp quý nhân phù trợ, gặp thời gặp vận, gặt hái bội thu.",
+   "translate": ""
+  },
+  {
+   "id": "tet_sep_40",
+   "content": "Chúc sếp xuân này thật vui, năm này thật thuận và cả chặng đường phía trước thật rực rỡ.",
+   "translate": ""
+  },
+  {
+   "id": "tet_sep_41",
+   "content": "Năm mới kính chúc sếp tâm luôn sáng, trí luôn minh, đường công danh thênh thang rộng mở.",
+   "translate": ""
+  },
+  {
+   "id": "tet_sep_42",
+   "content": "Chúc sếp một năm mới hái ra tiền, cười ra niềm vui và sống thật khỏe thật an.",
+   "translate": ""
+  }
+ ]
+}

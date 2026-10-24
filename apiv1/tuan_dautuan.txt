@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "tuan_dautuan_1",
+   "content": "Chúc bạn một tuần mới tràn đầy năng lượng, thuận lợi và thật nhiều may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_dautuan_2",
+   "content": "Đầu tuần vui vẻ! Chúc bạn một tuần làm việc hiệu quả và nhẹ nhàng.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_dautuan_3",
+   "content": "Chúc bạn tuần mới khởi đầu suôn sẻ và kết thúc thật viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_dautuan_4",
+   "content": "Thứ Hai rồi, chúc bạn đủ năng lượng để bắt đầu một tuần mới.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_dautuan_5",
+   "content": "Chúc bạn một tuần mới bình an, khỏe mạnh và thật nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_dautuan_6",
+   "content": "Đầu tuần, chúc bạn mọi kế hoạch đều đúng tiến độ và mọi việc đều thuận lợi.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_dautuan_7",
+   "content": "Chúc bạn tuần mới gặp nhiều điều tốt lành và tránh xa mọi phiền muộn.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_dautuan_8",
+   "content": "Thứ Hai vui vẻ! Chúc bạn một tuần làm việc trôi chảy và nhiều thành quả.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_dautuan_9",
+   "content": "Chúc bạn một tuần mới tích cực, chủ động và thật nhiều cảm hứng.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_dautuan_10",
+   "content": "Đầu tuần mới, chúc bạn đủ tỉnh táo và đủ kiên nhẫn cho mọi việc.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_dautuan_11",
+   "content": "Chúc bạn tuần này hoàn thành được những gì tuần trước còn dang dở.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_dautuan_12",
+   "content": "Thứ Hai rồi, chúc bạn một tuần mới nhẹ nhàng và ít áp lực.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_dautuan_13",
+   "content": "Chúc bạn một tuần mới nhiều cơ hội tốt và nhiều người tử tế.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_dautuan_14",
+   "content": "Đầu tuần, chúc bạn tinh thần phơi phới và sức khỏe dồi dào.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_dautuan_15",
+   "content": "Chúc bạn tuần mới mọi việc hanh thông và tâm luôn an yên.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_dautuan_16",
+   "content": "Thứ Hai vui vẻ! Chúc bạn một tuần không deadline gấp và không họp đột xuất.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_dautuan_17",
+   "content": "Chúc bạn một tuần mới hiệu quả mà vẫn có thời gian cho bản thân.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_dautuan_18",
+   "content": "Đầu tuần mới, chúc bạn bỏ lại mệt mỏi tuần cũ và bắt đầu thật tươi mới.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_dautuan_19",
+   "content": "Chúc bạn tuần này gặt hái được thật nhiều thành quả.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_dautuan_20",
+   "content": "Thứ Hai rồi, chúc bạn một tuần mới thuận lợi và đáng nhớ.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_dautuan_21",
+   "content": "Chúc bạn một tuần mới đầy động lực và đầy niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_dautuan_22",
+   "content": "Đầu tuần, chúc bạn mọi khó khăn đều hóa thuận lợi.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_dautuan_23",
+   "content": "Chúc bạn tuần mới sức khỏe như ý, công việc suôn sẻ, tâm trạng vui tươi.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_dautuan_24",
+   "content": "Thứ Hai vui vẻ! Chúc bạn một tuần làm việc nhẹ nhàng và lương thì nặng tay.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_dautuan_25",
+   "content": "Chúc bạn một tuần mới bình yên và thật nhiều điều may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_dautuan_26",
+   "content": "Đầu tuần mới, chúc bạn đủ bản lĩnh để xử lý mọi việc đến với mình.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_dautuan_27",
+   "content": "Chúc bạn tuần này mọi mục tiêu đều cán đích đúng hạn.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_dautuan_28",
+   "content": "Thứ Hai rồi, chúc bạn một tuần mới tràn đầy hy vọng.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_dautuan_29",
+   "content": "Chúc bạn một tuần mới khởi sắc trong mọi mặt của cuộc sống.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_dautuan_30",
+   "content": "Đầu tuần, chúc bạn giữ được tinh thần tốt suốt cả tuần.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_dautuan_31",
+   "content": "Chúc bạn tuần mới gặp nhiều quý nhân và nhiều chuyện vui.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_dautuan_32",
+   "content": "Thứ Hai vui vẻ! Chúc bạn một tuần làm việc đầy cảm hứng.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_dautuan_33",
+   "content": "Chúc bạn một tuần mới thật nhiều sức khỏe và thật ít lo toan.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_dautuan_34",
+   "content": "Đầu tuần mới, chúc bạn mọi dự định đều thành hiện thực.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_dautuan_35",
+   "content": "Chúc bạn tuần này thật suôn sẻ, và cuối tuần được nghỉ thật đã.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_dautuan_36",
+   "content": "Thứ Hai rồi, chúc bạn một tuần mới vững vàng trước mọi thử thách.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_dautuan_37",
+   "content": "Chúc bạn một tuần mới nhiều tiếng cười và ít căng thẳng.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_dautuan_38",
+   "content": "Đầu tuần, chúc bạn bắt đầu thật tốt để cả tuần đều tốt.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_dautuan_39",
+   "content": "Chúc bạn tuần mới an khang, thuận lợi và viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_dautuan_40",
+   "content": "Thứ Hai vui vẻ! Chúc bạn một tuần thật đáng sống và thật hiệu quả.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_dautuan_41",
+   "content": "Chúc bạn một tuần mới mà mỗi ngày đều có điều gì đó đáng vui.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_dautuan_42",
+   "content": "Đầu tuần mới, chúc bạn thật nhiều năng lượng tích cực và thật nhiều may mắn.",
+   "translate": ""
+  }
+ ]
+}

@@ -1,0 +1,204 @@
+{
+ "result": [
+  {
+   "id": "sang_haihuoc_1",
+   "content": "Gửi tặng đến tất cả mọi người 20 lời chúc buổi sáng vui nhộn, để mang đến niềm vui, năng lượng cho một ngày mới thật năng động và thật bổ ích. Đó là lời động viên, khích lệ để mọi người cùng cố gắng hoàn thành công việc, học tập của mình một cách tốt nhất.",
+   "translate": ""
+  },
+  {
+   "id": "sang_haihuoc_2",
+   "content": "Khi bạn nhận được tin nhắn này, hãy mỉm cười thật tươi nhé. Bởi vì ít nhất đâu đó có người đang mong bạn được hạnh phúc, vui vẻ. Good Morning.",
+   "translate": ""
+  },
+  {
+   "id": "sang_haihuoc_3",
+   "content": "Ánh trăng hết rồi nhóc ơi. Dậy nào, đánh răng, rửa mặt và lên giường ngủ nướng tiếp (chủ nhật mà).",
+   "translate": ""
+  },
+  {
+   "id": "sang_haihuoc_4",
+   "content": "Tin nhắn này chẳng có chất béo, cholesterol hay các chất phụ gia, hoàn toàn chiết xuất từ tự nhiên, ngoại trừ có rất nhiều đường. Nhưng chắc chắn nó chẳng bao giờ ngọt hơn người đọc nó. Cười lên bạn nhé cho ngày mới rạng rỡ!",
+   "translate": ""
+  },
+  {
+   "id": "sang_haihuoc_5",
+   "content": "Đây là lời bác sĩ khuyên: Ăn sáng đều đặn, uống nhiều nước, đừng quên vitamin C và nhắn tin cho anh ít nhất 3 lần/ngày. Chúc bạn ngày mới nhiều niềm vui!",
+   "translate": ""
+  },
+  {
+   "id": "sang_haihuoc_6",
+   "content": "Reng! Reng! Reng! Đồng hồ báo thức của bạn đây. He, dậy chưa bạn, muộn rồi đấy. Chúc bạn một ngày vui vẻ nhé!",
+   "translate": ""
+  },
+  {
+   "id": "sang_haihuoc_7",
+   "content": "Ê đồ lười! hãy dậy và ăn sáng đi chứ. Mình chúc bạn buổi sáng ấm áp và đầy năng lượng. Good morning!",
+   "translate": ""
+  },
+  {
+   "id": "sang_haihuoc_8",
+   "content": "Các nghiên cứu khoa học đã chỉ ra rằng một nụ cười là hệ thống siêu ánh sáng cho khuôn mặt, hệ thống làm mát cho cái đầu và là hệ thống sưởi ấm cho trái tim. Vì vậy, em yêu hãy mỉm cười mỗi ngày nhé! Chúc em yêu ngày mới vui vẻ!",
+   "translate": ""
+  },
+  {
+   "id": "sang_haihuoc_9",
+   "content": "Ông mặt trăng đi ngủ rồi, em định đi ngủ luôn cùng ông trăng đấy hả? Mau dậy đánh răng, rửa mặt và ăn sáng đi nhé. Chúc em có một ngày mới vui vẻ và tràn đầy năng lượng! Yêu em!",
+   "translate": ""
+  },
+  {
+   "id": "sang_haihuoc_10",
+   "content": "Ngủ ngon không cục cưng béo ú của anh? Ngày mới thật tốt lành em nhé và nhớ là đừng bỏ bữa sáng đó nha!",
+   "translate": ""
+  },
+  {
+   "id": "sang_haihuoc_11",
+   "content": "Kính chào buổi sáng! Chúc em có một buổi sáng bớt mơ màng nhé MÈO LƯỜI.",
+   "translate": ""
+  },
+  {
+   "id": "sang_haihuoc_12",
+   "content": "Em có nghe tiếng đàn vào buổi sáng không. Nhạc chào buổi sáng mặc dù có thể giờ phút này nó đối với em cũng chỉ là: \"Đàn gẩy tai trâu\" thôi! Ngày mới vui vẻ!",
+   "translate": ""
+  },
+  {
+   "id": "sang_haihuoc_13",
+   "content": "Người ta chào buổi sáng khi thức giấc. Còn anh chào buổi sáng khi ngày mới bắt đầu.",
+   "translate": ""
+  },
+  {
+   "id": "sang_haihuoc_14",
+   "content": "Chào buổi sáng! Dậy đi nào, giường không nuôi nổi bạn đâu.",
+   "translate": ""
+  },
+  {
+   "id": "sang_haihuoc_15",
+   "content": "Buổi sáng tốt lành! Chúc bạn hôm nay đi làm vui như đi chơi.",
+   "translate": ""
+  },
+  {
+   "id": "sang_haihuoc_16",
+   "content": "Chào ngày mới! Chúc bạn hôm nay cà phê đủ đậm để chống lại cơn buồn ngủ.",
+   "translate": ""
+  },
+  {
+   "id": "sang_haihuoc_17",
+   "content": "Dậy đi bạn ơi, tiền không tự nhảy vào ví đâu.",
+   "translate": ""
+  },
+  {
+   "id": "sang_haihuoc_18",
+   "content": "Chào buổi sáng! Chúc bạn hôm nay không bị sếp gọi họp đột xuất.",
+   "translate": ""
+  },
+  {
+   "id": "sang_haihuoc_19",
+   "content": "Buổi sáng an lành! Chúc bạn đến công ty đúng giờ, dù đã bấm báo thức mười lần.",
+   "translate": ""
+  },
+  {
+   "id": "sang_haihuoc_20",
+   "content": "Chào ngày mới! Chúc bạn hôm nay deadline tự dời và sếp tự duyệt.",
+   "translate": ""
+  },
+  {
+   "id": "sang_haihuoc_21",
+   "content": "Dậy nào, chúc bạn một ngày làm việc nhẹ nhàng và lương thì nặng tay.",
+   "translate": ""
+  },
+  {
+   "id": "sang_haihuoc_22",
+   "content": "Chào buổi sáng! Chúc bạn hôm nay không gặp ai làm bạn phải thở dài.",
+   "translate": ""
+  },
+  {
+   "id": "sang_haihuoc_23",
+   "content": "Buổi sáng tốt lành! Chúc bạn hôm nay ăn trưa ngon và ngủ trưa đủ.",
+   "translate": ""
+  },
+  {
+   "id": "sang_haihuoc_24",
+   "content": "Chào ngày mới! Chúc bạn hôm nay không bị kẹt xe và không bị hết pin.",
+   "translate": ""
+  },
+  {
+   "id": "sang_haihuoc_25",
+   "content": "Dậy đi nào, chúc bạn một ngày mới mà công việc tự hoàn thành.",
+   "translate": ""
+  },
+  {
+   "id": "sang_haihuoc_26",
+   "content": "Chào buổi sáng! Chúc bạn hôm nay gặp sếp vui vẻ và khách dễ tính.",
+   "translate": ""
+  },
+  {
+   "id": "sang_haihuoc_27",
+   "content": "Buổi sáng an lành! Chúc bạn hôm nay làm ít mà vẫn được khen.",
+   "translate": ""
+  },
+  {
+   "id": "sang_haihuoc_28",
+   "content": "Chào ngày mới! Chúc bạn hôm nay mở ví ra vẫn còn tiền.",
+   "translate": ""
+  },
+  {
+   "id": "sang_haihuoc_29",
+   "content": "Dậy nào bạn ơi, chúc bạn một ngày không ai nhắn tin đòi nợ.",
+   "translate": ""
+  },
+  {
+   "id": "sang_haihuoc_30",
+   "content": "Chào buổi sáng! Chúc bạn hôm nay tỉnh táo hơn hôm qua một chút thôi cũng được.",
+   "translate": ""
+  },
+  {
+   "id": "sang_haihuoc_31",
+   "content": "Buổi sáng tốt lành! Chúc bạn hôm nay mọi chuyện đều ổn, trừ cái cân.",
+   "translate": ""
+  },
+  {
+   "id": "sang_haihuoc_32",
+   "content": "Chào ngày mới! Chúc bạn hôm nay đi đâu cũng có chỗ đỗ xe.",
+   "translate": ""
+  },
+  {
+   "id": "sang_haihuoc_33",
+   "content": "Dậy đi nào, chúc bạn một ngày mới đầy năng lượng và đầy cà phê.",
+   "translate": ""
+  },
+  {
+   "id": "sang_haihuoc_34",
+   "content": "Chào buổi sáng! Chúc bạn hôm nay không phải trả lời tin nhắn nào khó chịu.",
+   "translate": ""
+  },
+  {
+   "id": "sang_haihuoc_35",
+   "content": "Buổi sáng an lành! Chúc bạn hôm nay làm việc hiệu quả rồi về sớm.",
+   "translate": ""
+  },
+  {
+   "id": "sang_haihuoc_36",
+   "content": "Chào ngày mới! Chúc bạn hôm nay gặp toàn điều may và tránh xa drama.",
+   "translate": ""
+  },
+  {
+   "id": "sang_haihuoc_37",
+   "content": "Dậy nào, chúc bạn một ngày mà đồng nghiệp đều dễ thương.",
+   "translate": ""
+  },
+  {
+   "id": "sang_haihuoc_38",
+   "content": "Chào buổi sáng! Chúc bạn hôm nay ăn gì cũng ngon và mua gì cũng rẻ.",
+   "translate": ""
+  },
+  {
+   "id": "sang_haihuoc_39",
+   "content": "Buổi sáng tốt lành! Chúc bạn hôm nay trôi qua nhanh để còn về nhà nghỉ.",
+   "translate": ""
+  },
+  {
+   "id": "sang_haihuoc_40",
+   "content": "Chào ngày mới! Chúc bạn hôm nay vui vẻ, và nhớ uống đủ nước nhé.",
+   "translate": ""
+  }
+ ]
+}

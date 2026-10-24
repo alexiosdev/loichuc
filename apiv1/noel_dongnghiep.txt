@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "noel_dongnghiep_1",
+   "content": "Merry Christmas! Kính chúc Quý khách hàng một mùa Giáng sinh an lành và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "noel_dongnghiep_2",
+   "content": "Giáng sinh an lành! Chúc đồng nghiệp một mùa lễ ấm áp bên gia đình.",
+   "translate": ""
+  },
+  {
+   "id": "noel_dongnghiep_3",
+   "content": "Kính chúc Quý đối tác một mùa Noel bình an và một năm mới thật nhiều thắng lợi.",
+   "translate": ""
+  },
+  {
+   "id": "noel_dongnghiep_4",
+   "content": "Merry Christmas! Chúc bạn một đêm Giáng sinh vui vẻ và một năm mới thành công.",
+   "translate": ""
+  },
+  {
+   "id": "noel_dongnghiep_5",
+   "content": "Giáng sinh này, kính chúc Quý khách sức khỏe dồi dào và công việc hanh thông.",
+   "translate": ""
+  },
+  {
+   "id": "noel_dongnghiep_6",
+   "content": "Chúc đồng nghiệp một mùa Noel thật thảnh thơi sau một năm vất vả.",
+   "translate": ""
+  },
+  {
+   "id": "noel_dongnghiep_7",
+   "content": "Merry Christmas! Kính chúc Quý công ty một mùa lễ an lành và phát đạt.",
+   "translate": ""
+  },
+  {
+   "id": "noel_dongnghiep_8",
+   "content": "Giáng sinh an lành! Chúc bạn và gia đình một mùa Giáng sinh ấm áp.",
+   "translate": ""
+  },
+  {
+   "id": "noel_dongnghiep_9",
+   "content": "Kính chúc Quý khách hàng một Noel bình yên và thật nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "noel_dongnghiep_10",
+   "content": "Merry Christmas! Chúc đồng nghiệp thân mến mọi điều tốt đẹp trong mùa lễ này.",
+   "translate": ""
+  },
+  {
+   "id": "noel_dongnghiep_11",
+   "content": "Giáng sinh này, kính chúc Quý đối tác vạn sự như ý và hợp tác ngày càng bền chặt.",
+   "translate": ""
+  },
+  {
+   "id": "noel_dongnghiep_12",
+   "content": "Chúc bạn một mùa Noel vui vẻ và một năm mới đầy cơ hội mới.",
+   "translate": ""
+  },
+  {
+   "id": "noel_dongnghiep_13",
+   "content": "Merry Christmas! Kính chúc Quý khách một mùa Giáng sinh trọn vẹn và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "noel_dongnghiep_14",
+   "content": "Giáng sinh an lành! Chúc đồng nghiệp sức khỏe, niềm vui và thật nhiều may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "noel_dongnghiep_15",
+   "content": "Kính chúc Quý công ty một mùa Noel an khang và một năm mới thịnh vượng.",
+   "translate": ""
+  },
+  {
+   "id": "noel_dongnghiep_16",
+   "content": "Merry Christmas! Chúc bạn một đêm Giáng sinh ấm áp bên những người thân yêu.",
+   "translate": ""
+  },
+  {
+   "id": "noel_dongnghiep_17",
+   "content": "Giáng sinh này, kính chúc Quý khách hàng mọi dự định đều thành hiện thực.",
+   "translate": ""
+  },
+  {
+   "id": "noel_dongnghiep_18",
+   "content": "Chúc đồng nghiệp một mùa Noel nhẹ nhàng, không deadline và không họp hành.",
+   "translate": ""
+  },
+  {
+   "id": "noel_dongnghiep_19",
+   "content": "Merry Christmas! Kính chúc Quý đối tác bình an, sung túc và thành công.",
+   "translate": ""
+  },
+  {
+   "id": "noel_dongnghiep_20",
+   "content": "Giáng sinh an lành! Chúc bạn một mùa lễ thật nhiều tiếng cười.",
+   "translate": ""
+  },
+  {
+   "id": "noel_dongnghiep_21",
+   "content": "Kính chúc Quý khách một Noel ấm áp và một năm mới bội thu.",
+   "translate": ""
+  },
+  {
+   "id": "noel_dongnghiep_22",
+   "content": "Merry Christmas! Chúc đồng nghiệp một mùa Giáng sinh đáng nhớ bên gia đình.",
+   "translate": ""
+  },
+  {
+   "id": "noel_dongnghiep_23",
+   "content": "Giáng sinh này, kính chúc Quý công ty ngày càng lớn mạnh và vươn xa.",
+   "translate": ""
+  },
+  {
+   "id": "noel_dongnghiep_24",
+   "content": "Chúc bạn một mùa Noel an lành và một năm mới thật nhiều thành tựu.",
+   "translate": ""
+  },
+  {
+   "id": "noel_dongnghiep_25",
+   "content": "Merry Christmas! Kính chúc Quý khách hàng sức khỏe, hạnh phúc và viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "noel_dongnghiep_26",
+   "content": "Giáng sinh an lành! Chúc đồng nghiệp gác lại mọi áp lực và tận hưởng mùa lễ.",
+   "translate": ""
+  },
+  {
+   "id": "noel_dongnghiep_27",
+   "content": "Kính chúc Quý đối tác một mùa Giáng sinh bình an và hợp tác thuận lợi.",
+   "translate": ""
+  },
+  {
+   "id": "noel_dongnghiep_28",
+   "content": "Merry Christmas! Chúc bạn một năm mới sắp tới thật nhiều bước tiến dài.",
+   "translate": ""
+  },
+  {
+   "id": "noel_dongnghiep_29",
+   "content": "Giáng sinh này, kính chúc Quý khách gặp nhiều may mắn và cơ hội tốt.",
+   "translate": ""
+  },
+  {
+   "id": "noel_dongnghiep_30",
+   "content": "Chúc đồng nghiệp một mùa Noel ấm cúng bên gia đình và bạn bè.",
+   "translate": ""
+  },
+  {
+   "id": "noel_dongnghiep_31",
+   "content": "Merry Christmas! Kính chúc Quý công ty một mùa lễ an lành và phát triển bền vững.",
+   "translate": ""
+  },
+  {
+   "id": "noel_dongnghiep_32",
+   "content": "Giáng sinh an lành! Chúc bạn luôn khỏe mạnh và luôn vui vẻ.",
+   "translate": ""
+  },
+  {
+   "id": "noel_dongnghiep_33",
+   "content": "Kính chúc Quý khách hàng một Noel trọn vẹn và một năm mới rực rỡ.",
+   "translate": ""
+  },
+  {
+   "id": "noel_dongnghiep_34",
+   "content": "Merry Christmas! Chúc đồng nghiệp mọi điều tốt đẹp nhất trong năm tới.",
+   "translate": ""
+  },
+  {
+   "id": "noel_dongnghiep_35",
+   "content": "Giáng sinh này, kính chúc Quý đối tác vạn sự hanh thông và tài lộc dồi dào.",
+   "translate": ""
+  },
+  {
+   "id": "noel_dongnghiep_36",
+   "content": "Chúc bạn một mùa Noel vui vẻ, và cảm ơn vì đã đồng hành suốt năm qua.",
+   "translate": ""
+  },
+  {
+   "id": "noel_dongnghiep_37",
+   "content": "Merry Christmas! Kính chúc Quý khách một mùa Giáng sinh ngập tràn niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "noel_dongnghiep_38",
+   "content": "Giáng sinh an lành! Chúc đồng nghiệp một năm mới nhiều sức khỏe và thành công.",
+   "translate": ""
+  },
+  {
+   "id": "noel_dongnghiep_39",
+   "content": "Kính chúc Quý công ty một Noel bình an và một năm mới khởi sắc.",
+   "translate": ""
+  },
+  {
+   "id": "noel_dongnghiep_40",
+   "content": "Merry Christmas! Chúc bạn một mùa lễ thật ý nghĩa bên những người quan trọng.",
+   "translate": ""
+  },
+  {
+   "id": "noel_dongnghiep_41",
+   "content": "Giáng sinh này, kính chúc Quý khách hàng an khang, thịnh vượng và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "noel_dongnghiep_42",
+   "content": "Chúc đồng nghiệp một mùa Noel ấm áp, và hẹn gặp lại với thật nhiều năng lượng.",
+   "translate": ""
+  }
+ ]
+}

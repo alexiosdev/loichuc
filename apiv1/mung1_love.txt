@@ -1,0 +1,204 @@
+{
+ "result": [
+  {
+   "id": "mung1_love_1",
+   "content": "Anh hy vọng sẽ là người đầu tiên chúc em một tháng mới hạnh phúc, hãy luôn mỉm cười vui vẻ như thế em nhé!",
+   "translate": ""
+  },
+  {
+   "id": "mung1_love_2",
+   "content": "Một tháng mới, một phước lành mới. Anh cầu mong những điều mới mẻ, hạnh phúc sẽ đến với em. Anh yêu em!",
+   "translate": ""
+  },
+  {
+   "id": "mung1_love_3",
+   "content": "Anh muốn sử dụng cơ hội này để nói cho em biết rằng anh yêu em và cảm thấy hạnh phúc biết bao khi có em bên cạnh. Tháng mới hạnh phúc nhé em yêu!",
+   "translate": ""
+  },
+  {
+   "id": "mung1_love_4",
+   "content": "Thời gian sẽ không bao giờ dừng lại để chờ đợi ai, nó sẽ trôi qua rất nhanh. Nhưng xin em hãy nhớ rằng tình yêu của anh dành cho em vẫn mãi như vậy, mãi đọng lại trong tâm trí và con tim anh. Chúc tình yêu của anh một tháng mới đầy niềm vui và may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_love_5",
+   "content": "Yêu em, cùng em chia sẻ những vui buồn trong cuộc sống là điều anh mong ước lúc này. Hy vọng mọi điều mới mẻ, tốt đẹp sẽ đến với em trong tháng mới.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_love_6",
+   "content": "Những cánh cửa mới, cơ hội mới, bước đột phá mới sẽ dành cho anh trong tháng này. Tháng mới may mắn, nhiều thành công anh nhé!",
+   "translate": ""
+  },
+  {
+   "id": "mung1_love_7",
+   "content": "Tất cả những gì anh mong muốn trong tháng này chính là em, tình yêu của anh. Em chính là động lực để anh cố gắng nỗ lực mỗi ngày. Mọi điều tốt đẹp sẽ đến với em trong tháng này. Yêu em!",
+   "translate": ""
+  },
+  {
+   "id": "mung1_love_8",
+   "content": "Em là nữ hoàng trong trái tim anh. Cảm ơn đã bên cạnh và yêu thương anh. Tháng mới nhiều niềm vui, bình yên em nhé.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_love_9",
+   "content": "Nụ cười của em là hạnh phúc, là ánh sáng, là niềm vui mỗi ngày của anh. Cảm ơn em đã đến bên anh, làm cuộc đời của anh thêm tươi mới và đầy màu sắc. Chúc mừng tháng mới của hai chúng ta.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_love_10",
+   "content": "Gặp em là điều kỳ diệu mà trái tim anh cần. Tháng mới sẽ mang đến cho em nhiều điều may mắn và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_love_11",
+   "content": "Đây là khoảnh khắc đẹp nhất của tháng mới, anh luôn mong muốn sẽ nhìn thấy gương mặt thiên thần và nụ cười lấp lánh của em suốt cả tháng. Những lời chúc tháng mới tốt đẹp nhất dành cho người anh yêu. Chào tháng mới với những điều mới mẻ và tuyệt vời.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_love_12",
+   "content": "Anh là người bạn trai tốt. Em trân trọng mọi thứ về anh. Chúc mừng tháng mới anh yêu!",
+   "translate": ""
+  },
+  {
+   "id": "mung1_love_13",
+   "content": "Mùng 1 đầu tháng, anh chúc em thật nhiều may mắn, bình an và luôn vui vẻ.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_love_14",
+   "content": "Đầu tháng mới, chúc em mọi việc hanh thông và tâm luôn an yên.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_love_15",
+   "content": "Anh chúc em mùng 1 bình an, cả tháng thuận lợi và thật nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_love_16",
+   "content": "Mùng 1 đầu tháng, anh chúc em sức khỏe dồi dào và tinh thần phơi phới.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_love_17",
+   "content": "Đầu tháng, chúc em một tháng mới nhẹ nhàng, thong dong và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_love_18",
+   "content": "Anh chúc em mùng 1 gặp nhiều điều tốt lành và tránh xa mọi phiền muộn.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_love_19",
+   "content": "Mùng 1 may mắn em nhé! Chúc em một tháng mới khỏe mạnh và vui vẻ.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_love_20",
+   "content": "Đầu tháng mới, anh chúc em mọi dự định đều thành và mọi mong ước đều toại.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_love_21",
+   "content": "Chúc em mùng 1 tâm an, trí sáng và cả tháng đều thuận lợi.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_love_22",
+   "content": "Mùng 1 đầu tháng, anh chúc em bỏ lại mọi muộn phiền tháng cũ.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_love_23",
+   "content": "Đầu tháng, chúc em một tháng mới đầy năng lượng tích cực và nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_love_24",
+   "content": "Anh chúc em mùng 1 an lành, cả tháng may mắn và cả năm hanh thông.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_love_25",
+   "content": "Mùng 1 may mắn! Chúc em tháng này gặt hái thật nhiều thành quả.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_love_26",
+   "content": "Đầu tháng mới, anh chúc em luôn khỏe, luôn vui và luôn được yêu thương.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_love_27",
+   "content": "Chúc em mùng 1 bình an và một tháng mới thật rực rỡ.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_love_28",
+   "content": "Mùng 1 đầu tháng, anh chúc em mọi khó khăn đều hóa thuận lợi.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_love_29",
+   "content": "Đầu tháng, chúc em một tháng mới sung túc, đủ đầy và nhiều tiếng cười.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_love_30",
+   "content": "Anh chúc em mùng 1 gặp vía lành, làm gì cũng thuận, đi đâu cũng may.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_love_31",
+   "content": "Mùng 1 may mắn em yêu! Chúc em một tháng mới bình yên và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_love_32",
+   "content": "Đầu tháng mới, anh chúc em tâm luôn an và lòng luôn nhẹ.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_love_33",
+   "content": "Chúc em mùng 1 thật nhiều may mắn, và anh sẽ luôn ở bên em tháng này.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_love_34",
+   "content": "Mùng 1 đầu tháng, anh chúc em một tháng mới khởi sắc trong mọi mặt.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_love_35",
+   "content": "Đầu tháng, chúc em gặp toàn điều lành và thật nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_love_36",
+   "content": "Anh chúc em mùng 1 an khang, cả tháng thịnh vượng và vạn sự như ý.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_love_37",
+   "content": "Mùng 1 may mắn! Chúc em một tháng mới nhiều sức khỏe và ít lo toan.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_love_38",
+   "content": "Đầu tháng mới, anh chúc em mọi nỗ lực đều được đền đáp xứng đáng.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_love_39",
+   "content": "Chúc em mùng 1 bình an, và chúc chúng mình một tháng thật vui bên nhau.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_love_40",
+   "content": "Mùng 1 đầu tháng, anh chúc em luôn mỉm cười và luôn hạnh phúc.",
+   "translate": ""
+  }
+ ]
+}

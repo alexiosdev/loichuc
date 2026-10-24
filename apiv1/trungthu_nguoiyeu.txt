@@ -1,0 +1,224 @@
+{
+ "result": [
+  {
+   "id": "trungthu_nguoiyeu_1",
+   "content": "Em hãy bước ra ngoài phòng và nhìn lên bầu trời đi. Trăng sáng không em? Em biết không, Anh đã ngồi đây một mình ngắm trăng mà nhớ em nhiều lắm. Ở phương xa chúc em một trung thu vui vẻ, hạnh phúc nhé. Anh yêu em nhiều. Mong ngày sớm được gặp em.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoiyeu_2",
+   "content": "Chúc mừng trung thu người anh yêu nhất và ngoan hiền dịu ngọt nhất. Cuộc sống buồn tẻ biết bao nếu vắng em.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoiyeu_3",
+   "content": "Em có thấy không, trên bầu trời có rất nhiều ngôi sao đang mỉm cười nhìn về chúng ta như có ý định chúc mừng trung thu chúng ta kìa.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoiyeu_4",
+   "content": "Chúc trung thu năm nay mọi điều cực kỳ tuyệt vời, niềm vui nối tiếp niềm vui đến với em - người anh yêu.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoiyeu_5",
+   "content": "Trung thu về, chúc cho em luôn vui và tươi tắn như hoa lá mùa xuân.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoiyeu_6",
+   "content": "Cám ơn Thượng Đế đã \"thả\" em xuống trái đất vào ngày này xxx năm trước, nếu không thì nụ hôn này biết gửi tặng ai đây…",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoiyeu_7",
+   "content": "Anh sẽ không chúc em điều gì cả vì em xứng đáng được hưởng tất cả những điều tốt đẹp nhất trên đời này. Trung thu trọn niềm vui em nhé!",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoiyeu_8",
+   "content": "Ngày Tết Trung thu em, anh chúc em luôn khỏe mạnh, tươi trẻ và công tác tốt, mãi mãi là tình yêu vĩ đại nhất của đời anh.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoiyeu_9",
+   "content": "Gửi đến em những lời chúc tốt đẹp nhất, ngọt ngào như những bông hoa này, vì em đã cùng anh đi đến tận cùng thế giới. Chúc em một ngày Tết Trung thu hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoiyeu_10",
+   "content": "Chúc em có 1 đêm trung thu rằm tháng 8 thật vui vẻ và hạnh phúc bên gia đình và những người thân yêu nhất. Nếu có 1 điều ước thì anh sẽ ước rằng, trung thu năm nay, 10 năm, 20 năm sau anh và em vẫn mãi ở bên nhau và ngắm trăng nhé. không thấy chị hằng nga nhưng em biết không em vẫn mãi là \"chị hằng\" xinh đẹp, dịu hiền trong trái tim anh.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoiyeu_11",
+   "content": "Nhân ngày Tết Trung thu anh xin tặng em món quà quý giá nhất của anh, đó chính là… cuộc đời anh. Mong em hãy nhận nó với niềm vui, hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoiyeu_12",
+   "content": "Gửi trọn toàn bộ tình yêu, thân xác (trừ những chỗ cấm) này đến em nhân ngày trung thu.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoiyeu_13",
+   "content": "Em, em hãy nhìn lên bầu trời đi. Những ngôi sao lấp lánh trên bầu trời đang mỉm cười chúc mừng trung thu chúng ta kìa.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoiyeu_14",
+   "content": "Em thấy không, trăng hôm nay bị mây che mất rồi kìa. Em có biết vì sao không? Trăng e thẹn, ngại trước em đó.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoiyeu_15",
+   "content": "Thông tấn xã tình yêu xin thông báo, chủ thuê bao 09xxx vừa nhận được 1 lời chúc mừng Trung thu cùng nụ hôn gió từ thuê bao 09xxxx.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoiyeu_16",
+   "content": "Chúc em tuổi mới ngày càng xinh đẹp \"dã man\", thông minh \"khủng khiếp\", nhưng đừng bao giờ rời xa anh nhé.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoiyeu_17",
+   "content": "Chúc em trung thu này có thật nhiều lời chúc hay và có nhiều quà bánh + quần áo mới + xinh đẹp và vẫn ngây thơ như chính em.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoiyeu_18",
+   "content": "Cuộc đời này của anh gắn chặt với em mất rồi... Trung thu năm nay năm sau, 10 năm sau hai muơi năm sau 50, 100 năm sau chúng ta vẫn đốt những ngọn nến lung linh này em nhé...",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoiyeu_19",
+   "content": "Tặng phẩm này riêng nó chẳng có ý nghĩa gì cả, nhưng mà kỉ niệm ở đây là anh gởi cho em với tất cả những tình cảm tha thiết nhất. Trung thu vui vẻ.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoiyeu_20",
+   "content": "Chúc mừng trung thu người yêu nhất và ngoan hiền dịu ngọt nhất của tôi. Cuộc sống buồn tẻ biết bao nếu vắng em.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoiyeu_21",
+   "content": "Gửi đến em lời chúc trung thu tuyệt vời nhất, ngọt ngào xinh tươi như những bông hoa mớ nở.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoiyeu_22",
+   "content": "Em biết không, trái đất đang ngừng xoay 1 giây để chúc mừng trung thu em đó.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoiyeu_23",
+   "content": "Em ah, Thế là trung thu này anh không được về bên em. Anh Chúc em trung thu vui vẻ, hạnh phúc và hãy luôn luôn tự tin, mạnh mẽ dù không ở bên anh, em nhé!",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoiyeu_24",
+   "content": "Tất cả những người sinh ra trong ngày hôm nay đều cực kỳ tuyệt vời, nhất là em.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoiyeu_25",
+   "content": "Chúc cho em những ngày tháng tám luôn tràn đầy ánh trăng thu. Một tháng may mắn, nhiều yêu thương.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoiyeu_26",
+   "content": "Chúc trung thu năm nay mọi điều cực kỳ tuyệt vời nhất đến với em.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoiyeu_27",
+   "content": "Chúc em trung thu rằm tháng 8 năm này mọi ước nguyện sẽ trở thành hiện thực, niềm vui nối tiếp niềm vui đến với em - người anh yêu.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoiyeu_28",
+   "content": "Trung thu này tuy em không ở bên anh nhưng đêm qua em đã bí mật nhét trái tim vào trong lồng ngực anh rồi, anh có thấy tim mình hôm nay đập mạnh hơn không?",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoiyeu_29",
+   "content": "Tổng đài viettel xin thông báo, Chủ thuê bao 09xxx vừa nhận được 1 lời chúc mừng trung thu vui vẻ, kèm theo một chiếc ôm ấm áp, cùng cùng 1 nụ hôn gió từ thuê bao 09xxx.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoiyeu_30",
+   "content": "Cám ơn cái ngày em cất tiếng khóc oe oe chào đời, nếu không có ngày ấy, anh biết gửi trái tim này cho ai?",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoiyeu_31",
+   "content": "Trên trời có triệu vì sao, dưới đất chỉ có mình anh yêu nàng. Em ơi em có biết khôg? Em chính là vì sao mà anh luôn muốn yêu thương và bao vệ mãi mãi. Trung thu vui vẻ,ấm áp và tràn đầy tiếng cười em nhé",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoiyeu_32",
+   "content": "Tặng em lời chúc tết trung thu Zui zẻ.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoiyeu_33",
+   "content": "Trăng đang đứng lại 1 giây để chúc mừng trung thu của 2 đứa mình đó.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoiyeu_34",
+   "content": "Đêm nay là 1 đêm thật đặc biệt, anh không biết nói gì hơn vì em xứng đáng được hưởng tất cả những điều tốt đẹp nhất trên đời này. Chúc em 1 đêm trung thu vui vẻ và hạnh phúc bên anh",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoiyeu_35",
+   "content": "Anh thật tiếc vì trung thu năm nay không được ở bên cạnh em vì vấn đề công việc, nhưng anh vẫn luôn chúc em và gia đình thật vui vẽ trong ngày lễ này nhé",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoiyeu_36",
+   "content": "Trung thu năm nay đã đến, anh chúc em giữ mãi kỉ niệm về trung thu trước nhé.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoiyeu_37",
+   "content": "Chúc em trung thu này được gặp trực tiếp chị Hằng và chú Cuội nhé!",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoiyeu_38",
+   "content": "Trung thu này thêm một tuổi đừng khóc nhè nữa bé nhé. Yêu em!12. Ngày trung thu em, anh chúc em luôn khỏe mạnh, tươi trẻ và gặp được chị Hằng tươi xinh nhé!",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoiyeu_39",
+   "content": "Trung thu đến, chúc các bé hay ăn, chóng lớn, mãi là bé ngoan.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoiyeu_40",
+   "content": "Chuyến bay mang số hiệu XXX của hãng hàng không chú Cuội - chị Hằng sẽ chuẩn bị cất cánh tại phi trường mang tên ''Anh yêu em'', xin mời các khách hàng ngồi đúng vị trí, chuẩn bị đầy đủ hành lý gồm có: yêu thương, nhớ nhung, giận hờn và một chút ít ''ghen'' để chúng ta có thể hạ cánh tại phi trường ''Em yêu anh'' đúng giờ. Xin cảm ơn!",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoiyeu_41",
+   "content": "Anh yêu quý, mong anh một Tết Trung thu yêu em nhiều hơn, nhiều hơn nữa nha anh và giữ mãi tình yêu mà anh dành cho em.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoiyeu_42",
+   "content": "Chúc cho trung thu mãi mãi trong suốt cuộc đời để nhận được nhiều niềm vui thơ ngây.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoiyeu_43",
+   "content": "Anh yêu quý, mong anh một tuổi mới yêu em nhiều hơn, nhiều hơn nữa nha anh và giữ mãi tình yêu mà anh dành cho em. Tháng 8 này em đi lấy chồng đó, hi hi. Chúc anh trung thu nhiều nhiều câu chúc mừng \"kiểu lên cơn\" như thế.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_nguoiyeu_44",
+   "content": "Con kính chúc ba mẹ Trung thu tràn đầy sức khỏe và hạnh phúc. Con sẽ sống tốt và tự chăm lo cho bản thân mình trưởng thành hơn, bởi con biết đó là điều khiến ba mẹ hạnh phúc nhất. Hãy luôn bên con ba mẹ nhé. Con yêu ba mẹ nhiều lắm.",
+   "translate": ""
+  }
+ ]
+}

@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "noel_tienganh_1",
+   "content": "Merry Christmas and a Happy New Year! Wishing you peace, joy and good health.",
+   "translate": ""
+  },
+  {
+   "id": "noel_tienganh_2",
+   "content": "Wishing you a Christmas filled with warmth, laughter and love.",
+   "translate": ""
+  },
+  {
+   "id": "noel_tienganh_3",
+   "content": "Merry Christmas! May your home be full of light and your heart full of peace.",
+   "translate": ""
+  },
+  {
+   "id": "noel_tienganh_4",
+   "content": "Happy Holidays! May this season bring you everything you have been hoping for.",
+   "translate": ""
+  },
+  {
+   "id": "noel_tienganh_5",
+   "content": "Merry Christmas! Wishing you cosy nights, good food and wonderful company.",
+   "translate": ""
+  },
+  {
+   "id": "noel_tienganh_6",
+   "content": "May the magic of Christmas fill your heart all year long.",
+   "translate": ""
+  },
+  {
+   "id": "noel_tienganh_7",
+   "content": "Merry Christmas! Thank you for being part of my year.",
+   "translate": ""
+  },
+  {
+   "id": "noel_tienganh_8",
+   "content": "Wishing you and your family a very merry Christmas and a bright new year.",
+   "translate": ""
+  },
+  {
+   "id": "noel_tienganh_9",
+   "content": "Merry Christmas! May your days be merry and your worries be few.",
+   "translate": ""
+  },
+  {
+   "id": "noel_tienganh_10",
+   "content": "Happy Holidays! Wishing you rest, joy and time with the people you love.",
+   "translate": ""
+  },
+  {
+   "id": "noel_tienganh_11",
+   "content": "Merry Christmas! May this season remind you how loved you are.",
+   "translate": ""
+  },
+  {
+   "id": "noel_tienganh_12",
+   "content": "Wishing you a peaceful Christmas and a year ahead full of promise.",
+   "translate": ""
+  },
+  {
+   "id": "noel_tienganh_13",
+   "content": "Merry Christmas! May your celebrations be warm and your memories be lasting.",
+   "translate": ""
+  },
+  {
+   "id": "noel_tienganh_14",
+   "content": "Happy Holidays! May you find joy in the small moments this season.",
+   "translate": ""
+  },
+  {
+   "id": "noel_tienganh_15",
+   "content": "Merry Christmas! Sending you love, light and all my best wishes.",
+   "translate": ""
+  },
+  {
+   "id": "noel_tienganh_16",
+   "content": "May your Christmas be as wonderful as you are.",
+   "translate": ""
+  },
+  {
+   "id": "noel_tienganh_17",
+   "content": "Merry Christmas! Wishing you health, happiness and a very good year ahead.",
+   "translate": ""
+  },
+  {
+   "id": "noel_tienganh_18",
+   "content": "Happy Holidays! May your season be bright and your heart be light.",
+   "translate": ""
+  },
+  {
+   "id": "noel_tienganh_19",
+   "content": "Merry Christmas! Thank you for your kindness throughout the year.",
+   "translate": ""
+  },
+  {
+   "id": "noel_tienganh_20",
+   "content": "Wishing you a Christmas full of laughter and a new year full of success.",
+   "translate": ""
+  },
+  {
+   "id": "noel_tienganh_21",
+   "content": "Merry Christmas! May you be surrounded by the people who matter most.",
+   "translate": ""
+  },
+  {
+   "id": "noel_tienganh_22",
+   "content": "Happy Holidays! Wishing you peace, comfort and plenty of good cheer.",
+   "translate": ""
+  },
+  {
+   "id": "noel_tienganh_23",
+   "content": "Merry Christmas! May this season bring you closer to everyone you love.",
+   "translate": ""
+  },
+  {
+   "id": "noel_tienganh_24",
+   "content": "Wishing you a magical Christmas and a joyful new beginning.",
+   "translate": ""
+  },
+  {
+   "id": "noel_tienganh_25",
+   "content": "Merry Christmas! May your table be full and your heart be fuller.",
+   "translate": ""
+  },
+  {
+   "id": "noel_tienganh_26",
+   "content": "Happy Holidays! Wishing you warmth on cold days and joy on every day.",
+   "translate": ""
+  },
+  {
+   "id": "noel_tienganh_27",
+   "content": "Merry Christmas! May the new year bring you everything this one did not.",
+   "translate": ""
+  },
+  {
+   "id": "noel_tienganh_28",
+   "content": "Wishing you a restful Christmas and a prosperous year ahead.",
+   "translate": ""
+  },
+  {
+   "id": "noel_tienganh_29",
+   "content": "Merry Christmas! May you always have a reason to celebrate.",
+   "translate": ""
+  },
+  {
+   "id": "noel_tienganh_30",
+   "content": "Happy Holidays! Sending you warm wishes from far away.",
+   "translate": ""
+  },
+  {
+   "id": "noel_tienganh_31",
+   "content": "Merry Christmas! May your season sparkle with happiness.",
+   "translate": ""
+  },
+  {
+   "id": "noel_tienganh_32",
+   "content": "Wishing you a Christmas as kind and generous as you are.",
+   "translate": ""
+  },
+  {
+   "id": "noel_tienganh_33",
+   "content": "Merry Christmas! May peace find you this holiday season.",
+   "translate": ""
+  },
+  {
+   "id": "noel_tienganh_34",
+   "content": "Happy Holidays! Wishing you good health and good company.",
+   "translate": ""
+  },
+  {
+   "id": "noel_tienganh_35",
+   "content": "Merry Christmas! May your home be filled with laughter and love.",
+   "translate": ""
+  },
+  {
+   "id": "noel_tienganh_36",
+   "content": "Wishing you a merry Christmas and the happiest of new years.",
+   "translate": ""
+  },
+  {
+   "id": "noel_tienganh_37",
+   "content": "Merry Christmas! May every candle you light bring you hope.",
+   "translate": ""
+  },
+  {
+   "id": "noel_tienganh_38",
+   "content": "Happy Holidays! May this season be gentle and joyful for you.",
+   "translate": ""
+  },
+  {
+   "id": "noel_tienganh_39",
+   "content": "Merry Christmas! Thank you for making my year brighter.",
+   "translate": ""
+  },
+  {
+   "id": "noel_tienganh_40",
+   "content": "Wishing you a Christmas full of blessings and a year full of possibility.",
+   "translate": ""
+  },
+  {
+   "id": "noel_tienganh_41",
+   "content": "Merry Christmas! May you feel loved, rested and grateful this season.",
+   "translate": ""
+  },
+  {
+   "id": "noel_tienganh_42",
+   "content": "Happy Holidays! Here is to a wonderful Christmas and an even better year ahead.",
+   "translate": ""
+  }
+ ]
+}

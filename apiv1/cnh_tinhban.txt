@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "cnh_tinhban_1",
+   "content": "Bạn thân không phải người lúc nào cũng ở cạnh, mà là người luôn có mặt khi bạn cần.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhban_2",
+   "content": "Tình bạn thật sự không cần nhắn tin mỗi ngày, chỉ cần gặp lại vẫn như xưa.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhban_3",
+   "content": "Một người bạn tốt sẽ nói thật với bạn, dù sự thật đó khó nghe.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhban_4",
+   "content": "Bạn bè không phải người cùng bạn vui, mà là người cùng bạn vượt qua những ngày buồn.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhban_5",
+   "content": "Tình bạn lâu năm quý ở chỗ không cần giải thích cũng hiểu nhau.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhban_6",
+   "content": "Hãy trân trọng người bạn vẫn nhắn tin hỏi thăm dù bạn chẳng trả lời.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhban_7",
+   "content": "Bạn tốt không làm cuộc sống bạn dễ hơn, nhưng làm nó nhẹ hơn rất nhiều.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhban_8",
+   "content": "Tình bạn cần được chăm sóc, không phải chỉ cần có là tự bền.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhban_9",
+   "content": "Một người bạn thật sự sẽ mừng cho thành công của bạn mà không ghen tị.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhban_10",
+   "content": "Đừng đếm số bạn bè, hãy đếm số người sẽ đến khi bạn gọi lúc nửa đêm.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhban_11",
+   "content": "Bạn thân là người biết hết tật xấu của bạn mà vẫn ở lại.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhban_12",
+   "content": "Tình bạn đẹp nhất là khi cả hai cùng tiến bộ, không ai kéo ai lùi lại.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhban_13",
+   "content": "Người bạn tốt không cần bạn phải giả vờ ổn.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhban_14",
+   "content": "Mất một người bạn thân đau không kém gì mất một mối tình.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhban_15",
+   "content": "Hãy là người bạn mà chính bạn muốn có.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhban_16",
+   "content": "Tình bạn thật sự không cạnh tranh, nó cổ vũ.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhban_17",
+   "content": "Một người bạn tốt sẽ giữ bí mật của bạn như giữ bí mật của chính mình.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhban_18",
+   "content": "Bạn bè cũ quý ở chỗ họ biết bạn từ khi bạn còn chưa là gì cả.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhban_19",
+   "content": "Đừng ngại liên lạc lại với người bạn cũ, tình bạn thật không sợ gián đoạn.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhban_20",
+   "content": "Người bạn tốt không chỉ khen bạn, họ còn dám nói bạn sai.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhban_21",
+   "content": "Tình bạn cần sự chân thành nhiều hơn sự khéo léo.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhban_22",
+   "content": "Bạn thân là gia đình mà bạn được tự chọn.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhban_23",
+   "content": "Một tình bạn bền là tình bạn mà cả hai đều cố gắng giữ.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhban_24",
+   "content": "Đừng để sự bận rộn làm bạn đánh mất những người bạn tốt.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhban_25",
+   "content": "Người ở lại sau những lúc bạn khó khăn mới là bạn thật sự.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhban_26",
+   "content": "Tình bạn không cần nhiều lời, chỉ cần đúng lúc.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhban_27",
+   "content": "Hãy biết ơn những người bạn đã ở bên bạn khi bạn chẳng có gì.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhban_28",
+   "content": "Một người bạn tốt làm bạn muốn trở thành người tốt hơn.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhban_29",
+   "content": "Bạn bè thật sự không biến mất khi bạn không còn hữu ích.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhban_30",
+   "content": "Tình bạn cũng cần ranh giới và sự tôn trọng như bất kỳ mối quan hệ nào.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhban_31",
+   "content": "Đừng đo tình bạn bằng thời gian quen nhau, hãy đo bằng những gì đã cùng trải qua.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhban_32",
+   "content": "Người bạn tốt sẽ lắng nghe mà không vội phán xét.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhban_33",
+   "content": "Tình bạn đẹp là khi im lặng bên nhau cũng thấy thoải mái.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhban_34",
+   "content": "Hãy giữ những người bạn khiến bạn cười thật nhiều.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhban_35",
+   "content": "Một người bạn chân thành đáng giá hơn trăm mối quan hệ xã giao.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhban_36",
+   "content": "Bạn bè thật sự không cần bạn phải hoàn hảo.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhban_37",
+   "content": "Tình bạn cần cả sự tha thứ và sự thẳng thắn.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhban_38",
+   "content": "Đừng quên hỏi thăm người bạn luôn tỏ ra ổn, họ cũng cần được quan tâm.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhban_39",
+   "content": "Người bạn tốt là người bạn có thể im lặng cùng mà không thấy ngại.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhban_40",
+   "content": "Tình bạn lâu bền được xây từ sự tin tưởng, không phải từ sự tiện lợi.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhban_41",
+   "content": "Hãy là người bạn mà người khác có thể dựa vào.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhban_42",
+   "content": "Một tình bạn tốt sẽ làm những ngày tồi tệ trở nên dễ chịu hơn.",
+   "translate": ""
+  }
+ ]
+}

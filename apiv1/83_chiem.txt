@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "83_chiem_1",
+   "content": "Chúc mừng 8/3 chị em mình! Chúc chúng ta luôn xinh đẹp, mạnh mẽ và hạnh phúc theo cách mình muốn.",
+   "translate": ""
+  },
+  {
+   "id": "83_chiem_2",
+   "content": "Ngày 8/3, chúc chị em phụ nữ luôn được yêu thương, được trân trọng và được là chính mình.",
+   "translate": ""
+  },
+  {
+   "id": "83_chiem_3",
+   "content": "Chúc mừng ngày Quốc tế Phụ nữ! Chúc chị em luôn tự tin với lựa chọn của mình.",
+   "translate": ""
+  },
+  {
+   "id": "83_chiem_4",
+   "content": "Nhân ngày 8/3, chúc chị em mình bớt gồng, bớt lo và sống nhẹ nhàng hơn một chút.",
+   "translate": ""
+  },
+  {
+   "id": "83_chiem_5",
+   "content": "Chúc mừng 8/3! Chúc chị em luôn khỏe mạnh để theo đuổi những điều mình yêu thích.",
+   "translate": ""
+  },
+  {
+   "id": "83_chiem_6",
+   "content": "Ngày của chị em, chúc chúng ta mãi rực rỡ dù ở bất cứ độ tuổi nào.",
+   "translate": ""
+  },
+  {
+   "id": "83_chiem_7",
+   "content": "Chúc mừng 8/3! Chúc chị em phụ nữ công việc thuận lợi, gia đình êm ấm, nhan sắc bền lâu.",
+   "translate": ""
+  },
+  {
+   "id": "83_chiem_8",
+   "content": "Nhân ngày 8/3, chúc chị em mình luôn có đủ dũng cảm để nói không khi cần.",
+   "translate": ""
+  },
+  {
+   "id": "83_chiem_9",
+   "content": "Chúc mừng ngày 8/3! Chúc chị em một ngày được nghỉ ngơi thật sự, không bếp núc, không việc nhà.",
+   "translate": ""
+  },
+  {
+   "id": "83_chiem_10",
+   "content": "Ngày 8/3, chúc chị em luôn giữ được sự dịu dàng mà vẫn đủ mạnh mẽ.",
+   "translate": ""
+  },
+  {
+   "id": "83_chiem_11",
+   "content": "Chúc mừng 8/3! Chúc chị em phụ nữ gặt hái được mọi điều mình đang nỗ lực.",
+   "translate": ""
+  },
+  {
+   "id": "83_chiem_12",
+   "content": "Nhân ngày của phái đẹp, chúc chị em mình luôn xinh đẹp từ trong ra ngoài.",
+   "translate": ""
+  },
+  {
+   "id": "83_chiem_13",
+   "content": "Chúc mừng 8/3! Chúc chị em tự do sống cuộc đời mình muốn, không cần vừa lòng ai.",
+   "translate": ""
+  },
+  {
+   "id": "83_chiem_14",
+   "content": "Ngày 8/3, chúc chị em luôn có những người bạn tốt bên cạnh để sẻ chia.",
+   "translate": ""
+  },
+  {
+   "id": "83_chiem_15",
+   "content": "Chúc mừng ngày Quốc tế Phụ nữ! Chúc chị em mãi tươi trẻ và tràn đầy năng lượng.",
+   "translate": ""
+  },
+  {
+   "id": "83_chiem_16",
+   "content": "Nhân ngày 8/3, chúc chị em mình thật nhiều sức khỏe và thật nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "83_chiem_17",
+   "content": "Chúc mừng 8/3! Chúc chị em phụ nữ ngày càng tự chủ, tự tin và thành công.",
+   "translate": ""
+  },
+  {
+   "id": "83_chiem_18",
+   "content": "Ngày của chị em, chúc chúng ta biết yêu thương bản thân nhiều hơn một chút.",
+   "translate": ""
+  },
+  {
+   "id": "83_chiem_19",
+   "content": "Chúc mừng 8/3! Chúc chị em luôn được lắng nghe và luôn được thấu hiểu.",
+   "translate": ""
+  },
+  {
+   "id": "83_chiem_20",
+   "content": "Nhân ngày 8/3, chúc chị em mình mọi điều tốt đẹp nhất, bởi chúng ta xứng đáng.",
+   "translate": ""
+  },
+  {
+   "id": "83_chiem_21",
+   "content": "Chúc mừng ngày 8/3! Chúc chị em phụ nữ bình an trong tâm và rực rỡ trong đời.",
+   "translate": ""
+  },
+  {
+   "id": "83_chiem_22",
+   "content": "Ngày 8/3, chúc chị em luôn có đủ tự tin để bước ra khỏi vùng an toàn.",
+   "translate": ""
+  },
+  {
+   "id": "83_chiem_23",
+   "content": "Chúc mừng 8/3! Chúc chị em mình một ngày thật vui và một năm thật đáng nhớ.",
+   "translate": ""
+  },
+  {
+   "id": "83_chiem_24",
+   "content": "Nhân ngày của phái đẹp, chúc chị em luôn khỏe mạnh và luôn hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "83_chiem_25",
+   "content": "Chúc mừng 8/3! Chúc chị em phụ nữ mọi giấc mơ đều có cơ hội được thực hiện.",
+   "translate": ""
+  },
+  {
+   "id": "83_chiem_26",
+   "content": "Ngày 8/3, chúc chị em mình luôn giữ được nét riêng và không ngại khác biệt.",
+   "translate": ""
+  },
+  {
+   "id": "83_chiem_27",
+   "content": "Chúc mừng ngày Quốc tế Phụ nữ! Chúc chị em thật nhiều yêu thương và trân trọng.",
+   "translate": ""
+  },
+  {
+   "id": "83_chiem_28",
+   "content": "Nhân ngày 8/3, chúc chị em luôn đủ đầy cả về vật chất lẫn tinh thần.",
+   "translate": ""
+  },
+  {
+   "id": "83_chiem_29",
+   "content": "Chúc mừng 8/3! Chúc chị em mình bớt so sánh, bớt áp lực và sống thật thoải mái.",
+   "translate": ""
+  },
+  {
+   "id": "83_chiem_30",
+   "content": "Ngày của chị em, chúc chúng ta luôn tìm được niềm vui trong những điều giản dị.",
+   "translate": ""
+  },
+  {
+   "id": "83_chiem_31",
+   "content": "Chúc mừng 8/3! Chúc chị em phụ nữ luôn tỏa sáng ở bất cứ nơi đâu mình có mặt.",
+   "translate": ""
+  },
+  {
+   "id": "83_chiem_32",
+   "content": "Nhân ngày 8/3, chúc chị em mình có thật nhiều kỷ niệm đẹp trong năm nay.",
+   "translate": ""
+  },
+  {
+   "id": "83_chiem_33",
+   "content": "Chúc mừng ngày 8/3! Chúc chị em sức khỏe dồi dào, tinh thần phơi phới, cuộc sống viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "83_chiem_34",
+   "content": "Ngày 8/3, chúc chị em luôn được yêu thương như cách chúng ta vẫn yêu thương mọi người.",
+   "translate": ""
+  },
+  {
+   "id": "83_chiem_35",
+   "content": "Chúc mừng 8/3! Chúc chị em mình mãi là những người phụ nữ tuyệt vời.",
+   "translate": ""
+  },
+  {
+   "id": "83_chiem_36",
+   "content": "Nhân ngày của phái đẹp, chúc chị em thật nhiều may mắn và thành công.",
+   "translate": ""
+  },
+  {
+   "id": "83_chiem_37",
+   "content": "Chúc mừng 8/3! Chúc chị em phụ nữ ngày nào cũng được nâng niu chứ không chỉ hôm nay.",
+   "translate": ""
+  },
+  {
+   "id": "83_chiem_38",
+   "content": "Ngày 8/3, chúc chị em mình luôn hạnh phúc và luôn mỉm cười.",
+   "translate": ""
+  },
+  {
+   "id": "83_chiem_39",
+   "content": "Chúc mừng ngày Quốc tế Phụ nữ! Chúc chị em an nhiên, tự tại và viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "83_chiem_40",
+   "content": "Nhân ngày 8/3, chúc chị em luôn đủ mạnh mẽ để vượt qua mọi thử thách.",
+   "translate": ""
+  },
+  {
+   "id": "83_chiem_41",
+   "content": "Chúc mừng 8/3! Chúc chị em mình một ngày trọn vẹn và một đời thật đáng sống.",
+   "translate": ""
+  },
+  {
+   "id": "83_chiem_42",
+   "content": "Ngày 8/3, chúc chị em phụ nữ mọi điều như ý và mọi ước mơ thành hiện thực.",
+   "translate": ""
+  }
+ ]
+}

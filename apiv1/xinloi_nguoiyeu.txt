@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "xinloi_nguoiyeu_1",
+   "content": "Anh xin lỗi em. Anh biết anh đã sai, và anh thật sự hối hận.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_nguoiyeu_2",
+   "content": "Xin lỗi vì đã làm em buồn. Anh không cố ý, nhưng anh biết điều đó không làm em bớt tổn thương.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_nguoiyeu_3",
+   "content": "Anh xin lỗi vì đã nói những lời khó nghe. Cho anh một cơ hội để sửa nhé.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_nguoiyeu_4",
+   "content": "Xin lỗi em. Anh đã suy nghĩ rất nhiều và nhận ra mình sai ở đâu.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_nguoiyeu_5",
+   "content": "Anh xin lỗi vì đã không lắng nghe em đủ nhiều.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_nguoiyeu_6",
+   "content": "Xin lỗi vì đã để em phải chờ đợi và lo lắng. Anh sẽ thay đổi.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_nguoiyeu_7",
+   "content": "Anh biết lời xin lỗi là chưa đủ, nhưng anh thật lòng muốn nói: anh xin lỗi.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_nguoiyeu_8",
+   "content": "Xin lỗi em vì đã vô tâm. Anh sẽ chú ý hơn tới cảm xúc của em.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_nguoiyeu_9",
+   "content": "Anh xin lỗi. Anh không muốn mất em chỉ vì sự ngốc nghếch của mình.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_nguoiyeu_10",
+   "content": "Xin lỗi vì đã làm tổn thương người mà anh thương nhất.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_nguoiyeu_11",
+   "content": "Anh xin lỗi em. Cho anh thời gian để chứng minh anh đã thay đổi nhé.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_nguoiyeu_12",
+   "content": "Xin lỗi vì đã quên điều quan trọng với em. Anh sẽ không để điều đó lặp lại.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_nguoiyeu_13",
+   "content": "Anh xin lỗi vì đã giận dỗi vô lý. Em không đáng phải chịu điều đó.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_nguoiyeu_14",
+   "content": "Xin lỗi em, anh đã quá nóng nảy. Anh đang học cách bình tĩnh hơn.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_nguoiyeu_15",
+   "content": "Anh xin lỗi. Dù có chuyện gì, anh cũng không nên nói với em như thế.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_nguoiyeu_16",
+   "content": "Xin lỗi vì đã không ở bên em khi em cần nhất.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_nguoiyeu_17",
+   "content": "Anh xin lỗi em thật lòng. Mong em cho anh một cơ hội nữa.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_nguoiyeu_18",
+   "content": "Xin lỗi vì đã khiến em phải khóc. Anh thấy mình thật tệ.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_nguoiyeu_19",
+   "content": "Anh xin lỗi vì đã để những chuyện nhỏ làm rạn nứt tình cảm của chúng mình.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_nguoiyeu_20",
+   "content": "Xin lỗi em. Anh biết anh cần cố gắng nhiều hơn nữa.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_nguoiyeu_21",
+   "content": "Anh xin lỗi vì đã không hiểu em. Anh sẽ học cách hiểu em hơn.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_nguoiyeu_22",
+   "content": "Xin lỗi vì đã để em thất vọng. Anh sẽ không để điều đó xảy ra lần nữa.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_nguoiyeu_23",
+   "content": "Anh xin lỗi em. Anh trân trọng em hơn những gì anh đã thể hiện.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_nguoiyeu_24",
+   "content": "Xin lỗi vì đã ích kỷ chỉ nghĩ đến bản thân mình.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_nguoiyeu_25",
+   "content": "Anh xin lỗi. Anh biết mình đã làm sai và anh sẵn sàng sửa.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_nguoiyeu_26",
+   "content": "Xin lỗi em vì những ngày qua anh đã khiến em mệt mỏi.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_nguoiyeu_27",
+   "content": "Anh xin lỗi vì đã không giữ lời hứa với em.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_nguoiyeu_28",
+   "content": "Xin lỗi vì đã để em một mình trong lúc em cần có anh.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_nguoiyeu_29",
+   "content": "Anh xin lỗi em. Mong em đừng giận anh nữa nhé.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_nguoiyeu_30",
+   "content": "Xin lỗi vì đã nói ra những điều mà chính anh cũng không nghĩ vậy.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_nguoiyeu_31",
+   "content": "Anh xin lỗi. Anh hiểu em buồn, và anh sẽ cố gắng để em không buồn nữa.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_nguoiyeu_32",
+   "content": "Xin lỗi em vì đã không trân trọng những gì em làm cho anh.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_nguoiyeu_33",
+   "content": "Anh xin lỗi vì đã khiến em phải nghi ngờ tình cảm của anh.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_nguoiyeu_34",
+   "content": "Xin lỗi vì đã để em phải nhắc đi nhắc lại một điều.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_nguoiyeu_35",
+   "content": "Anh xin lỗi em. Anh thật sự muốn chúng mình quay lại như trước.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_nguoiyeu_36",
+   "content": "Xin lỗi vì đã làm hỏng ngày hôm nay của em.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_nguoiyeu_37",
+   "content": "Anh xin lỗi. Anh đã học được bài học và anh sẽ không lặp lại.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_nguoiyeu_38",
+   "content": "Xin lỗi em vì sự thiếu suy nghĩ của anh.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_nguoiyeu_39",
+   "content": "Anh xin lỗi vì đã để công việc chiếm hết thời gian dành cho em.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_nguoiyeu_40",
+   "content": "Xin lỗi em. Anh biết mình may mắn thế nào khi có em, và anh sẽ không quên điều đó nữa.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_nguoiyeu_41",
+   "content": "Anh xin lỗi vì đã không nói lời xin lỗi sớm hơn.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_nguoiyeu_42",
+   "content": "Xin lỗi em thật lòng. Cho anh cơ hội để làm lại từ đầu nhé.",
+   "translate": ""
+  }
+ ]
+}

@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "totnghiep_1",
+   "content": "Chúc mừng bạn đã tốt nghiệp! Chúc bạn một khởi đầu mới thật thuận lợi và thành công.",
+   "translate": ""
+  },
+  {
+   "id": "totnghiep_2",
+   "content": "Chúc mừng tân cử nhân! Chúc bạn sớm tìm được công việc mơ ước và phát triển thật tốt.",
+   "translate": ""
+  },
+  {
+   "id": "totnghiep_3",
+   "content": "Chúc mừng ngày tốt nghiệp! Bao nhiêu nỗ lực đã được đền đáp, chúc bạn thật nhiều thành công.",
+   "translate": ""
+  },
+  {
+   "id": "totnghiep_4",
+   "content": "Chúc mừng bạn ra trường! Chúc bạn tự tin bước vào chặng đường mới.",
+   "translate": ""
+  },
+  {
+   "id": "totnghiep_5",
+   "content": "Chúc mừng tốt nghiệp! Chúc bạn giữ mãi đam mê và luôn tiến về phía trước.",
+   "translate": ""
+  },
+  {
+   "id": "totnghiep_6",
+   "content": "Chúc mừng bạn đã hoàn thành chặng đường học tập! Chúc bạn gặt hái thật nhiều thành quả.",
+   "translate": ""
+  },
+  {
+   "id": "totnghiep_7",
+   "content": "Chúc mừng tân cử nhân! Chúc bạn một tương lai thật rộng mở và xán lạn.",
+   "translate": ""
+  },
+  {
+   "id": "totnghiep_8",
+   "content": "Chúc mừng ngày tốt nghiệp! Chúc bạn luôn vững vàng trước mọi thử thách phía trước.",
+   "translate": ""
+  },
+  {
+   "id": "totnghiep_9",
+   "content": "Chúc mừng bạn ra trường! Chúc bạn sớm tìm được chỗ đứng của riêng mình.",
+   "translate": ""
+  },
+  {
+   "id": "totnghiep_10",
+   "content": "Chúc mừng tốt nghiệp! Chúc bạn dám mơ lớn và đủ bản lĩnh để biến ước mơ thành thật.",
+   "translate": ""
+  },
+  {
+   "id": "totnghiep_11",
+   "content": "Chúc mừng bạn đã tốt nghiệp! Chúc bạn một hành trình mới thật đáng nhớ.",
+   "translate": ""
+  },
+  {
+   "id": "totnghiep_12",
+   "content": "Chúc mừng tân cử nhân! Chúc bạn giữ mãi sự tò mò và ham học hỏi.",
+   "translate": ""
+  },
+  {
+   "id": "totnghiep_13",
+   "content": "Chúc mừng ngày tốt nghiệp! Chúc bạn gặp được những cơ hội xứng đáng với nỗ lực của mình.",
+   "translate": ""
+  },
+  {
+   "id": "totnghiep_14",
+   "content": "Chúc mừng bạn ra trường! Chúc bạn mạnh mẽ, tự tin và luôn hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "totnghiep_15",
+   "content": "Chúc mừng tốt nghiệp! Đây không phải là kết thúc, mà là một khởi đầu mới.",
+   "translate": ""
+  },
+  {
+   "id": "totnghiep_16",
+   "content": "Chúc mừng bạn đã hoàn thành khóa học! Chúc bạn thành công trên con đường đã chọn.",
+   "translate": ""
+  },
+  {
+   "id": "totnghiep_17",
+   "content": "Chúc mừng tân cử nhân! Chúc bạn tìm được công việc mình yêu và làm tốt nó.",
+   "translate": ""
+  },
+  {
+   "id": "totnghiep_18",
+   "content": "Chúc mừng ngày tốt nghiệp! Chúc bạn luôn tự hào về chính mình.",
+   "translate": ""
+  },
+  {
+   "id": "totnghiep_19",
+   "content": "Chúc mừng bạn ra trường! Chúc bạn một tương lai thật nhiều cơ hội và niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "totnghiep_20",
+   "content": "Chúc mừng tốt nghiệp! Chúc bạn giữ mãi những người bạn tốt từ thời sinh viên.",
+   "translate": ""
+  },
+  {
+   "id": "totnghiep_21",
+   "content": "Chúc mừng bạn đã tốt nghiệp! Chúc bạn luôn khỏe mạnh và luôn tiến bộ.",
+   "translate": ""
+  },
+  {
+   "id": "totnghiep_22",
+   "content": "Chúc mừng tân cử nhân! Chúc bạn tự tin bước vào đời và gặt hái thật nhiều.",
+   "translate": ""
+  },
+  {
+   "id": "totnghiep_23",
+   "content": "Chúc mừng ngày tốt nghiệp! Chúc bạn không ngừng học hỏi và không ngừng tiến lên.",
+   "translate": ""
+  },
+  {
+   "id": "totnghiep_24",
+   "content": "Chúc mừng bạn ra trường! Chúc bạn sớm chạm tới những mục tiêu mình đặt ra.",
+   "translate": ""
+  },
+  {
+   "id": "totnghiep_25",
+   "content": "Chúc mừng tốt nghiệp! Chúc bạn đi thật xa và vẫn nhớ đường về.",
+   "translate": ""
+  },
+  {
+   "id": "totnghiep_26",
+   "content": "Chúc mừng bạn đã hoàn thành chặng đường này! Chúc bạn hạnh phúc với lựa chọn của mình.",
+   "translate": ""
+  },
+  {
+   "id": "totnghiep_27",
+   "content": "Chúc mừng tân cử nhân! Chúc bạn một sự nghiệp thật vững vàng và ý nghĩa.",
+   "translate": ""
+  },
+  {
+   "id": "totnghiep_28",
+   "content": "Chúc mừng ngày tốt nghiệp! Chúc bạn luôn giữ được nhiệt huyết của tuổi trẻ.",
+   "translate": ""
+  },
+  {
+   "id": "totnghiep_29",
+   "content": "Chúc mừng bạn ra trường! Chúc bạn gặp nhiều người tốt và nhiều cơ hội tốt.",
+   "translate": ""
+  },
+  {
+   "id": "totnghiep_30",
+   "content": "Chúc mừng tốt nghiệp! Chúc bạn tự tin, bản lĩnh và luôn thành công.",
+   "translate": ""
+  },
+  {
+   "id": "totnghiep_31",
+   "content": "Chúc mừng bạn đã tốt nghiệp! Chúc bạn một chặng đường mới thật suôn sẻ.",
+   "translate": ""
+  },
+  {
+   "id": "totnghiep_32",
+   "content": "Chúc mừng tân cử nhân! Chúc bạn biến những gì đã học thành những điều có ích.",
+   "translate": ""
+  },
+  {
+   "id": "totnghiep_33",
+   "content": "Chúc mừng ngày tốt nghiệp! Chúc bạn luôn vui, luôn khỏe và luôn tiến bộ.",
+   "translate": ""
+  },
+  {
+   "id": "totnghiep_34",
+   "content": "Chúc mừng bạn ra trường! Chúc bạn sớm thành công và luôn giữ được sự tử tế.",
+   "translate": ""
+  },
+  {
+   "id": "totnghiep_35",
+   "content": "Chúc mừng tốt nghiệp! Chúc bạn một tương lai thật rực rỡ phía trước.",
+   "translate": ""
+  },
+  {
+   "id": "totnghiep_36",
+   "content": "Chúc mừng bạn đã hoàn thành việc học! Chúc bạn nhiều may mắn trên con đường mới.",
+   "translate": ""
+  },
+  {
+   "id": "totnghiep_37",
+   "content": "Chúc mừng tân cử nhân! Chúc bạn tìm được công việc phù hợp và yêu thích nó.",
+   "translate": ""
+  },
+  {
+   "id": "totnghiep_38",
+   "content": "Chúc mừng ngày tốt nghiệp! Chúc bạn mọi nỗ lực đều được đền đáp xứng đáng.",
+   "translate": ""
+  },
+  {
+   "id": "totnghiep_39",
+   "content": "Chúc mừng bạn ra trường! Chúc bạn tự tin đối mặt với mọi thử thách.",
+   "translate": ""
+  },
+  {
+   "id": "totnghiep_40",
+   "content": "Chúc mừng tốt nghiệp! Chúc bạn luôn là phiên bản tốt nhất của chính mình.",
+   "translate": ""
+  },
+  {
+   "id": "totnghiep_41",
+   "content": "Chúc mừng bạn đã tốt nghiệp! Chúc bạn thành công, hạnh phúc và bình an.",
+   "translate": ""
+  },
+  {
+   "id": "totnghiep_42",
+   "content": "Chúc mừng tân cử nhân! Chúc bạn khởi đầu mới thật nhiều năng lượng và may mắn.",
+   "translate": ""
+  }
+ ]
+}

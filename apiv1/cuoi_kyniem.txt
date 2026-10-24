@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "cuoi_kyniem_1",
+   "content": "Chúc mừng kỷ niệm ngày cưới! Chúc hai bạn mãi yêu thương nhau như ngày đầu.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_kyniem_2",
+   "content": "Kỷ niệm ngày cưới vui vẻ! Chúc anh chị thêm một năm thật hạnh phúc bên nhau.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_kyniem_3",
+   "content": "Chúc mừng ngày cưới của hai bạn! Chúc hai bạn trăm năm hạnh phúc và luôn bên nhau.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_kyniem_4",
+   "content": "Kỷ niệm ngày cưới hạnh phúc em nhé! Cảm ơn em vì một năm nữa bên anh.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_kyniem_5",
+   "content": "Chúc mừng kỷ niệm! Chúc anh chị mãi giữ được sự dịu dàng dành cho nhau.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_kyniem_6",
+   "content": "Thêm một năm bên nhau rồi. Chúc chúng mình mãi hạnh phúc như hôm nay.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_kyniem_7",
+   "content": "Chúc mừng ngày cưới! Chúc hai bạn thêm nhiều năm nữa thật viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_kyniem_8",
+   "content": "Kỷ niệm ngày cưới vui vẻ! Chúc anh chị luôn khỏe mạnh và luôn yêu thương nhau.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_kyniem_9",
+   "content": "Chúc mừng kỷ niệm ngày cưới! Chúc hai bạn mãi mặn nồng và thấu hiểu nhau.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_kyniem_10",
+   "content": "Hôm nay là ngày của chúng mình. Cảm ơn em vì đã ở lại suốt những năm qua.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_kyniem_11",
+   "content": "Chúc mừng ngày cưới của anh chị! Chúc anh chị bách niên giai lão, đầu bạc răng long.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_kyniem_12",
+   "content": "Kỷ niệm ngày cưới hạnh phúc! Chúc hai bạn thêm nhiều kỷ niệm đẹp bên nhau.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_kyniem_13",
+   "content": "Chúc mừng kỷ niệm! Chúc anh chị một năm mới thật nhiều niềm vui và bình an.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_kyniem_14",
+   "content": "Thêm một năm nữa trôi qua, và anh vẫn chọn em. Chúc mừng ngày cưới của chúng mình.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_kyniem_15",
+   "content": "Chúc mừng ngày cưới! Chúc hai bạn mãi là chỗ dựa vững chắc cho nhau.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_kyniem_16",
+   "content": "Kỷ niệm ngày cưới vui vẻ anh chị nhé! Chúc anh chị hạnh phúc trọn đời.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_kyniem_17",
+   "content": "Chúc mừng kỷ niệm ngày cưới! Chúc hai bạn gia đình êm ấm và con cái ngoan ngoãn.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_kyniem_18",
+   "content": "Cảm ơn em vì một năm nữa đồng hành. Chúc mừng ngày cưới của chúng mình.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_kyniem_19",
+   "content": "Chúc mừng ngày cưới của hai bạn! Chúc hai bạn mãi yêu nhau như ngày đầu.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_kyniem_20",
+   "content": "Kỷ niệm ngày cưới hạnh phúc! Chúc anh chị thêm thật nhiều năm bên nhau.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_kyniem_21",
+   "content": "Chúc mừng kỷ niệm! Chúc hai bạn luôn kiên nhẫn và bao dung với nhau.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_kyniem_22",
+   "content": "Hôm nay kỷ niệm ngày cưới, anh chỉ muốn nói: cảm ơn em vì tất cả.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_kyniem_23",
+   "content": "Chúc mừng ngày cưới! Chúc anh chị một năm mới thật viên mãn và đủ đầy.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_kyniem_24",
+   "content": "Kỷ niệm ngày cưới vui vẻ! Chúc hai bạn mãi nắm tay nhau đi tiếp.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_kyniem_25",
+   "content": "Chúc mừng kỷ niệm ngày cưới! Chúc anh chị sống vui, sống khỏe bên nhau thật lâu.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_kyniem_26",
+   "content": "Thêm một năm, thêm nhiều kỷ niệm. Chúc mừng ngày cưới của chúng mình em nhé.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_kyniem_27",
+   "content": "Chúc mừng ngày cưới của anh chị! Chúc anh chị mọi điều tốt đẹp nhất.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_kyniem_28",
+   "content": "Kỷ niệm ngày cưới hạnh phúc! Chúc hai bạn trăm năm hạnh phúc và luôn vui vẻ.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_kyniem_29",
+   "content": "Chúc mừng kỷ niệm! Chúc anh chị mãi giữ được tình cảm ấm áp như hôm nay.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_kyniem_30",
+   "content": "Cảm ơn em vì đã cùng anh đi qua một năm nữa. Chúc mừng ngày cưới.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_kyniem_31",
+   "content": "Chúc mừng ngày cưới! Chúc hai bạn thêm nhiều chuyến đi và nhiều kỷ niệm đẹp.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_kyniem_32",
+   "content": "Kỷ niệm ngày cưới vui vẻ anh chị! Chúc anh chị hạnh phúc và bình an.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_kyniem_33",
+   "content": "Chúc mừng kỷ niệm ngày cưới! Chúc hai bạn luôn chọn nhau mỗi ngày.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_kyniem_34",
+   "content": "Hôm nay là ngày đặc biệt của chúng mình. Anh yêu em, nhiều hơn năm ngoái.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_kyniem_35",
+   "content": "Chúc mừng ngày cưới của hai bạn! Chúc hai bạn một năm mới thật nhiều may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_kyniem_36",
+   "content": "Kỷ niệm ngày cưới hạnh phúc! Chúc anh chị mãi là tổ ấm của nhau.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_kyniem_37",
+   "content": "Chúc mừng kỷ niệm! Chúc hai bạn thêm một năm thật nhẹ nhàng và ấm áp.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_kyniem_38",
+   "content": "Cảm ơn em vì đã kiên nhẫn với anh suốt từng ấy năm. Chúc mừng ngày cưới.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_kyniem_39",
+   "content": "Chúc mừng ngày cưới! Chúc anh chị thuận hòa, êm ấm và luôn hiểu nhau.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_kyniem_40",
+   "content": "Kỷ niệm ngày cưới vui vẻ! Chúc hai bạn hạnh phúc hơn cả những gì từng mơ.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_kyniem_41",
+   "content": "Chúc mừng kỷ niệm ngày cưới! Chúc anh chị một chặng đường phía trước thật đẹp.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_kyniem_42",
+   "content": "Thêm một năm bên nhau, chúc chúng mình mãi giữ được điều này.",
+   "translate": ""
+  }
+ ]
+}

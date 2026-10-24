@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "cuoi_anhchiem_1",
+   "content": "Chúc mừng ngày vui của anh/chị! Em chúc anh chị trăm năm hạnh phúc, bách niên giai lão.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_anhchiem_2",
+   "content": "Chúc mừng đám cưới anh chị! Chúc anh chị mãi yêu thương và thấu hiểu nhau.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_anhchiem_3",
+   "content": "Em chúc anh chị một cuộc hôn nhân viên mãn và thật nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_anhchiem_4",
+   "content": "Chúc mừng hạnh phúc! Em chúc anh chị sớm sinh quý tử và luôn vui vẻ.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_anhchiem_5",
+   "content": "Chúc mừng ngày trọng đại! Em chúc anh chị xây dựng được một tổ ấm thật đẹp.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_anhchiem_6",
+   "content": "Em chúc anh chị trăm năm hạnh phúc, thuận vợ thuận chồng, gia đạo hưng long.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_anhchiem_7",
+   "content": "Chúc mừng đám cưới! Chúc anh chị cùng nhau vượt qua mọi thăng trầm phía trước.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_anhchiem_8",
+   "content": "Em chúc anh chị mãi mặn nồng như ngày hôm nay và mãi hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_anhchiem_9",
+   "content": "Chúc mừng hạnh phúc anh chị! Chúc anh chị con đàn cháu đống, đầu bạc răng long.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_anhchiem_10",
+   "content": "Chúc mừng ngày vui! Em chúc anh chị luôn khỏe mạnh và luôn yêu thương nhau.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_anhchiem_11",
+   "content": "Em chúc anh chị một gia đình nhỏ thật ấm áp và tràn đầy tiếng cười.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_anhchiem_12",
+   "content": "Chúc mừng đám cưới anh chị! Chúc anh chị mọi điều tốt đẹp nhất.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_anhchiem_13",
+   "content": "Em chúc anh chị trọn đời bình an, hạnh phúc và viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_anhchiem_14",
+   "content": "Chúc mừng hạnh phúc! Em chúc anh chị mãi nắm tay nhau đi hết chặng đường dài.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_anhchiem_15",
+   "content": "Chúc mừng ngày trọng đại của anh chị! Chúc anh chị luôn là chỗ dựa cho nhau.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_anhchiem_16",
+   "content": "Em chúc anh chị một hôn nhân bền chặt và một tương lai thật sáng.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_anhchiem_17",
+   "content": "Chúc mừng đám cưới! Chúc anh chị kiên nhẫn, bao dung và luôn thương nhau.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_anhchiem_18",
+   "content": "Em chúc anh chị trăm năm hạnh phúc và sự nghiệp ngày càng hanh thông.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_anhchiem_19",
+   "content": "Chúc mừng hạnh phúc anh chị! Chúc anh chị sống vui, sống khỏe bên nhau thật lâu.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_anhchiem_20",
+   "content": "Chúc mừng ngày vui! Em chúc anh chị mãi giữ được ánh mắt dành cho nhau hôm nay.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_anhchiem_21",
+   "content": "Em chúc anh chị một cuộc sống chung thật nhẹ nhàng và thật nhiều hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_anhchiem_22",
+   "content": "Chúc mừng đám cưới anh chị! Chúc anh chị luôn chọn nhau mỗi ngày.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_anhchiem_23",
+   "content": "Em chúc anh chị một khởi đầu thật đẹp cho chặng đường dài phía trước.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_anhchiem_24",
+   "content": "Chúc mừng hạnh phúc! Em chúc anh chị gia đình êm ấm và con cái ngoan ngoãn.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_anhchiem_25",
+   "content": "Chúc mừng ngày trọng đại! Chúc anh chị hạnh phúc hơn cả những gì từng mơ ước.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_anhchiem_26",
+   "content": "Em chúc anh chị mãi là bờ vai vững chắc của nhau trong mọi hoàn cảnh.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_anhchiem_27",
+   "content": "Chúc mừng đám cưới! Chúc anh chị một mái ấm bình yên để trở về mỗi ngày.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_anhchiem_28",
+   "content": "Em chúc anh chị trăm năm hạnh phúc, thuận hòa và luôn hiểu nhau.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_anhchiem_29",
+   "content": "Chúc mừng hạnh phúc anh chị! Chúc anh chị mọi dự định chung đều thành hiện thực.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_anhchiem_30",
+   "content": "Chúc mừng ngày vui của anh chị! Em chúc anh chị thật nhiều may mắn và niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_anhchiem_31",
+   "content": "Em chúc anh chị một cuộc sống vợ chồng viên mãn và đủ đầy.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_anhchiem_32",
+   "content": "Chúc mừng đám cưới anh chị! Chúc anh chị luôn mỉm cười như hôm nay.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_anhchiem_33",
+   "content": "Em chúc anh chị trọn đời yêu thương và chăm sóc cho nhau.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_anhchiem_34",
+   "content": "Chúc mừng hạnh phúc! Em chúc anh chị một chặng đường chung thật đáng nhớ.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_anhchiem_35",
+   "content": "Chúc mừng ngày trọng đại! Chúc anh chị một tổ ấm đầy ắp yêu thương.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_anhchiem_36",
+   "content": "Em chúc anh chị trăm năm hạnh phúc và luôn bình an trong cuộc sống.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_anhchiem_37",
+   "content": "Chúc mừng đám cưới! Chúc anh chị mãi yêu nhau như ngày đầu gặp gỡ.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_anhchiem_38",
+   "content": "Em chúc anh chị một hôn nhân thật bền và thật đẹp.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_anhchiem_39",
+   "content": "Chúc mừng hạnh phúc anh chị! Chúc anh chị sớm có tin vui và luôn hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_anhchiem_40",
+   "content": "Chúc mừng ngày vui! Em chúc anh chị luôn được che chở và yêu thương nhau.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_anhchiem_41",
+   "content": "Em chúc anh chị một cuộc đời chung thật trọn vẹn và ý nghĩa.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_anhchiem_42",
+   "content": "Chúc mừng đám cưới anh chị! Chúc anh chị vạn sự như ý và hạnh phúc dài lâu.",
+   "translate": ""
+  }
+ ]
+}

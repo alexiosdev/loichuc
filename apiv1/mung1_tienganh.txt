@@ -1,0 +1,204 @@
+{
+ "result": [
+  {
+   "id": "mung1_tienganh_1",
+   "content": "If you haven't yet found what you asked for, don't worry, another month is coming to your life to make sure your unfulfilled wishes are fulfilled. Wish you success in the new month!",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tienganh_2",
+   "content": "A new month is coming to take back all the negativity from this month and shower you with all the positivity in this world to make you your life even more wonderful.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tienganh_3",
+   "content": "Dare to be different this month. Dare to stand out. Dare to be the one with a voice. Dare to shine! A happy new month!",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tienganh_4",
+   "content": "Wishing you a colorful new month with lots of achievement and promises fulfilled. You never know what tomorrows have in store for you.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tienganh_5",
+   "content": "Happy new month! Wish everything you do be successful. May you fly high in life and success always be with you.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tienganh_6",
+   "content": "I smell the change in the air already. I can see the colors replacing the black and white memories of the past. Be sure my friend, the new month is bringing the best for you.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tienganh_7",
+   "content": "With a new month of your journey, shall come more challenges, opportunities, and greater success. Happy new month.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tienganh_8",
+   "content": "Wave a goodbye to your empty pockets and exhausted soul. Welcome the new month with a new life full of energy.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tienganh_9",
+   "content": "As this new month begins, I hope you let go of your burdens, and begin a fresh chapter filled with peace love and everything nice.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tienganh_10",
+   "content": "May you never have hard times in this new month and always. Happy new month of success dear!",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tienganh_11",
+   "content": "Breaking News! As the new month has come, your license for dreaming has been renewed with even more facilities. Please contact me for details.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tienganh_12",
+   "content": "Whatever the new month is bringing for you, be it good or bad; always keep that smile on your face no matter what.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tienganh_13",
+   "content": "Happy new month! May this month bring you luck, peace and good health.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tienganh_14",
+   "content": "Wishing you a smooth and blessed first day of the month.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tienganh_15",
+   "content": "Happy first of the month! May everything go your way from today.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tienganh_16",
+   "content": "May this new month be kinder to you than the last one was.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tienganh_17",
+   "content": "Happy new month! Wishing you fresh energy and new opportunities.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tienganh_18",
+   "content": "May your first day set the tone for a wonderful month ahead.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tienganh_19",
+   "content": "Happy new month! May peace follow you through every day of it.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tienganh_20",
+   "content": "Wishing you a month full of progress, joy and good surprises.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tienganh_21",
+   "content": "Happy new month! May you be healthy, safe and genuinely happy.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tienganh_22",
+   "content": "May this month bring you closer to what you have been working for.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tienganh_23",
+   "content": "Happy new month! Wishing you clear days and calm nights.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tienganh_24",
+   "content": "May good luck meet you at the start of this month and stay all the way through.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tienganh_25",
+   "content": "Happy new month! May your worries be few and your wins be many.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tienganh_26",
+   "content": "Wishing you a peaceful start and a successful finish to this month.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tienganh_27",
+   "content": "Happy new month! May every day of it give you a reason to smile.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tienganh_28",
+   "content": "May this month be lighter, brighter and better for you.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tienganh_29",
+   "content": "Happy new month! Wishing you strength, patience and good fortune.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tienganh_30",
+   "content": "May you step into this month with confidence and leave it with pride.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tienganh_31",
+   "content": "Happy new month! Wishing you blessings in work, health and love.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tienganh_32",
+   "content": "May this new month open doors that the last one kept closed.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tienganh_33",
+   "content": "Happy new month! May your plans unfold exactly as you hoped.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tienganh_34",
+   "content": "Wishing you a month of calm mornings and satisfying evenings.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tienganh_35",
+   "content": "Happy new month! May you find small joys in ordinary days.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tienganh_36",
+   "content": "May this month treat you gently and reward you generously.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tienganh_37",
+   "content": "Happy new month! Wishing you peace of mind and plenty of good moments.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tienganh_38",
+   "content": "May your new month be free of trouble and full of promise.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tienganh_39",
+   "content": "Happy new month! May everything you touch turn out well.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_tienganh_40",
+   "content": "Wishing you a bright and blessed month ahead.",
+   "translate": ""
+  }
+ ]
+}

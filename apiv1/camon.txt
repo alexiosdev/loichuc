@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "camon_1",
+   "content": "Cảm ơn bạn rất nhiều! Sự giúp đỡ của bạn thực sự có ý nghĩa với mình.",
+   "translate": ""
+  },
+  {
+   "id": "camon_2",
+   "content": "Xin chân thành cảm ơn vì tất cả những gì bạn đã làm.",
+   "translate": ""
+  },
+  {
+   "id": "camon_3",
+   "content": "Cảm ơn bạn đã luôn ở đó khi mình cần. Mình biết ơn điều đó rất nhiều.",
+   "translate": ""
+  },
+  {
+   "id": "camon_4",
+   "content": "Cảm ơn vì sự tin tưởng và hỗ trợ của bạn suốt thời gian qua.",
+   "translate": ""
+  },
+  {
+   "id": "camon_5",
+   "content": "Mình thực sự biết ơn bạn. Cảm ơn vì đã không bỏ mặc mình.",
+   "translate": ""
+  },
+  {
+   "id": "camon_6",
+   "content": "Xin cảm ơn vì đã dành thời gian và tâm sức giúp đỡ mình.",
+   "translate": ""
+  },
+  {
+   "id": "camon_7",
+   "content": "Cảm ơn bạn! Không có bạn thì mình đã không làm được điều này.",
+   "translate": ""
+  },
+  {
+   "id": "camon_8",
+   "content": "Cảm ơn vì sự tử tế của bạn. Mình sẽ luôn nhớ điều đó.",
+   "translate": ""
+  },
+  {
+   "id": "camon_9",
+   "content": "Xin chân thành cảm ơn sự quan tâm và giúp đỡ quý báu của bạn.",
+   "translate": ""
+  },
+  {
+   "id": "camon_10",
+   "content": "Cảm ơn bạn đã lắng nghe mình những lúc khó khăn nhất.",
+   "translate": ""
+  },
+  {
+   "id": "camon_11",
+   "content": "Mình biết ơn bạn rất nhiều. Cảm ơn vì tất cả.",
+   "translate": ""
+  },
+  {
+   "id": "camon_12",
+   "content": "Xin cảm ơn vì đã luôn tin tưởng và ủng hộ mình.",
+   "translate": ""
+  },
+  {
+   "id": "camon_13",
+   "content": "Cảm ơn bạn! Sự giúp đỡ của bạn đến đúng lúc mình cần nhất.",
+   "translate": ""
+  },
+  {
+   "id": "camon_14",
+   "content": "Cảm ơn vì đã kiên nhẫn với mình. Mình thực sự trân trọng điều đó.",
+   "translate": ""
+  },
+  {
+   "id": "camon_15",
+   "content": "Xin chân thành cảm ơn. Mình sẽ không quên những gì bạn đã làm.",
+   "translate": ""
+  },
+  {
+   "id": "camon_16",
+   "content": "Cảm ơn bạn đã chia sẻ và động viên mình suốt thời gian qua.",
+   "translate": ""
+  },
+  {
+   "id": "camon_17",
+   "content": "Mình thực sự cảm kích. Cảm ơn bạn rất nhiều.",
+   "translate": ""
+  },
+  {
+   "id": "camon_18",
+   "content": "Xin cảm ơn vì đã luôn sẵn lòng giúp đỡ khi mình gặp khó.",
+   "translate": ""
+  },
+  {
+   "id": "camon_19",
+   "content": "Cảm ơn bạn! Lòng tốt của bạn khiến mình thấy ấm lòng.",
+   "translate": ""
+  },
+  {
+   "id": "camon_20",
+   "content": "Cảm ơn vì đã đồng hành cùng mình trên chặng đường vừa qua.",
+   "translate": ""
+  },
+  {
+   "id": "camon_21",
+   "content": "Xin chân thành cảm ơn sự hỗ trợ nhiệt tình của bạn.",
+   "translate": ""
+  },
+  {
+   "id": "camon_22",
+   "content": "Cảm ơn bạn đã tin vào mình khi chính mình còn chưa tin.",
+   "translate": ""
+  },
+  {
+   "id": "camon_23",
+   "content": "Mình biết ơn vì có bạn trong đời. Cảm ơn thật nhiều.",
+   "translate": ""
+  },
+  {
+   "id": "camon_24",
+   "content": "Xin cảm ơn vì những lời khuyên quý giá của bạn.",
+   "translate": ""
+  },
+  {
+   "id": "camon_25",
+   "content": "Cảm ơn bạn! Mình may mắn vì đã gặp được một người như bạn.",
+   "translate": ""
+  },
+  {
+   "id": "camon_26",
+   "content": "Cảm ơn vì đã giúp mình vượt qua giai đoạn khó khăn ấy.",
+   "translate": ""
+  },
+  {
+   "id": "camon_27",
+   "content": "Xin chân thành cảm ơn vì tất cả sự quan tâm và chia sẻ.",
+   "translate": ""
+  },
+  {
+   "id": "camon_28",
+   "content": "Cảm ơn bạn đã luôn kiên nhẫn và bao dung với mình.",
+   "translate": ""
+  },
+  {
+   "id": "camon_29",
+   "content": "Mình thực sự biết ơn. Cảm ơn vì đã luôn bên cạnh.",
+   "translate": ""
+  },
+  {
+   "id": "camon_30",
+   "content": "Xin cảm ơn vì đã dành cho mình sự tin tưởng quý báu này.",
+   "translate": ""
+  },
+  {
+   "id": "camon_31",
+   "content": "Cảm ơn bạn! Những gì bạn làm có ý nghĩa với mình hơn bạn tưởng.",
+   "translate": ""
+  },
+  {
+   "id": "camon_32",
+   "content": "Cảm ơn vì đã không ngần ngại giúp đỡ khi mình cần.",
+   "translate": ""
+  },
+  {
+   "id": "camon_33",
+   "content": "Xin chân thành cảm ơn và chúc bạn mọi điều tốt đẹp nhất.",
+   "translate": ""
+  },
+  {
+   "id": "camon_34",
+   "content": "Cảm ơn bạn đã dạy mình nhiều điều quý giá.",
+   "translate": ""
+  },
+  {
+   "id": "camon_35",
+   "content": "Mình biết ơn sự tử tế của bạn. Cảm ơn rất nhiều.",
+   "translate": ""
+  },
+  {
+   "id": "camon_36",
+   "content": "Xin cảm ơn vì đã luôn đứng về phía mình.",
+   "translate": ""
+  },
+  {
+   "id": "camon_37",
+   "content": "Cảm ơn bạn! Mình sẽ cố gắng để xứng đáng với sự giúp đỡ ấy.",
+   "translate": ""
+  },
+  {
+   "id": "camon_38",
+   "content": "Cảm ơn vì đã cho mình cơ hội. Mình sẽ không làm bạn thất vọng.",
+   "translate": ""
+  },
+  {
+   "id": "camon_39",
+   "content": "Xin chân thành cảm ơn sự đồng hành của bạn suốt thời gian qua.",
+   "translate": ""
+  },
+  {
+   "id": "camon_40",
+   "content": "Cảm ơn bạn đã giúp mình mà không cần mình phải mở lời.",
+   "translate": ""
+  },
+  {
+   "id": "camon_41",
+   "content": "Mình thực sự trân trọng. Cảm ơn bạn vì tất cả.",
+   "translate": ""
+  },
+  {
+   "id": "camon_42",
+   "content": "Xin cảm ơn và chúc bạn luôn mạnh khỏe, hạnh phúc và thành công.",
+   "translate": ""
+  }
+ ]
+}

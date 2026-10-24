@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "noel_haihuoc_1",
+   "content": "Giáng sinh này chúc bạn được ông già Noel tặng quà, chứ không phải tặng hóa đơn.",
+   "translate": ""
+  },
+  {
+   "id": "noel_haihuoc_2",
+   "content": "Merry Christmas! Chúc bạn năm nay ngoan để ông già Noel còn ghé, chứ năm ngoái hơi hư đấy.",
+   "translate": ""
+  },
+  {
+   "id": "noel_haihuoc_3",
+   "content": "Giáng sinh vui vẻ! Chúc bạn ăn tiệc thả ga mà cân nặng vẫn đứng yên.",
+   "translate": ""
+  },
+  {
+   "id": "noel_haihuoc_4",
+   "content": "Chúc bạn một Noel ấm áp, ấm đến mức không cần bật điều hòa cho tiết kiệm.",
+   "translate": ""
+  },
+  {
+   "id": "noel_haihuoc_5",
+   "content": "Merry Christmas! Chúc bạn tối nay không phải đi một mình giữa phố đông cặp đôi.",
+   "translate": ""
+  },
+  {
+   "id": "noel_haihuoc_6",
+   "content": "Giáng sinh này chúc bạn nhận được quà đúng ý, chứ không phải đôi tất đã có bốn đôi rồi.",
+   "translate": ""
+  },
+  {
+   "id": "noel_haihuoc_7",
+   "content": "Chúc bạn một Noel vui vẻ và đừng để ông già Noel thấy bạn thức khuya lướt điện thoại.",
+   "translate": ""
+  },
+  {
+   "id": "noel_haihuoc_8",
+   "content": "Merry Christmas! Chúc bạn tìm được người cùng đi chơi Noel, nếu không thì cứ rủ mình.",
+   "translate": ""
+  },
+  {
+   "id": "noel_haihuoc_9",
+   "content": "Giáng sinh vui vẻ! Chúc bạn mùa này mặc đẹp, chụp ảnh đẹp và không bị gió thổi tóc rối.",
+   "translate": ""
+  },
+  {
+   "id": "noel_haihuoc_10",
+   "content": "Chúc bạn một Giáng sinh ngọt ngào, nhưng nhớ đừng ăn hết cả cái bánh khúc cây.",
+   "translate": ""
+  },
+  {
+   "id": "noel_haihuoc_11",
+   "content": "Merry Christmas! Chúc bạn một mùa lễ không bị hỏi bao giờ dẫn người yêu về ra mắt.",
+   "translate": ""
+  },
+  {
+   "id": "noel_haihuoc_12",
+   "content": "Giáng sinh này chúc bạn ấm áp, kể cả khi hóa đơn tiền điện cũng rất ấm.",
+   "translate": ""
+  },
+  {
+   "id": "noel_haihuoc_13",
+   "content": "Chúc bạn một Noel vui vẻ, và mong ông già Noel chui ống khói mà không bị kẹt.",
+   "translate": ""
+  },
+  {
+   "id": "noel_haihuoc_14",
+   "content": "Merry Christmas! Chúc bạn năm nay được quà xịn, vì bạn đã ngoan gần như cả năm.",
+   "translate": ""
+  },
+  {
+   "id": "noel_haihuoc_15",
+   "content": "Giáng sinh vui vẻ! Chúc bạn không phải xếp hàng chụp ảnh ở nhà thờ quá lâu.",
+   "translate": ""
+  },
+  {
+   "id": "noel_haihuoc_16",
+   "content": "Chúc bạn một mùa Noel ấm áp bên lò sưởi, hoặc bên nồi lẩu cũng được.",
+   "translate": ""
+  },
+  {
+   "id": "noel_haihuoc_17",
+   "content": "Merry Christmas! Chúc bạn đêm nay ngủ ngon, mơ thấy quà chứ đừng mơ thấy deadline.",
+   "translate": ""
+  },
+  {
+   "id": "noel_haihuoc_18",
+   "content": "Giáng sinh này chúc bạn tiêu tiền thoải mái, vì tháng sau mới là lúc lo.",
+   "translate": ""
+  },
+  {
+   "id": "noel_haihuoc_19",
+   "content": "Chúc bạn một Noel thật vui, và nhớ chừa cho mình một miếng bánh nhé.",
+   "translate": ""
+  },
+  {
+   "id": "noel_haihuoc_20",
+   "content": "Merry Christmas! Chúc bạn mùa này không bị cảm lạnh vì mải mặc đẹp.",
+   "translate": ""
+  },
+  {
+   "id": "noel_haihuoc_21",
+   "content": "Giáng sinh vui vẻ! Chúc bạn được tặng quà nhiều hơn số quà bạn phải mua.",
+   "translate": ""
+  },
+  {
+   "id": "noel_haihuoc_22",
+   "content": "Chúc bạn một Giáng sinh an lành, và chúc cây thông nhà bạn đứng vững đến hết lễ.",
+   "translate": ""
+  },
+  {
+   "id": "noel_haihuoc_23",
+   "content": "Merry Christmas! Chúc bạn tối nay có người đưa về, nếu không thì có grab cũng được.",
+   "translate": ""
+  },
+  {
+   "id": "noel_haihuoc_24",
+   "content": "Giáng sinh này chúc bạn vui vẻ, ấm áp và không phải trực ca đêm.",
+   "translate": ""
+  },
+  {
+   "id": "noel_haihuoc_25",
+   "content": "Chúc bạn một Noel thật đã, ăn no ngủ kỹ và quên hết mọi lo toan.",
+   "translate": ""
+  },
+  {
+   "id": "noel_haihuoc_26",
+   "content": "Merry Christmas! Chúc bạn năm nay thoát ế trước giao thừa, còn kịp đấy.",
+   "translate": ""
+  },
+  {
+   "id": "noel_haihuoc_27",
+   "content": "Giáng sinh vui vẻ! Chúc bạn chụp được tấm ảnh ưng ý ngay lần đầu tiên.",
+   "translate": ""
+  },
+  {
+   "id": "noel_haihuoc_28",
+   "content": "Chúc bạn một mùa Noel không bị kẹt xe và không bị hết pin điện thoại.",
+   "translate": ""
+  },
+  {
+   "id": "noel_haihuoc_29",
+   "content": "Merry Christmas! Chúc bạn được nghỉ lễ dài, lương vẫn đủ và sếp vẫn vui.",
+   "translate": ""
+  },
+  {
+   "id": "noel_haihuoc_30",
+   "content": "Giáng sinh này chúc bạn nhận được điều bất ngờ dễ thương, chứ không phải bất ngờ hoảng hốt.",
+   "translate": ""
+  },
+  {
+   "id": "noel_haihuoc_31",
+   "content": "Chúc bạn một Noel ấm áp, và chúc chiếc áo len bạn mặc không bị ngứa.",
+   "translate": ""
+  },
+  {
+   "id": "noel_haihuoc_32",
+   "content": "Merry Christmas! Chúc bạn mùa lễ này ăn gì cũng ngon, mua gì cũng rẻ.",
+   "translate": ""
+  },
+  {
+   "id": "noel_haihuoc_33",
+   "content": "Giáng sinh vui vẻ! Chúc bạn không phải nghe bài nhạc Noel lặp lại lần thứ một trăm.",
+   "translate": ""
+  },
+  {
+   "id": "noel_haihuoc_34",
+   "content": "Chúc bạn một Giáng sinh thật vui, và mong tủ lạnh nhà bạn luôn đầy đồ ăn.",
+   "translate": ""
+  },
+  {
+   "id": "noel_haihuoc_35",
+   "content": "Merry Christmas! Chúc bạn đêm nay ngủ sớm, vì ông già Noel không đến nhà người thức khuya.",
+   "translate": ""
+  },
+  {
+   "id": "noel_haihuoc_36",
+   "content": "Giáng sinh này chúc bạn hạnh phúc, và nếu chưa hạnh phúc thì cứ ăn thêm bánh.",
+   "translate": ""
+  },
+  {
+   "id": "noel_haihuoc_37",
+   "content": "Chúc bạn một mùa Noel vui vẻ, nhẹ nhàng và không tốn quá nhiều tiền quà cáp.",
+   "translate": ""
+  },
+  {
+   "id": "noel_haihuoc_38",
+   "content": "Merry Christmas! Chúc bạn được tặng thứ bạn muốn, không phải thứ người ta muốn tặng.",
+   "translate": ""
+  },
+  {
+   "id": "noel_haihuoc_39",
+   "content": "Giáng sinh vui vẻ! Chúc bạn một mùa lễ đầy ắp đồ ăn và vắng bóng drama.",
+   "translate": ""
+  },
+  {
+   "id": "noel_haihuoc_40",
+   "content": "Chúc bạn một Noel ấm áp, và chúc bạn nhớ tháo đèn trang trí trước Tết nhé.",
+   "translate": ""
+  },
+  {
+   "id": "noel_haihuoc_41",
+   "content": "Merry Christmas! Chúc bạn năm nay vui hơn năm ngoái và giàu hơn năm ngoái.",
+   "translate": ""
+  },
+  {
+   "id": "noel_haihuoc_42",
+   "content": "Giáng sinh này chúc bạn mọi điều tốt lành, và nhớ rủ mình đi chơi.",
+   "translate": ""
+  }
+ ]
+}

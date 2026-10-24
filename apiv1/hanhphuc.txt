@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "hanhphuc_1",
+   "content": "Nhân ngày Quốc tế Hạnh phúc 20/3, chúc bạn luôn tìm thấy niềm vui trong những điều giản dị.",
+   "translate": ""
+  },
+  {
+   "id": "hanhphuc_2",
+   "content": "Chúc mừng ngày Quốc tế Hạnh phúc! Chúc bạn một cuộc sống bình an và trọn vẹn.",
+   "translate": ""
+  },
+  {
+   "id": "hanhphuc_3",
+   "content": "Ngày 20/3, chúc bạn hạnh phúc theo cách riêng của mình, không cần giống ai.",
+   "translate": ""
+  },
+  {
+   "id": "hanhphuc_4",
+   "content": "Nhân ngày Hạnh phúc, chúc bạn luôn biết đủ và luôn mỉm cười.",
+   "translate": ""
+  },
+  {
+   "id": "hanhphuc_5",
+   "content": "Chúc mừng ngày 20/3! Chúc bạn và gia đình luôn hạnh phúc và đủ đầy.",
+   "translate": ""
+  },
+  {
+   "id": "hanhphuc_6",
+   "content": "Ngày Quốc tế Hạnh phúc, chúc bạn tìm được sự bình yên trong tâm hồn.",
+   "translate": ""
+  },
+  {
+   "id": "hanhphuc_7",
+   "content": "Nhân ngày 20/3, chúc bạn mỗi ngày đều có một lý do để vui.",
+   "translate": ""
+  },
+  {
+   "id": "hanhphuc_8",
+   "content": "Chúc mừng ngày Quốc tế Hạnh phúc! Chúc bạn sống thật nhẹ nhàng và thật đáng sống.",
+   "translate": ""
+  },
+  {
+   "id": "hanhphuc_9",
+   "content": "Ngày 20/3, chúc bạn luôn được yêu thương và luôn biết yêu thương.",
+   "translate": ""
+  },
+  {
+   "id": "hanhphuc_10",
+   "content": "Nhân ngày Hạnh phúc, chúc bạn bớt so sánh và trân trọng những gì mình đang có.",
+   "translate": ""
+  },
+  {
+   "id": "hanhphuc_11",
+   "content": "Chúc mừng ngày 20/3! Chúc bạn một cuộc sống nhiều tiếng cười và ít muộn phiền.",
+   "translate": ""
+  },
+  {
+   "id": "hanhphuc_12",
+   "content": "Ngày Quốc tế Hạnh phúc, chúc bạn luôn giữ được sự lạc quan đáng quý.",
+   "translate": ""
+  },
+  {
+   "id": "hanhphuc_13",
+   "content": "Nhân ngày 20/3, chúc bạn tìm thấy hạnh phúc ngay trong những điều nhỏ bé.",
+   "translate": ""
+  },
+  {
+   "id": "hanhphuc_14",
+   "content": "Chúc mừng ngày Quốc tế Hạnh phúc! Chúc bạn an nhiên, tự tại và viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "hanhphuc_15",
+   "content": "Ngày 20/3, chúc bạn luôn có những người thân yêu bên cạnh.",
+   "translate": ""
+  },
+  {
+   "id": "hanhphuc_16",
+   "content": "Nhân ngày Hạnh phúc, chúc bạn sống đúng với con người mình và luôn vui.",
+   "translate": ""
+  },
+  {
+   "id": "hanhphuc_17",
+   "content": "Chúc mừng ngày 20/3! Chúc bạn hạnh phúc hôm nay và cả những ngày sau.",
+   "translate": ""
+  },
+  {
+   "id": "hanhphuc_18",
+   "content": "Ngày Quốc tế Hạnh phúc, chúc bạn bớt lo toan và tận hưởng cuộc sống nhiều hơn.",
+   "translate": ""
+  },
+  {
+   "id": "hanhphuc_19",
+   "content": "Nhân ngày 20/3, chúc bạn luôn đủ đầy cả về vật chất lẫn tinh thần.",
+   "translate": ""
+  },
+  {
+   "id": "hanhphuc_20",
+   "content": "Chúc mừng ngày Quốc tế Hạnh phúc! Chúc bạn một tâm hồn luôn thanh thản.",
+   "translate": ""
+  },
+  {
+   "id": "hanhphuc_21",
+   "content": "Ngày 20/3, chúc bạn biết ơn những điều bình thường mà mình đang có.",
+   "translate": ""
+  },
+  {
+   "id": "hanhphuc_22",
+   "content": "Nhân ngày Hạnh phúc, chúc bạn luôn tìm được niềm vui trong công việc và cuộc sống.",
+   "translate": ""
+  },
+  {
+   "id": "hanhphuc_23",
+   "content": "Chúc mừng ngày 20/3! Chúc bạn và những người bạn yêu quý luôn hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "hanhphuc_24",
+   "content": "Ngày Quốc tế Hạnh phúc, chúc bạn sống chậm lại và cảm nhận nhiều hơn.",
+   "translate": ""
+  },
+  {
+   "id": "hanhphuc_25",
+   "content": "Nhân ngày 20/3, chúc bạn mọi điều tốt đẹp và một cuộc đời ý nghĩa.",
+   "translate": ""
+  },
+  {
+   "id": "hanhphuc_26",
+   "content": "Chúc mừng ngày Quốc tế Hạnh phúc! Chúc bạn luôn mỉm cười dù ngày có khó.",
+   "translate": ""
+  },
+  {
+   "id": "hanhphuc_27",
+   "content": "Ngày 20/3, chúc bạn tìm thấy sự cân bằng mà mình đang kiếm tìm.",
+   "translate": ""
+  },
+  {
+   "id": "hanhphuc_28",
+   "content": "Nhân ngày Hạnh phúc, chúc bạn luôn khỏe mạnh và luôn vui vẻ.",
+   "translate": ""
+  },
+  {
+   "id": "hanhphuc_29",
+   "content": "Chúc mừng ngày 20/3! Chúc bạn hạnh phúc không phụ thuộc vào ai khác.",
+   "translate": ""
+  },
+  {
+   "id": "hanhphuc_30",
+   "content": "Ngày Quốc tế Hạnh phúc, chúc bạn luôn tử tế với bản thân mình.",
+   "translate": ""
+  },
+  {
+   "id": "hanhphuc_31",
+   "content": "Nhân ngày 20/3, chúc bạn một cuộc sống bình an và thật nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "hanhphuc_32",
+   "content": "Chúc mừng ngày Quốc tế Hạnh phúc! Chúc bạn tìm được điều khiến mình thực sự vui.",
+   "translate": ""
+  },
+  {
+   "id": "hanhphuc_33",
+   "content": "Ngày 20/3, chúc bạn luôn đủ dũng cảm để chọn hạnh phúc cho mình.",
+   "translate": ""
+  },
+  {
+   "id": "hanhphuc_34",
+   "content": "Nhân ngày Hạnh phúc, chúc bạn gác lại muộn phiền và sống thật trọn vẹn.",
+   "translate": ""
+  },
+  {
+   "id": "hanhphuc_35",
+   "content": "Chúc mừng ngày 20/3! Chúc bạn một năm thật nhiều khoảnh khắc đáng nhớ.",
+   "translate": ""
+  },
+  {
+   "id": "hanhphuc_36",
+   "content": "Ngày Quốc tế Hạnh phúc, chúc bạn luôn được bao quanh bởi những người tốt.",
+   "translate": ""
+  },
+  {
+   "id": "hanhphuc_37",
+   "content": "Nhân ngày 20/3, chúc bạn biết đủ, biết buông và biết tận hưởng.",
+   "translate": ""
+  },
+  {
+   "id": "hanhphuc_38",
+   "content": "Chúc mừng ngày Quốc tế Hạnh phúc! Chúc bạn an yên trong tâm và rực rỡ trong đời.",
+   "translate": ""
+  },
+  {
+   "id": "hanhphuc_39",
+   "content": "Ngày 20/3, chúc bạn tìm thấy hạnh phúc ở ngay nơi mình đang đứng.",
+   "translate": ""
+  },
+  {
+   "id": "hanhphuc_40",
+   "content": "Nhân ngày Hạnh phúc, chúc bạn mỗi sáng thức dậy đều thấy đáng sống.",
+   "translate": ""
+  },
+  {
+   "id": "hanhphuc_41",
+   "content": "Chúc mừng ngày 20/3! Chúc bạn luôn hạnh phúc và lan tỏa hạnh phúc cho mọi người.",
+   "translate": ""
+  },
+  {
+   "id": "hanhphuc_42",
+   "content": "Ngày Quốc tế Hạnh phúc, chúc bạn một cuộc đời nhẹ nhàng và đầy ý nghĩa.",
+   "translate": ""
+  }
+ ]
+}

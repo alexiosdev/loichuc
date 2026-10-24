@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "2011_cogiao_1",
+   "content": "Nhân ngày 20/11, em kính chúc cô luôn mạnh khỏe, hạnh phúc và mãi giữ được ngọn lửa yêu nghề.",
+   "translate": ""
+  },
+  {
+   "id": "2011_cogiao_2",
+   "content": "Chúc mừng ngày Nhà giáo Việt Nam! Em kính chúc cô một ngày thật ý nghĩa bên học trò và gia đình.",
+   "translate": ""
+  },
+  {
+   "id": "2011_cogiao_3",
+   "content": "Kính chúc cô ngày 20/11 tràn ngập hoa tươi, lời chúc và những tình cảm chân thành nhất.",
+   "translate": ""
+  },
+  {
+   "id": "2011_cogiao_4",
+   "content": "Nhân ngày 20/11, em xin gửi tới cô lòng biết ơn sâu sắc và lời chúc sức khỏe, bình an.",
+   "translate": ""
+  },
+  {
+   "id": "2011_cogiao_5",
+   "content": "Chúc mừng 20/11! Em kính chúc cô mãi trẻ trung, nhiệt huyết và được học trò yêu quý.",
+   "translate": ""
+  },
+  {
+   "id": "2011_cogiao_6",
+   "content": "Kính chúc cô một ngày Nhà giáo Việt Nam thật ấm áp và một năm thật nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "2011_cogiao_7",
+   "content": "Nhân ngày 20/11, em chúc cô luôn khỏe mạnh để tiếp tục dìu dắt bao thế hệ học trò.",
+   "translate": ""
+  },
+  {
+   "id": "2011_cogiao_8",
+   "content": "Chúc mừng ngày 20/11! Cảm ơn cô đã không chỉ dạy em kiến thức mà còn dạy em cách làm người.",
+   "translate": ""
+  },
+  {
+   "id": "2011_cogiao_9",
+   "content": "Kính chúc cô ngày 20/11 thật vui, thật hạnh phúc và thật nhiều điều tốt lành.",
+   "translate": ""
+  },
+  {
+   "id": "2011_cogiao_10",
+   "content": "Nhân ngày Nhà giáo Việt Nam, em kính chúc cô vạn sự như ý, gia đình hạnh phúc, sự nghiệp vẻ vang.",
+   "translate": ""
+  },
+  {
+   "id": "2011_cogiao_11",
+   "content": "Chúc mừng 20/11! Em kính chúc cô luôn giữ được nụ cười ấm áp trên bục giảng.",
+   "translate": ""
+  },
+  {
+   "id": "2011_cogiao_12",
+   "content": "Kính chúc cô một ngày 20/11 trọn vẹn, xứng đáng với tất cả những gì cô đã cho đi.",
+   "translate": ""
+  },
+  {
+   "id": "2011_cogiao_13",
+   "content": "Nhân ngày 20/11, em chúc cô sức khỏe dồi dào, tâm hồn thư thái, cuộc sống đủ đầy.",
+   "translate": ""
+  },
+  {
+   "id": "2011_cogiao_14",
+   "content": "Chúc mừng ngày Nhà giáo Việt Nam! Em kính chúc cô mãi là người lái đò tận tụy mà chúng em kính yêu.",
+   "translate": ""
+  },
+  {
+   "id": "2011_cogiao_15",
+   "content": "Kính chúc cô ngày 20/11 nhận được thật nhiều yêu thương từ các thế hệ học trò.",
+   "translate": ""
+  },
+  {
+   "id": "2011_cogiao_16",
+   "content": "Nhân ngày 20/11, em chúc cô bớt vất vả, nhiều thời gian nghỉ ngơi và chăm sóc bản thân hơn.",
+   "translate": ""
+  },
+  {
+   "id": "2011_cogiao_17",
+   "content": "Chúc mừng 20/11! Em kính chúc cô an khang, thịnh vượng và vạn sự hanh thông.",
+   "translate": ""
+  },
+  {
+   "id": "2011_cogiao_18",
+   "content": "Kính chúc cô một ngày Nhà giáo Việt Nam thật đáng nhớ và một tương lai thật rực rỡ.",
+   "translate": ""
+  },
+  {
+   "id": "2011_cogiao_19",
+   "content": "Nhân ngày 20/11, em xin chúc cô luôn tự hào về những học trò mà cô đã dìu dắt.",
+   "translate": ""
+  },
+  {
+   "id": "2011_cogiao_20",
+   "content": "Chúc mừng ngày 20/11! Em kính chúc cô sức khỏe, hạnh phúc và bình an trong cuộc sống.",
+   "translate": ""
+  },
+  {
+   "id": "2011_cogiao_21",
+   "content": "Kính chúc cô ngày 20/11 ngập tràn niềm vui và những lời tri ân chân thành.",
+   "translate": ""
+  },
+  {
+   "id": "2011_cogiao_22",
+   "content": "Nhân ngày Nhà giáo Việt Nam, em chúc cô mãi xinh đẹp, mãi dịu dàng và mãi được yêu mến.",
+   "translate": ""
+  },
+  {
+   "id": "2011_cogiao_23",
+   "content": "Chúc mừng 20/11! Em kính chúc cô mọi dự định đều thành và mọi mong ước đều toại.",
+   "translate": ""
+  },
+  {
+   "id": "2011_cogiao_24",
+   "content": "Kính chúc cô một ngày 20/11 thật nhẹ nhàng và thật nhiều tiếng cười.",
+   "translate": ""
+  },
+  {
+   "id": "2011_cogiao_25",
+   "content": "Nhân ngày 20/11, em chúc cô luôn khỏe để còn truyền cảm hứng cho bao lớp học trò nữa.",
+   "translate": ""
+  },
+  {
+   "id": "2011_cogiao_26",
+   "content": "Chúc mừng ngày Nhà giáo Việt Nam! Em biết ơn cô vì đã kiên nhẫn với em suốt những năm qua.",
+   "translate": ""
+  },
+  {
+   "id": "2011_cogiao_27",
+   "content": "Kính chúc cô ngày 20/11 an lành, viên mãn và thật nhiều may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "2011_cogiao_28",
+   "content": "Nhân ngày 20/11, em kính chúc cô gia đình thuận hòa, công việc thuận lợi, sức khỏe bền bỉ.",
+   "translate": ""
+  },
+  {
+   "id": "2011_cogiao_29",
+   "content": "Chúc mừng 20/11! Em chúc cô mãi giữ được tình yêu với nghề và với học trò.",
+   "translate": ""
+  },
+  {
+   "id": "2011_cogiao_30",
+   "content": "Kính chúc cô một ngày Nhà giáo Việt Nam thật đặc biệt, bởi cô rất đặc biệt với chúng em.",
+   "translate": ""
+  },
+  {
+   "id": "2011_cogiao_31",
+   "content": "Nhân ngày 20/11, em chúc cô thật nhiều sức khỏe và thật nhiều niềm vui mỗi ngày.",
+   "translate": ""
+  },
+  {
+   "id": "2011_cogiao_32",
+   "content": "Chúc mừng ngày 20/11! Em kính chúc cô luôn được học trò nhớ tới với lòng biết ơn.",
+   "translate": ""
+  },
+  {
+   "id": "2011_cogiao_33",
+   "content": "Kính chúc cô ngày 20/11 vui vẻ, hạnh phúc và tràn đầy năng lượng.",
+   "translate": ""
+  },
+  {
+   "id": "2011_cogiao_34",
+   "content": "Nhân ngày Nhà giáo Việt Nam, em chúc cô mọi điều tốt đẹp nhất sẽ đến.",
+   "translate": ""
+  },
+  {
+   "id": "2011_cogiao_35",
+   "content": "Chúc mừng 20/11! Em kính chúc cô an nhiên, tự tại và luôn mỉm cười.",
+   "translate": ""
+  },
+  {
+   "id": "2011_cogiao_36",
+   "content": "Kính chúc cô một ngày 20/11 tràn đầy hoa và lời chúc từ các thế hệ học trò.",
+   "translate": ""
+  },
+  {
+   "id": "2011_cogiao_37",
+   "content": "Nhân ngày 20/11, em chúc cô sức khỏe như ý, hạnh phúc trọn vẹn, sự nghiệp viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "2011_cogiao_38",
+   "content": "Chúc mừng ngày Nhà giáo Việt Nam! Cảm ơn cô vì đã tin vào em khi em chưa tin vào chính mình.",
+   "translate": ""
+  },
+  {
+   "id": "2011_cogiao_39",
+   "content": "Kính chúc cô ngày 20/11 bình an, sung túc và ngập tràn yêu thương.",
+   "translate": ""
+  },
+  {
+   "id": "2011_cogiao_40",
+   "content": "Nhân ngày 20/11, em kính chúc cô thân tâm an lạc và gia đạo hưng long.",
+   "translate": ""
+  },
+  {
+   "id": "2011_cogiao_41",
+   "content": "Chúc mừng 20/11! Em chúc cô một ngày thật vui và một đời thật hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "2011_cogiao_42",
+   "content": "Kính chúc cô ngày Nhà giáo Việt Nam thật trọn vẹn và thật nhiều điều may mắn.",
+   "translate": ""
+  }
+ ]
+}

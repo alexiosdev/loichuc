@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "tet_tienganh_1",
+   "content": "Happy Lunar New Year! Chúc bạn một năm mới sức khỏe, hạnh phúc và thành công.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tienganh_2",
+   "content": "Wishing you a prosperous New Year filled with joy, health and good fortune.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tienganh_3",
+   "content": "May this Lunar New Year bring you happiness, peace and endless prosperity.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tienganh_4",
+   "content": "Happy Tet! May the year ahead be your best one yet.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tienganh_5",
+   "content": "Wishing you and your family a warm and joyful Lunar New Year.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tienganh_6",
+   "content": "May the new spring bring you good health, great luck and abundant wealth.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tienganh_7",
+   "content": "Happy New Year! May all your wishes come true in the year ahead.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tienganh_8",
+   "content": "Wishing you a year of new beginnings, bright opportunities and lasting happiness.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tienganh_9",
+   "content": "May this Tet holiday fill your home with laughter and your heart with peace.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tienganh_10",
+   "content": "Sending you warmest wishes for a prosperous and healthy Lunar New Year.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tienganh_11",
+   "content": "Happy Lunar New Year! May fortune knock on your door every single day.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tienganh_12",
+   "content": "Wishing you success in work, harmony at home and joy in every moment.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tienganh_13",
+   "content": "May the new year bring you everything you worked for and more.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tienganh_14",
+   "content": "Happy Tet! Wishing you good health, great wealth and a heart full of peace.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tienganh_15",
+   "content": "May your new year be as bright and beautiful as the spring blossoms.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tienganh_16",
+   "content": "Wishing you twelve months of happiness, fifty-two weeks of luck and endless smiles.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tienganh_17",
+   "content": "Happy New Year! May your dreams take flight this spring.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tienganh_18",
+   "content": "May this Lunar New Year bring prosperity to your business and warmth to your family.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tienganh_19",
+   "content": "Wishing you a fresh start, a clear mind and a very happy new year.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tienganh_20",
+   "content": "Happy Tet! May good luck follow you wherever you go.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tienganh_21",
+   "content": "May the coming year be filled with blessings, laughter and sweet moments.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tienganh_22",
+   "content": "Wishing you a New Year rich in health, wealth and happiness.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tienganh_23",
+   "content": "Happy Lunar New Year! May every day bring you a reason to smile.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tienganh_24",
+   "content": "May the new spring open a thousand new doors for you.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tienganh_25",
+   "content": "Wishing you peace, prosperity and plenty of good food this Tet.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tienganh_26",
+   "content": "Happy New Year! May your efforts be rewarded beyond your expectations.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tienganh_27",
+   "content": "May this year be the one where everything finally falls into place.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tienganh_28",
+   "content": "Wishing you and your loved ones a safe, warm and joyful Lunar New Year.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tienganh_29",
+   "content": "Happy Tet! May your pockets be full and your heart be lighter.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tienganh_30",
+   "content": "May the new year bring you courage for new challenges and peace for old worries.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tienganh_31",
+   "content": "Wishing you a spring full of flowers and a year full of blessings.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tienganh_32",
+   "content": "Happy Lunar New Year! May success chase you down this year.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tienganh_33",
+   "content": "May your family stay healthy, your work stay smooth and your spirit stay bright.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tienganh_34",
+   "content": "Wishing you abundant joy, lasting friendship and great prosperity this New Year.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tienganh_35",
+   "content": "Happy New Year! Here is to new memories and better days ahead.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tienganh_36",
+   "content": "May this Tet reunite you with everyone you have missed all year.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tienganh_37",
+   "content": "Wishing you a year where luck finds you before you even look for it.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tienganh_38",
+   "content": "Happy Lunar New Year! May your health be strong and your worries be few.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tienganh_39",
+   "content": "May the new year treat you with kindness and reward you with success.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tienganh_40",
+   "content": "Wishing you a bright spring, a prosperous year and a very happy life.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tienganh_41",
+   "content": "Happy Tet! May all good things come to you and stay with you.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tienganh_42",
+   "content": "May this New Year be the beginning of your most beautiful chapter yet.",
+   "translate": ""
+  }
+ ]
+}

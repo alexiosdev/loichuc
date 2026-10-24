@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "tet_hoHang_1",
+   "content": "Năm mới, con kính chúc cô chú và các em một năm an khang thịnh vượng, sức khỏe dồi dào, vạn sự như ý.",
+   "translate": ""
+  },
+  {
+   "id": "tet_hoHang_2",
+   "content": "Chúc bác và cả nhà một cái Tết thật đầm ấm, một năm mới sung túc, con cháu sum vầy.",
+   "translate": ""
+  },
+  {
+   "id": "tet_hoHang_3",
+   "content": "Nhân dịp năm mới, cháu kính chúc hai bác mạnh khỏe, sống lâu trăm tuổi, vui vầy bên con cháu.",
+   "translate": ""
+  },
+  {
+   "id": "tet_hoHang_4",
+   "content": "Chúc cô chú năm mới làm ăn phát đạt, nhà cửa ấm êm, mọi điều hanh thông thuận lợi.",
+   "translate": ""
+  },
+  {
+   "id": "tet_hoHang_5",
+   "content": "Năm mới sang, chúc anh chị và các cháu dồi dào sức khỏe, hạnh phúc đong đầy, tài lộc viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "tet_hoHang_6",
+   "content": "Con kính chúc cả đại gia đình một năm mới bình an, thuận hòa, trên dưới một lòng, làm gì cũng thành.",
+   "translate": ""
+  },
+  {
+   "id": "tet_hoHang_7",
+   "content": "Chúc bác gái năm mới thật nhiều sức khỏe, mâm cơm nhà bác lúc nào cũng rộn tiếng cười.",
+   "translate": ""
+  },
+  {
+   "id": "tet_hoHang_8",
+   "content": "Năm mới, cháu chúc chú thím buôn may bán đắt, tiền vào như nước, nhà cửa khang trang.",
+   "translate": ""
+  },
+  {
+   "id": "tet_hoHang_9",
+   "content": "Chúc anh chị một năm mới thuận buồm xuôi gió, công việc hanh thông, con cái ngoan ngoãn học giỏi.",
+   "translate": ""
+  },
+  {
+   "id": "tet_hoHang_10",
+   "content": "Nhân dịp xuân về, con kính chúc cô một năm mới an lành, phúc lộc đầy nhà, vạn sự cát tường.",
+   "translate": ""
+  },
+  {
+   "id": "tet_hoHang_11",
+   "content": "Chúc hàng xóm láng giềng một năm mới an khang, tình làng nghĩa xóm ngày càng gắn bó.",
+   "translate": ""
+  },
+  {
+   "id": "tet_hoHang_12",
+   "content": "Năm mới, chúc bác cùng gia đình sức khỏe tràn trề, làm ăn phát đạt, con cháu hiếu thảo.",
+   "translate": ""
+  },
+  {
+   "id": "tet_hoHang_13",
+   "content": "Con chúc cô chú một năm mới bớt vất vả, nhiều niềm vui và thật nhiều điều may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "tet_hoHang_14",
+   "content": "Chúc các em họ năm mới học hành tấn tới, ngoan ngoãn, lớn nhanh và luôn khỏe mạnh.",
+   "translate": ""
+  },
+  {
+   "id": "tet_hoHang_15",
+   "content": "Năm mới, cháu kính chúc ông bà bên nội bên ngoại đều mạnh khỏe, minh mẫn, vui sống bên con cháu.",
+   "translate": ""
+  },
+  {
+   "id": "tet_hoHang_16",
+   "content": "Chúc gia đình bác một năm mới sum vầy, ấm áp, mọi lo toan năm cũ đều ở lại phía sau.",
+   "translate": ""
+  },
+  {
+   "id": "tet_hoHang_17",
+   "content": "Nhân dịp năm mới, con chúc cô chú vạn sự như ý, tâm an trí sáng, nhà êm cửa ấm.",
+   "translate": ""
+  },
+  {
+   "id": "tet_hoHang_18",
+   "content": "Chúc anh chị em trong họ một năm mới đoàn kết, yêu thương, ai cũng gặt hái được điều mình mong.",
+   "translate": ""
+  },
+  {
+   "id": "tet_hoHang_19",
+   "content": "Năm mới, cháu chúc hai bác tuổi cao sức khỏe càng cao, phúc đức càng dày.",
+   "translate": ""
+  },
+  {
+   "id": "tet_hoHang_20",
+   "content": "Chúc cả nhà cô một năm mới làm ăn thuận lợi, của cải dư dả, tiếng cười không dứt.",
+   "translate": ""
+  },
+  {
+   "id": "tet_hoHang_21",
+   "content": "Năm mới, con kính chúc chú thím an khang thịnh vượng, mọi điều tốt lành sẽ đến.",
+   "translate": ""
+  },
+  {
+   "id": "tet_hoHang_22",
+   "content": "Chúc các cháu trong họ năm mới hay ăn chóng lớn, học giỏi, ngoan ngoãn, vâng lời ông bà cha mẹ.",
+   "translate": ""
+  },
+  {
+   "id": "tet_hoHang_23",
+   "content": "Nhân dịp đầu xuân, chúc gia đình bác một năm mới phúc lộc thọ toàn, an vui viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "tet_hoHang_24",
+   "content": "Chúc cô chú năm mới sức khỏe như ý, công việc như mơ, gia đình như tranh vẽ.",
+   "translate": ""
+  },
+  {
+   "id": "tet_hoHang_25",
+   "content": "Năm mới, con chúc cả họ nhà mình ai cũng bình an, ai cũng hạnh phúc, ai cũng thành công.",
+   "translate": ""
+  },
+  {
+   "id": "tet_hoHang_26",
+   "content": "Chúc anh chị một năm mới nhiều lộc, nhiều may, nhiều dịp để cả nhà lại tụ họp đông vui.",
+   "translate": ""
+  },
+  {
+   "id": "tet_hoHang_27",
+   "content": "Nhân dịp năm mới, cháu kính chúc hai bác trường thọ, an khang, con cháu đầy đàn sum họp.",
+   "translate": ""
+  },
+  {
+   "id": "tet_hoHang_28",
+   "content": "Chúc gia đình chú một năm mới sung túc, đủ đầy, mọi dự định đều thành hiện thực.",
+   "translate": ""
+  },
+  {
+   "id": "tet_hoHang_29",
+   "content": "Năm mới, con chúc cô luôn trẻ đẹp, khỏe mạnh và luôn là chỗ dựa ấm áp cho cả nhà.",
+   "translate": ""
+  },
+  {
+   "id": "tet_hoHang_30",
+   "content": "Chúc bà con họ hàng một năm mới an khang thịnh vượng, tình thân ngày càng khăng khít.",
+   "translate": ""
+  },
+  {
+   "id": "tet_hoHang_31",
+   "content": "Năm mới, chúc anh chị làm ăn phát tài, nhà cao cửa rộng, con cái thành đạt.",
+   "translate": ""
+  },
+  {
+   "id": "tet_hoHang_32",
+   "content": "Nhân dịp xuân sang, con kính chúc cô chú vạn sự hanh thông, phúc lộc song toàn.",
+   "translate": ""
+  },
+  {
+   "id": "tet_hoHang_33",
+   "content": "Chúc các em họ năm mới nhiều sức khỏe, nhiều niềm vui và thật nhiều lì xì.",
+   "translate": ""
+  },
+  {
+   "id": "tet_hoHang_34",
+   "content": "Năm mới, cháu chúc gia đình bác bình an vô sự, làm gì cũng thuận, đi đâu cũng may.",
+   "translate": ""
+  },
+  {
+   "id": "tet_hoHang_35",
+   "content": "Chúc cô chú và các em một năm mới rực rỡ, tràn đầy năng lượng và thật nhiều kỷ niệm đẹp.",
+   "translate": ""
+  },
+  {
+   "id": "tet_hoHang_36",
+   "content": "Nhân dịp năm mới, con chúc cả nhà mình trên thuận dưới hòa, trong ấm ngoài êm.",
+   "translate": ""
+  },
+  {
+   "id": "tet_hoHang_37",
+   "content": "Chúc bác một năm mới sức khỏe bền bỉ, tinh thần minh mẫn, lòng luôn thanh thản.",
+   "translate": ""
+  },
+  {
+   "id": "tet_hoHang_38",
+   "content": "Năm mới, chúc anh chị và các cháu một năm đủ đầy, ấm no và thật nhiều tiếng cười.",
+   "translate": ""
+  },
+  {
+   "id": "tet_hoHang_39",
+   "content": "Con kính chúc cô chú năm mới trăm sự như ý, ngàn sự cát tường, vạn sự bình an.",
+   "translate": ""
+  },
+  {
+   "id": "tet_hoHang_40",
+   "content": "Chúc đại gia đình ta một năm mới thật nhiều niềm vui, và năm nào cũng được sum họp đông đủ thế này.",
+   "translate": ""
+  },
+  {
+   "id": "tet_hoHang_41",
+   "content": "Năm mới, cháu chúc hai bác luôn khỏe để năm sau cháu lại được sang chúc Tết.",
+   "translate": ""
+  },
+  {
+   "id": "tet_hoHang_42",
+   "content": "Chúc cả nhà cô chú một năm mới an khang, thịnh vượng, hạnh phúc và thành công.",
+   "translate": ""
+  }
+ ]
+}

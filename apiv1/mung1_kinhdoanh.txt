@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "mung1_kinhdoanh_1",
+   "content": "Chúc mừng mùng 1 đầu tháng! Chúc anh chị buôn may bán đắt, khách hàng đông vui, tiền vào như nước.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_kinhdoanh_2",
+   "content": "Đầu tháng mới, chúc bạn mở hàng gặp khách sộp, cả tháng làm ăn phát đạt.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_kinhdoanh_3",
+   "content": "Mùng 1 đầu tháng, chúc anh chị kinh doanh thuận lợi, lộc vào đầy cửa, vạn sự hanh thông.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_kinhdoanh_4",
+   "content": "Chúc bạn một tháng mới buôn bán đắt hàng, một vốn bốn lời, tài lộc dồi dào.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_kinhdoanh_5",
+   "content": "Đầu tháng, chúc anh chị gặp nhiều quý nhân, ký được nhiều hợp đồng tốt.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_kinhdoanh_6",
+   "content": "Mùng 1 may mắn! Chúc bạn tháng này doanh thu vượt chỉ tiêu, khách quen ngày một đông.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_kinhdoanh_7",
+   "content": "Chúc anh chị đầu tháng mở hàng suôn sẻ, cả tháng làm ăn thuận buồm xuôi gió.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_kinhdoanh_8",
+   "content": "Mùng 1 đầu tháng, chúc bạn tiền vào như nước sông Đà, tiền ra nhỏ giọt như cà phê phin.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_kinhdoanh_9",
+   "content": "Chúc anh chị một tháng mới phát tài phát lộc, buôn bán hanh thông, gia đạo bình an.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_kinhdoanh_10",
+   "content": "Đầu tháng mới, chúc bạn gặp vía tốt, mở hàng đắt khách, cả tháng đều may.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_kinhdoanh_11",
+   "content": "Mùng 1 may mắn! Chúc anh chị kinh doanh khởi sắc và mọi kế hoạch đều sinh lời.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_kinhdoanh_12",
+   "content": "Chúc bạn một tháng mới nhiều đơn hàng, nhiều khách quen và nhiều lợi nhuận.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_kinhdoanh_13",
+   "content": "Đầu tháng, chúc anh chị vạn sự cát tường, buôn may bán đắt, lộc đến đầy nhà.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_kinhdoanh_14",
+   "content": "Mùng 1 đầu tháng, chúc bạn mọi giao dịch đều thuận lợi và mọi đối tác đều tin cậy.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_kinhdoanh_15",
+   "content": "Chúc anh chị tháng này làm ăn phát đạt, công việc suôn sẻ, sức khỏe dồi dào.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_kinhdoanh_16",
+   "content": "Đầu tháng mới, chúc bạn mở hàng gặp may, cả tháng tiền vào đều đặn.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_kinhdoanh_17",
+   "content": "Mùng 1 may mắn! Chúc anh chị kinh doanh thuận lợi và ngày càng mở rộng.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_kinhdoanh_18",
+   "content": "Chúc bạn một tháng mới bội thu, khách hàng nối tiếp khách hàng.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_kinhdoanh_19",
+   "content": "Đầu tháng, chúc anh chị tài lộc dồi dào, buôn bán hanh thông, vạn sự như ý.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_kinhdoanh_20",
+   "content": "Mùng 1 đầu tháng, chúc bạn gặp nhiều cơ hội tốt và nắm bắt được hết.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_kinhdoanh_21",
+   "content": "Chúc anh chị một tháng mới hàng ra nhanh, tiền về nhanh, lòng luôn vui.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_kinhdoanh_22",
+   "content": "Đầu tháng mới, chúc bạn làm ăn thuận lợi và tránh xa mọi rủi ro.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_kinhdoanh_23",
+   "content": "Mùng 1 may mắn! Chúc anh chị tháng này đạt mọi mục tiêu đã đặt ra.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_kinhdoanh_24",
+   "content": "Chúc bạn một tháng mới phát đạt, hanh thông và thật nhiều may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_kinhdoanh_25",
+   "content": "Đầu tháng, chúc anh chị mở hàng thuận lợi và cả tháng đều thuận lợi.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_kinhdoanh_26",
+   "content": "Mùng 1 đầu tháng, chúc bạn buôn bán đắt khách, lợi nhuận tăng đều.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_kinhdoanh_27",
+   "content": "Chúc anh chị một tháng mới kinh doanh khởi sắc và gia đình sung túc.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_kinhdoanh_28",
+   "content": "Đầu tháng mới, chúc bạn tiền tài như nước, sức khỏe như xuân.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_kinhdoanh_29",
+   "content": "Mùng 1 may mắn! Chúc anh chị gặp vía lành, bán đâu hết đó.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_kinhdoanh_30",
+   "content": "Chúc bạn một tháng mới nhiều lộc, nhiều may và nhiều thắng lợi.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_kinhdoanh_31",
+   "content": "Đầu tháng, chúc anh chị buôn may bán đắt, một vốn mười lời.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_kinhdoanh_32",
+   "content": "Mùng 1 đầu tháng, chúc bạn mọi dự định kinh doanh đều thành hiện thực.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_kinhdoanh_33",
+   "content": "Chúc anh chị một tháng mới hanh thông, thuận lợi và bội thu.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_kinhdoanh_34",
+   "content": "Đầu tháng mới, chúc bạn gặp nhiều khách tốt và tránh xa mọi phiền toái.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_kinhdoanh_35",
+   "content": "Mùng 1 may mắn! Chúc anh chị kinh doanh ngày càng phát triển và vững mạnh.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_kinhdoanh_36",
+   "content": "Chúc bạn một tháng mới đầy lộc, đầy may và đầy niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_kinhdoanh_37",
+   "content": "Đầu tháng, chúc anh chị làm ăn thuận lợi, thu nhập tăng, lo toan giảm.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_kinhdoanh_38",
+   "content": "Mùng 1 đầu tháng, chúc bạn mở hàng đắt khách và cả tháng đều đắt khách.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_kinhdoanh_39",
+   "content": "Chúc anh chị một tháng mới an khang, thịnh vượng và vạn sự cát tường.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_kinhdoanh_40",
+   "content": "Đầu tháng mới, chúc bạn gặt hái thật nhiều thành quả từ công sức đã bỏ ra.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_kinhdoanh_41",
+   "content": "Mùng 1 may mắn! Chúc anh chị tháng này thật nhiều đơn hàng và thật ít rắc rối.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_kinhdoanh_42",
+   "content": "Chúc bạn một tháng mới buôn bán hanh thông, tài lộc viên mãn, gia đạo bình an.",
+   "translate": ""
+  }
+ ]
+}

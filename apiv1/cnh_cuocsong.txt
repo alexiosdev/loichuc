@@ -1,0 +1,204 @@
+{
+ "result": [
+  {
+   "id": "cnh_cuocsong_1",
+   "content": "Thế giới bạn không bước vào được thì đừng cố chen vào, làm khó người khác, lỡ dở mình, hà tất chứ?",
+   "translate": ""
+  },
+  {
+   "id": "cnh_cuocsong_2",
+   "content": "Đôi khi, không cẩn thận biết một số chuyện, mới phát hiện ra rằng những điều bản thân để tâm lại nực cười đến thế.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_cuocsong_3",
+   "content": "Đừng bao giờ thay đổi mình vì người khác. Nếu họ không thể tiếp nhận một con người nhiều điểm xấu là bạn, thì cũng không xứng để có được một con người với nhiều điểm tốt là bạn.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_cuocsong_4",
+   "content": "Đôi khi sự đấu tranh luôn cần phải có trong cuộc sống. Nếu cuộc sống trôi qua thật suôn sẻ, chúng ta sẽ không hiểu được cuộc sống, không có được bản lĩnh, nghị lực như chúng ta cần phải có, cuộc sống thật công bằng, không phải vô cớ mà mọi điều xảy đến với ta.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_cuocsong_5",
+   "content": "Bạn cần sức mạnh, nghị lực nên cuộc sống đã đặt ra những khó khăn nghịch cảnh để bạn vượt qua và trở nên mạnh mẽ hơn",
+   "translate": ""
+  },
+  {
+   "id": "cnh_cuocsong_6",
+   "content": "Cuộc sống của bạn chỉ thật sự ý nghĩa và trọn vẹn khi bạn biết giữ gìn và nuôi dưỡng ước mơ, biết ghi nhận, biết tin vào những lời hứa.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_cuocsong_7",
+   "content": "Đừng bao giờ cau mày hay nhăn mặt thậm chí khi bạn đang buồn, chắc chắn sẽ có ai đó yêu bạn chỉ vì nụ cười của bạn thôi. Với thế giới bạn chỉ là một cá nhân nhưng đối với một ai đó, bạn là cả thế giới.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_cuocsong_8",
+   "content": "Bạn cần sự hiểu biết và sáng tạo nên cuộc sống đã ban cho bạn đôi bàn tay và trí óc để khám phá và làm việc.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_cuocsong_9",
+   "content": "Nếu để ý đến những điều bạn đang có trong cuộc sống, bạn sẽ nhận được nhiều hơn thế. Còn nếu chỉ để ý đến những điều bạn không có, bạn sẽ thấy mình không bao giờ có đủ.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_cuocsong_10",
+   "content": "Bạn sẽ tìm thấy niềm vui khi giúp đỡ người khác bằng tất cả tấm lòng.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_cuocsong_11",
+   "content": "Cuộc sống không đợi bạn sẵn sàng, nó chỉ đợi bạn bắt đầu.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_cuocsong_12",
+   "content": "Hãy sống chậm lại một chút, nhiều thứ đẹp chỉ thấy được khi ta đi chậm.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_cuocsong_13",
+   "content": "So sánh là kẻ trộm lấy đi niềm vui của bạn.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_cuocsong_14",
+   "content": "Hạnh phúc không phải có tất cả, mà là biết đủ với những gì mình có.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_cuocsong_15",
+   "content": "Đừng để những điều nhỏ nhặt phá hỏng một ngày đẹp trời.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_cuocsong_16",
+   "content": "Mỗi người có một nhịp riêng, đừng vội vì thấy người khác đi nhanh hơn.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_cuocsong_17",
+   "content": "Điều khó nhất không phải là bắt đầu, mà là tiếp tục khi đã mệt.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_cuocsong_18",
+   "content": "Bạn không cần phải mạnh mẽ mọi lúc, đôi khi nghỉ một chút cũng được.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_cuocsong_19",
+   "content": "Hãy tử tế, vì ai cũng đang chiến đấu với điều mà bạn không nhìn thấy.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_cuocsong_20",
+   "content": "Cuộc sống ngắn hơn ta tưởng, đừng dành nó để làm hài lòng tất cả mọi người.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_cuocsong_21",
+   "content": "Mọi chuyện rồi sẽ ổn, nếu chưa ổn thì chưa phải là kết thúc.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_cuocsong_22",
+   "content": "Đừng tiếc nuối quá khứ, cũng đừng lo lắng quá nhiều về tương lai.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_cuocsong_23",
+   "content": "Giá trị của bạn không phụ thuộc vào ý kiến của người khác.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_cuocsong_24",
+   "content": "Hãy sống sao cho khi nhìn lại, bạn không phải nói giá như.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_cuocsong_25",
+   "content": "Bình yên không phải là không có sóng gió, mà là biết giữ lòng mình giữa sóng gió.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_cuocsong_26",
+   "content": "Thứ bạn cho đi sẽ quay lại, bằng cách này hay cách khác.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_cuocsong_27",
+   "content": "Hãy học cách buông những gì không còn thuộc về mình.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_cuocsong_28",
+   "content": "Cuộc sống không công bằng, nhưng bạn vẫn có thể chọn cách phản ứng.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_cuocsong_29",
+   "content": "Mỗi ngày bạn thức dậy khỏe mạnh đã là một món quà rồi.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_cuocsong_30",
+   "content": "Đừng chờ đến khi có đủ mọi thứ mới cho phép mình hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_cuocsong_31",
+   "content": "Người trưởng thành không phải người hết buồn, mà là người biết buồn mà vẫn sống tốt.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_cuocsong_32",
+   "content": "Hãy tử tế với chính mình như cách bạn tử tế với người khác.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_cuocsong_33",
+   "content": "Thời gian không chữa lành tất cả, nhưng nó giúp ta quen dần.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_cuocsong_34",
+   "content": "Đôi khi điều tốt nhất bạn có thể làm là không làm gì cả, chỉ nghỉ ngơi.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_cuocsong_35",
+   "content": "Cuộc đời là của bạn, đừng sống theo kỳ vọng của người khác.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_cuocsong_36",
+   "content": "Hãy biết ơn những điều bình thường, vì có người đang mơ về chúng.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_cuocsong_37",
+   "content": "Không ai có thể quay lại để bắt đầu lại, nhưng ai cũng có thể bắt đầu từ hôm nay.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_cuocsong_38",
+   "content": "Hạnh phúc là một lựa chọn, đôi khi là một lựa chọn khó.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_cuocsong_39",
+   "content": "Đừng đánh giá cuộc đời mình bằng những khoảnh khắc tồi tệ nhất.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_cuocsong_40",
+   "content": "Đừng vội vàng, điều gì đến đúng lúc sẽ ở lại lâu hơn.",
+   "translate": ""
+  }
+ ]
+}

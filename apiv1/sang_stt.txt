@@ -1,0 +1,204 @@
+{
+ "result": [
+  {
+   "id": "sang_stt_1",
+   "content": "Khó khăn vẫn cứ đến trên con đường chúng ta đi, bất kể nó là gì thì chỉ cần chúng ta đối mặt, mọi chuyện rồi sẽ ổn thôi. Ngày mới tốt lành!",
+   "translate": ""
+  },
+  {
+   "id": "sang_stt_2",
+   "content": "Đừng để nỗi lo âu của ngày hôm qua làm phai mờ vẻ đẹp của ngày hôm nay. Chúc một ngày may mắn!",
+   "translate": ""
+  },
+  {
+   "id": "sang_stt_3",
+   "content": "Hãy bắt đầu ngày mới bằng một nụ cười, vì điều đó sẽ đem lại may mắn cho chúng ta suốt cả ngày.",
+   "translate": ""
+  },
+  {
+   "id": "sang_stt_4",
+   "content": "Ngày mới giống như tờ giấy trắng. Bạn sẽ là người sẽ vẽ lên đó, vì thế hãy vẽ sao cho khôn ngoan. Chào buổi sáng!",
+   "translate": ""
+  },
+  {
+   "id": "sang_stt_5",
+   "content": "Tất cả những ai vững niềm tin thì nhất định sẽ gặp may mắn và thành công.",
+   "translate": ""
+  },
+  {
+   "id": "sang_stt_6",
+   "content": "Sương mai long lanh trên cành, hoa nở, chim hot đầy sức sống, hãy đứng dậy và bước đi vững chắc trong ngày mới với những hy vọng cho tương lai của bạn nhé.",
+   "translate": ""
+  },
+  {
+   "id": "sang_stt_7",
+   "content": "Ngủ ngon không em? Ngày mới thật tốt lành em nhé, và nhớ là đừng bỏ bữa sáng đó nhé.",
+   "translate": ""
+  },
+  {
+   "id": "sang_stt_8",
+   "content": "Cuộc sống luôn cho ta cơ hội thứ hai, đó gọi là ngày mai.",
+   "translate": ""
+  },
+  {
+   "id": "sang_stt_9",
+   "content": "Cuộc sống thật ngắn ngủi, hãy tận dụng mỗi ngày của bạn để làm những điều ý nghĩa.",
+   "translate": ""
+  },
+  {
+   "id": "sang_stt_10",
+   "content": "Đừng để âu lo của ngày hôm qua làm phai mờ vẻ đẹp của ngày hôm nay.",
+   "translate": ""
+  },
+  {
+   "id": "sang_stt_11",
+   "content": "Một ngày mới bắt đầu, hãy để những muộn phiền của hôm qua ở lại phía sau.",
+   "translate": ""
+  },
+  {
+   "id": "sang_stt_12",
+   "content": "Sáng nay nắng đẹp, lòng cũng nên nhẹ. Chúc mọi người một ngày bình an.",
+   "translate": ""
+  },
+  {
+   "id": "sang_stt_13",
+   "content": "Không cần phải hoàn hảo, chỉ cần hôm nay tốt hơn hôm qua một chút là đủ.",
+   "translate": ""
+  },
+  {
+   "id": "sang_stt_14",
+   "content": "Mỗi buổi sáng là một cơ hội để bắt đầu lại. Chúc bạn một ngày mới tốt lành.",
+   "translate": ""
+  },
+  {
+   "id": "sang_stt_15",
+   "content": "Ngày mới, năng lượng mới. Chúc mọi người đủ bình tĩnh để làm tốt mọi việc.",
+   "translate": ""
+  },
+  {
+   "id": "sang_stt_16",
+   "content": "Hãy bắt đầu ngày mới bằng lòng biết ơn, mọi thứ sẽ nhẹ nhàng hơn.",
+   "translate": ""
+  },
+  {
+   "id": "sang_stt_17",
+   "content": "Chào ngày mới! Dù hôm qua thế nào, hôm nay vẫn là một trang giấy trắng.",
+   "translate": ""
+  },
+  {
+   "id": "sang_stt_18",
+   "content": "Không ai hứa ngày mai sẽ dễ dàng, nhưng chắc chắn nó sẽ khác. Chúc ngày mới an lành.",
+   "translate": ""
+  },
+  {
+   "id": "sang_stt_19",
+   "content": "Sáng nay, hãy cho mình một nụ cười trước khi cho người khác.",
+   "translate": ""
+  },
+  {
+   "id": "sang_stt_20",
+   "content": "Ngày mới đến rồi, hãy sống cho ra sống và làm cho ra làm.",
+   "translate": ""
+  },
+  {
+   "id": "sang_stt_21",
+   "content": "Mỗi ngày đều là một món quà, kể cả những ngày không như ý.",
+   "translate": ""
+  },
+  {
+   "id": "sang_stt_22",
+   "content": "Chào ngày mới! Chúc bạn đủ dũng cảm để bắt đầu và đủ kiên trì để hoàn thành.",
+   "translate": ""
+  },
+  {
+   "id": "sang_stt_23",
+   "content": "Buổi sáng đẹp nhất là buổi sáng mà bạn thức dậy với một mục tiêu rõ ràng.",
+   "translate": ""
+  },
+  {
+   "id": "sang_stt_24",
+   "content": "Hôm nay có thể không hoàn hảo, nhưng vẫn có thể là một ngày tốt.",
+   "translate": ""
+  },
+  {
+   "id": "sang_stt_25",
+   "content": "Chào ngày mới! Hãy làm điều mình có thể, với những gì mình đang có.",
+   "translate": ""
+  },
+  {
+   "id": "sang_stt_26",
+   "content": "Sáng nay, hãy nhớ rằng bạn đã vượt qua được tất cả những ngày khó trước đó.",
+   "translate": ""
+  },
+  {
+   "id": "sang_stt_27",
+   "content": "Ngày mới, chúc bạn đủ tỉnh táo để biết điều gì đáng bận tâm và điều gì không.",
+   "translate": ""
+  },
+  {
+   "id": "sang_stt_28",
+   "content": "Đừng vội vàng, cũng đừng dừng lại. Chúc bạn một ngày mới vững vàng.",
+   "translate": ""
+  },
+  {
+   "id": "sang_stt_29",
+   "content": "Chào ngày mới! Hạnh phúc đôi khi chỉ là một buổi sáng không vội vã.",
+   "translate": ""
+  },
+  {
+   "id": "sang_stt_30",
+   "content": "Mỗi sáng thức dậy khỏe mạnh đã là một điều may mắn rồi.",
+   "translate": ""
+  },
+  {
+   "id": "sang_stt_31",
+   "content": "Ngày mới, hãy tử tế với chính mình trước đã.",
+   "translate": ""
+  },
+  {
+   "id": "sang_stt_32",
+   "content": "Chào buổi sáng! Chúc bạn một ngày sống chậm lại và cảm nhận nhiều hơn.",
+   "translate": ""
+  },
+  {
+   "id": "sang_stt_33",
+   "content": "Không phải ngày nào cũng tốt, nhưng ngày nào cũng có điều gì đó tốt.",
+   "translate": ""
+  },
+  {
+   "id": "sang_stt_34",
+   "content": "Chào ngày mới! Hãy cứ bước đi, rồi đường sẽ mở ra.",
+   "translate": ""
+  },
+  {
+   "id": "sang_stt_35",
+   "content": "Sáng nay, chúc bạn đủ bình an để không bị cuốn theo những điều ồn ào.",
+   "translate": ""
+  },
+  {
+   "id": "sang_stt_36",
+   "content": "Ngày mới, chúc bạn làm được ít nhất một việc khiến mình tự hào.",
+   "translate": ""
+  },
+  {
+   "id": "sang_stt_37",
+   "content": "Chào buổi sáng! Mọi hành trình lớn đều bắt đầu bằng một buổi sáng bình thường.",
+   "translate": ""
+  },
+  {
+   "id": "sang_stt_38",
+   "content": "Hôm nay, hãy cho phép mình nghỉ nếu mệt và cố gắng nếu còn sức.",
+   "translate": ""
+  },
+  {
+   "id": "sang_stt_39",
+   "content": "Chào ngày mới! Chúc bạn giữ được sự tử tế giữa một thế giới vội vã.",
+   "translate": ""
+  },
+  {
+   "id": "sang_stt_40",
+   "content": "Mỗi buổi sáng là lời nhắc rằng bạn vẫn còn cơ hội để làm khác đi.",
+   "translate": ""
+  }
+ ]
+}

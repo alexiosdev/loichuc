@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "sk_thamom_1",
+   "content": "Chúc bạn mau khỏe! Nghỉ ngơi cho thật tốt, mọi việc khác để sau cũng được.",
+   "translate": ""
+  },
+  {
+   "id": "sk_thamom_2",
+   "content": "Nghe tin bạn không khỏe, mình lo lắm. Chúc bạn sớm bình phục nhé.",
+   "translate": ""
+  },
+  {
+   "id": "sk_thamom_3",
+   "content": "Chúc bạn chóng khỏe lại! Nhớ ăn uống đầy đủ và uống thuốc đúng giờ.",
+   "translate": ""
+  },
+  {
+   "id": "sk_thamom_4",
+   "content": "Mong bạn mau khỏi bệnh và sớm trở lại khỏe mạnh như trước.",
+   "translate": ""
+  },
+  {
+   "id": "sk_thamom_5",
+   "content": "Chúc bạn mau bình phục! Cứ nghỉ ngơi cho kỹ, đừng lo nghĩ gì cả.",
+   "translate": ""
+  },
+  {
+   "id": "sk_thamom_6",
+   "content": "Nghe tin bạn ốm, mình chỉ mong bạn sớm khỏe lại.",
+   "translate": ""
+  },
+  {
+   "id": "sk_thamom_7",
+   "content": "Chúc bạn sớm khỏi bệnh và lấy lại sức thật nhanh.",
+   "translate": ""
+  },
+  {
+   "id": "sk_thamom_8",
+   "content": "Mong bạn mau khỏe! Có gì cần cứ nói, mình luôn sẵn sàng giúp.",
+   "translate": ""
+  },
+  {
+   "id": "sk_thamom_9",
+   "content": "Chúc bạn chóng bình phục! Sức khỏe là quan trọng nhất, cứ nghỉ cho đã.",
+   "translate": ""
+  },
+  {
+   "id": "sk_thamom_10",
+   "content": "Nghe tin bạn nằm viện, mình lo quá. Chúc bạn mau khỏe nhé.",
+   "translate": ""
+  },
+  {
+   "id": "sk_thamom_11",
+   "content": "Chúc bạn sớm khỏe mạnh trở lại và lại tươi cười như mọi khi.",
+   "translate": ""
+  },
+  {
+   "id": "sk_thamom_12",
+   "content": "Mong bạn mau hết bệnh và sớm được về nhà nghỉ ngơi.",
+   "translate": ""
+  },
+  {
+   "id": "sk_thamom_13",
+   "content": "Chúc bạn mau khỏe! Đừng cố gắng quá, cơ thể cần thời gian hồi phục.",
+   "translate": ""
+  },
+  {
+   "id": "sk_thamom_14",
+   "content": "Nghe tin bạn không khỏe, mình gửi lời chúc bạn chóng bình phục.",
+   "translate": ""
+  },
+  {
+   "id": "sk_thamom_15",
+   "content": "Chúc bạn sớm khỏi bệnh! Mọi người đều đang mong bạn khỏe lại.",
+   "translate": ""
+  },
+  {
+   "id": "sk_thamom_16",
+   "content": "Mong bạn mau khỏe! Nhớ giữ tinh thần lạc quan, điều đó giúp ích nhiều lắm.",
+   "translate": ""
+  },
+  {
+   "id": "sk_thamom_17",
+   "content": "Chúc bạn chóng khỏe! Công việc để đấy, sức khỏe quan trọng hơn.",
+   "translate": ""
+  },
+  {
+   "id": "sk_thamom_18",
+   "content": "Nghe tin bạn ốm mình buồn quá. Chúc bạn sớm bình phục nhé.",
+   "translate": ""
+  },
+  {
+   "id": "sk_thamom_19",
+   "content": "Chúc bạn mau lành bệnh và sớm trở lại với mọi người.",
+   "translate": ""
+  },
+  {
+   "id": "sk_thamom_20",
+   "content": "Mong bạn sớm khỏe! Cứ yên tâm nghỉ ngơi, mọi thứ sẽ ổn thôi.",
+   "translate": ""
+  },
+  {
+   "id": "sk_thamom_21",
+   "content": "Chúc bạn chóng bình phục và sớm lại khỏe mạnh, vui vẻ.",
+   "translate": ""
+  },
+  {
+   "id": "sk_thamom_22",
+   "content": "Nghe tin bạn không khỏe, mình chúc bạn mau khỏi và giữ gìn sức khỏe.",
+   "translate": ""
+  },
+  {
+   "id": "sk_thamom_23",
+   "content": "Chúc bạn sớm hồi phục! Nhớ nghe lời bác sĩ và nghỉ ngơi đầy đủ.",
+   "translate": ""
+  },
+  {
+   "id": "sk_thamom_24",
+   "content": "Mong bạn mau khỏe lại! Ai cũng nhớ bạn và mong bạn trở lại.",
+   "translate": ""
+  },
+  {
+   "id": "sk_thamom_25",
+   "content": "Chúc bạn chóng khỏe! Đừng lo gì cả, chỉ cần tập trung dưỡng bệnh thôi.",
+   "translate": ""
+  },
+  {
+   "id": "sk_thamom_26",
+   "content": "Nghe tin bạn ốm, mình gửi lời chúc sớm bình phục và nhiều sức khỏe.",
+   "translate": ""
+  },
+  {
+   "id": "sk_thamom_27",
+   "content": "Chúc bạn mau khỏi bệnh và sớm lấy lại được năng lượng như trước.",
+   "translate": ""
+  },
+  {
+   "id": "sk_thamom_28",
+   "content": "Mong bạn sớm khỏe mạnh! Có cần gì thì cứ gọi mình nhé.",
+   "translate": ""
+  },
+  {
+   "id": "sk_thamom_29",
+   "content": "Chúc bạn chóng bình phục! Mong bạn sớm được ra viện và về nhà.",
+   "translate": ""
+  },
+  {
+   "id": "sk_thamom_30",
+   "content": "Nghe tin bạn không khỏe, mình chúc bạn mau khỏe và luôn lạc quan.",
+   "translate": ""
+  },
+  {
+   "id": "sk_thamom_31",
+   "content": "Chúc bạn sớm khỏi bệnh! Nghỉ ngơi cho tốt rồi mọi chuyện sẽ ổn.",
+   "translate": ""
+  },
+  {
+   "id": "sk_thamom_32",
+   "content": "Mong bạn mau bình phục và sớm khỏe mạnh trở lại.",
+   "translate": ""
+  },
+  {
+   "id": "sk_thamom_33",
+   "content": "Chúc bạn chóng khỏe! Đừng vội vàng, cứ từ từ hồi phục nhé.",
+   "translate": ""
+  },
+  {
+   "id": "sk_thamom_34",
+   "content": "Nghe tin bạn ốm mình lo lắm. Chúc bạn sớm khỏe và giữ gìn sức khỏe hơn.",
+   "translate": ""
+  },
+  {
+   "id": "sk_thamom_35",
+   "content": "Chúc bạn mau khỏi bệnh! Mong bạn sớm lại vui vẻ như mọi khi.",
+   "translate": ""
+  },
+  {
+   "id": "sk_thamom_36",
+   "content": "Mong bạn sớm bình phục! Sức khỏe là tài sản quý nhất, hãy trân trọng nó.",
+   "translate": ""
+  },
+  {
+   "id": "sk_thamom_37",
+   "content": "Chúc bạn chóng khỏe lại và sớm trở lại với những điều mình yêu thích.",
+   "translate": ""
+  },
+  {
+   "id": "sk_thamom_38",
+   "content": "Nghe tin bạn không khỏe, mình chúc bạn mau lành và luôn mạnh mẽ.",
+   "translate": ""
+  },
+  {
+   "id": "sk_thamom_39",
+   "content": "Chúc bạn sớm khỏi bệnh và lấy lại sức khỏe thật nhanh.",
+   "translate": ""
+  },
+  {
+   "id": "sk_thamom_40",
+   "content": "Mong bạn mau khỏe! Mọi người luôn ở đây và luôn ủng hộ bạn.",
+   "translate": ""
+  },
+  {
+   "id": "sk_thamom_41",
+   "content": "Chúc bạn chóng bình phục! Hãy nghỉ ngơi thật nhiều và đừng lo nghĩ.",
+   "translate": ""
+  },
+  {
+   "id": "sk_thamom_42",
+   "content": "Nghe tin bạn ốm, mình chúc bạn mau khỏe và sớm trở lại bình thường.",
+   "translate": ""
+  }
+ ]
+}

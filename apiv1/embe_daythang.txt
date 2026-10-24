@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "embe_daythang_1",
+   "content": "Chúc mừng bé tròn một tháng tuổi! Chúc bé hay ăn chóng lớn và luôn khỏe mạnh.",
+   "translate": ""
+  },
+  {
+   "id": "embe_daythang_2",
+   "content": "Mừng đầy tháng bé yêu! Chúc bé ngoan ngoãn, bụ bẫm và mang nhiều niềm vui cho cả nhà.",
+   "translate": ""
+  },
+  {
+   "id": "embe_daythang_3",
+   "content": "Chúc mừng đầy tháng! Chúc bé ăn ngon ngủ ngon và lớn nhanh từng ngày.",
+   "translate": ""
+  },
+  {
+   "id": "embe_daythang_4",
+   "content": "Mừng bé tròn tháng! Chúc bé bình an, khỏe mạnh và luôn được yêu thương.",
+   "translate": ""
+  },
+  {
+   "id": "embe_daythang_5",
+   "content": "Chúc mừng đầy tháng bé! Chúc mẹ mau phục hồi và bé luôn ngoan.",
+   "translate": ""
+  },
+  {
+   "id": "embe_daythang_6",
+   "content": "Mừng đầy tháng! Chúc bé lớn lên thông minh, khỏe mạnh và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "embe_daythang_7",
+   "content": "Chúc mừng bé một tháng tuổi! Chúc bé ít quấy khóc và ngủ thật ngoan.",
+   "translate": ""
+  },
+  {
+   "id": "embe_daythang_8",
+   "content": "Mừng đầy tháng bé yêu! Chúc bé da dẻ hồng hào và luôn tươi cười.",
+   "translate": ""
+  },
+  {
+   "id": "embe_daythang_9",
+   "content": "Chúc mừng đầy tháng! Chúc cả nhà thật nhiều sức khỏe và niềm vui bên bé.",
+   "translate": ""
+  },
+  {
+   "id": "embe_daythang_10",
+   "content": "Mừng bé tròn tháng! Chúc bé mau lớn và luôn mạnh khỏe.",
+   "translate": ""
+  },
+  {
+   "id": "embe_daythang_11",
+   "content": "Chúc mừng đầy tháng bé! Chúc bé có một tuổi thơ thật đẹp phía trước.",
+   "translate": ""
+  },
+  {
+   "id": "embe_daythang_12",
+   "content": "Mừng đầy tháng! Chúc bé hay ăn chóng lớn và ít ốm vặt.",
+   "translate": ""
+  },
+  {
+   "id": "embe_daythang_13",
+   "content": "Chúc mừng bé một tháng tuổi! Chúc bé luôn bình an trong vòng tay bố mẹ.",
+   "translate": ""
+  },
+  {
+   "id": "embe_daythang_14",
+   "content": "Mừng đầy tháng bé yêu! Chúc bé mang thật nhiều may mắn đến cho cả nhà.",
+   "translate": ""
+  },
+  {
+   "id": "embe_daythang_15",
+   "content": "Chúc mừng đầy tháng! Chúc bé bú khỏe, ngủ ngoan và lớn nhanh như thổi.",
+   "translate": ""
+  },
+  {
+   "id": "embe_daythang_16",
+   "content": "Mừng bé tròn tháng! Chúc bé khỏe mạnh, đáng yêu và luôn được che chở.",
+   "translate": ""
+  },
+  {
+   "id": "embe_daythang_17",
+   "content": "Chúc mừng đầy tháng bé! Chúc mẹ nhiều sữa và bé luôn no đủ.",
+   "translate": ""
+  },
+  {
+   "id": "embe_daythang_18",
+   "content": "Mừng đầy tháng! Chúc bé lớn lên thật ngoan và thật tử tế.",
+   "translate": ""
+  },
+  {
+   "id": "embe_daythang_19",
+   "content": "Chúc mừng bé một tháng tuổi! Chúc gia đình nhỏ luôn tràn ngập tiếng cười.",
+   "translate": ""
+  },
+  {
+   "id": "embe_daythang_20",
+   "content": "Mừng đầy tháng bé yêu! Chúc bé luôn khỏe và luôn hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "embe_daythang_21",
+   "content": "Chúc mừng đầy tháng! Chúc bé ngoan ngoãn và mang niềm vui cho ông bà bố mẹ.",
+   "translate": ""
+  },
+  {
+   "id": "embe_daythang_22",
+   "content": "Mừng bé tròn tháng! Chúc bé có thật nhiều điều tốt đẹp phía trước.",
+   "translate": ""
+  },
+  {
+   "id": "embe_daythang_23",
+   "content": "Chúc mừng đầy tháng bé! Chúc bé mau biết lẫy, biết bò và biết đi.",
+   "translate": ""
+  },
+  {
+   "id": "embe_daythang_24",
+   "content": "Mừng đầy tháng! Chúc bé bình an, khỏe mạnh và lớn lên trong yêu thương.",
+   "translate": ""
+  },
+  {
+   "id": "embe_daythang_25",
+   "content": "Chúc mừng bé một tháng tuổi! Chúc cả nhà thật nhiều hạnh phúc bên bé.",
+   "translate": ""
+  },
+  {
+   "id": "embe_daythang_26",
+   "content": "Mừng đầy tháng bé yêu! Chúc bé ăn khỏe, ngủ khỏe và chơi ngoan.",
+   "translate": ""
+  },
+  {
+   "id": "embe_daythang_27",
+   "content": "Chúc mừng đầy tháng! Chúc bé thông minh, lanh lợi và luôn khỏe mạnh.",
+   "translate": ""
+  },
+  {
+   "id": "embe_daythang_28",
+   "content": "Mừng bé tròn tháng! Chúc bé luôn tươi cười và luôn được yêu quý.",
+   "translate": ""
+  },
+  {
+   "id": "embe_daythang_29",
+   "content": "Chúc mừng đầy tháng bé! Chúc bé lớn lên thật khỏe và thật hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "embe_daythang_30",
+   "content": "Mừng đầy tháng! Chúc bé ít quấy đêm để bố mẹ cũng được nghỉ ngơi.",
+   "translate": ""
+  },
+  {
+   "id": "embe_daythang_31",
+   "content": "Chúc mừng bé một tháng tuổi! Chúc bé bụ bẫm và đáng yêu mỗi ngày.",
+   "translate": ""
+  },
+  {
+   "id": "embe_daythang_32",
+   "content": "Mừng đầy tháng bé yêu! Chúc bé luôn bình an và luôn khỏe mạnh.",
+   "translate": ""
+  },
+  {
+   "id": "embe_daythang_33",
+   "content": "Chúc mừng đầy tháng! Chúc gia đình nhỏ luôn ấm áp và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "embe_daythang_34",
+   "content": "Mừng bé tròn tháng! Chúc bé mau lớn, mau khôn và luôn ngoan ngoãn.",
+   "translate": ""
+  },
+  {
+   "id": "embe_daythang_35",
+   "content": "Chúc mừng đầy tháng bé! Chúc bé có một hành trình lớn khôn thật suôn sẻ.",
+   "translate": ""
+  },
+  {
+   "id": "embe_daythang_36",
+   "content": "Mừng đầy tháng! Chúc bé khỏe mạnh, vui vẻ và tràn đầy năng lượng.",
+   "translate": ""
+  },
+  {
+   "id": "embe_daythang_37",
+   "content": "Chúc mừng bé một tháng tuổi! Chúc bé luôn được bao bọc trong tình yêu thương.",
+   "translate": ""
+  },
+  {
+   "id": "embe_daythang_38",
+   "content": "Mừng đầy tháng bé yêu! Chúc bé lớn lên thật ngoan và làm bố mẹ tự hào.",
+   "translate": ""
+  },
+  {
+   "id": "embe_daythang_39",
+   "content": "Chúc mừng đầy tháng! Chúc bé hay ăn chóng lớn và ít bệnh tật.",
+   "translate": ""
+  },
+  {
+   "id": "embe_daythang_40",
+   "content": "Mừng bé tròn tháng! Chúc cả nhà luôn khỏe mạnh và luôn vui vẻ bên bé.",
+   "translate": ""
+  },
+  {
+   "id": "embe_daythang_41",
+   "content": "Chúc mừng đầy tháng bé! Chúc bé mang thật nhiều lộc đến cho gia đình.",
+   "translate": ""
+  },
+  {
+   "id": "embe_daythang_42",
+   "content": "Mừng đầy tháng! Chúc bé bình an, khỏe mạnh và luôn hạnh phúc.",
+   "translate": ""
+  }
+ ]
+}

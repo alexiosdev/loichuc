@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "sinhnhat_tonghop_1",
+   "content": "Chúc mừng sinh nhật! Chúc bạn một tuổi mới thật nhiều sức khỏe, niềm vui và những điều tốt đẹp nhất.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_tonghop_2",
+   "content": "Happy birthday! Mong tuổi mới của bạn tràn ngập tiếng cười, thành công và yêu thương.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_tonghop_3",
+   "content": "Chúc mừng sinh nhật! Chúc bạn luôn xinh đẹp, luôn rạng rỡ và luôn được yêu thương như ngày hôm nay.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_tonghop_4",
+   "content": "Sinh nhật vui vẻ nhé! Chúc bạn tuổi mới bình an, công việc hanh thông, tình duyên viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_tonghop_5",
+   "content": "Chúc mừng sinh nhật! Mong mọi ước mơ bạn ấp ủ sẽ thành hiện thực trong năm tuổi này.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_tonghop_6",
+   "content": "Chúc bạn một sinh nhật thật ấm áp bên những người thương yêu, và một tuổi mới thật rực rỡ.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_tonghop_7",
+   "content": "Happy birthday! Chúc bạn tuổi mới mạnh khỏe, hạnh phúc và gặt hái thật nhiều thành công.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_tonghop_8",
+   "content": "Chúc mừng sinh nhật! Chúc bạn luôn giữ được nụ cười và trái tim ấm áp như bây giờ.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_tonghop_9",
+   "content": "Sinh nhật vui vẻ! Chúc bạn tuổi mới trưởng thành hơn, bản lĩnh hơn nhưng vẫn hồn nhiên như thế.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_tonghop_10",
+   "content": "Chúc mừng sinh nhật! Mong năm tuổi này mang đến cho bạn thật nhiều cơ hội và may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_tonghop_11",
+   "content": "Chúc bạn sinh nhật thật vui, tuổi mới thật đẹp và tương lai thật xán lạn.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_tonghop_12",
+   "content": "Happy birthday! Chúc bạn mỗi ngày trong tuổi mới đều có một lý do để mỉm cười.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_tonghop_13",
+   "content": "Chúc mừng sinh nhật! Chúc bạn sức khỏe dồi dào, tâm hồn thư thái, cuộc sống đủ đầy.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_tonghop_14",
+   "content": "Sinh nhật vui vẻ nhé! Chúc bạn một năm tuổi mới ít muộn phiền, nhiều điều đáng nhớ.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_tonghop_15",
+   "content": "Chúc mừng sinh nhật! Mong bạn luôn được sống đúng với con người mình và luôn hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_tonghop_16",
+   "content": "Chúc bạn tuổi mới thành công rực rỡ, tình yêu ngọt ngào và sức khỏe bền bỉ.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_tonghop_17",
+   "content": "Happy birthday! Chúc bạn tuổi mới gặp nhiều quý nhân, nắm nhiều cơ hội, chạm nhiều thành tựu.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_tonghop_18",
+   "content": "Chúc mừng sinh nhật! Chúc bạn một năm mới của riêng mình thật trọn vẹn và ý nghĩa.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_tonghop_19",
+   "content": "Sinh nhật vui vẻ! Chúc bạn luôn khỏe mạnh để đi thật xa và sống thật đã.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_tonghop_20",
+   "content": "Chúc mừng sinh nhật! Mong tuổi mới mang đến cho bạn sự bình yên mà bạn đang tìm kiếm.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_tonghop_21",
+   "content": "Chúc bạn một sinh nhật ngọt ngào và một tuổi mới ngập tràn những điều tuyệt vời.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_tonghop_22",
+   "content": "Happy birthday! Chúc bạn tuổi mới can đảm theo đuổi điều mình thích và đủ may mắn để đạt được.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_tonghop_23",
+   "content": "Chúc mừng sinh nhật! Chúc bạn giàu sức khỏe, giàu tình cảm và cũng giàu tiền bạc luôn nhé.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_tonghop_24",
+   "content": "Sinh nhật vui vẻ nhé! Chúc bạn tuổi mới sống chậm lại một chút và hạnh phúc nhiều hơn một chút.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_tonghop_25",
+   "content": "Chúc mừng sinh nhật! Mong mỗi ngày tới đây của bạn đều nhẹ nhàng và đáng sống.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_tonghop_26",
+   "content": "Chúc bạn tuổi mới an nhiên, tự tại, muốn gì được nấy, làm gì cũng thành.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_tonghop_27",
+   "content": "Happy birthday! Chúc bạn một tuổi mới thật nhiều trải nghiệm đẹp và thật ít tiếc nuối.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_tonghop_28",
+   "content": "Chúc mừng sinh nhật! Chúc bạn luôn có người đồng hành, luôn có chỗ để về và luôn được yêu thương.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_tonghop_29",
+   "content": "Sinh nhật vui vẻ! Chúc bạn tuổi mới thêm chín chắn, thêm thành công và thêm hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_tonghop_30",
+   "content": "Chúc mừng sinh nhật! Mong bạn nhận được gấp nhiều lần những điều tốt đẹp bạn đã trao đi.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_tonghop_31",
+   "content": "Chúc bạn một tuổi mới khỏe mạnh, vui vẻ, bình an và luôn mỉm cười.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_tonghop_32",
+   "content": "Happy birthday! Chúc bạn tuổi mới mở ra những cánh cửa mà bạn chưa từng nghĩ tới.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_tonghop_33",
+   "content": "Chúc mừng sinh nhật! Chúc bạn tuổi mới nhẹ gánh lo toan, đầy ắp niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_tonghop_34",
+   "content": "Sinh nhật vui vẻ nhé! Chúc bạn luôn giữ được ngọn lửa trong tim và ánh sáng trong mắt.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_tonghop_35",
+   "content": "Chúc mừng sinh nhật! Mong tuổi mới của bạn đầy ắp yêu thương từ những người xung quanh.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_tonghop_36",
+   "content": "Chúc bạn tuổi mới thật nhiều sức khỏe, bởi có sức khỏe là có tất cả.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_tonghop_37",
+   "content": "Happy birthday! Chúc bạn một năm tuổi mới bùng nổ, bứt phá và thật đáng tự hào.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_tonghop_38",
+   "content": "Chúc mừng sinh nhật! Chúc bạn mãi giữ được sự tử tế và lạc quan đáng quý của mình.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_tonghop_39",
+   "content": "Sinh nhật vui vẻ! Chúc bạn tuổi mới gặp điều lành, tránh điều dữ, sống an yên.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_tonghop_40",
+   "content": "Chúc mừng sinh nhật! Mong bạn luôn là phiên bản tốt nhất của chính mình trong năm tuổi này.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_tonghop_41",
+   "content": "Chúc bạn một sinh nhật thật đáng nhớ và một tuổi mới thật đáng sống.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_tonghop_42",
+   "content": "Happy birthday! Chúc bạn tuổi mới thành công, hạnh phúc và luôn được bình an.",
+   "translate": ""
+  }
+ ]
+}

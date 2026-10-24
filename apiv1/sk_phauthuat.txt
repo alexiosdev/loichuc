@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "sk_phauthuat_1",
+   "content": "Chúc bạn ca phẫu thuật thuận lợi và sớm hồi phục hoàn toàn.",
+   "translate": ""
+  },
+  {
+   "id": "sk_phauthuat_2",
+   "content": "Mong ca mổ của bạn diễn ra suôn sẻ. Mình luôn ở đây ủng hộ bạn.",
+   "translate": ""
+  },
+  {
+   "id": "sk_phauthuat_3",
+   "content": "Chúc bạn bình tĩnh và tin tưởng vào bác sĩ. Mọi chuyện sẽ ổn thôi.",
+   "translate": ""
+  },
+  {
+   "id": "sk_phauthuat_4",
+   "content": "Chúc bạn phẫu thuật thành công và mau chóng khỏe lại.",
+   "translate": ""
+  },
+  {
+   "id": "sk_phauthuat_5",
+   "content": "Mong bạn vượt qua ca mổ thật nhẹ nhàng và hồi phục thật nhanh.",
+   "translate": ""
+  },
+  {
+   "id": "sk_phauthuat_6",
+   "content": "Chúc bạn ca phẫu thuật diễn ra tốt đẹp. Hãy giữ tinh thần lạc quan nhé.",
+   "translate": ""
+  },
+  {
+   "id": "sk_phauthuat_7",
+   "content": "Mình tin bạn sẽ vượt qua được. Chúc bạn phẫu thuật thuận lợi.",
+   "translate": ""
+  },
+  {
+   "id": "sk_phauthuat_8",
+   "content": "Chúc bạn mổ thành công và sớm được về nhà với gia đình.",
+   "translate": ""
+  },
+  {
+   "id": "sk_phauthuat_9",
+   "content": "Mong bạn bình an qua ca phẫu thuật và hồi phục thật tốt.",
+   "translate": ""
+  },
+  {
+   "id": "sk_phauthuat_10",
+   "content": "Chúc bạn giữ vững tinh thần. Sau ca mổ này mọi thứ sẽ tốt hơn.",
+   "translate": ""
+  },
+  {
+   "id": "sk_phauthuat_11",
+   "content": "Chúc bạn phẫu thuật thuận lợi và không gặp biến chứng gì.",
+   "translate": ""
+  },
+  {
+   "id": "sk_phauthuat_12",
+   "content": "Mong bạn mạnh mẽ vượt qua. Mọi người đều đang cầu chúc cho bạn.",
+   "translate": ""
+  },
+  {
+   "id": "sk_phauthuat_13",
+   "content": "Chúc bạn ca mổ thành công và quá trình hồi phục thật suôn sẻ.",
+   "translate": ""
+  },
+  {
+   "id": "sk_phauthuat_14",
+   "content": "Chúc bạn bình an, thuận lợi và sớm khỏe mạnh trở lại.",
+   "translate": ""
+  },
+  {
+   "id": "sk_phauthuat_15",
+   "content": "Mong ca phẫu thuật của bạn diễn ra thật tốt. Cố lên nhé!",
+   "translate": ""
+  },
+  {
+   "id": "sk_phauthuat_16",
+   "content": "Chúc bạn vững tâm bước vào phòng mổ và khỏe mạnh bước ra.",
+   "translate": ""
+  },
+  {
+   "id": "sk_phauthuat_17",
+   "content": "Chúc bạn phẫu thuật thành công và sớm lấy lại sức khỏe.",
+   "translate": ""
+  },
+  {
+   "id": "sk_phauthuat_18",
+   "content": "Mong bạn mau hồi phục sau ca mổ. Cứ nghỉ ngơi cho thật tốt nhé.",
+   "translate": ""
+  },
+  {
+   "id": "sk_phauthuat_19",
+   "content": "Chúc bạn mọi điều thuận lợi trong ca phẫu thuật sắp tới.",
+   "translate": ""
+  },
+  {
+   "id": "sk_phauthuat_20",
+   "content": "Chúc bạn bình tĩnh và tin tưởng. Bạn mạnh mẽ hơn bạn nghĩ đấy.",
+   "translate": ""
+  },
+  {
+   "id": "sk_phauthuat_21",
+   "content": "Mong bạn vượt qua ca mổ an toàn và hồi phục nhanh chóng.",
+   "translate": ""
+  },
+  {
+   "id": "sk_phauthuat_22",
+   "content": "Chúc bạn phẫu thuật suôn sẻ và sớm trở lại cuộc sống bình thường.",
+   "translate": ""
+  },
+  {
+   "id": "sk_phauthuat_23",
+   "content": "Chúc bạn ca mổ thuận lợi. Mình sẽ đến thăm bạn ngay khi có thể.",
+   "translate": ""
+  },
+  {
+   "id": "sk_phauthuat_24",
+   "content": "Mong bạn sớm khỏe lại sau ca phẫu thuật. Cố gắng lên nhé!",
+   "translate": ""
+  },
+  {
+   "id": "sk_phauthuat_25",
+   "content": "Chúc bạn bình an qua ca mổ và nhanh chóng hồi phục sức khỏe.",
+   "translate": ""
+  },
+  {
+   "id": "sk_phauthuat_26",
+   "content": "Chúc bạn giữ tinh thần thoải mái trước ca phẫu thuật. Mọi chuyện sẽ ổn.",
+   "translate": ""
+  },
+  {
+   "id": "sk_phauthuat_27",
+   "content": "Mong ca mổ thành công và bạn sớm được xuất viện.",
+   "translate": ""
+  },
+  {
+   "id": "sk_phauthuat_28",
+   "content": "Chúc bạn phẫu thuật thuận lợi và quá trình hồi phục không đau đớn.",
+   "translate": ""
+  },
+  {
+   "id": "sk_phauthuat_29",
+   "content": "Chúc bạn mạnh mẽ! Sau ca mổ này bạn sẽ khỏe hơn nhiều.",
+   "translate": ""
+  },
+  {
+   "id": "sk_phauthuat_30",
+   "content": "Mong bạn bình an và sớm khỏe mạnh trở lại sau ca phẫu thuật.",
+   "translate": ""
+  },
+  {
+   "id": "sk_phauthuat_31",
+   "content": "Chúc bạn ca mổ diễn ra tốt đẹp và hồi phục thật nhanh.",
+   "translate": ""
+  },
+  {
+   "id": "sk_phauthuat_32",
+   "content": "Chúc bạn vững vàng vượt qua. Gia đình và bạn bè luôn bên bạn.",
+   "translate": ""
+  },
+  {
+   "id": "sk_phauthuat_33",
+   "content": "Mong bạn phẫu thuật thành công và sớm lại vui vẻ như xưa.",
+   "translate": ""
+  },
+  {
+   "id": "sk_phauthuat_34",
+   "content": "Chúc bạn mọi điều suôn sẻ. Hãy nghỉ ngơi thật nhiều sau ca mổ nhé.",
+   "translate": ""
+  },
+  {
+   "id": "sk_phauthuat_35",
+   "content": "Chúc bạn bình an, thuận lợi và hồi phục hoàn toàn.",
+   "translate": ""
+  },
+  {
+   "id": "sk_phauthuat_36",
+   "content": "Mong ca phẫu thuật của bạn diễn ra nhẹ nhàng và kết quả thật tốt.",
+   "translate": ""
+  },
+  {
+   "id": "sk_phauthuat_37",
+   "content": "Chúc bạn sớm khỏe lại! Mình tin bạn sẽ vượt qua được điều này.",
+   "translate": ""
+  },
+  {
+   "id": "sk_phauthuat_38",
+   "content": "Chúc bạn phẫu thuật thành công và sớm trở lại với những người thân yêu.",
+   "translate": ""
+  },
+  {
+   "id": "sk_phauthuat_39",
+   "content": "Mong bạn giữ tinh thần lạc quan, điều đó giúp hồi phục nhanh hơn nhiều.",
+   "translate": ""
+  },
+  {
+   "id": "sk_phauthuat_40",
+   "content": "Chúc bạn ca mổ thuận lợi và những ngày sau đó thật nhẹ nhàng.",
+   "translate": ""
+  },
+  {
+   "id": "sk_phauthuat_41",
+   "content": "Chúc bạn bình an! Mọi người đều đang mong tin tốt từ bạn.",
+   "translate": ""
+  },
+  {
+   "id": "sk_phauthuat_42",
+   "content": "Mong bạn sớm hồi phục hoàn toàn và khỏe mạnh như trước.",
+   "translate": ""
+  }
+ ]
+}

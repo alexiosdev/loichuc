@@ -1,0 +1,204 @@
+{
+ "result": [
+  {
+   "id": "2011_tienganh_1",
+   "content": "Teachers! It is not only on November 20th that I remember you. For me, every day is November 20th. I wish you to be happy forever and be proud of your students who are always your good and excellent students",
+   "translate": ""
+  },
+  {
+   "id": "2011_tienganh_2",
+   "content": "I wish I knew some ways to let you know my gratitude. I feel for you my dear teacher but just can't say. So I hope this little card will at least show a part of my warmest appreciation that is coming from the bottom of my heart.",
+   "translate": ""
+  },
+  {
+   "id": "2011_tienganh_3",
+   "content": "The further I am away from you, the more I am thinking of you. There is no end to your instruction. There is no end to my gratitude. Wish you a good health, peace and happiness.",
+   "translate": ""
+  },
+  {
+   "id": "2011_tienganh_4",
+   "content": "Without you, we would have been lost. Thank you teacher for guiding us, inspiring us and making us what we are today. Happy Vietnamese Teachers' Day!",
+   "translate": ""
+  },
+  {
+   "id": "2011_tienganh_5",
+   "content": "Dear teacher, your inspiring words have made a difference in my life. Thanks for making me what I am today. Sending my warm wishes. Happy Teachers' Day!",
+   "translate": ""
+  },
+  {
+   "id": "2011_tienganh_6",
+   "content": "A great thanks to you! You are our teachers who give us a voice, an image and a thought to help build our lives",
+   "translate": ""
+  },
+  {
+   "id": "2011_tienganh_7",
+   "content": "On occasion of Vietnam Teacher's Day. Wishing you and your family a good health, happiness and success in your life.",
+   "translate": ""
+  },
+  {
+   "id": "2011_tienganh_8",
+   "content": "Beacause of poor, I only present teachers who have instructed me step on properway. Two present have great mean: more brilliant score 10, simple card with you healthy, get more achievement. I hope that you will pleasant for two presents which I present to you my respectful.",
+   "translate": ""
+  },
+  {
+   "id": "2011_tienganh_9",
+   "content": "Wish you Happy Vietnamese Teachers' Day!!! A good teacher is like a candle. It consumes itself to light the way for others.",
+   "translate": ""
+  },
+  {
+   "id": "2011_tienganh_10",
+   "content": "Thank you for teaching me how to read and write, for guiding me to distinguish between what is wrong and what is right. For allowing me to dream and soar as a kite, thank you for being my friend, mentor and light.",
+   "translate": ""
+  },
+  {
+   "id": "2011_tienganh_11",
+   "content": "I was lucky to have a teacher as wonderful as you are. Wishing you a Vietnamese Teachers' Day that's full of joyous moments!",
+   "translate": ""
+  },
+  {
+   "id": "2011_tienganh_12",
+   "content": "Dear teacher, thanks for supporting and enlightening all my way. Have a wonderful Vietnamese Teachers' Day!",
+   "translate": ""
+  },
+  {
+   "id": "2011_tienganh_13",
+   "content": "I am lucky to have a teacher like you. You are a fabulous guide. Happy Vietnamese Teachers' Day!",
+   "translate": ""
+  },
+  {
+   "id": "2011_tienganh_14",
+   "content": "We will always be thankful to you For all the hard work and efforts You have put in, for educating us. Happy Teachers Day!",
+   "translate": ""
+  },
+  {
+   "id": "2011_tienganh_15",
+   "content": "Ai đó bảo người hay cười một cách vô cớ hoặc không có gì để cười mà vẫn cười là người đó đang cô đơn.",
+   "translate": ""
+  },
+  {
+   "id": "2011_tienganh_16",
+   "content": "Happy Vietnamese Teachers' Day! Thank you for everything you have taught me.",
+   "translate": ""
+  },
+  {
+   "id": "2011_tienganh_17",
+   "content": "Wishing you a wonderful Teachers' Day filled with gratitude and joy.",
+   "translate": ""
+  },
+  {
+   "id": "2011_tienganh_18",
+   "content": "Happy Teachers' Day! You made learning something I actually looked forward to.",
+   "translate": ""
+  },
+  {
+   "id": "2011_tienganh_19",
+   "content": "To my dear teacher: happy Teachers' Day. Your lessons stayed with me far beyond the classroom.",
+   "translate": ""
+  },
+  {
+   "id": "2011_tienganh_20",
+   "content": "Happy Teachers' Day! May you always be appreciated as much as you deserve.",
+   "translate": ""
+  },
+  {
+   "id": "2011_tienganh_21",
+   "content": "Wishing you good health, happiness and many more wonderful years of teaching.",
+   "translate": ""
+  },
+  {
+   "id": "2011_tienganh_22",
+   "content": "Happy Teachers' Day! Thank you for your patience when I needed it most.",
+   "translate": ""
+  },
+  {
+   "id": "2011_tienganh_23",
+   "content": "May this Teachers' Day bring you all the respect and love you have earned.",
+   "translate": ""
+  },
+  {
+   "id": "2011_tienganh_24",
+   "content": "Happy Teachers' Day! You did not just teach me a subject, you taught me how to think.",
+   "translate": ""
+  },
+  {
+   "id": "2011_tienganh_25",
+   "content": "Wishing my favourite teacher a very happy and peaceful Teachers' Day.",
+   "translate": ""
+  },
+  {
+   "id": "2011_tienganh_26",
+   "content": "Happy Teachers' Day! Thank you for believing in me before I believed in myself.",
+   "translate": ""
+  },
+  {
+   "id": "2011_tienganh_27",
+   "content": "May your Teachers' Day be as bright as the futures you help build.",
+   "translate": ""
+  },
+  {
+   "id": "2011_tienganh_28",
+   "content": "Happy Teachers' Day! Your guidance changed the direction of my life.",
+   "translate": ""
+  },
+  {
+   "id": "2011_tienganh_29",
+   "content": "Wishing you joy, health and endless inspiration this Teachers' Day.",
+   "translate": ""
+  },
+  {
+   "id": "2011_tienganh_30",
+   "content": "Happy Teachers' Day! Thank you for every extra minute you gave us.",
+   "translate": ""
+  },
+  {
+   "id": "2011_tienganh_31",
+   "content": "To the teacher who never gave up on me: happy Teachers' Day.",
+   "translate": ""
+  },
+  {
+   "id": "2011_tienganh_32",
+   "content": "Happy Teachers' Day! May your classroom always be full of curious minds.",
+   "translate": ""
+  },
+  {
+   "id": "2011_tienganh_33",
+   "content": "Wishing you a restful and happy Teachers' Day. You have more than earned it.",
+   "translate": ""
+  },
+  {
+   "id": "2011_tienganh_34",
+   "content": "Happy Teachers' Day! Thank you for making difficult things feel possible.",
+   "translate": ""
+  },
+  {
+   "id": "2011_tienganh_35",
+   "content": "May this Teachers' Day remind you how many lives you have quietly shaped.",
+   "translate": ""
+  },
+  {
+   "id": "2011_tienganh_36",
+   "content": "Happy Teachers' Day! Your kindness taught me more than any textbook ever could.",
+   "translate": ""
+  },
+  {
+   "id": "2011_tienganh_37",
+   "content": "Wishing you happiness, good health and well-deserved recognition today.",
+   "translate": ""
+  },
+  {
+   "id": "2011_tienganh_38",
+   "content": "Happy Teachers' Day! Thank you for turning my mistakes into lessons.",
+   "translate": ""
+  },
+  {
+   "id": "2011_tienganh_39",
+   "content": "To a truly great teacher: happy Teachers' Day and thank you, always.",
+   "translate": ""
+  },
+  {
+   "id": "2011_tienganh_40",
+   "content": "Happy Teachers' Day! May the years ahead be as rewarding as the ones behind you.",
+   "translate": ""
+  }
+ ]
+}

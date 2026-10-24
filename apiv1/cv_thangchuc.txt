@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "cv_thangchuc_1",
+   "content": "Chúc mừng bạn đã thăng chức! Chúc bạn tiếp tục gặt hái thật nhiều thành công ở vị trí mới.",
+   "translate": ""
+  },
+  {
+   "id": "cv_thangchuc_2",
+   "content": "Chúc mừng anh/chị! Vị trí mới hoàn toàn xứng đáng với những nỗ lực bấy lâu.",
+   "translate": ""
+  },
+  {
+   "id": "cv_thangchuc_3",
+   "content": "Chúc mừng thăng chức! Chúc bạn luôn vững vàng và dẫn dắt đội ngũ thật tốt.",
+   "translate": ""
+  },
+  {
+   "id": "cv_thangchuc_4",
+   "content": "Chúc mừng bạn! Chúc bạn ở cương vị mới luôn sáng suốt và thành công.",
+   "translate": ""
+  },
+  {
+   "id": "cv_thangchuc_5",
+   "content": "Chúc mừng anh/chị đã lên chức! Chúc anh chị thật nhiều sức khỏe và thuận lợi.",
+   "translate": ""
+  },
+  {
+   "id": "cv_thangchuc_6",
+   "content": "Chúc mừng thăng chức! Đây là thành quả xứng đáng của bao nỗ lực, chúc bạn tiếp tục bứt phá.",
+   "translate": ""
+  },
+  {
+   "id": "cv_thangchuc_7",
+   "content": "Chúc mừng bạn! Chúc bạn ở vị trí mới gặp nhiều thuận lợi và ít áp lực.",
+   "translate": ""
+  },
+  {
+   "id": "cv_thangchuc_8",
+   "content": "Chúc mừng anh/chị! Chúc anh chị luôn là chỗ dựa vững chắc cho cả đội.",
+   "translate": ""
+  },
+  {
+   "id": "cv_thangchuc_9",
+   "content": "Chúc mừng thăng chức! Chúc bạn giữ mãi nhiệt huyết và tầm nhìn đáng ngưỡng mộ.",
+   "translate": ""
+  },
+  {
+   "id": "cv_thangchuc_10",
+   "content": "Chúc mừng bạn đã lên vị trí mới! Chúc bạn thành công nối tiếp thành công.",
+   "translate": ""
+  },
+  {
+   "id": "cv_thangchuc_11",
+   "content": "Chúc mừng anh/chị! Chúc anh chị ở cương vị mới luôn mạnh khỏe và sáng suốt.",
+   "translate": ""
+  },
+  {
+   "id": "cv_thangchuc_12",
+   "content": "Chúc mừng thăng chức! Chúc bạn tiếp tục chinh phục những cột mốc cao hơn nữa.",
+   "translate": ""
+  },
+  {
+   "id": "cv_thangchuc_13",
+   "content": "Chúc mừng bạn! Chúc bạn cân bằng được công việc và cuộc sống ở vị trí mới.",
+   "translate": ""
+  },
+  {
+   "id": "cv_thangchuc_14",
+   "content": "Chúc mừng anh/chị đã thăng chức! Chúc anh chị vạn sự hanh thông và thuận lợi.",
+   "translate": ""
+  },
+  {
+   "id": "cv_thangchuc_15",
+   "content": "Chúc mừng thăng chức! Chúc bạn luôn được đồng nghiệp tin tưởng và quý mến.",
+   "translate": ""
+  },
+  {
+   "id": "cv_thangchuc_16",
+   "content": "Chúc mừng bạn! Chúc bạn ở vị trí mới gặt hái thật nhiều thành quả đáng tự hào.",
+   "translate": ""
+  },
+  {
+   "id": "cv_thangchuc_17",
+   "content": "Chúc mừng anh/chị! Chúc anh chị sức khỏe dồi dào để đảm đương trọng trách mới.",
+   "translate": ""
+  },
+  {
+   "id": "cv_thangchuc_18",
+   "content": "Chúc mừng thăng chức! Chúc bạn dẫn dắt đội ngũ vượt qua mọi thử thách.",
+   "translate": ""
+  },
+  {
+   "id": "cv_thangchuc_19",
+   "content": "Chúc mừng bạn đã được thăng chức! Chúc bạn tiếp tục tỏa sáng ở chặng đường mới.",
+   "translate": ""
+  },
+  {
+   "id": "cv_thangchuc_20",
+   "content": "Chúc mừng anh/chị! Chúc anh chị luôn giữ được sự điềm tĩnh và bản lĩnh.",
+   "translate": ""
+  },
+  {
+   "id": "cv_thangchuc_21",
+   "content": "Chúc mừng thăng chức! Chúc bạn mọi quyết định đều mang lại quả ngọt.",
+   "translate": ""
+  },
+  {
+   "id": "cv_thangchuc_22",
+   "content": "Chúc mừng bạn! Chúc bạn ở vị trí mới luôn tự tin và luôn thành công.",
+   "translate": ""
+  },
+  {
+   "id": "cv_thangchuc_23",
+   "content": "Chúc mừng anh/chị đã lên chức! Chúc anh chị thêm nhiều thắng lợi mới.",
+   "translate": ""
+  },
+  {
+   "id": "cv_thangchuc_24",
+   "content": "Chúc mừng thăng chức! Chúc bạn giữ được sự tử tế và nhiệt tình như trước.",
+   "translate": ""
+  },
+  {
+   "id": "cv_thangchuc_25",
+   "content": "Chúc mừng bạn! Chúc bạn ở cương vị mới gặp nhiều quý nhân và cơ hội tốt.",
+   "translate": ""
+  },
+  {
+   "id": "cv_thangchuc_26",
+   "content": "Chúc mừng anh/chị! Chúc anh chị luôn vững tay chèo và đưa đội đi thật xa.",
+   "translate": ""
+  },
+  {
+   "id": "cv_thangchuc_27",
+   "content": "Chúc mừng thăng chức! Chúc bạn một chặng đường mới thật thuận lợi và rực rỡ.",
+   "translate": ""
+  },
+  {
+   "id": "cv_thangchuc_28",
+   "content": "Chúc mừng bạn đã thăng tiến! Chúc bạn mọi mục tiêu đều cán đích.",
+   "translate": ""
+  },
+  {
+   "id": "cv_thangchuc_29",
+   "content": "Chúc mừng anh/chị! Chúc anh chị ở vị trí mới luôn bình an và hanh thông.",
+   "translate": ""
+  },
+  {
+   "id": "cv_thangchuc_30",
+   "content": "Chúc mừng thăng chức! Chúc bạn giữ mãi ngọn lửa nghề đáng quý ấy.",
+   "translate": ""
+  },
+  {
+   "id": "cv_thangchuc_31",
+   "content": "Chúc mừng bạn! Chúc bạn thành công hơn nữa và hạnh phúc hơn nữa.",
+   "translate": ""
+  },
+  {
+   "id": "cv_thangchuc_32",
+   "content": "Chúc mừng anh/chị đã lên vị trí mới! Chúc anh chị thuận buồm xuôi gió.",
+   "translate": ""
+  },
+  {
+   "id": "cv_thangchuc_33",
+   "content": "Chúc mừng thăng chức! Chúc bạn luôn sáng suốt và luôn được ủng hộ.",
+   "translate": ""
+  },
+  {
+   "id": "cv_thangchuc_34",
+   "content": "Chúc mừng bạn! Chúc bạn ở cương vị mới bớt áp lực và nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "cv_thangchuc_35",
+   "content": "Chúc mừng anh/chị! Chúc anh chị tiếp tục là tấm gương cho chúng em noi theo.",
+   "translate": ""
+  },
+  {
+   "id": "cv_thangchuc_36",
+   "content": "Chúc mừng thăng chức! Chúc bạn gặt hái trọn vẹn những gì đã gieo trồng.",
+   "translate": ""
+  },
+  {
+   "id": "cv_thangchuc_37",
+   "content": "Chúc mừng bạn đã được cất nhắc! Chúc bạn thành công và viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "cv_thangchuc_38",
+   "content": "Chúc mừng anh/chị! Chúc anh chị sức khỏe, hạnh phúc và sự nghiệp thăng hoa.",
+   "translate": ""
+  },
+  {
+   "id": "cv_thangchuc_39",
+   "content": "Chúc mừng thăng chức! Chúc bạn một tương lai sự nghiệp thật rộng mở.",
+   "translate": ""
+  },
+  {
+   "id": "cv_thangchuc_40",
+   "content": "Chúc mừng bạn! Chúc bạn luôn giữ được sự khiêm tốn và cầu tiến đáng quý.",
+   "translate": ""
+  },
+  {
+   "id": "cv_thangchuc_41",
+   "content": "Chúc mừng anh/chị đã thăng chức! Chúc anh chị mọi sự như ý và thật nhiều may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "cv_thangchuc_42",
+   "content": "Chúc mừng thăng chức! Chúc bạn tiếp tục bay cao và bay xa hơn nữa.",
+   "translate": ""
+  }
+ ]
+}

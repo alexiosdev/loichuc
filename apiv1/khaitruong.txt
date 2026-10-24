@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "khaitruong_1",
+   "content": "Chúc mừng khai trương! Chúc anh chị buôn may bán đắt, làm ăn phát đạt, tiền vào như nước.",
+   "translate": ""
+  },
+  {
+   "id": "khaitruong_2",
+   "content": "Chúc mừng khai trương hồng phát! Chúc cửa hàng ngày càng đông khách và phát triển.",
+   "translate": ""
+  },
+  {
+   "id": "khaitruong_3",
+   "content": "Chúc mừng khai trương! Chúc anh chị mở hàng thuận lợi và kinh doanh ngày càng thịnh vượng.",
+   "translate": ""
+  },
+  {
+   "id": "khaitruong_4",
+   "content": "Mừng khai trương! Chúc anh chị một vốn bốn lời, khách hàng nườm nượp.",
+   "translate": ""
+  },
+  {
+   "id": "khaitruong_5",
+   "content": "Chúc mừng khai trương! Chúc công ty ngày càng lớn mạnh và vươn xa.",
+   "translate": ""
+  },
+  {
+   "id": "khaitruong_6",
+   "content": "Chúc mừng khai trương hồng phát! Chúc anh chị tài lộc dồi dào và vạn sự hanh thông.",
+   "translate": ""
+  },
+  {
+   "id": "khaitruong_7",
+   "content": "Mừng khai trương! Chúc cửa hàng của anh chị đông khách từ ngày đầu tiên.",
+   "translate": ""
+  },
+  {
+   "id": "khaitruong_8",
+   "content": "Chúc mừng khai trương! Chúc anh chị gặp nhiều quý nhân và làm ăn thuận buồm xuôi gió.",
+   "translate": ""
+  },
+  {
+   "id": "khaitruong_9",
+   "content": "Chúc mừng ngày khai trương! Chúc anh chị kinh doanh phát đạt, lợi nhuận tăng đều.",
+   "translate": ""
+  },
+  {
+   "id": "khaitruong_10",
+   "content": "Mừng khai trương hồng phát! Chúc anh chị vạn sự cát tường và tiền tài như nước.",
+   "translate": ""
+  },
+  {
+   "id": "khaitruong_11",
+   "content": "Chúc mừng khai trương! Chúc anh chị có một khởi đầu thật suôn sẻ và thành công.",
+   "translate": ""
+  },
+  {
+   "id": "khaitruong_12",
+   "content": "Chúc mừng khai trương! Chúc cửa hàng ngày càng nhiều khách quen và tiếng tăm vang xa.",
+   "translate": ""
+  },
+  {
+   "id": "khaitruong_13",
+   "content": "Mừng khai trương! Chúc anh chị làm ăn thuận lợi và mọi kế hoạch đều sinh lời.",
+   "translate": ""
+  },
+  {
+   "id": "khaitruong_14",
+   "content": "Chúc mừng khai trương hồng phát! Chúc anh chị buôn may bán đắt quanh năm.",
+   "translate": ""
+  },
+  {
+   "id": "khaitruong_15",
+   "content": "Chúc mừng ngày khai trương! Chúc công ty của anh chị phát triển bền vững.",
+   "translate": ""
+  },
+  {
+   "id": "khaitruong_16",
+   "content": "Mừng khai trương! Chúc anh chị tiền vào như nước sông Đà, tiền ra nhỏ giọt.",
+   "translate": ""
+  },
+  {
+   "id": "khaitruong_17",
+   "content": "Chúc mừng khai trương! Chúc anh chị mọi dự định kinh doanh đều thành hiện thực.",
+   "translate": ""
+  },
+  {
+   "id": "khaitruong_18",
+   "content": "Chúc mừng khai trương hồng phát! Chúc anh chị sức khỏe dồi dào và làm ăn phát đạt.",
+   "translate": ""
+  },
+  {
+   "id": "khaitruong_19",
+   "content": "Mừng khai trương! Chúc cửa hàng của anh chị luôn đắt khách và nhiều lộc.",
+   "translate": ""
+  },
+  {
+   "id": "khaitruong_20",
+   "content": "Chúc mừng khai trương! Chúc anh chị khởi nghiệp thành công và ngày càng vững mạnh.",
+   "translate": ""
+  },
+  {
+   "id": "khaitruong_21",
+   "content": "Chúc mừng ngày khai trương! Chúc anh chị gặt hái thật nhiều thành quả.",
+   "translate": ""
+  },
+  {
+   "id": "khaitruong_22",
+   "content": "Mừng khai trương hồng phát! Chúc anh chị thuận buồm xuôi gió và bội thu.",
+   "translate": ""
+  },
+  {
+   "id": "khaitruong_23",
+   "content": "Chúc mừng khai trương! Chúc anh chị đơn hàng nối tiếp đơn hàng, khách nối tiếp khách.",
+   "translate": ""
+  },
+  {
+   "id": "khaitruong_24",
+   "content": "Chúc mừng khai trương! Chúc công ty anh chị ngày càng khẳng định được vị thế.",
+   "translate": ""
+  },
+  {
+   "id": "khaitruong_25",
+   "content": "Mừng khai trương! Chúc anh chị làm ăn hanh thông và gia đạo bình an.",
+   "translate": ""
+  },
+  {
+   "id": "khaitruong_26",
+   "content": "Chúc mừng khai trương hồng phát! Chúc anh chị mở hàng gặp may, cả năm đều may.",
+   "translate": ""
+  },
+  {
+   "id": "khaitruong_27",
+   "content": "Chúc mừng ngày khai trương! Chúc anh chị kinh doanh khởi sắc và lợi nhuận dồi dào.",
+   "translate": ""
+  },
+  {
+   "id": "khaitruong_28",
+   "content": "Mừng khai trương! Chúc cửa hàng của anh chị luôn tấp nập và phát đạt.",
+   "translate": ""
+  },
+  {
+   "id": "khaitruong_29",
+   "content": "Chúc mừng khai trương! Chúc anh chị vạn sự như ý và tài lộc viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "khaitruong_30",
+   "content": "Chúc mừng khai trương hồng phát! Chúc anh chị gặp nhiều cơ hội tốt và nắm bắt được hết.",
+   "translate": ""
+  },
+  {
+   "id": "khaitruong_31",
+   "content": "Mừng khai trương! Chúc anh chị khách hàng tin yêu và đối tác tin cậy.",
+   "translate": ""
+  },
+  {
+   "id": "khaitruong_32",
+   "content": "Chúc mừng khai trương! Chúc anh chị một khởi đầu đẹp cho hành trình dài phía trước.",
+   "translate": ""
+  },
+  {
+   "id": "khaitruong_33",
+   "content": "Chúc mừng ngày khai trương! Chúc anh chị làm ăn ngày càng phát triển và mở rộng.",
+   "translate": ""
+  },
+  {
+   "id": "khaitruong_34",
+   "content": "Mừng khai trương hồng phát! Chúc anh chị tiền tài như nước, sức khỏe như xuân.",
+   "translate": ""
+  },
+  {
+   "id": "khaitruong_35",
+   "content": "Chúc mừng khai trương! Chúc anh chị buôn bán đắt hàng và luôn gặp may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "khaitruong_36",
+   "content": "Chúc mừng khai trương! Chúc công ty anh chị đội ngũ vững mạnh và doanh thu bứt phá.",
+   "translate": ""
+  },
+  {
+   "id": "khaitruong_37",
+   "content": "Mừng khai trương! Chúc anh chị mọi điều tốt lành và thật nhiều thắng lợi.",
+   "translate": ""
+  },
+  {
+   "id": "khaitruong_38",
+   "content": "Chúc mừng khai trương hồng phát! Chúc anh chị an khang, thịnh vượng và phát tài.",
+   "translate": ""
+  },
+  {
+   "id": "khaitruong_39",
+   "content": "Chúc mừng ngày khai trương! Chúc anh chị kinh doanh thuận lợi và viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "khaitruong_40",
+   "content": "Mừng khai trương! Chúc cửa hàng của anh chị trở thành địa chỉ quen thuộc của mọi người.",
+   "translate": ""
+  },
+  {
+   "id": "khaitruong_41",
+   "content": "Chúc mừng khai trương! Chúc anh chị gặt hái bội thu ngay từ những ngày đầu.",
+   "translate": ""
+  },
+  {
+   "id": "khaitruong_42",
+   "content": "Chúc mừng khai trương hồng phát! Chúc anh chị làm ăn phát đạt và cuộc sống sung túc.",
+   "translate": ""
+  }
+ ]
+}

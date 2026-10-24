@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "embe_thoinoi_1",
+   "content": "Chúc mừng bé tròn một tuổi! Chúc bé hay ăn chóng lớn, khỏe mạnh và thật nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "embe_thoinoi_2",
+   "content": "Mừng thôi nôi bé yêu! Chúc bé ngoan ngoãn, thông minh và luôn tươi cười.",
+   "translate": ""
+  },
+  {
+   "id": "embe_thoinoi_3",
+   "content": "Chúc mừng thôi nôi! Chúc bé mau biết đi, biết nói và luôn khỏe mạnh.",
+   "translate": ""
+  },
+  {
+   "id": "embe_thoinoi_4",
+   "content": "Mừng bé một tuổi! Chúc bé bình an, hạnh phúc và lớn lên trong tình yêu thương.",
+   "translate": ""
+  },
+  {
+   "id": "embe_thoinoi_5",
+   "content": "Chúc mừng thôi nôi bé! Chúc bé ít ốm vặt và luôn tràn đầy năng lượng.",
+   "translate": ""
+  },
+  {
+   "id": "embe_thoinoi_6",
+   "content": "Mừng thôi nôi! Chúc bé lớn lên thật ngoan, thật giỏi và thật khỏe.",
+   "translate": ""
+  },
+  {
+   "id": "embe_thoinoi_7",
+   "content": "Chúc mừng bé tròn một tuổi! Chúc bé bốc được món đồ mang lại tương lai tươi sáng.",
+   "translate": ""
+  },
+  {
+   "id": "embe_thoinoi_8",
+   "content": "Mừng thôi nôi bé yêu! Chúc bé luôn vui vẻ và mang nhiều tiếng cười cho cả nhà.",
+   "translate": ""
+  },
+  {
+   "id": "embe_thoinoi_9",
+   "content": "Chúc mừng thôi nôi! Chúc bé ăn ngon ngủ ngon và lớn nhanh từng ngày.",
+   "translate": ""
+  },
+  {
+   "id": "embe_thoinoi_10",
+   "content": "Mừng bé một tuổi! Chúc bé khỏe mạnh, đáng yêu và luôn được che chở.",
+   "translate": ""
+  },
+  {
+   "id": "embe_thoinoi_11",
+   "content": "Chúc mừng thôi nôi bé! Chúc bé có một tuổi thơ thật đẹp và thật hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "embe_thoinoi_12",
+   "content": "Mừng thôi nôi! Chúc bé thông minh, lanh lợi và luôn ngoan ngoãn.",
+   "translate": ""
+  },
+  {
+   "id": "embe_thoinoi_13",
+   "content": "Chúc mừng bé tròn một tuổi! Chúc cả nhà thật nhiều sức khỏe và niềm vui bên bé.",
+   "translate": ""
+  },
+  {
+   "id": "embe_thoinoi_14",
+   "content": "Mừng thôi nôi bé yêu! Chúc bé mang thật nhiều may mắn đến cho gia đình.",
+   "translate": ""
+  },
+  {
+   "id": "embe_thoinoi_15",
+   "content": "Chúc mừng thôi nôi! Chúc bé bước những bước đầu tiên thật vững vàng.",
+   "translate": ""
+  },
+  {
+   "id": "embe_thoinoi_16",
+   "content": "Mừng bé một tuổi! Chúc bé luôn bình an và luôn khỏe mạnh.",
+   "translate": ""
+  },
+  {
+   "id": "embe_thoinoi_17",
+   "content": "Chúc mừng thôi nôi bé! Chúc bé lớn lên thật tử tế và thật hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "embe_thoinoi_18",
+   "content": "Mừng thôi nôi! Chúc bé hay ăn chóng lớn và làm bố mẹ tự hào.",
+   "translate": ""
+  },
+  {
+   "id": "embe_thoinoi_19",
+   "content": "Chúc mừng bé tròn một tuổi! Chúc bé có thật nhiều điều tốt đẹp phía trước.",
+   "translate": ""
+  },
+  {
+   "id": "embe_thoinoi_20",
+   "content": "Mừng thôi nôi bé yêu! Chúc bé luôn tươi cười và luôn được yêu quý.",
+   "translate": ""
+  },
+  {
+   "id": "embe_thoinoi_21",
+   "content": "Chúc mừng thôi nôi! Chúc bé khỏe mạnh, vui vẻ và lớn lên trong yêu thương.",
+   "translate": ""
+  },
+  {
+   "id": "embe_thoinoi_22",
+   "content": "Mừng bé một tuổi! Chúc bé mau lớn, mau khôn và luôn ngoan.",
+   "translate": ""
+  },
+  {
+   "id": "embe_thoinoi_23",
+   "content": "Chúc mừng thôi nôi bé! Chúc gia đình nhỏ luôn ấm áp và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "embe_thoinoi_24",
+   "content": "Mừng thôi nôi! Chúc bé ngủ ngoan, chơi khỏe và cười thật nhiều.",
+   "translate": ""
+  },
+  {
+   "id": "embe_thoinoi_25",
+   "content": "Chúc mừng bé tròn một tuổi! Chúc bé luôn được bao bọc trong tình yêu của cả nhà.",
+   "translate": ""
+  },
+  {
+   "id": "embe_thoinoi_26",
+   "content": "Mừng thôi nôi bé yêu! Chúc bé có một hành trình lớn khôn thật suôn sẻ.",
+   "translate": ""
+  },
+  {
+   "id": "embe_thoinoi_27",
+   "content": "Chúc mừng thôi nôi! Chúc bé thông minh, khỏe mạnh và luôn hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "embe_thoinoi_28",
+   "content": "Mừng bé một tuổi! Chúc bé ít bệnh tật và luôn tràn đầy sức sống.",
+   "translate": ""
+  },
+  {
+   "id": "embe_thoinoi_29",
+   "content": "Chúc mừng thôi nôi bé! Chúc bé lớn lên thành một người thật tốt.",
+   "translate": ""
+  },
+  {
+   "id": "embe_thoinoi_30",
+   "content": "Mừng thôi nôi! Chúc bé luôn vui, luôn khỏe và luôn ngoan ngoãn.",
+   "translate": ""
+  },
+  {
+   "id": "embe_thoinoi_31",
+   "content": "Chúc mừng bé tròn một tuổi! Chúc bé mang nhiều niềm vui cho ông bà bố mẹ.",
+   "translate": ""
+  },
+  {
+   "id": "embe_thoinoi_32",
+   "content": "Mừng thôi nôi bé yêu! Chúc bé bình an, khỏe mạnh và đáng yêu mỗi ngày.",
+   "translate": ""
+  },
+  {
+   "id": "embe_thoinoi_33",
+   "content": "Chúc mừng thôi nôi! Chúc bé lớn lên thật nhanh và thật khỏe.",
+   "translate": ""
+  },
+  {
+   "id": "embe_thoinoi_34",
+   "content": "Mừng bé một tuổi! Chúc bé luôn được yêu thương và luôn hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "embe_thoinoi_35",
+   "content": "Chúc mừng thôi nôi bé! Chúc bé có một năm tuổi mới thật nhiều điều thú vị.",
+   "translate": ""
+  },
+  {
+   "id": "embe_thoinoi_36",
+   "content": "Mừng thôi nôi! Chúc bé ăn khỏe, chơi ngoan và học hỏi thật nhanh.",
+   "translate": ""
+  },
+  {
+   "id": "embe_thoinoi_37",
+   "content": "Chúc mừng bé tròn một tuổi! Chúc bé khỏe mạnh và cả nhà luôn vui vẻ.",
+   "translate": ""
+  },
+  {
+   "id": "embe_thoinoi_38",
+   "content": "Mừng thôi nôi bé yêu! Chúc bé lớn lên thật giỏi giang và thật hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "embe_thoinoi_39",
+   "content": "Chúc mừng thôi nôi! Chúc bé mang thật nhiều lộc đến cho gia đình.",
+   "translate": ""
+  },
+  {
+   "id": "embe_thoinoi_40",
+   "content": "Mừng bé một tuổi! Chúc bé luôn bình an trong vòng tay bố mẹ.",
+   "translate": ""
+  },
+  {
+   "id": "embe_thoinoi_41",
+   "content": "Chúc mừng thôi nôi bé! Chúc bé có một tương lai thật tươi sáng.",
+   "translate": ""
+  },
+  {
+   "id": "embe_thoinoi_42",
+   "content": "Mừng thôi nôi! Chúc bé khỏe mạnh, ngoan ngoãn và luôn tràn đầy niềm vui.",
+   "translate": ""
+  }
+ ]
+}

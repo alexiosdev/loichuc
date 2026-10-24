@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "2011_mamnon_1",
+   "content": "Nhân ngày 20/11, gia đình kính chúc cô giáo mầm non luôn mạnh khỏe, vui vẻ và tràn đầy năng lượng.",
+   "translate": ""
+  },
+  {
+   "id": "2011_mamnon_2",
+   "content": "Chúc mừng ngày Nhà giáo Việt Nam! Cảm ơn cô đã chăm sóc con em chúng tôi như chính con mình.",
+   "translate": ""
+  },
+  {
+   "id": "2011_mamnon_3",
+   "content": "Kính chúc cô ngày 20/11 thật nhiều sức khỏe để tiếp tục yêu thương những thiên thần nhỏ.",
+   "translate": ""
+  },
+  {
+   "id": "2011_mamnon_4",
+   "content": "Nhân ngày 20/11, chúng tôi xin gửi tới cô lòng biết ơn vì sự kiên nhẫn và dịu dàng của cô.",
+   "translate": ""
+  },
+  {
+   "id": "2011_mamnon_5",
+   "content": "Chúc mừng 20/11! Kính chúc cô giáo mầm non luôn tươi trẻ, vui vẻ và được các bé yêu quý.",
+   "translate": ""
+  },
+  {
+   "id": "2011_mamnon_6",
+   "content": "Kính chúc cô một ngày Nhà giáo Việt Nam thật ấm áp bên các con và gia đình.",
+   "translate": ""
+  },
+  {
+   "id": "2011_mamnon_7",
+   "content": "Nhân ngày 20/11, chúc cô luôn giữ được nụ cười mà các bé ngày nào cũng mong được thấy.",
+   "translate": ""
+  },
+  {
+   "id": "2011_mamnon_8",
+   "content": "Chúc mừng ngày 20/11! Cảm ơn cô vì những bữa ăn, giấc ngủ và từng bước đi đầu đời của con.",
+   "translate": ""
+  },
+  {
+   "id": "2011_mamnon_9",
+   "content": "Kính chúc cô ngày 20/11 vạn sự như ý, gia đình hạnh phúc, công việc thuận lợi.",
+   "translate": ""
+  },
+  {
+   "id": "2011_mamnon_10",
+   "content": "Nhân ngày Nhà giáo Việt Nam, kính chúc cô sức khỏe dồi dào và tâm hồn luôn thư thái.",
+   "translate": ""
+  },
+  {
+   "id": "2011_mamnon_11",
+   "content": "Chúc mừng 20/11! Chúc cô luôn khỏe để còn dỗ dành và dạy dỗ bao thế hệ các bé.",
+   "translate": ""
+  },
+  {
+   "id": "2011_mamnon_12",
+   "content": "Kính chúc cô một ngày 20/11 trọn vẹn và một năm thật nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "2011_mamnon_13",
+   "content": "Nhân ngày 20/11, chúc cô bớt vất vả và có nhiều thời gian nghỉ ngơi hơn.",
+   "translate": ""
+  },
+  {
+   "id": "2011_mamnon_14",
+   "content": "Chúc mừng ngày Nhà giáo Việt Nam! Kính chúc cô bình an, hạnh phúc và viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "2011_mamnon_15",
+   "content": "Kính chúc cô ngày 20/11 nhận được thật nhiều yêu thương từ các bé và phụ huynh.",
+   "translate": ""
+  },
+  {
+   "id": "2011_mamnon_16",
+   "content": "Nhân ngày 20/11, chúc cô luôn mạnh khỏe và luôn giữ được tình yêu với nghề.",
+   "translate": ""
+  },
+  {
+   "id": "2011_mamnon_17",
+   "content": "Chúc mừng 20/11! Kính chúc cô mọi điều tốt đẹp nhất sẽ luôn đến với cô.",
+   "translate": ""
+  },
+  {
+   "id": "2011_mamnon_18",
+   "content": "Kính chúc cô một ngày Nhà giáo Việt Nam thật vui và thật đáng nhớ.",
+   "translate": ""
+  },
+  {
+   "id": "2011_mamnon_19",
+   "content": "Nhân ngày 20/11, chúc cô gia đình thuận hòa, sức khỏe bền bỉ, cuộc sống đủ đầy.",
+   "translate": ""
+  },
+  {
+   "id": "2011_mamnon_20",
+   "content": "Chúc mừng ngày 20/11! Nhờ có cô mà con tôi mỗi sáng đều háo hức đến lớp.",
+   "translate": ""
+  },
+  {
+   "id": "2011_mamnon_21",
+   "content": "Kính chúc cô ngày 20/11 an lành, sung túc và ngập tràn niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "2011_mamnon_22",
+   "content": "Nhân ngày Nhà giáo Việt Nam, chúc cô giáo mầm non luôn hạnh phúc và an nhiên.",
+   "translate": ""
+  },
+  {
+   "id": "2011_mamnon_23",
+   "content": "Chúc mừng 20/11! Kính chúc cô sức khỏe dẻo dai và tinh thần luôn phơi phới.",
+   "translate": ""
+  },
+  {
+   "id": "2011_mamnon_24",
+   "content": "Kính chúc cô một ngày 20/11 thật đặc biệt, xứng đáng với tất cả sự tận tụy của cô.",
+   "translate": ""
+  },
+  {
+   "id": "2011_mamnon_25",
+   "content": "Nhân ngày 20/11, chúc cô thân tâm an lạc và phúc lộc đầy nhà.",
+   "translate": ""
+  },
+  {
+   "id": "2011_mamnon_26",
+   "content": "Chúc mừng ngày Nhà giáo Việt Nam! Chúc cô luôn được các bé nhớ tới với tình cảm trong trẻo nhất.",
+   "translate": ""
+  },
+  {
+   "id": "2011_mamnon_27",
+   "content": "Kính chúc cô ngày 20/11 thật nhiều sức khỏe và thật nhiều tiếng cười.",
+   "translate": ""
+  },
+  {
+   "id": "2011_mamnon_28",
+   "content": "Nhân ngày 20/11, kính chúc cô sự nghiệp vững vàng và cuộc sống viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "2011_mamnon_29",
+   "content": "Chúc mừng 20/11! Chúc cô mãi là cô giáo mà các bé yêu quý nhất.",
+   "translate": ""
+  },
+  {
+   "id": "2011_mamnon_30",
+   "content": "Kính chúc cô một ngày Nhà giáo Việt Nam thật trọn vẹn và ý nghĩa.",
+   "translate": ""
+  },
+  {
+   "id": "2011_mamnon_31",
+   "content": "Nhân ngày 20/11, chúc cô luôn khỏe mạnh để tiếp tục công việc đầy yêu thương này.",
+   "translate": ""
+  },
+  {
+   "id": "2011_mamnon_32",
+   "content": "Chúc mừng ngày 20/11! Kính chúc cô an khang, hạnh phúc và thật nhiều may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "2011_mamnon_33",
+   "content": "Kính chúc cô ngày 20/11 tràn ngập hoa tươi và những lời cảm ơn chân thành.",
+   "translate": ""
+  },
+  {
+   "id": "2011_mamnon_34",
+   "content": "Nhân ngày Nhà giáo Việt Nam, chúc cô luôn giữ được sự dịu dàng đáng quý ấy.",
+   "translate": ""
+  },
+  {
+   "id": "2011_mamnon_35",
+   "content": "Chúc mừng 20/11! Kính chúc cô sức khỏe như ý và gia đình êm ấm.",
+   "translate": ""
+  },
+  {
+   "id": "2011_mamnon_36",
+   "content": "Kính chúc cô một ngày 20/11 nhẹ nhàng, thảnh thơi và thật nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "2011_mamnon_37",
+   "content": "Nhân ngày 20/11, chúc cô mãi khỏe, mãi vui và mãi được các bé yêu thương.",
+   "translate": ""
+  },
+  {
+   "id": "2011_mamnon_38",
+   "content": "Chúc mừng ngày Nhà giáo Việt Nam! Cảm ơn cô vì đã kiên nhẫn với những ngày con tôi quấy khóc.",
+   "translate": ""
+  },
+  {
+   "id": "2011_mamnon_39",
+   "content": "Kính chúc cô ngày 20/11 bình an, viên mãn và tràn đầy hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "2011_mamnon_40",
+   "content": "Nhân ngày 20/11, kính chúc cô vạn sự cát tường và mọi điều hanh thông.",
+   "translate": ""
+  },
+  {
+   "id": "2011_mamnon_41",
+   "content": "Chúc mừng 20/11! Chúc cô một ngày thật vui và một đời thật an yên.",
+   "translate": ""
+  },
+  {
+   "id": "2011_mamnon_42",
+   "content": "Kính chúc cô ngày Nhà giáo Việt Nam thật nhiều sức khỏe, niềm vui và hạnh phúc.",
+   "translate": ""
+  }
+ ]
+}

@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "xinloi_banbe_1",
+   "content": "Mình xin lỗi cậu. Mình biết mình đã sai và mình thật sự hối hận.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_banbe_2",
+   "content": "Xin lỗi vì đã làm cậu buồn. Mình không cố ý đâu.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_banbe_3",
+   "content": "Mình xin lỗi vì đã nói những lời khó nghe hôm đó.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_banbe_4",
+   "content": "Xin lỗi cậu, mình đã suy nghĩ lại và nhận ra mình sai.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_banbe_5",
+   "content": "Mình xin lỗi vì đã không giữ lời hứa với cậu.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_banbe_6",
+   "content": "Xin lỗi vì đã để cậu phải chờ đợi. Mình thật sự có lỗi.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_banbe_7",
+   "content": "Mình xin lỗi cậu. Mình không muốn mất một người bạn như cậu.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_banbe_8",
+   "content": "Xin lỗi vì đã vô tâm với cậu trong lúc cậu cần.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_banbe_9",
+   "content": "Mình xin lỗi vì đã hiểu lầm cậu. Mình nên hỏi cậu trước mới phải.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_banbe_10",
+   "content": "Xin lỗi cậu, mình đã quá nóng nảy và nói những điều không nên nói.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_banbe_11",
+   "content": "Mình xin lỗi vì đã không ở bên cậu khi cậu khó khăn.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_banbe_12",
+   "content": "Xin lỗi vì mình đã làm cậu thất vọng.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_banbe_13",
+   "content": "Mình xin lỗi cậu. Mong cậu cho mình một cơ hội để sửa.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_banbe_14",
+   "content": "Xin lỗi vì đã nói chuyện của cậu với người khác. Mình thật sự sai.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_banbe_15",
+   "content": "Mình xin lỗi vì đã quên mất chuyện quan trọng với cậu.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_banbe_16",
+   "content": "Xin lỗi cậu, mình biết mình cần phải cố gắng hơn trong tình bạn này.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_banbe_17",
+   "content": "Mình xin lỗi vì đã để chuyện nhỏ làm rạn nứt tình bạn của chúng ta.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_banbe_18",
+   "content": "Xin lỗi vì mình đã ích kỷ chỉ nghĩ đến bản thân.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_banbe_19",
+   "content": "Mình xin lỗi cậu thật lòng. Mong cậu đừng giận mình nữa.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_banbe_20",
+   "content": "Xin lỗi vì đã không lắng nghe cậu đủ nhiều.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_banbe_21",
+   "content": "Mình xin lỗi vì đã làm tổn thương cậu, dù vô tình hay cố ý.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_banbe_22",
+   "content": "Xin lỗi cậu, mình đã sai và mình sẵn sàng nhận lỗi.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_banbe_23",
+   "content": "Mình xin lỗi vì đã không tin cậu khi cậu cần người tin mình nhất.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_banbe_24",
+   "content": "Xin lỗi vì mình đã để im lặng kéo dài quá lâu.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_banbe_25",
+   "content": "Mình xin lỗi cậu. Tình bạn này quan trọng với mình hơn cái tôi của mình.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_banbe_26",
+   "content": "Xin lỗi vì đã không chia sẻ với cậu điều mà lẽ ra cậu nên biết.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_banbe_27",
+   "content": "Mình xin lỗi vì đã cư xử không đúng hôm ấy.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_banbe_28",
+   "content": "Xin lỗi cậu, mình biết lời xin lỗi là chưa đủ, nhưng mình thật lòng.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_banbe_29",
+   "content": "Mình xin lỗi vì đã để cậu phải thất vọng về mình.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_banbe_30",
+   "content": "Xin lỗi vì mình đã quá vô ý với cảm xúc của cậu.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_banbe_31",
+   "content": "Mình xin lỗi cậu. Chúng ta nói chuyện nhé, mình không muốn thế này mãi.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_banbe_32",
+   "content": "Xin lỗi vì đã không xin lỗi sớm hơn. Mình đã ngại và đã sai.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_banbe_33",
+   "content": "Mình xin lỗi vì đã làm hỏng kế hoạch của cậu.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_banbe_34",
+   "content": "Xin lỗi cậu, mình sẽ cố gắng để không lặp lại chuyện này.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_banbe_35",
+   "content": "Mình xin lỗi vì đã để cậu một mình trong lúc khó khăn.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_banbe_36",
+   "content": "Xin lỗi vì mình đã nói dối cậu. Mình thật sự hối hận.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_banbe_37",
+   "content": "Mình xin lỗi cậu. Mong chúng ta vẫn là bạn như trước.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_banbe_38",
+   "content": "Xin lỗi vì đã không đứng về phía cậu khi lẽ ra mình nên làm vậy.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_banbe_39",
+   "content": "Mình xin lỗi vì đã vô tình làm cậu khó xử.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_banbe_40",
+   "content": "Xin lỗi cậu, mình biết mình đã sai ở đâu và mình sẽ sửa.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_banbe_41",
+   "content": "Mình xin lỗi vì đã để cái tôi của mình lớn hơn tình bạn này.",
+   "translate": ""
+  },
+  {
+   "id": "xinloi_banbe_42",
+   "content": "Xin lỗi cậu thật lòng. Mong cậu bỏ qua cho mình lần này nhé.",
+   "translate": ""
+  }
+ ]
+}

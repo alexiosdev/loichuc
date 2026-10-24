@@ -1,0 +1,209 @@
+{
+ "result": [
+  {
+   "id": "cuoi_dongnghiep_1",
+   "content": "Chúc mừng hạnh phúc! Chúc bạn và người ấy trăm năm hạnh phúc, bách niên giai lão.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_dongnghiep_2",
+   "content": "Chúc mừng đám cưới! Chúc hai bạn một cuộc hôn nhân viên mãn và thật nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_dongnghiep_3",
+   "content": "Nhân ngày vui của bạn, cả phòng xin chúc hai bạn trăm năm hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_dongnghiep_4",
+   "content": "Chúc mừng ngày trọng đại! Chúc bạn và người ấy mãi yêu thương và thấu hiểu nhau.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_dongnghiep_5",
+   "content": "Chúc mừng hạnh phúc! Chúc hai bạn xây dựng được một tổ ấm thật đẹp.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_dongnghiep_6",
+   "content": "Chúc mừng đám cưới! Chúc bạn một cuộc sống gia đình êm ấm và sự nghiệp hanh thông.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_dongnghiep_7",
+   "content": "Nhân ngày cưới, chúc hai bạn thuận vợ thuận chồng và luôn hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_dongnghiep_8",
+   "content": "Chúc mừng ngày vui! Chúc bạn và người ấy sớm sinh quý tử và luôn vui vẻ.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_dongnghiep_9",
+   "content": "Chúc mừng đám cưới! Cả team xin chúc bạn trăm năm hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_dongnghiep_10",
+   "content": "Nhân ngày trọng đại, chúc hai bạn cùng nhau vượt qua mọi thăng trầm.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_dongnghiep_11",
+   "content": "Chúc mừng ngày vui của bạn! Chúc hai bạn luôn khỏe mạnh và luôn yêu thương nhau.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_dongnghiep_12",
+   "content": "Chúc mừng hạnh phúc! Chúc bạn một hôn nhân bền chặt và một gia đình ấm áp.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_dongnghiep_13",
+   "content": "Chúc mừng đám cưới! Chúc hai bạn mọi điều tốt đẹp nhất trong chặng đường mới.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_dongnghiep_14",
+   "content": "Nhân ngày cưới, chúc bạn và người ấy trọn đời bình an và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_dongnghiep_15",
+   "content": "Chúc mừng ngày vui! Chúc hai bạn mãi nắm tay nhau đi hết chặng đường dài.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_dongnghiep_16",
+   "content": "Chúc mừng hạnh phúc! Chúc bạn cân bằng được gia đình và công việc thật tốt.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_dongnghiep_17",
+   "content": "Chúc mừng đám cưới! Chúc hai bạn một cuộc sống chung đầy tiếng cười.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_dongnghiep_18",
+   "content": "Nhân ngày trọng đại, cả phòng chúc hai bạn hạnh phúc trọn đời.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_dongnghiep_19",
+   "content": "Chúc mừng ngày vui của bạn! Chúc hai bạn luôn là chỗ dựa cho nhau.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_dongnghiep_20",
+   "content": "Chúc mừng hạnh phúc! Chúc bạn và người ấy con đàn cháu đống, gia đạo hưng long.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_dongnghiep_21",
+   "content": "Chúc mừng đám cưới! Chúc hai bạn một khởi đầu thật đẹp cho chặng đường dài.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_dongnghiep_22",
+   "content": "Nhân ngày cưới, chúc bạn luôn được yêu thương và che chở.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_dongnghiep_23",
+   "content": "Chúc mừng ngày vui! Chúc hai bạn mãi giữ được sự dịu dàng dành cho nhau.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_dongnghiep_24",
+   "content": "Chúc mừng hạnh phúc! Chúc bạn một tổ ấm thật ấm và một tương lai thật sáng.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_dongnghiep_25",
+   "content": "Chúc mừng đám cưới! Chúc hai bạn kiên nhẫn, bao dung và luôn thương nhau.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_dongnghiep_26",
+   "content": "Nhân ngày trọng đại, chúc hai bạn trăm năm hạnh phúc, đầu bạc răng long.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_dongnghiep_27",
+   "content": "Chúc mừng ngày vui của bạn! Chúc hai bạn sống vui, sống khỏe và sống bên nhau thật lâu.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_dongnghiep_28",
+   "content": "Chúc mừng hạnh phúc! Chúc bạn và người ấy luôn chọn nhau mỗi ngày.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_dongnghiep_29",
+   "content": "Chúc mừng đám cưới! Chúc hai bạn một hôn nhân viên mãn và thật nhiều may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_dongnghiep_30",
+   "content": "Nhân ngày cưới, chúc bạn một gia đình nhỏ đầy ắp yêu thương.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_dongnghiep_31",
+   "content": "Chúc mừng ngày vui! Chúc hai bạn mọi dự định chung đều thành hiện thực.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_dongnghiep_32",
+   "content": "Chúc mừng hạnh phúc! Chúc bạn luôn mỉm cười như trong ngày cưới hôm nay.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_dongnghiep_33",
+   "content": "Chúc mừng đám cưới! Chúc hai bạn thuận hòa, êm ấm và luôn hiểu nhau.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_dongnghiep_34",
+   "content": "Nhân ngày trọng đại, chúc hai bạn hạnh phúc hơn cả những gì từng mơ ước.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_dongnghiep_35",
+   "content": "Chúc mừng ngày vui của bạn! Chúc hai bạn một chặng đường chung thật đáng nhớ.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_dongnghiep_36",
+   "content": "Chúc mừng hạnh phúc! Chúc bạn và người ấy luôn khỏe mạnh và viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_dongnghiep_37",
+   "content": "Chúc mừng đám cưới! Chúc hai bạn một cuộc sống vợ chồng thật nhẹ nhàng.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_dongnghiep_38",
+   "content": "Nhân ngày cưới, chúc bạn trăm năm hạnh phúc và sự nghiệp thăng hoa.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_dongnghiep_39",
+   "content": "Chúc mừng ngày vui! Chúc hai bạn mãi yêu thương nhau như ngày đầu.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_dongnghiep_40",
+   "content": "Chúc mừng hạnh phúc! Chúc bạn một mái ấm bình yên để trở về mỗi ngày.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_dongnghiep_41",
+   "content": "Chúc mừng đám cưới! Cả công ty xin chúc hai bạn trăm năm hạnh phúc.",
+   "translate": ""
+  }
+ ]
+}

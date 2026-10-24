@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "sinhnhat_con_1",
+   "content": "Chúc mừng sinh nhật con yêu! Bố mẹ chúc con một tuổi mới khỏe mạnh, ngoan ngoãn và thật nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_con_2",
+   "content": "Sinh nhật con, mẹ chúc con hay ăn chóng lớn, học giỏi và luôn tươi cười như hôm nay.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_con_3",
+   "content": "Chúc mừng sinh nhật con! Con là món quà quý giá nhất mà bố mẹ từng nhận được.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_con_4",
+   "content": "Happy birthday con yêu! Chúc con tuổi mới cao thêm, giỏi thêm và ngoan thêm thật nhiều.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_con_5",
+   "content": "Chúc mừng sinh nhật con gái/con trai của bố mẹ! Chúc con luôn khỏe mạnh và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_con_6",
+   "content": "Sinh nhật vui vẻ con nhé! Bố mẹ chúc con tuổi mới tự tin hơn, mạnh dạn hơn và vẫn ngọt ngào như thế.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_con_7",
+   "content": "Chúc mừng sinh nhật con! Mong con lớn lên thật khỏe mạnh, thật tử tế và thật hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_con_8",
+   "content": "Happy birthday con! Bố mẹ chúc con tuổi mới học hành tấn tới, bạn bè yêu quý, thầy cô khen ngợi.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_con_9",
+   "content": "Chúc mừng sinh nhật con yêu! Dù con bao nhiêu tuổi, con vẫn luôn là em bé của bố mẹ.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_con_10",
+   "content": "Sinh nhật con, bố chúc con tuổi mới dũng cảm theo đuổi điều con thích và đủ may mắn để đạt được.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_con_11",
+   "content": "Chúc mừng sinh nhật con! Mẹ chúc con một tuổi mới đầy ắp tiếng cười và những điều kỳ diệu.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_con_12",
+   "content": "Happy birthday con yêu! Chúc con tuổi mới khỏe mạnh, ít ốm vặt và luôn tràn đầy năng lượng.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_con_13",
+   "content": "Chúc mừng sinh nhật con! Bố mẹ tự hào vì con mỗi ngày, chúc con tuổi mới thật rực rỡ.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_con_14",
+   "content": "Sinh nhật vui vẻ con! Chúc con tuổi mới giữ được sự hồn nhiên và lòng tốt đáng quý của mình.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_con_15",
+   "content": "Chúc mừng sinh nhật con yêu! Mong mọi điều con ước trong lúc thổi nến đều thành sự thật.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_con_16",
+   "content": "Happy birthday con! Bố mẹ chúc con một tuổi mới bình an, vui vẻ và luôn được yêu thương.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_con_17",
+   "content": "Chúc mừng sinh nhật con! Chúc con tuổi mới trưởng thành hơn nhưng đừng vội lớn quá nhanh nhé.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_con_18",
+   "content": "Sinh nhật con, mẹ chúc con luôn khỏe mạnh để chạy nhảy, khám phá và học thật nhiều điều hay.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_con_19",
+   "content": "Chúc mừng sinh nhật con yêu! Chúc con tuổi mới có thêm nhiều bạn tốt và nhiều kỷ niệm đẹp.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_con_20",
+   "content": "Happy birthday con! Chúc con tuổi mới đạt được mục tiêu của mình và vui với hành trình ấy.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_con_21",
+   "content": "Chúc mừng sinh nhật con! Bố mẹ chúc con mãi giữ được nụ cười sáng bừng này.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_con_22",
+   "content": "Sinh nhật vui vẻ con nhé! Chúc con tuổi mới mạnh khỏe, thông minh và luôn hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_con_23",
+   "content": "Chúc mừng sinh nhật con yêu! Cảm ơn con vì đã đến bên bố mẹ và làm cuộc sống này đáng sống hơn.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_con_24",
+   "content": "Happy birthday con! Chúc con tuổi mới tự lập hơn, tự tin hơn và vẫn luôn biết đường về nhà.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_con_25",
+   "content": "Chúc mừng sinh nhật con! Mong con lớn lên thành một người hạnh phúc, đó là điều bố mẹ mong nhất.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_con_26",
+   "content": "Sinh nhật con, bố mẹ chúc con tuổi mới nhiều sức khỏe, nhiều niềm vui và nhiều điểm mười.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_con_27",
+   "content": "Chúc mừng sinh nhật con yêu! Chúc con tuổi mới không sợ sai, không ngại thử và luôn dám mơ.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_con_28",
+   "content": "Happy birthday con! Chúc con một tuổi mới đáng nhớ bên gia đình và bạn bè.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_con_29",
+   "content": "Chúc mừng sinh nhật con! Bố mẹ chúc con tuổi mới khỏe mạnh, ngoan ngoãn và học thật giỏi.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_con_30",
+   "content": "Sinh nhật vui vẻ con! Chúc con tuổi mới luôn vui, luôn được che chở và luôn an toàn.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_con_31",
+   "content": "Chúc mừng sinh nhật con yêu! Mong tuổi mới mang đến cho con thật nhiều điều thú vị.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_con_32",
+   "content": "Happy birthday con! Chúc con tuổi mới mạnh mẽ, kiên cường và vẫn dịu dàng như con vốn có.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_con_33",
+   "content": "Chúc mừng sinh nhật con! Chúc con tuổi mới biết thêm nhiều điều, đi thêm nhiều nơi, gặp thêm nhiều người tốt.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_con_34",
+   "content": "Sinh nhật con, mẹ chúc con tuổi mới ngủ ngon, ăn khỏe và lớn lên thật bình an.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_con_35",
+   "content": "Chúc mừng sinh nhật con yêu! Dù sau này con đi đâu, nhà mình vẫn luôn đợi con.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_con_36",
+   "content": "Happy birthday con! Bố mẹ chúc con tuổi mới gặt hái được những thành quả đầu tiên của riêng mình.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_con_37",
+   "content": "Chúc mừng sinh nhật con! Chúc con tuổi mới sống thật vui, thật khỏe và thật ý nghĩa.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_con_38",
+   "content": "Sinh nhật vui vẻ con nhé! Chúc con tuổi mới nhiều may mắn và ít khó khăn.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_con_39",
+   "content": "Chúc mừng sinh nhật con yêu! Chúc con tuổi mới luôn mỉm cười, kể cả trong những ngày khó.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_con_40",
+   "content": "Happy birthday con! Chúc con một tuổi mới tràn đầy yêu thương từ tất cả mọi người.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_con_41",
+   "content": "Chúc mừng sinh nhật con! Bố mẹ chúc con tuổi mới bình an, khỏe mạnh và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_con_42",
+   "content": "Sinh nhật con, chúc con tuổi mới thật tuyệt vời, đúng như con vốn luôn tuyệt vời.",
+   "translate": ""
+  }
+ ]
+}

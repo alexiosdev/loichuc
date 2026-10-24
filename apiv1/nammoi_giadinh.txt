@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "nammoi_giadinh_1",
+   "content": "Năm mới, con kính chúc cả nhà mình một năm bình an, khỏe mạnh và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_giadinh_2",
+   "content": "Chúc mừng năm mới! Chúc gia đình mình một năm sung túc, đủ đầy và thuận hòa.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_giadinh_3",
+   "content": "Chúc cả nhà một năm mới an khang, thịnh vượng và thật nhiều tiếng cười.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_giadinh_4",
+   "content": "Năm mới, con chúc bố mẹ sức khỏe dồi dào và luôn vui vẻ bên con cháu.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_giadinh_5",
+   "content": "Chúc mừng năm mới! Mong năm nay nhà mình lại được sum họp thật đông đủ.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_giadinh_6",
+   "content": "Chúc gia đình mình một năm mới mọi điều hanh thông và vạn sự như ý.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_giadinh_7",
+   "content": "Năm mới, con kính chúc ông bà sống lâu trăm tuổi và luôn mạnh khỏe.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_giadinh_8",
+   "content": "Chúc mừng năm mới! Chúc cả nhà một năm trên thuận dưới hòa, trong ấm ngoài êm.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_giadinh_9",
+   "content": "Chúc gia đình mình một năm mới ít bệnh tật, nhiều niềm vui và nhiều may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_giadinh_10",
+   "content": "Năm mới, con chúc bố mẹ bớt vất vả và có nhiều thời gian nghỉ ngơi hơn.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_giadinh_11",
+   "content": "Chúc mừng năm mới! Chúc nhà mình một năm bình an và thật nhiều điều tốt lành.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_giadinh_12",
+   "content": "Chúc cả nhà một năm mới đầy ắp yêu thương và những kỷ niệm đẹp.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_giadinh_13",
+   "content": "Năm mới, con kính chúc cả nhà vạn sự cát tường và phúc lộc đầy nhà.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_giadinh_14",
+   "content": "Chúc mừng năm mới! Chúc gia đình mình một năm làm ăn phát đạt và sức khỏe dồi dào.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_giadinh_15",
+   "content": "Chúc cả nhà một năm mới thật vui, thật ấm và thật đáng nhớ.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_giadinh_16",
+   "content": "Năm mới, con chúc bố mẹ luôn khỏe mạnh để con còn được báo hiếu thật lâu.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_giadinh_17",
+   "content": "Chúc mừng năm mới! Mong cả nhà mình một năm thuận lợi và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_giadinh_18",
+   "content": "Chúc gia đình mình một năm mới mọi dự định đều thành hiện thực.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_giadinh_19",
+   "content": "Năm mới, con chúc các em học hành tấn tới và luôn ngoan ngoãn.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_giadinh_20",
+   "content": "Chúc mừng năm mới! Chúc cả nhà một năm an yên và không lo toan.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_giadinh_21",
+   "content": "Chúc gia đình mình một năm mới gắn bó, yêu thương và cùng nhau vượt qua mọi điều.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_giadinh_22",
+   "content": "Năm mới, con kính chúc ông bà bố mẹ mạnh khỏe, minh mẫn và an vui.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_giadinh_23",
+   "content": "Chúc mừng năm mới! Chúc nhà mình một năm đủ đầy cả vật chất lẫn tinh thần.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_giadinh_24",
+   "content": "Chúc cả nhà một năm mới thật nhiều sức khỏe và thật nhiều hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_giadinh_25",
+   "content": "Năm mới, con chúc gia đình mình luôn là nơi ấm áp nhất để trở về.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_giadinh_26",
+   "content": "Chúc mừng năm mới! Chúc bố mẹ một năm nhẹ gánh lo toan và nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_giadinh_27",
+   "content": "Chúc gia đình mình một năm mới hanh thông, sung túc và viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_giadinh_28",
+   "content": "Năm mới, con kính chúc cả nhà bình an trong tâm và vững vàng trong đời.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_giadinh_29",
+   "content": "Chúc mừng năm mới! Chúc nhà mình một năm thật nhiều may mắn và tốt lành.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_giadinh_30",
+   "content": "Chúc cả nhà một năm mới khởi sắc, mọi khó khăn đều hóa thuận lợi.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_giadinh_31",
+   "content": "Năm mới, con chúc bố mẹ luôn tự hào về các con.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_giadinh_32",
+   "content": "Chúc mừng năm mới! Chúc gia đình mình một năm đoàn viên và ấm áp.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_giadinh_33",
+   "content": "Chúc cả nhà một năm mới sức khỏe như ý và cuộc sống đủ đầy.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_giadinh_34",
+   "content": "Năm mới, con kính chúc cả nhà vạn sự hanh thông và gia đạo hưng long.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_giadinh_35",
+   "content": "Chúc mừng năm mới! Chúc nhà mình một năm thật nhiều dịp để sum họp đông vui.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_giadinh_36",
+   "content": "Chúc gia đình mình một năm mới bình yên, hạnh phúc và thành công.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_giadinh_37",
+   "content": "Năm mới, con chúc bố mẹ sống thật lâu và thật khỏe cùng con cháu.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_giadinh_38",
+   "content": "Chúc mừng năm mới! Chúc cả nhà một năm thật vui và thật đáng sống.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_giadinh_39",
+   "content": "Chúc gia đình mình một năm mới ngập tràn tiếng cười và hơi ấm.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_giadinh_40",
+   "content": "Năm mới, con kính chúc cả nhà mọi điều tốt đẹp nhất sẽ đến.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_giadinh_41",
+   "content": "Chúc mừng năm mới! Chúc nhà mình một năm an khang và viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_giadinh_42",
+   "content": "Chúc cả nhà một năm mới thật nhiều sức khỏe, niềm vui và may mắn.",
+   "translate": ""
+  }
+ ]
+}

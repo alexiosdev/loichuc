@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "thieunhi_1",
+   "content": "Chúc mừng ngày Quốc tế Thiếu nhi 1/6! Chúc các bé luôn khỏe mạnh, ngoan ngoãn và thật nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "thieunhi_2",
+   "content": "Ngày 1/6, chúc con hay ăn chóng lớn, học giỏi và luôn tươi cười.",
+   "translate": ""
+  },
+  {
+   "id": "thieunhi_3",
+   "content": "Chúc mừng ngày Thiếu nhi! Chúc các bé có một ngày thật vui và thật nhiều quà.",
+   "translate": ""
+  },
+  {
+   "id": "thieunhi_4",
+   "content": "Nhân ngày 1/6, chúc con luôn hồn nhiên, vui vẻ và được yêu thương.",
+   "translate": ""
+  },
+  {
+   "id": "thieunhi_5",
+   "content": "Chúc mừng Tết Thiếu nhi! Chúc bé khỏe mạnh, thông minh và luôn hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "thieunhi_6",
+   "content": "Ngày Quốc tế Thiếu nhi, chúc các con có một tuổi thơ thật đẹp.",
+   "translate": ""
+  },
+  {
+   "id": "thieunhi_7",
+   "content": "Chúc mừng 1/6! Chúc con ngoan ngoãn, vâng lời ông bà cha mẹ và học thật giỏi.",
+   "translate": ""
+  },
+  {
+   "id": "thieunhi_8",
+   "content": "Nhân ngày Thiếu nhi, chúc các bé luôn được che chở và luôn an toàn.",
+   "translate": ""
+  },
+  {
+   "id": "thieunhi_9",
+   "content": "Chúc mừng ngày 1/6! Chúc con có một ngày thật đáng nhớ bên gia đình và bạn bè.",
+   "translate": ""
+  },
+  {
+   "id": "thieunhi_10",
+   "content": "Ngày 1/6, chúc các bé ăn ngon ngủ ngon và lớn lên thật khỏe mạnh.",
+   "translate": ""
+  },
+  {
+   "id": "thieunhi_11",
+   "content": "Chúc mừng Tết Thiếu nhi! Chúc con mọi điều ước đều thành sự thật.",
+   "translate": ""
+  },
+  {
+   "id": "thieunhi_12",
+   "content": "Nhân ngày Quốc tế Thiếu nhi, chúc các bé luôn vui tươi và tràn đầy năng lượng.",
+   "translate": ""
+  },
+  {
+   "id": "thieunhi_13",
+   "content": "Chúc mừng 1/6! Chúc con có thật nhiều kỷ niệm đẹp trong ngày hôm nay.",
+   "translate": ""
+  },
+  {
+   "id": "thieunhi_14",
+   "content": "Ngày Thiếu nhi, chúc các bé lớn lên thành những người tử tế và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "thieunhi_15",
+   "content": "Chúc mừng ngày 1/6! Chúc con khỏe mạnh, ít ốm vặt và luôn mỉm cười.",
+   "translate": ""
+  },
+  {
+   "id": "thieunhi_16",
+   "content": "Nhân ngày 1/6, chúc các bé được vui chơi thỏa thích và nhận thật nhiều quà.",
+   "translate": ""
+  },
+  {
+   "id": "thieunhi_17",
+   "content": "Chúc mừng Tết Thiếu nhi! Chúc con học hành tấn tới và được thầy cô yêu quý.",
+   "translate": ""
+  },
+  {
+   "id": "thieunhi_18",
+   "content": "Ngày Quốc tế Thiếu nhi, chúc các bé luôn giữ được sự hồn nhiên đáng quý.",
+   "translate": ""
+  },
+  {
+   "id": "thieunhi_19",
+   "content": "Chúc mừng 1/6! Chúc con một ngày thật vui và một tuổi thơ thật trọn vẹn.",
+   "translate": ""
+  },
+  {
+   "id": "thieunhi_20",
+   "content": "Nhân ngày Thiếu nhi, chúc các bé luôn được yêu thương và chăm sóc chu đáo.",
+   "translate": ""
+  },
+  {
+   "id": "thieunhi_21",
+   "content": "Chúc mừng ngày 1/6! Chúc con mạnh dạn khám phá thế giới và không sợ sai.",
+   "translate": ""
+  },
+  {
+   "id": "thieunhi_22",
+   "content": "Ngày 1/6, chúc các bé cười thật nhiều và khóc thật ít.",
+   "translate": ""
+  },
+  {
+   "id": "thieunhi_23",
+   "content": "Chúc mừng Tết Thiếu nhi! Chúc con lớn lên thật khỏe và thật hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "thieunhi_24",
+   "content": "Nhân ngày Quốc tế Thiếu nhi, chúc các bé có thật nhiều bạn tốt.",
+   "translate": ""
+  },
+  {
+   "id": "thieunhi_25",
+   "content": "Chúc mừng 1/6! Chúc con luôn ngoan, luôn vui và luôn được che chở.",
+   "translate": ""
+  },
+  {
+   "id": "thieunhi_26",
+   "content": "Ngày Thiếu nhi, chúc các bé có một ngày thật đặc biệt và ý nghĩa.",
+   "translate": ""
+  },
+  {
+   "id": "thieunhi_27",
+   "content": "Chúc mừng ngày 1/6! Chúc con đạt được mọi điều con mơ ước.",
+   "translate": ""
+  },
+  {
+   "id": "thieunhi_28",
+   "content": "Nhân ngày 1/6, chúc các bé khỏe mạnh để chạy nhảy và chơi đùa thỏa thích.",
+   "translate": ""
+  },
+  {
+   "id": "thieunhi_29",
+   "content": "Chúc mừng Tết Thiếu nhi! Chúc con luôn là niềm tự hào của bố mẹ.",
+   "translate": ""
+  },
+  {
+   "id": "thieunhi_30",
+   "content": "Ngày Quốc tế Thiếu nhi, chúc các bé có một mùa hè thật vui.",
+   "translate": ""
+  },
+  {
+   "id": "thieunhi_31",
+   "content": "Chúc mừng 1/6! Chúc con giữ mãi lòng tốt và sự tò mò đáng quý.",
+   "translate": ""
+  },
+  {
+   "id": "thieunhi_32",
+   "content": "Nhân ngày Thiếu nhi, chúc các bé luôn bình an và luôn hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "thieunhi_33",
+   "content": "Chúc mừng ngày 1/6! Chúc con có một ngày tràn ngập tiếng cười.",
+   "translate": ""
+  },
+  {
+   "id": "thieunhi_34",
+   "content": "Ngày 1/6, chúc các bé học được thật nhiều điều hay và thú vị.",
+   "translate": ""
+  },
+  {
+   "id": "thieunhi_35",
+   "content": "Chúc mừng Tết Thiếu nhi! Chúc con cao thêm, giỏi thêm và ngoan thêm.",
+   "translate": ""
+  },
+  {
+   "id": "thieunhi_36",
+   "content": "Nhân ngày Quốc tế Thiếu nhi, chúc các bé có một tuổi thơ đầy ắp kỷ niệm đẹp.",
+   "translate": ""
+  },
+  {
+   "id": "thieunhi_37",
+   "content": "Chúc mừng 1/6! Chúc con luôn khỏe mạnh và luôn tràn đầy niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "thieunhi_38",
+   "content": "Ngày Thiếu nhi, chúc các bé được sống trong yêu thương và an toàn.",
+   "translate": ""
+  },
+  {
+   "id": "thieunhi_39",
+   "content": "Chúc mừng ngày 1/6! Chúc con một ngày thật vui bên những người con yêu quý.",
+   "translate": ""
+  },
+  {
+   "id": "thieunhi_40",
+   "content": "Nhân ngày 1/6, chúc các bé lớn lên thành những người hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "thieunhi_41",
+   "content": "Chúc mừng Tết Thiếu nhi! Chúc con mãi hồn nhiên và mãi đáng yêu như bây giờ.",
+   "translate": ""
+  },
+  {
+   "id": "thieunhi_42",
+   "content": "Ngày Quốc tế Thiếu nhi, chúc tất cả các bé mọi điều tốt đẹp nhất.",
+   "translate": ""
+  }
+ ]
+}

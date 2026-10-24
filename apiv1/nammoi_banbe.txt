@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "nammoi_banbe_1",
+   "content": "Chúc mừng năm mới cậu nhé! Chúc cậu một năm thật nhiều sức khỏe và niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_banbe_2",
+   "content": "Happy New Year! Chúc bạn một năm mới rực rỡ và thật nhiều thành công.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_banbe_3",
+   "content": "Năm mới, chúc cậu bỏ lại mọi muộn phiền năm cũ và đón nhận điều tốt lành.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_banbe_4",
+   "content": "Chúc mừng năm mới! Chúc bạn một năm bình an, hạnh phúc và đủ đầy.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_banbe_5",
+   "content": "Chúc cậu một năm mới công việc thuận lợi, tình duyên viên mãn, túi tiền rủng rỉnh.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_banbe_6",
+   "content": "Happy New Year! Chúc bạn năm nay đạt được điều mà năm ngoái còn dang dở.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_banbe_7",
+   "content": "Năm mới, chúc cậu luôn khỏe mạnh để chúng mình còn đi chơi với nhau thật nhiều.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_banbe_8",
+   "content": "Chúc mừng năm mới! Chúc bạn một năm ít lo toan và nhiều tiếng cười.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_banbe_9",
+   "content": "Chúc cậu một năm mới gặp nhiều cơ hội tốt và đủ bản lĩnh để nắm lấy.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_banbe_10",
+   "content": "Happy New Year! Chúc bạn một năm mới bứt phá và thật nhiều thành tựu.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_banbe_11",
+   "content": "Năm mới, chúc cậu sống thật đã, cười thật nhiều và lo thật ít.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_banbe_12",
+   "content": "Chúc mừng năm mới! Chúc bạn tài lộc dồi dào và sức khỏe bền bỉ.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_banbe_13",
+   "content": "Chúc cậu một năm mới thuận buồm xuôi gió, mọi khó khăn đều hóa thuận lợi.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_banbe_14",
+   "content": "Happy New Year! Chúc bạn một năm mới đầy hy vọng và đầy khả năng.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_banbe_15",
+   "content": "Năm mới, chúc cậu gặp toàn điều lành và tránh xa mọi muộn phiền.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_banbe_16",
+   "content": "Chúc mừng năm mới! Chúc bạn một năm trọn vẹn: khỏe mạnh, hạnh phúc và thành công.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_banbe_17",
+   "content": "Chúc cậu năm mới mọi mục tiêu đều cán đích và mọi mong ước đều toại.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_banbe_18",
+   "content": "Happy New Year! Chúc bạn một năm mới nhẹ nhàng, thong dong và viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_banbe_19",
+   "content": "Năm mới, chúc cậu luôn là chính mình và luôn vui vẻ.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_banbe_20",
+   "content": "Chúc mừng năm mới! Chúc bạn thật nhiều sức khỏe và thật nhiều may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_banbe_21",
+   "content": "Chúc cậu một năm mới mở ra những cánh cửa mà cậu chưa từng nghĩ tới.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_banbe_22",
+   "content": "Happy New Year! Chúc bạn một năm mới an yên và tràn đầy yêu thương.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_banbe_23",
+   "content": "Năm mới, chúc cậu dám mơ lớn và đủ kiên trì để biến giấc mơ thành thật.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_banbe_24",
+   "content": "Chúc mừng năm mới! Chúc bạn một năm bình an bên những người bạn yêu quý.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_banbe_25",
+   "content": "Chúc cậu năm mới gặp nhiều quý nhân, làm đâu trúng đó, đi đâu cũng thuận.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_banbe_26",
+   "content": "Happy New Year! Chúc bạn năm nay bỏ được thói quen xấu và giữ được thói quen tốt.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_banbe_27",
+   "content": "Năm mới, chúc cậu thật nhiều niềm vui và thật ít tiếc nuối.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_banbe_28",
+   "content": "Chúc mừng năm mới! Chúc bạn một năm khởi sắc trong mọi mặt của cuộc sống.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_banbe_29",
+   "content": "Chúc cậu một năm mới đầy ắp tiếng cười và những khoảnh khắc đáng nhớ.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_banbe_30",
+   "content": "Happy New Year! Chúc bạn một năm mới vững vàng trước mọi thử thách.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_banbe_31",
+   "content": "Năm mới, chúc cậu giữ mãi sự nhiệt tình và tử tế đáng quý.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_banbe_32",
+   "content": "Chúc mừng năm mới! Chúc bạn một năm thật đáng sống và thật đáng nhớ.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_banbe_33",
+   "content": "Chúc cậu năm mới tâm an, trí sáng và đời thật vui.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_banbe_34",
+   "content": "Happy New Year! Chúc bạn mọi điều tốt đẹp nhất trong năm mới này.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_banbe_35",
+   "content": "Năm mới, chúc cậu và gia đình một năm bình an và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_banbe_36",
+   "content": "Chúc mừng năm mới! Chúc bạn một năm nhiều tiền, nhiều tình và nhiều sức khỏe.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_banbe_37",
+   "content": "Chúc cậu một năm mới thảnh thơi hơn, thong dong hơn và vui vẻ hơn.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_banbe_38",
+   "content": "Happy New Year! Chúc bạn năm nay đi được nhiều nơi và gặp nhiều người tốt.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_banbe_39",
+   "content": "Năm mới, chúc cậu luôn giữ được ngọn lửa trong tim và ánh sáng trong mắt.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_banbe_40",
+   "content": "Chúc mừng năm mới! Chúc bạn một năm trọn niềm vui và đầy thành công.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_banbe_41",
+   "content": "Chúc cậu một năm mới bình yên, và chúc tình bạn của chúng mình mãi bền.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_banbe_42",
+   "content": "Happy New Year! Chúc bạn một năm mới tuyệt vời, và nhớ giữ liên lạc nhé.",
+   "translate": ""
+  }
+ ]
+}

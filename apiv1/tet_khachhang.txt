@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "tet_khachhang_1",
+   "content": "Kính chúc Quý khách hàng một năm mới an khang thịnh vượng, vạn sự như ý, công việc kinh doanh ngày càng phát đạt.",
+   "translate": ""
+  },
+  {
+   "id": "tet_khachhang_2",
+   "content": "Nhân dịp năm mới, chúng tôi xin gửi tới Quý khách lời tri ân chân thành và lời chúc sức khỏe, hạnh phúc, thành công.",
+   "translate": ""
+  },
+  {
+   "id": "tet_khachhang_3",
+   "content": "Kính chúc Quý đối tác một mùa xuân ấm áp, một năm mới bội thu và một chặng đường hợp tác ngày càng bền chặt.",
+   "translate": ""
+  },
+  {
+   "id": "tet_khachhang_4",
+   "content": "Năm mới, kính chúc Quý khách hàng dồi dào sức khỏe, tài lộc đầy nhà, mọi dự định đều thành hiện thực.",
+   "translate": ""
+  },
+  {
+   "id": "tet_khachhang_5",
+   "content": "Xin chân thành cảm ơn Quý khách đã đồng hành suốt năm qua. Kính chúc một năm mới thật nhiều may mắn và thành công.",
+   "translate": ""
+  },
+  {
+   "id": "tet_khachhang_6",
+   "content": "Kính chúc Quý công ty năm mới phát triển vượt bậc, doanh thu tăng trưởng, thương hiệu ngày càng vững mạnh.",
+   "translate": ""
+  },
+  {
+   "id": "tet_khachhang_7",
+   "content": "Nhân dịp xuân về, kính chúc Quý khách và gia đình một năm mới bình an, sung túc, vạn sự cát tường.",
+   "translate": ""
+  },
+  {
+   "id": "tet_khachhang_8",
+   "content": "Kính chúc Quý đối tác năm mới thuận buồm xuôi gió, mọi hợp tác đều mang lại quả ngọt cho cả hai bên.",
+   "translate": ""
+  },
+  {
+   "id": "tet_khachhang_9",
+   "content": "Năm mới, chúng tôi kính chúc Quý khách hàng sức khỏe dồi dào, công việc hanh thông, gia đạo hưng long.",
+   "translate": ""
+  },
+  {
+   "id": "tet_khachhang_10",
+   "content": "Kính chúc Quý khách một năm mới khởi đầu thuận lợi, giữa năm vững vàng và cuối năm bội thu.",
+   "translate": ""
+  },
+  {
+   "id": "tet_khachhang_11",
+   "content": "Xuân sang, kính chúc Quý khách hàng và gia quyến một năm mới an khang, hạnh phúc, tràn đầy niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "tet_khachhang_12",
+   "content": "Chúng tôi trân trọng cảm ơn sự tin tưởng của Quý khách và kính chúc một năm mới thật nhiều thắng lợi.",
+   "translate": ""
+  },
+  {
+   "id": "tet_khachhang_13",
+   "content": "Kính chúc Quý đối tác năm mới tài lộc dồi dào, cơ hội rộng mở, mọi mục tiêu đều cán đích.",
+   "translate": ""
+  },
+  {
+   "id": "tet_khachhang_14",
+   "content": "Năm mới, kính chúc Quý khách hàng buôn may bán đắt, khách hàng nối tiếp khách hàng, đơn hàng nối tiếp đơn hàng.",
+   "translate": ""
+  },
+  {
+   "id": "tet_khachhang_15",
+   "content": "Kính chúc Quý khách một năm mới dồi dào sinh lực, vững vàng trước mọi thử thách và gặt hái thật nhiều thành công.",
+   "translate": ""
+  },
+  {
+   "id": "tet_khachhang_16",
+   "content": "Nhân dịp năm mới, kính chúc Quý công ty vạn sự hanh thông, nhân hòa, tài vượng, danh tiếng vươn xa.",
+   "translate": ""
+  },
+  {
+   "id": "tet_khachhang_17",
+   "content": "Kính chúc Quý khách hàng một năm mới trọn vẹn: sức khỏe trọn vẹn, hạnh phúc trọn vẹn, thành công trọn vẹn.",
+   "translate": ""
+  },
+  {
+   "id": "tet_khachhang_18",
+   "content": "Xin kính chúc Quý đối tác năm mới an lành, thịnh vượng, và mong tiếp tục nhận được sự đồng hành quý báu.",
+   "translate": ""
+  },
+  {
+   "id": "tet_khachhang_19",
+   "content": "Năm mới, kính chúc Quý khách gặp nhiều quý nhân, nắm bắt nhiều cơ hội và chinh phục nhiều cột mốc mới.",
+   "translate": ""
+  },
+  {
+   "id": "tet_khachhang_20",
+   "content": "Kính chúc Quý khách hàng một mùa xuân đoàn viên, một năm mới rực rỡ và một tương lai thật xán lạn.",
+   "translate": ""
+  },
+  {
+   "id": "tet_khachhang_21",
+   "content": "Nhân dịp đầu xuân, chúng tôi kính chúc Quý khách sức khỏe, bình an và mọi điều tốt đẹp nhất.",
+   "translate": ""
+  },
+  {
+   "id": "tet_khachhang_22",
+   "content": "Kính chúc Quý đối tác năm mới phát tài phát lộc, công việc thuận lợi, gia đình viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "tet_khachhang_23",
+   "content": "Năm mới, kính chúc Quý khách hàng mọi kế hoạch đều suôn sẻ, mọi đầu tư đều sinh lời.",
+   "translate": ""
+  },
+  {
+   "id": "tet_khachhang_24",
+   "content": "Kính chúc Quý khách một năm mới tràn đầy năng lượng, vững bước chinh phục những mục tiêu lớn hơn.",
+   "translate": ""
+  },
+  {
+   "id": "tet_khachhang_25",
+   "content": "Xuân mới, kính chúc Quý công ty đoàn kết, lớn mạnh, khẳng định vị thế trên thị trường.",
+   "translate": ""
+  },
+  {
+   "id": "tet_khachhang_26",
+   "content": "Chúng tôi xin kính chúc Quý khách hàng năm mới trăm điều như ý, ngàn điều tốt lành.",
+   "translate": ""
+  },
+  {
+   "id": "tet_khachhang_27",
+   "content": "Kính chúc Quý đối tác một năm mới hợp tác thành công, lợi ích hài hòa, niềm tin bền vững.",
+   "translate": ""
+  },
+  {
+   "id": "tet_khachhang_28",
+   "content": "Năm mới, kính chúc Quý khách hàng và gia đình dồi dào sức khỏe, hạnh phúc đong đầy, tài lộc viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "tet_khachhang_29",
+   "content": "Kính chúc Quý khách một năm mới mà mọi khó khăn đều hóa cơ hội, mọi nỗ lực đều được đền đáp.",
+   "translate": ""
+  },
+  {
+   "id": "tet_khachhang_30",
+   "content": "Nhân dịp năm mới, kính chúc Quý khách hàng tâm an, trí sáng, sự nghiệp hanh thông.",
+   "translate": ""
+  },
+  {
+   "id": "tet_khachhang_31",
+   "content": "Kính chúc Quý đối tác năm mới doanh thu khởi sắc, thị phần mở rộng, đội ngũ vững mạnh.",
+   "translate": ""
+  },
+  {
+   "id": "tet_khachhang_32",
+   "content": "Năm mới, xin kính chúc Quý khách hàng vạn sự như ý, cát tường như ý, an khang thịnh vượng.",
+   "translate": ""
+  },
+  {
+   "id": "tet_khachhang_33",
+   "content": "Kính chúc Quý khách một năm mới đầy ắp niềm vui, thành quả và những khởi đầu tốt đẹp.",
+   "translate": ""
+  },
+  {
+   "id": "tet_khachhang_34",
+   "content": "Xuân về, kính chúc Quý khách hàng sức khỏe như xuân, tài lộc như hoa, hạnh phúc như ý.",
+   "translate": ""
+  },
+  {
+   "id": "tet_khachhang_35",
+   "content": "Chúng tôi kính chúc Quý đối tác một năm mới bền vững, phát triển và thật nhiều thắng lợi.",
+   "translate": ""
+  },
+  {
+   "id": "tet_khachhang_36",
+   "content": "Kính chúc Quý khách hàng năm mới phúc lộc đầy nhà, con cháu hiếu thảo, gia đạo hưng thịnh.",
+   "translate": ""
+  },
+  {
+   "id": "tet_khachhang_37",
+   "content": "Năm mới, kính chúc Quý công ty luôn tiên phong, luôn đổi mới và luôn dẫn đầu.",
+   "translate": ""
+  },
+  {
+   "id": "tet_khachhang_38",
+   "content": "Kính chúc Quý khách một năm mới thật nhiều may mắn, và mong được tiếp tục phục vụ Quý khách.",
+   "translate": ""
+  },
+  {
+   "id": "tet_khachhang_39",
+   "content": "Nhân dịp xuân mới, kính chúc Quý khách hàng an khang, thịnh vượng, vạn sự hanh thông.",
+   "translate": ""
+  },
+  {
+   "id": "tet_khachhang_40",
+   "content": "Kính chúc Quý đối tác năm mới mọi mục tiêu đều chinh phục, mọi ước vọng đều thành hiện thực.",
+   "translate": ""
+  },
+  {
+   "id": "tet_khachhang_41",
+   "content": "Năm mới, kính chúc Quý khách hàng thân tâm an lạc, sự nghiệp vững vàng, gia đình hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "tet_khachhang_42",
+   "content": "Xin kính chúc Quý khách một năm mới trọn niềm vui, đầy thành công và ngập tràn may mắn.",
+   "translate": ""
+  }
+ ]
+}

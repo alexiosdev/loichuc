@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "valentine_totinh_1",
+   "content": "Anh thích em, không phải hôm nay mới thích, mà đã lâu rồi. Valentine này, em làm người yêu anh nhé?",
+   "translate": ""
+  },
+  {
+   "id": "valentine_totinh_2",
+   "content": "Có một điều anh giấu đã lâu: anh thương em. Hôm nay anh muốn nói ra.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_totinh_3",
+   "content": "Valentine này, anh chỉ muốn hỏi một câu: em có muốn cùng anh đi tiếp không?",
+   "translate": ""
+  },
+  {
+   "id": "valentine_totinh_4",
+   "content": "Anh không giỏi nói lời hay, chỉ biết là mỗi ngày anh đều nghĩ về em.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_totinh_5",
+   "content": "Em có biết người anh thích là ai không? Gợi ý nhé: người đang đọc tin nhắn này.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_totinh_6",
+   "content": "Valentine này anh không mong gì nhiều, chỉ mong em nhận lời anh.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_totinh_7",
+   "content": "Anh đã chờ đủ lâu rồi. Hôm nay anh muốn nói: anh thích em.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_totinh_8",
+   "content": "Nếu em hỏi anh thích em từ bao giờ, anh cũng không biết. Chỉ biết là bây giờ vẫn thích.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_totinh_9",
+   "content": "Valentine này, anh muốn tặng em một điều mà anh chưa từng tặng ai: trái tim anh.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_totinh_10",
+   "content": "Em có rảnh không? Nếu rảnh thì làm người yêu anh nhé.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_totinh_11",
+   "content": "Anh không hứa sẽ cho em cả thế giới, chỉ hứa sẽ ở bên em mỗi ngày.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_totinh_12",
+   "content": "Valentine này, anh gom hết can đảm để nói với em ba chữ: anh thích em.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_totinh_13",
+   "content": "Mỗi lần gặp em, anh đều quên mất mình định nói gì. Hôm nay thì anh nhớ rồi: anh thương em.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_totinh_14",
+   "content": "Em là người đầu tiên anh nghĩ đến khi thức dậy. Valentine này, anh muốn em biết điều đó.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_totinh_15",
+   "content": "Anh chẳng cần ai khác, chỉ cần em gật đầu là đủ.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_totinh_16",
+   "content": "Valentine này, anh muốn hỏi em một câu mà anh đã tập đi tập lại rất nhiều lần.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_totinh_17",
+   "content": "Nếu một ngày em thấy ai đó luôn để ý tới em, thì đó là anh đấy.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_totinh_18",
+   "content": "Anh thích em từ lâu rồi, chỉ là chưa đủ can đảm để nói. Hôm nay thì có rồi.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_totinh_19",
+   "content": "Valentine này, anh muốn làm nhiều hơn là một người bạn của em.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_totinh_20",
+   "content": "Em có tin vào duyên không? Anh tin, vì anh đã gặp được em.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_totinh_21",
+   "content": "Anh không biết tương lai thế nào, chỉ biết anh muốn có em trong đó.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_totinh_22",
+   "content": "Valentine này, anh muốn nói một điều: anh đã thích em rất lâu rồi.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_totinh_23",
+   "content": "Em làm người yêu anh nhé? Anh hứa sẽ không làm em phải hối hận.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_totinh_24",
+   "content": "Anh không giỏi lãng mạn, nhưng anh giỏi kiên nhẫn. Anh sẽ chờ câu trả lời của em.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_totinh_25",
+   "content": "Valentine này, nếu em cũng có chút cảm tình với anh, thì mình thử nhé?",
+   "translate": ""
+  },
+  {
+   "id": "valentine_totinh_26",
+   "content": "Mỗi ngày anh đều tìm lý do để nhắn tin cho em. Hôm nay anh không cần lý do nữa.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_totinh_27",
+   "content": "Anh thích em, thật lòng. Em suy nghĩ rồi trả lời anh nhé.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_totinh_28",
+   "content": "Valentine này, anh chỉ mong được nắm tay em đi dạo một vòng.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_totinh_29",
+   "content": "Em là người khiến anh muốn trở thành phiên bản tốt hơn của chính mình.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_totinh_30",
+   "content": "Anh không muốn làm bạn thân của em nữa. Anh muốn nhiều hơn thế.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_totinh_31",
+   "content": "Valentine này, anh gửi em cả sự chân thành của anh. Mong em đón nhận.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_totinh_32",
+   "content": "Nếu em đồng ý, anh hứa sẽ làm em cười nhiều hơn khóc.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_totinh_33",
+   "content": "Anh đã nghĩ về điều này rất lâu. Và câu trả lời luôn là em.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_totinh_34",
+   "content": "Valentine này, anh muốn chính thức hỏi: em có muốn làm người yêu anh không?",
+   "translate": ""
+  },
+  {
+   "id": "valentine_totinh_35",
+   "content": "Em không cần trả lời ngay. Anh chờ được, miễn là câu trả lời cuối cùng là có.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_totinh_36",
+   "content": "Anh thích em theo cách rất bình thường: muốn gặp em, muốn nghe em kể chuyện, muốn em vui.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_totinh_37",
+   "content": "Valentine này, anh chỉ muốn em biết là có một người luôn nghĩ về em.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_totinh_38",
+   "content": "Em có muốn thử một lần không? Biết đâu chúng mình hợp nhau thật.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_totinh_39",
+   "content": "Anh không cần ai hoàn hảo. Anh chỉ cần em.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_totinh_40",
+   "content": "Valentine này, anh nói thật lòng: anh thương em, rất nhiều.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_totinh_41",
+   "content": "Nếu em hỏi anh muốn gì nhất, câu trả lời là được ở bên em.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_totinh_42",
+   "content": "Anh đã mất rất nhiều thời gian mới dám gửi tin nhắn này. Mong em hiểu lòng anh.",
+   "translate": ""
+  }
+ ]
+}

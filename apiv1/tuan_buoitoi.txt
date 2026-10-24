@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "tuan_buoitoi_1",
+   "content": "Chúc bạn một buổi tối an lành bên gia đình và những người mình yêu quý.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_buoitoi_2",
+   "content": "Buổi tối tốt lành! Chúc bạn gác lại công việc và nghỉ ngơi thật thoải mái.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_buoitoi_3",
+   "content": "Chúc bạn một buổi tối bình yên sau một ngày dài vất vả.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_buoitoi_4",
+   "content": "Tối rồi, chúc bạn ăn tối thật ngon và thư giãn thật đã.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_buoitoi_5",
+   "content": "Chúc bạn buổi tối an lành, nhẹ nhàng và thật nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_buoitoi_6",
+   "content": "Buổi tối tốt lành! Chúc bạn quên hết mệt mỏi của ngày hôm nay.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_buoitoi_7",
+   "content": "Chúc bạn một buổi tối ấm áp bên mâm cơm gia đình.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_buoitoi_8",
+   "content": "Tối rồi, chúc bạn dành chút thời gian cho chính mình nhé.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_buoitoi_9",
+   "content": "Chúc bạn buổi tối thật thư giãn và một đêm ngon giấc.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_buoitoi_10",
+   "content": "Buổi tối an lành! Chúc bạn tâm trạng nhẹ nhõm và lòng thật bình yên.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_buoitoi_11",
+   "content": "Chúc bạn một buổi tối vui vẻ, không email và không tin nhắn công việc.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_buoitoi_12",
+   "content": "Tối rồi, chúc bạn nghỉ ngơi sớm để mai lại tràn đầy năng lượng.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_buoitoi_13",
+   "content": "Chúc bạn buổi tối an lành và một ngày mai thật thuận lợi.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_buoitoi_14",
+   "content": "Buổi tối tốt lành! Chúc bạn có những giờ phút thật thoải mái.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_buoitoi_15",
+   "content": "Chúc bạn một buổi tối ấm cúng và thật nhiều tiếng cười.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_buoitoi_16",
+   "content": "Tối rồi, chúc bạn buông bỏ mọi lo toan và tận hưởng sự yên tĩnh.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_buoitoi_17",
+   "content": "Chúc bạn buổi tối bình an bên những người thân yêu.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_buoitoi_18",
+   "content": "Buổi tối an lành! Chúc bạn một đêm nghỉ ngơi thật trọn vẹn.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_buoitoi_19",
+   "content": "Chúc bạn một buổi tối nhẹ nhàng, thảnh thơi và thật nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_buoitoi_20",
+   "content": "Tối rồi, chúc bạn ăn ngon, ngủ sớm và mơ thật đẹp.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_buoitoi_21",
+   "content": "Chúc bạn buổi tối an yên và một đêm thật bình yên.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_buoitoi_22",
+   "content": "Buổi tối tốt lành! Chúc bạn tìm được chút tĩnh lặng sau một ngày ồn ào.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_buoitoi_23",
+   "content": "Chúc bạn một buổi tối vui vẻ và thư thái.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_buoitoi_24",
+   "content": "Tối rồi, chúc bạn tự thưởng cho mình điều gì đó dễ chịu nhé.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_buoitoi_25",
+   "content": "Chúc bạn buổi tối ấm áp, bình an và tràn đầy yêu thương.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_buoitoi_26",
+   "content": "Buổi tối an lành! Chúc bạn một đêm không lo nghĩ.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_buoitoi_27",
+   "content": "Chúc bạn một buổi tối thật trọn vẹn sau một ngày đã rất cố gắng.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_buoitoi_28",
+   "content": "Tối rồi, chúc bạn thư giãn và chăm sóc bản thân một chút.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_buoitoi_29",
+   "content": "Chúc bạn buổi tối tốt lành và một ngày mai đầy hy vọng.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_buoitoi_30",
+   "content": "Buổi tối tốt lành! Chúc bạn giữ được tâm trạng nhẹ nhàng đến khi đi ngủ.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_buoitoi_31",
+   "content": "Chúc bạn một buổi tối bình yên, không vội vã và không áp lực.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_buoitoi_32",
+   "content": "Tối rồi, chúc bạn gặp những điều dễ chịu trước khi kết thúc ngày.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_buoitoi_33",
+   "content": "Chúc bạn buổi tối an lành và thật nhiều niềm vui nhỏ.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_buoitoi_34",
+   "content": "Buổi tối an lành! Chúc bạn nghỉ ngơi thật tốt sau một ngày dài.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_buoitoi_35",
+   "content": "Chúc bạn một buổi tối ấm áp và một giấc ngủ thật sâu.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_buoitoi_36",
+   "content": "Tối rồi, chúc bạn tạm quên công việc và sống cho riêng mình vài giờ.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_buoitoi_37",
+   "content": "Chúc bạn buổi tối vui vẻ bên gia đình và bạn bè.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_buoitoi_38",
+   "content": "Buổi tối tốt lành! Chúc bạn một đêm yên bình và sáng mai thật tươi.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_buoitoi_39",
+   "content": "Chúc bạn một buổi tối thư thái, dễ chịu và thật nhiều bình an.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_buoitoi_40",
+   "content": "Tối rồi, chúc bạn mọi mệt mỏi đều tan biến và chỉ còn lại sự thoải mái.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_buoitoi_41",
+   "content": "Chúc bạn buổi tối an lành, ngủ ngon và mai lại là một ngày mới.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_buoitoi_42",
+   "content": "Buổi tối an lành! Chúc bạn một đêm thật nhẹ nhàng và bình yên.",
+   "translate": ""
+  }
+ ]
+}

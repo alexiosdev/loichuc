@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "embe_mebau_1",
+   "content": "Chúc mẹ bầu một thai kỳ thật khỏe mạnh, nhẹ nhàng và nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "embe_mebau_2",
+   "content": "Chúc mẹ bầu ăn ngon ngủ ngon, bé trong bụng phát triển thật tốt.",
+   "translate": ""
+  },
+  {
+   "id": "embe_mebau_3",
+   "content": "Chúc mừng mẹ bầu! Chúc mẹ tròn con vuông và cả hai mẹ con đều khỏe.",
+   "translate": ""
+  },
+  {
+   "id": "embe_mebau_4",
+   "content": "Chúc mẹ bầu luôn vui vẻ, bởi tâm trạng của mẹ cũng là của bé.",
+   "translate": ""
+  },
+  {
+   "id": "embe_mebau_5",
+   "content": "Chúc mẹ có một thai kỳ suôn sẻ và ngày sinh thật thuận lợi.",
+   "translate": ""
+  },
+  {
+   "id": "embe_mebau_6",
+   "content": "Chúc mừng tin vui! Chúc mẹ bầu khỏe mạnh và bé yêu lớn lên bình an.",
+   "translate": ""
+  },
+  {
+   "id": "embe_mebau_7",
+   "content": "Chúc mẹ bầu bớt ốm nghén, ăn uống ngon miệng và ngủ thật ngon.",
+   "translate": ""
+  },
+  {
+   "id": "embe_mebau_8",
+   "content": "Chúc mẹ một thai kỳ an lành, không mệt mỏi và thật nhiều hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "embe_mebau_9",
+   "content": "Chúc mừng mẹ bầu! Chúc mẹ giữ gìn sức khỏe thật tốt cho cả hai mẹ con.",
+   "translate": ""
+  },
+  {
+   "id": "embe_mebau_10",
+   "content": "Chúc mẹ bầu luôn thoải mái, nhẹ nhàng và đừng lo lắng quá nhiều.",
+   "translate": ""
+  },
+  {
+   "id": "embe_mebau_11",
+   "content": "Chúc mẹ một thai kỳ khỏe mạnh và một hành trình làm mẹ thật đẹp.",
+   "translate": ""
+  },
+  {
+   "id": "embe_mebau_12",
+   "content": "Chúc mừng tin vui của gia đình! Chúc mẹ bầu luôn bình an.",
+   "translate": ""
+  },
+  {
+   "id": "embe_mebau_13",
+   "content": "Chúc mẹ bầu ăn gì cũng ngon, ngủ lúc nào cũng sâu và luôn vui vẻ.",
+   "translate": ""
+  },
+  {
+   "id": "embe_mebau_14",
+   "content": "Chúc mẹ có một thai kỳ nhẹ nhàng và bé yêu chào đời khỏe mạnh.",
+   "translate": ""
+  },
+  {
+   "id": "embe_mebau_15",
+   "content": "Chúc mừng mẹ bầu! Chúc mẹ con vuông tròn và cả nhà thật nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "embe_mebau_16",
+   "content": "Chúc mẹ bầu giữ được tinh thần thoải mái suốt chín tháng mười ngày.",
+   "translate": ""
+  },
+  {
+   "id": "embe_mebau_17",
+   "content": "Chúc mẹ một thai kỳ thuận lợi, không ốm nghén và không mệt mỏi.",
+   "translate": ""
+  },
+  {
+   "id": "embe_mebau_18",
+   "content": "Chúc mừng mẹ bầu! Chúc mẹ luôn khỏe và bé trong bụng luôn ngoan.",
+   "translate": ""
+  },
+  {
+   "id": "embe_mebau_19",
+   "content": "Chúc mẹ bầu có những tháng ngày mang thai thật ý nghĩa và đáng nhớ.",
+   "translate": ""
+  },
+  {
+   "id": "embe_mebau_20",
+   "content": "Chúc mẹ một thai kỳ an toàn và ngày vượt cạn thật dễ dàng.",
+   "translate": ""
+  },
+  {
+   "id": "embe_mebau_21",
+   "content": "Chúc mừng mẹ bầu! Chúc mẹ ăn uống đủ chất và nghỉ ngơi thật tốt.",
+   "translate": ""
+  },
+  {
+   "id": "embe_mebau_22",
+   "content": "Chúc mẹ bầu luôn được chăm sóc chu đáo và luôn vui vẻ.",
+   "translate": ""
+  },
+  {
+   "id": "embe_mebau_23",
+   "content": "Chúc mẹ một thai kỳ khỏe mạnh và bé yêu phát triển thật tốt.",
+   "translate": ""
+  },
+  {
+   "id": "embe_mebau_24",
+   "content": "Chúc mừng mẹ bầu! Chúc mẹ bình an và hạnh phúc trong hành trình này.",
+   "translate": ""
+  },
+  {
+   "id": "embe_mebau_25",
+   "content": "Chúc mẹ bầu bớt lo lắng và tận hưởng từng khoảnh khắc mang thai.",
+   "translate": ""
+  },
+  {
+   "id": "embe_mebau_26",
+   "content": "Chúc mẹ một thai kỳ thật nhẹ nhàng và ngày sinh thật suôn sẻ.",
+   "translate": ""
+  },
+  {
+   "id": "embe_mebau_27",
+   "content": "Chúc mừng mẹ bầu! Chúc mẹ con đều khỏe và cả nhà luôn vui.",
+   "translate": ""
+  },
+  {
+   "id": "embe_mebau_28",
+   "content": "Chúc mẹ bầu luôn giữ được nụ cười, bé trong bụng cũng sẽ vui theo.",
+   "translate": ""
+  },
+  {
+   "id": "embe_mebau_29",
+   "content": "Chúc mẹ một thai kỳ viên mãn và một em bé thật khỏe mạnh.",
+   "translate": ""
+  },
+  {
+   "id": "embe_mebau_30",
+   "content": "Chúc mừng mẹ bầu! Chúc mẹ có đủ sức khỏe cho hành trình phía trước.",
+   "translate": ""
+  },
+  {
+   "id": "embe_mebau_31",
+   "content": "Chúc mẹ bầu ngủ ngon, ăn ngon và luôn được yêu thương.",
+   "translate": ""
+  },
+  {
+   "id": "embe_mebau_32",
+   "content": "Chúc mẹ một thai kỳ bình an và bé yêu chào đời đúng hẹn.",
+   "translate": ""
+  },
+  {
+   "id": "embe_mebau_33",
+   "content": "Chúc mừng mẹ bầu! Chúc mẹ luôn mạnh khỏe và tràn đầy năng lượng.",
+   "translate": ""
+  },
+  {
+   "id": "embe_mebau_34",
+   "content": "Chúc mẹ bầu giữ gìn sức khỏe và đừng quên nghỉ ngơi đầy đủ.",
+   "translate": ""
+  },
+  {
+   "id": "embe_mebau_35",
+   "content": "Chúc mẹ một thai kỳ thật đẹp và một ngày sinh thật nhẹ nhàng.",
+   "translate": ""
+  },
+  {
+   "id": "embe_mebau_36",
+   "content": "Chúc mừng mẹ bầu! Chúc mẹ con vuông tròn và hạnh phúc trọn vẹn.",
+   "translate": ""
+  },
+  {
+   "id": "embe_mebau_37",
+   "content": "Chúc mẹ bầu luôn thoải mái, luôn vui và luôn được chiều chuộng.",
+   "translate": ""
+  },
+  {
+   "id": "embe_mebau_38",
+   "content": "Chúc mẹ một thai kỳ suôn sẻ và bé yêu lớn lên thật khỏe mạnh.",
+   "translate": ""
+  },
+  {
+   "id": "embe_mebau_39",
+   "content": "Chúc mừng mẹ bầu! Chúc mẹ bình an và sớm được gặp con yêu.",
+   "translate": ""
+  },
+  {
+   "id": "embe_mebau_40",
+   "content": "Chúc mẹ bầu có những tháng mang thai thật hạnh phúc và đáng nhớ.",
+   "translate": ""
+  },
+  {
+   "id": "embe_mebau_41",
+   "content": "Chúc mẹ một thai kỳ khỏe mạnh và hành trình làm mẹ thật trọn vẹn.",
+   "translate": ""
+  },
+  {
+   "id": "embe_mebau_42",
+   "content": "Chúc mừng mẹ bầu! Chúc hai mẹ con luôn bình an và khỏe mạnh.",
+   "translate": ""
+  }
+ ]
+}

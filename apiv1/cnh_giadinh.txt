@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "cnh_giadinh_1",
+   "content": "Gia đình là nơi duy nhất bạn có thể về mà không cần báo trước.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_giadinh_2",
+   "content": "Không có nơi nào ấm áp bằng nhà, dù nhà có nhỏ đến đâu.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_giadinh_3",
+   "content": "Cha mẹ là người duy nhất yêu thương bạn mà không cần lý do.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_giadinh_4",
+   "content": "Gia đình không hoàn hảo, nhưng là nơi duy nhất chấp nhận bạn không hoàn hảo.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_giadinh_5",
+   "content": "Hãy về nhà khi còn có thể, vì cha mẹ không đợi được mãi.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_giadinh_6",
+   "content": "Bữa cơm gia đình là bữa cơm ngon nhất, dù món ăn có giản dị thế nào.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_giadinh_7",
+   "content": "Thành công lớn nhất của một đời người là có một gia đình hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_giadinh_8",
+   "content": "Đừng để công việc lấy mất thời gian bạn dành cho những người thân yêu.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_giadinh_9",
+   "content": "Gia đình là nơi bắt đầu tình yêu thương và là nơi nó không bao giờ kết thúc.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_giadinh_10",
+   "content": "Cha mẹ cho đi mà không mong nhận lại, đó là tình yêu lớn nhất trên đời.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_giadinh_11",
+   "content": "Hãy gọi điện về nhà, đôi khi chỉ một cuộc gọi cũng làm cha mẹ vui cả ngày.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_giadinh_12",
+   "content": "Một gia đình hạnh phúc không phải không có mâu thuẫn, mà là biết làm lành.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_giadinh_13",
+   "content": "Nhà là nơi dù bạn thất bại thế nào cũng vẫn được chào đón.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_giadinh_14",
+   "content": "Đừng để đến khi mất đi mới hiểu giá trị của những bữa cơm chung.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_giadinh_15",
+   "content": "Gia đình là chỗ dựa cuối cùng khi cả thế giới quay lưng với bạn.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_giadinh_16",
+   "content": "Yêu thương cha mẹ bằng hành động, đừng chỉ bằng lời nói.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_giadinh_17",
+   "content": "Một mái ấm không cần rộng, chỉ cần đủ chỗ cho tình thương.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_giadinh_18",
+   "content": "Con cái học được nhiều từ cách cha mẹ sống hơn từ những gì cha mẹ nói.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_giadinh_19",
+   "content": "Hãy dành thời gian cho gia đình, đó là khoản đầu tư không bao giờ hối tiếc.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_giadinh_20",
+   "content": "Gia đình là nơi bạn được là chính mình mà không sợ bị phán xét.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_giadinh_21",
+   "content": "Cha mẹ già đi nhanh hơn chúng ta tưởng, hãy trân trọng từng ngày.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_giadinh_22",
+   "content": "Hạnh phúc đơn giản là cả nhà cùng ngồi ăn cơm và kể chuyện trong ngày.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_giadinh_23",
+   "content": "Một gia đình gắn bó là tài sản quý giá nhất mà bạn có thể có.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_giadinh_24",
+   "content": "Đừng mang cảm xúc tiêu cực từ bên ngoài về nhà.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_giadinh_25",
+   "content": "Nhà không phải là nơi bạn ở, mà là nơi có người đợi bạn về.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_giadinh_26",
+   "content": "Tình thân là thứ duy nhất không thể thay thế bằng bất cứ điều gì.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_giadinh_27",
+   "content": "Hãy nói yêu thương với người thân khi còn có thể nói.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_giadinh_28",
+   "content": "Gia đình hạnh phúc được xây từ sự nhường nhịn và thấu hiểu mỗi ngày.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_giadinh_29",
+   "content": "Những gì cha mẹ làm cho con, con cả đời cũng khó trả hết.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_giadinh_30",
+   "content": "Hãy để con cái lớn lên trong một ngôi nhà đầy tiếng cười.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_giadinh_31",
+   "content": "Gia đình là nơi dạy bạn bài học đầu tiên về tình yêu thương.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_giadinh_32",
+   "content": "Đừng để sự bận rộn khiến bạn trở thành người xa lạ trong chính nhà mình.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_giadinh_33",
+   "content": "Một gia đình yên ấm quan trọng hơn mọi thành công ngoài xã hội.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_giadinh_34",
+   "content": "Hãy biết ơn vì mỗi ngày còn được nhìn thấy người thân khỏe mạnh.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_giadinh_35",
+   "content": "Cha mẹ không cần con cái giàu có, chỉ cần con cái bình an.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_giadinh_36",
+   "content": "Nhà là nơi mọi vết thương đều được chữa lành.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_giadinh_37",
+   "content": "Hãy dạy con bằng cách sống tử tế, đó là bài học tốt nhất.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_giadinh_38",
+   "content": "Gia đình là nơi duy nhất mà sự có mặt của bạn quan trọng hơn thành tích của bạn.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_giadinh_39",
+   "content": "Đừng tiếc một cái ôm với người thân, đôi khi đó là điều họ cần nhất.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_giadinh_40",
+   "content": "Một mái ấm thật sự được xây bằng sự quan tâm, không phải bằng tiền bạc.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_giadinh_41",
+   "content": "Hãy trân trọng những bữa cơm còn đủ mặt mọi người.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_giadinh_42",
+   "content": "Gia đình là điểm tựa để bạn đi thật xa và là nơi để bạn trở về.",
+   "translate": ""
+  }
+ ]
+}

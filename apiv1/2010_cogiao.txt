@@ -1,0 +1,204 @@
+{
+ "result": [
+  {
+   "id": "2010_cogiao_1",
+   "content": "Nhân ngày Phụ nữ Việt Nam, em chúc cô luôn thành công, mạnh khỏe, hạnh phúc trong cuộc sống. Cảm ơn cô đã dạy dỗ và dìu dắt chúng em qua quãng thời gian thanh xuân tươi đẹp.",
+   "translate": ""
+  },
+  {
+   "id": "2010_cogiao_2",
+   "content": "Cô giáo kính mến, nhân ngày 20/10 - là một trong những ngày quan trọng nhất của phái đẹp Việt Nam. Em chúc cô có thêm nhiều sức khỏe, năng lượng dồi dào để tiếp lối dẫn dắt thêm nhiều thế hệ học trò.",
+   "translate": ""
+  },
+  {
+   "id": "2010_cogiao_3",
+   "content": "Cô giáo thân mến, nhân ngày 20/10, em xin phép gửi tới cô lời chúc sức khỏe, thành công và những lời tri ân từ tận đáy lòng. Cảm ơn cô đã dạy dỗ và đồng hành cùng chúng em qua những năm tháng học trò đáng nhớ.",
+   "translate": ""
+  },
+  {
+   "id": "2010_cogiao_4",
+   "content": "Nhân ngày 20/10 - Phụ nữ Việt Nam, em chúc cô giáo thật hạnh phúc, vui tươi, thành công và đạt được nhiều mong ước trong cuộc sống.",
+   "translate": ""
+  },
+  {
+   "id": "2010_cogiao_5",
+   "content": "Cô giáo mến thương, nhân ngày Phụ nữ Việt Nam, em xin gửi tới cô những lời chúc sâu sắc nhất, mong cô sẽ có sức khỏe để luôn hoàn thành tốt nhiệm vụ trồng người cao cả.",
+   "translate": ""
+  },
+  {
+   "id": "2010_cogiao_6",
+   "content": "Cô giáo - người mẹ thứ hai đã luôn đồng hành cùng chúng em để chinh phục được chặng đường tri thức gian khổ, mỗi lời động viên của cô như là một nguồn động lực lớn lao đối với chúng em. Nhân ngày 20/10, chúc cô luôn xinh đẹp, tươi vui và rạng rỡ. Chúng em yêu cô rất nhiều.",
+   "translate": ""
+  },
+  {
+   "id": "2010_cogiao_7",
+   "content": "Nhân ngày 20/10, em kính chúc cô luôn mạnh khỏe, xinh đẹp và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "2010_cogiao_8",
+   "content": "Chúc mừng ngày Phụ nữ Việt Nam! Em chúc cô một ngày thật ý nghĩa bên gia đình và học trò.",
+   "translate": ""
+  },
+  {
+   "id": "2010_cogiao_9",
+   "content": "Ngày 20/10, em kính chúc cô mãi trẻ trung, nhiệt huyết và được học trò yêu quý.",
+   "translate": ""
+  },
+  {
+   "id": "2010_cogiao_10",
+   "content": "Nhân ngày 20/10, em xin gửi tới cô lòng biết ơn và lời chúc sức khỏe, bình an.",
+   "translate": ""
+  },
+  {
+   "id": "2010_cogiao_11",
+   "content": "Chúc mừng 20/10! Em kính chúc cô bớt vất vả và có nhiều thời gian cho bản thân hơn.",
+   "translate": ""
+  },
+  {
+   "id": "2010_cogiao_12",
+   "content": "Ngày của phụ nữ Việt Nam, em chúc cô luôn giữ được nụ cười ấm áp trên bục giảng.",
+   "translate": ""
+  },
+  {
+   "id": "2010_cogiao_13",
+   "content": "Nhân ngày 20/10, em kính chúc cô vạn sự như ý, gia đình hạnh phúc, sự nghiệp viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "2010_cogiao_14",
+   "content": "Chúc mừng ngày 20/10! Em chúc cô sức khỏe dồi dào và tâm hồn luôn thư thái.",
+   "translate": ""
+  },
+  {
+   "id": "2010_cogiao_15",
+   "content": "Ngày 20/10, em kính chúc cô nhận được thật nhiều hoa và lời chúc tốt đẹp.",
+   "translate": ""
+  },
+  {
+   "id": "2010_cogiao_16",
+   "content": "Nhân ngày Phụ nữ Việt Nam, em chúc cô mãi là người phụ nữ tuyệt vời trong mắt chúng em.",
+   "translate": ""
+  },
+  {
+   "id": "2010_cogiao_17",
+   "content": "Chúc mừng 20/10! Em kính chúc cô an khang, thịnh vượng và thật nhiều may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "2010_cogiao_18",
+   "content": "Ngày 20/10, em chúc cô luôn khỏe để tiếp tục dìu dắt bao thế hệ học trò.",
+   "translate": ""
+  },
+  {
+   "id": "2010_cogiao_19",
+   "content": "Nhân ngày 20/10, em kính chúc cô bình an, viên mãn và tràn đầy niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "2010_cogiao_20",
+   "content": "Chúc mừng ngày Phụ nữ Việt Nam! Em chúc cô một ngày thật nhẹ nhàng và thảnh thơi.",
+   "translate": ""
+  },
+  {
+   "id": "2010_cogiao_21",
+   "content": "Ngày 20/10, em kính chúc cô mọi dự định đều thành và mọi mong ước đều toại.",
+   "translate": ""
+  },
+  {
+   "id": "2010_cogiao_22",
+   "content": "Nhân ngày 20/10, em chúc cô luôn tự hào về những học trò mà cô đã dạy dỗ.",
+   "translate": ""
+  },
+  {
+   "id": "2010_cogiao_23",
+   "content": "Chúc mừng 20/10! Em kính chúc cô sức khỏe như ý và cuộc sống đủ đầy.",
+   "translate": ""
+  },
+  {
+   "id": "2010_cogiao_24",
+   "content": "Ngày của phụ nữ Việt Nam, em chúc cô luôn rạng rỡ và tràn đầy năng lượng.",
+   "translate": ""
+  },
+  {
+   "id": "2010_cogiao_25",
+   "content": "Nhân ngày 20/10, em kính chúc cô thân tâm an lạc và phúc lộc đầy nhà.",
+   "translate": ""
+  },
+  {
+   "id": "2010_cogiao_26",
+   "content": "Chúc mừng ngày 20/10! Em chúc cô mãi khỏe, mãi vui và mãi yêu nghề.",
+   "translate": ""
+  },
+  {
+   "id": "2010_cogiao_27",
+   "content": "Ngày 20/10, em kính chúc cô thật nhiều sức khỏe và thật nhiều tiếng cười.",
+   "translate": ""
+  },
+  {
+   "id": "2010_cogiao_28",
+   "content": "Nhân ngày Phụ nữ Việt Nam, em chúc cô mọi điều tốt đẹp nhất sẽ luôn đến.",
+   "translate": ""
+  },
+  {
+   "id": "2010_cogiao_29",
+   "content": "Chúc mừng 20/10! Em kính chúc cô gia đình thuận hòa và công việc hanh thông.",
+   "translate": ""
+  },
+  {
+   "id": "2010_cogiao_30",
+   "content": "Ngày 20/10, em chúc cô có một ngày được nghỉ ngơi và được nâng niu.",
+   "translate": ""
+  },
+  {
+   "id": "2010_cogiao_31",
+   "content": "Nhân ngày 20/10, em kính chúc cô an nhiên, tự tại và luôn mỉm cười.",
+   "translate": ""
+  },
+  {
+   "id": "2010_cogiao_32",
+   "content": "Chúc mừng ngày Phụ nữ Việt Nam! Cảm ơn cô vì sự tận tụy và kiên nhẫn với chúng em.",
+   "translate": ""
+  },
+  {
+   "id": "2010_cogiao_33",
+   "content": "Ngày 20/10, em kính chúc cô vạn sự cát tường và mọi điều hanh thông.",
+   "translate": ""
+  },
+  {
+   "id": "2010_cogiao_34",
+   "content": "Nhân ngày 20/10, em chúc cô một ngày thật vui và một đời thật an yên.",
+   "translate": ""
+  },
+  {
+   "id": "2010_cogiao_35",
+   "content": "Chúc mừng 20/10! Em kính chúc cô sức khỏe bền bỉ và tinh thần luôn phơi phới.",
+   "translate": ""
+  },
+  {
+   "id": "2010_cogiao_36",
+   "content": "Ngày 20/10, em chúc cô luôn được học trò nhớ tới với lòng biết ơn sâu sắc.",
+   "translate": ""
+  },
+  {
+   "id": "2010_cogiao_37",
+   "content": "Nhân ngày Phụ nữ Việt Nam, em kính chúc cô hạnh phúc trọn vẹn trong cuộc sống.",
+   "translate": ""
+  },
+  {
+   "id": "2010_cogiao_38",
+   "content": "Chúc mừng ngày 20/10! Em chúc cô mãi xinh đẹp và mãi dịu dàng như vậy.",
+   "translate": ""
+  },
+  {
+   "id": "2010_cogiao_39",
+   "content": "Ngày 20/10, em kính chúc cô ngập tràn yêu thương từ gia đình và học trò.",
+   "translate": ""
+  },
+  {
+   "id": "2010_cogiao_40",
+   "content": "Nhân ngày 20/10, em chúc cô một ngày trọn vẹn, xứng đáng với tất cả những gì cô đã cho đi.",
+   "translate": ""
+  }
+ ]
+}

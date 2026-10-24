@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "sinhnhat_dongnghiep_1",
+   "content": "Chúc mừng sinh nhật bạn! Chúc đồng nghiệp thân mến một tuổi mới sức khỏe, thành công và thật nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_dongnghiep_2",
+   "content": "Happy birthday! Chúc bạn tuổi mới công việc hanh thông, thăng tiến thuận lợi, lương thưởng dày thêm.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_dongnghiep_3",
+   "content": "Chúc mừng sinh nhật! Chúc cậu tuổi mới ít deadline gấp, nhiều ngày nghỉ và nhiều thành tựu.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_dongnghiep_4",
+   "content": "Sinh nhật vui vẻ nhé! Chúc bạn tuổi mới giữ mãi năng lượng tích cực đã truyền cho cả phòng.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_dongnghiep_5",
+   "content": "Chúc mừng sinh nhật đồng nghiệp! Chúc bạn một tuổi mới an lành, thuận lợi và đáng nhớ.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_dongnghiep_6",
+   "content": "Happy birthday! Chúc bạn tuổi mới gặt hái được những mục tiêu mà bạn đã theo đuổi bấy lâu.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_dongnghiep_7",
+   "content": "Chúc mừng sinh nhật! Chúc cậu tuổi mới khỏe mạnh để còn cùng cả team chiến tiếp những dự án khó.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_dongnghiep_8",
+   "content": "Sinh nhật vui vẻ! Chúc bạn tuổi mới nhiều may mắn, nhiều cơ hội và nhiều bước tiến dài.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_dongnghiep_9",
+   "content": "Chúc mừng sinh nhật bạn! Chúc bạn tuổi mới cân bằng được công việc và cuộc sống thật tốt.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_dongnghiep_10",
+   "content": "Happy birthday! Chúc đồng nghiệp thân mến một tuổi mới rực rỡ và thật nhiều tiếng cười.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_dongnghiep_11",
+   "content": "Chúc mừng sinh nhật! Chúc cậu tuổi mới sếp quý, khách thương, đồng nghiệp yêu mến.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_dongnghiep_12",
+   "content": "Sinh nhật vui vẻ nhé! Chúc bạn tuổi mới bớt áp lực, nhiều niềm vui và thật nhiều sức khỏe.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_dongnghiep_13",
+   "content": "Chúc mừng sinh nhật đồng nghiệp! Chúc bạn tuổi mới mọi dự án đều về đích đúng hẹn.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_dongnghiep_14",
+   "content": "Happy birthday! Chúc bạn tuổi mới thu nhập tăng, công việc nhẹ, tinh thần luôn phơi phới.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_dongnghiep_15",
+   "content": "Chúc mừng sinh nhật! Cảm ơn bạn vì đã là người đồng đội tuyệt vời, chúc bạn tuổi mới thật hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_dongnghiep_16",
+   "content": "Sinh nhật vui vẻ! Chúc cậu tuổi mới thành công hơn, tự tin hơn và vui vẻ hơn nữa.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_dongnghiep_17",
+   "content": "Chúc mừng sinh nhật bạn! Chúc bạn tuổi mới gặp toàn điều may và tránh xa mọi rắc rối.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_dongnghiep_18",
+   "content": "Happy birthday! Chúc bạn một tuổi mới bùng nổ cả trong công việc lẫn cuộc sống riêng.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_dongnghiep_19",
+   "content": "Chúc mừng sinh nhật! Chúc đồng nghiệp tuổi mới sức khỏe dồi dào, tinh thần vững vàng.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_dongnghiep_20",
+   "content": "Sinh nhật vui vẻ nhé! Chúc bạn tuổi mới nhiều ý tưởng hay và nhiều cơ hội để thực hiện chúng.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_dongnghiep_21",
+   "content": "Chúc mừng sinh nhật! Chúc cậu tuổi mới an khang, thịnh vượng và vạn sự như ý.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_dongnghiep_22",
+   "content": "Happy birthday! Chúc bạn tuổi mới mọi nỗ lực đều được ghi nhận và đền đáp xứng đáng.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_dongnghiep_23",
+   "content": "Chúc mừng sinh nhật đồng nghiệp! Chúc bạn tuổi mới thật nhiều niềm vui và ít stress hơn hẳn.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_dongnghiep_24",
+   "content": "Sinh nhật vui vẻ! Chúc bạn tuổi mới giữ được sự tử tế và nhiệt tình khiến ai cũng quý.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_dongnghiep_25",
+   "content": "Chúc mừng sinh nhật bạn! Chúc bạn tuổi mới thăng tiến như diều gặp gió.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_dongnghiep_26",
+   "content": "Happy birthday! Chúc cậu tuổi mới làm đâu trúng đó, nói đâu nghe đó, đi đâu cũng thuận.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_dongnghiep_27",
+   "content": "Chúc mừng sinh nhật! Chúc bạn một tuổi mới khỏe mạnh, bình an và thật nhiều may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_dongnghiep_28",
+   "content": "Sinh nhật vui vẻ nhé! Chúc bạn tuổi mới có thêm nhiều trải nghiệm đẹp ngoài công việc.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_dongnghiep_29",
+   "content": "Chúc mừng sinh nhật đồng nghiệp! Chúc bạn tuổi mới đạt được mọi mục tiêu đã đặt ra.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_dongnghiep_30",
+   "content": "Happy birthday! Chúc bạn tuổi mới nhẹ gánh lo toan, đầy ắp niềm vui và thành công.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_dongnghiep_31",
+   "content": "Chúc mừng sinh nhật! Chúc cậu tuổi mới sức khỏe như ý, công việc như mơ, cuộc sống như tranh.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_dongnghiep_32",
+   "content": "Sinh nhật vui vẻ! Chúc bạn tuổi mới gặp nhiều quý nhân và nhiều điều tốt lành.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_dongnghiep_33",
+   "content": "Chúc mừng sinh nhật bạn! Chúc bạn tuổi mới tự tin bứt phá và chạm tới những cột mốc mới.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_dongnghiep_34",
+   "content": "Happy birthday! Chúc đồng nghiệp tuổi mới hạnh phúc, viên mãn và luôn mỉm cười.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_dongnghiep_35",
+   "content": "Chúc mừng sinh nhật! Chúc bạn tuổi mới mọi khó khăn đều hóa thuận lợi.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_dongnghiep_36",
+   "content": "Sinh nhật vui vẻ nhé! Chúc cậu tuổi mới thật nhiều sức khỏe và thật nhiều tiền thưởng.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_dongnghiep_37",
+   "content": "Chúc mừng sinh nhật! Chúc bạn một tuổi mới đáng nhớ với thật nhiều kỷ niệm đẹp.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_dongnghiep_38",
+   "content": "Happy birthday! Chúc bạn tuổi mới sống thật đã, làm thật tốt và nghỉ ngơi thật đủ.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_dongnghiep_39",
+   "content": "Chúc mừng sinh nhật đồng nghiệp! Chúc bạn tuổi mới bình an, sung túc và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_dongnghiep_40",
+   "content": "Sinh nhật vui vẻ! Chúc bạn tuổi mới luôn giữ được nụ cười làm sáng cả văn phòng.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_dongnghiep_41",
+   "content": "Chúc mừng sinh nhật bạn! Chúc bạn tuổi mới vạn sự hanh thông, tâm an, đời vui.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_dongnghiep_42",
+   "content": "Happy birthday! Chúc cậu tuổi mới thật tuyệt vời, và nhớ khao cả phòng một bữa nhé.",
+   "translate": ""
+  }
+ ]
+}

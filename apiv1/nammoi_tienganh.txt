@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "nammoi_tienganh_1",
+   "content": "Happy New Year! Wishing you health, happiness and success in the year ahead.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tienganh_2",
+   "content": "Wishing you a bright, prosperous and joyful new year.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tienganh_3",
+   "content": "Happy New Year! May this year bring you everything the last one did not.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tienganh_4",
+   "content": "Here is to new beginnings, new goals and a very happy new year.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tienganh_5",
+   "content": "Happy New Year! May your days be filled with purpose and your nights with rest.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tienganh_6",
+   "content": "Wishing you twelve months of happiness and three hundred sixty-five days of luck.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tienganh_7",
+   "content": "Happy New Year! May you grow braver, kinder and happier this year.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tienganh_8",
+   "content": "May the new year bring you peace of mind and plenty of good moments.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tienganh_9",
+   "content": "Happy New Year! Wishing you courage for every challenge ahead.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tienganh_10",
+   "content": "Wishing you a year of good health, great company and quiet joy.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tienganh_11",
+   "content": "Happy New Year! May all your plans come together beautifully.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tienganh_12",
+   "content": "Here is to a fresh start and a year worth remembering.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tienganh_13",
+   "content": "Happy New Year! May you finally do the thing you keep putting off.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tienganh_14",
+   "content": "Wishing you success in work, warmth at home and peace in your heart.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tienganh_15",
+   "content": "Happy New Year! May this be the year everything falls into place.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tienganh_16",
+   "content": "May the coming year be kind to you in every way.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tienganh_17",
+   "content": "Happy New Year! Wishing you fewer worries and far more laughter.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tienganh_18",
+   "content": "Here is to a year of growth, good luck and genuine happiness.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tienganh_19",
+   "content": "Happy New Year! May you be surrounded by people who lift you up.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tienganh_20",
+   "content": "Wishing you a prosperous new year and a heart full of gratitude.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tienganh_21",
+   "content": "Happy New Year! May your efforts be rewarded beyond expectation.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tienganh_22",
+   "content": "May this new year open doors you did not even know existed.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tienganh_23",
+   "content": "Happy New Year! Wishing you balance, health and a little adventure.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tienganh_24",
+   "content": "Here is to leaving behind what no longer serves you.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tienganh_25",
+   "content": "Happy New Year! May you find joy in both the big wins and the small days.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tienganh_26",
+   "content": "Wishing you a year full of possibility and free of regret.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tienganh_27",
+   "content": "Happy New Year! May your confidence grow and your doubts fade.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tienganh_28",
+   "content": "May this year bring you closer to the life you want.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tienganh_29",
+   "content": "Happy New Year! Wishing you strength for hard days and gratitude for good ones.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tienganh_30",
+   "content": "Here is to a brighter, bolder and happier year ahead.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tienganh_31",
+   "content": "Happy New Year! May you be healthy, loved and at peace.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tienganh_32",
+   "content": "Wishing you a new year as wonderful as you deserve.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tienganh_33",
+   "content": "Happy New Year! May every month bring something worth celebrating.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tienganh_34",
+   "content": "May the new year treat you gently and reward you generously.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tienganh_35",
+   "content": "Happy New Year! Wishing you clarity, courage and good fortune.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tienganh_36",
+   "content": "Here is to another year of trying, learning and succeeding.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tienganh_37",
+   "content": "Happy New Year! May your dreams stop being plans and start being memories.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tienganh_38",
+   "content": "Wishing you happiness that lasts well beyond January.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tienganh_39",
+   "content": "Happy New Year! May you look back on this year with a smile.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tienganh_40",
+   "content": "Here is to good health, good friends and a very good year.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tienganh_41",
+   "content": "Happy New Year! Wishing you everything you wish for yourself.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_tienganh_42",
+   "content": "May this new year be your best one yet. Happy New Year!",
+   "translate": ""
+  }
+ ]
+}

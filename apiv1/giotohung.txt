@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "giotohung_1",
+   "content": "Nhân ngày Giỗ tổ Hùng Vương 10/3, xin tưởng nhớ công ơn dựng nước của các Vua Hùng.",
+   "translate": ""
+  },
+  {
+   "id": "giotohung_2",
+   "content": "Ngày Giỗ tổ Hùng Vương, chúc bạn và gia đình một ngày lễ ý nghĩa và bình an.",
+   "translate": ""
+  },
+  {
+   "id": "giotohung_3",
+   "content": "Nhân ngày 10/3 âm lịch, xin thành kính tri ân các Vua Hùng đã có công dựng nước.",
+   "translate": ""
+  },
+  {
+   "id": "giotohung_4",
+   "content": "Giỗ tổ Hùng Vương, chúc bạn một kỳ nghỉ thật vui và trọn vẹn bên gia đình.",
+   "translate": ""
+  },
+  {
+   "id": "giotohung_5",
+   "content": "Nhân ngày Giỗ tổ, xin nhớ về cội nguồn dân tộc và công ơn tổ tiên.",
+   "translate": ""
+  },
+  {
+   "id": "giotohung_6",
+   "content": "Ngày 10/3, chúc bạn và gia đình thật nhiều sức khỏe, bình an và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "giotohung_7",
+   "content": "Nhân ngày Giỗ tổ Hùng Vương, xin kính cẩn hướng về đất Tổ.",
+   "translate": ""
+  },
+  {
+   "id": "giotohung_8",
+   "content": "Giỗ tổ Hùng Vương, chúc bạn một ngày lễ ấm áp và đầy ý nghĩa.",
+   "translate": ""
+  },
+  {
+   "id": "giotohung_9",
+   "content": "Nhân ngày 10/3 âm lịch, chúc bạn luôn tự hào về nguồn cội của mình.",
+   "translate": ""
+  },
+  {
+   "id": "giotohung_10",
+   "content": "Ngày Giỗ tổ, xin tưởng nhớ các Vua Hùng và cầu mong quốc thái dân an.",
+   "translate": ""
+  },
+  {
+   "id": "giotohung_11",
+   "content": "Nhân ngày Giỗ tổ Hùng Vương, chúc bạn và gia đình vạn sự bình an.",
+   "translate": ""
+  },
+  {
+   "id": "giotohung_12",
+   "content": "Giỗ tổ Hùng Vương, chúc bạn có những ngày nghỉ thật thoải mái.",
+   "translate": ""
+  },
+  {
+   "id": "giotohung_13",
+   "content": "Nhân ngày 10/3, xin nhớ câu \"Dù ai đi ngược về xuôi, nhớ ngày Giỗ tổ mùng mười tháng ba\".",
+   "translate": ""
+  },
+  {
+   "id": "giotohung_14",
+   "content": "Ngày Giỗ tổ, chúc bạn thật nhiều sức khỏe và thật nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "giotohung_15",
+   "content": "Nhân ngày Giỗ tổ Hùng Vương, xin tri ân các bậc tiền nhân đã dựng xây đất nước.",
+   "translate": ""
+  },
+  {
+   "id": "giotohung_16",
+   "content": "Giỗ tổ Hùng Vương, chúc bạn và gia đình một ngày lễ an lành.",
+   "translate": ""
+  },
+  {
+   "id": "giotohung_17",
+   "content": "Nhân ngày 10/3 âm lịch, chúc bạn luôn hướng về cội nguồn và gia đình.",
+   "translate": ""
+  },
+  {
+   "id": "giotohung_18",
+   "content": "Ngày Giỗ tổ, chúc bạn mọi điều tốt lành và may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "giotohung_19",
+   "content": "Nhân ngày Giỗ tổ Hùng Vương, xin thành kính tưởng nhớ công đức tổ tiên.",
+   "translate": ""
+  },
+  {
+   "id": "giotohung_20",
+   "content": "Giỗ tổ Hùng Vương, chúc bạn một kỳ nghỉ vui vẻ và an toàn.",
+   "translate": ""
+  },
+  {
+   "id": "giotohung_21",
+   "content": "Nhân ngày 10/3, chúc bạn và gia đình sum vầy, ấm áp và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "giotohung_22",
+   "content": "Ngày Giỗ tổ, xin cầu mong cho đất nước ngày càng phồn vinh, thịnh vượng.",
+   "translate": ""
+  },
+  {
+   "id": "giotohung_23",
+   "content": "Nhân ngày Giỗ tổ Hùng Vương, chúc bạn bình an trên mọi nẻo đường.",
+   "translate": ""
+  },
+  {
+   "id": "giotohung_24",
+   "content": "Giỗ tổ Hùng Vương, chúc bạn có một ngày lễ thật ý nghĩa bên người thân.",
+   "translate": ""
+  },
+  {
+   "id": "giotohung_25",
+   "content": "Nhân ngày 10/3 âm lịch, xin tri ân các Vua Hùng và tự hào là con cháu Lạc Hồng.",
+   "translate": ""
+  },
+  {
+   "id": "giotohung_26",
+   "content": "Ngày Giỗ tổ, chúc bạn thật nhiều niềm vui và thật ít lo toan.",
+   "translate": ""
+  },
+  {
+   "id": "giotohung_27",
+   "content": "Nhân ngày Giỗ tổ Hùng Vương, chúc bạn và gia đình mọi sự hanh thông.",
+   "translate": ""
+  },
+  {
+   "id": "giotohung_28",
+   "content": "Giỗ tổ Hùng Vương, chúc bạn một ngày nghỉ thật trọn vẹn và đáng nhớ.",
+   "translate": ""
+  },
+  {
+   "id": "giotohung_29",
+   "content": "Nhân ngày 10/3, xin nhắc nhau nhớ về cội nguồn và giữ gìn truyền thống dân tộc.",
+   "translate": ""
+  },
+  {
+   "id": "giotohung_30",
+   "content": "Ngày Giỗ tổ, chúc bạn sức khỏe dồi dào và cuộc sống viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "giotohung_31",
+   "content": "Nhân ngày Giỗ tổ Hùng Vương, chúc bạn và gia đình an khang, thịnh vượng.",
+   "translate": ""
+  },
+  {
+   "id": "giotohung_32",
+   "content": "Giỗ tổ Hùng Vương, chúc bạn một ngày lễ bình an và tràn đầy niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "giotohung_33",
+   "content": "Nhân ngày 10/3 âm lịch, xin cúi đầu tri ân công đức dựng nước của tổ tiên.",
+   "translate": ""
+  },
+  {
+   "id": "giotohung_34",
+   "content": "Ngày Giỗ tổ, chúc bạn luôn mạnh khỏe và luôn hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "giotohung_35",
+   "content": "Nhân ngày Giỗ tổ Hùng Vương, chúc bạn có thời gian sum họp cùng gia đình.",
+   "translate": ""
+  },
+  {
+   "id": "giotohung_36",
+   "content": "Giỗ tổ Hùng Vương, chúc bạn mọi điều may mắn và tốt đẹp nhất.",
+   "translate": ""
+  },
+  {
+   "id": "giotohung_37",
+   "content": "Nhân ngày 10/3, chúc bạn và gia đình một ngày lễ thật ấm áp.",
+   "translate": ""
+  },
+  {
+   "id": "giotohung_38",
+   "content": "Ngày Giỗ tổ, xin tưởng nhớ cội nguồn và nguyện sống tốt để xứng đáng với tổ tiên.",
+   "translate": ""
+  },
+  {
+   "id": "giotohung_39",
+   "content": "Nhân ngày Giỗ tổ Hùng Vương, chúc bạn bình an, hạnh phúc và vạn sự như ý.",
+   "translate": ""
+  },
+  {
+   "id": "giotohung_40",
+   "content": "Giỗ tổ Hùng Vương, chúc bạn một kỳ nghỉ thật đáng nhớ bên những người thân yêu.",
+   "translate": ""
+  },
+  {
+   "id": "giotohung_41",
+   "content": "Nhân ngày 10/3 âm lịch, chúc bạn luôn giữ được lòng biết ơn với cội nguồn.",
+   "translate": ""
+  },
+  {
+   "id": "giotohung_42",
+   "content": "Ngày Giỗ tổ, chúc bạn và gia đình thật nhiều sức khỏe và niềm vui.",
+   "translate": ""
+  }
+ ]
+}

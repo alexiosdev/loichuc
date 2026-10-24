@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "quockhanh_1",
+   "content": "Chúc mừng ngày Quốc khánh 2/9! Chúc bạn và gia đình một kỳ nghỉ lễ thật vui và ý nghĩa.",
+   "translate": ""
+  },
+  {
+   "id": "quockhanh_2",
+   "content": "Nhân ngày Quốc khánh, chúc bạn thật nhiều sức khỏe, bình an và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "quockhanh_3",
+   "content": "Chúc mừng 2/9! Chúc bạn một ngày lễ trọn vẹn bên những người mình yêu quý.",
+   "translate": ""
+  },
+  {
+   "id": "quockhanh_4",
+   "content": "Nhân dịp Quốc khánh 2/9, chúc bạn có những ngày nghỉ thật thoải mái.",
+   "translate": ""
+  },
+  {
+   "id": "quockhanh_5",
+   "content": "Chúc mừng ngày Quốc khánh! Chúc bạn và gia đình một kỳ nghỉ an toàn và vui vẻ.",
+   "translate": ""
+  },
+  {
+   "id": "quockhanh_6",
+   "content": "Nhân ngày 2/9, chúc bạn luôn tự hào về quê hương và đất nước mình.",
+   "translate": ""
+  },
+  {
+   "id": "quockhanh_7",
+   "content": "Chúc mừng Quốc khánh 2/9! Chúc bạn một ngày lễ ý nghĩa và thật nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "quockhanh_8",
+   "content": "Nhân dịp lễ 2/9, chúc bạn gác lại công việc và tận hưởng kỳ nghỉ.",
+   "translate": ""
+  },
+  {
+   "id": "quockhanh_9",
+   "content": "Chúc mừng ngày Quốc khánh! Chúc bạn sức khỏe dồi dào và tinh thần phơi phới.",
+   "translate": ""
+  },
+  {
+   "id": "quockhanh_10",
+   "content": "Nhân ngày 2/9, chúc bạn và gia đình một kỳ nghỉ thật đáng nhớ.",
+   "translate": ""
+  },
+  {
+   "id": "quockhanh_11",
+   "content": "Chúc mừng 2/9! Chúc bạn có một chuyến đi chơi thật thú vị và an toàn.",
+   "translate": ""
+  },
+  {
+   "id": "quockhanh_12",
+   "content": "Nhân dịp Quốc khánh, chúc bạn bình an, hạnh phúc và thật nhiều may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "quockhanh_13",
+   "content": "Chúc mừng ngày Quốc khánh 2/9! Chúc bạn một ngày lễ thật ấm áp bên gia đình.",
+   "translate": ""
+  },
+  {
+   "id": "quockhanh_14",
+   "content": "Nhân ngày 2/9, chúc bạn nghỉ ngơi thật đã sau những ngày làm việc vất vả.",
+   "translate": ""
+  },
+  {
+   "id": "quockhanh_15",
+   "content": "Chúc mừng Quốc khánh! Chúc bạn một kỳ nghỉ vui vẻ và tràn đầy năng lượng.",
+   "translate": ""
+  },
+  {
+   "id": "quockhanh_16",
+   "content": "Nhân dịp lễ 2/9, chúc bạn thật nhiều sức khỏe và thật nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "quockhanh_17",
+   "content": "Chúc mừng ngày 2/9! Chúc bạn và gia đình luôn bình an và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "quockhanh_18",
+   "content": "Nhân ngày Quốc khánh, chúc bạn có thời gian dành cho những điều mình yêu thích.",
+   "translate": ""
+  },
+  {
+   "id": "quockhanh_19",
+   "content": "Chúc mừng 2/9! Chúc bạn một ngày lễ trọn vẹn và một tuần mới thật thuận lợi.",
+   "translate": ""
+  },
+  {
+   "id": "quockhanh_20",
+   "content": "Nhân dịp Quốc khánh 2/9, chúc bạn mọi điều tốt đẹp nhất.",
+   "translate": ""
+  },
+  {
+   "id": "quockhanh_21",
+   "content": "Chúc mừng ngày Quốc khánh! Chúc bạn luôn khỏe mạnh và luôn vui vẻ.",
+   "translate": ""
+  },
+  {
+   "id": "quockhanh_22",
+   "content": "Nhân ngày 2/9, chúc bạn và gia đình có những kỷ niệm đẹp trong kỳ nghỉ này.",
+   "translate": ""
+  },
+  {
+   "id": "quockhanh_23",
+   "content": "Chúc mừng Quốc khánh 2/9! Chúc bạn một kỳ nghỉ an lành và thoải mái.",
+   "translate": ""
+  },
+  {
+   "id": "quockhanh_24",
+   "content": "Nhân dịp lễ, chúc bạn thật nhiều niềm vui và thật ít lo toan.",
+   "translate": ""
+  },
+  {
+   "id": "quockhanh_25",
+   "content": "Chúc mừng ngày 2/9! Chúc bạn sum vầy bên gia đình và tận hưởng ngày lễ.",
+   "translate": ""
+  },
+  {
+   "id": "quockhanh_26",
+   "content": "Nhân ngày Quốc khánh, chúc bạn công việc thuận lợi và cuộc sống đủ đầy.",
+   "translate": ""
+  },
+  {
+   "id": "quockhanh_27",
+   "content": "Chúc mừng 2/9! Chúc bạn một ngày lễ vui vẻ và thật nhiều may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "quockhanh_28",
+   "content": "Nhân dịp Quốc khánh 2/9, chúc bạn bình an trên mọi nẻo đường.",
+   "translate": ""
+  },
+  {
+   "id": "quockhanh_29",
+   "content": "Chúc mừng ngày Quốc khánh! Chúc bạn và gia đình một kỳ nghỉ thật trọn vẹn.",
+   "translate": ""
+  },
+  {
+   "id": "quockhanh_30",
+   "content": "Nhân ngày 2/9, chúc bạn thật nhiều sức khỏe để tiếp tục cố gắng.",
+   "translate": ""
+  },
+  {
+   "id": "quockhanh_31",
+   "content": "Chúc mừng Quốc khánh 2/9! Chúc bạn một ngày lễ ý nghĩa và đáng nhớ.",
+   "translate": ""
+  },
+  {
+   "id": "quockhanh_32",
+   "content": "Nhân dịp lễ 2/9, chúc bạn tận hưởng kỳ nghỉ và quay lại với thật nhiều năng lượng.",
+   "translate": ""
+  },
+  {
+   "id": "quockhanh_33",
+   "content": "Chúc mừng ngày 2/9! Chúc bạn luôn hạnh phúc và luôn bình an.",
+   "translate": ""
+  },
+  {
+   "id": "quockhanh_34",
+   "content": "Nhân ngày Quốc khánh, chúc bạn và gia đình mọi điều may mắn và tốt lành.",
+   "translate": ""
+  },
+  {
+   "id": "quockhanh_35",
+   "content": "Chúc mừng 2/9! Chúc bạn một kỳ nghỉ thật chất và thật thoải mái.",
+   "translate": ""
+  },
+  {
+   "id": "quockhanh_36",
+   "content": "Nhân dịp Quốc khánh, chúc bạn giữ gìn sức khỏe và vui vẻ bên người thân.",
+   "translate": ""
+  },
+  {
+   "id": "quockhanh_37",
+   "content": "Chúc mừng ngày Quốc khánh 2/9! Chúc bạn một ngày thật nhiều tiếng cười.",
+   "translate": ""
+  },
+  {
+   "id": "quockhanh_38",
+   "content": "Nhân ngày 2/9, chúc bạn mọi dự định đều thuận lợi và thành công.",
+   "translate": ""
+  },
+  {
+   "id": "quockhanh_39",
+   "content": "Chúc mừng Quốc khánh! Chúc bạn và gia đình một kỳ nghỉ an toàn và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "quockhanh_40",
+   "content": "Nhân dịp lễ 2/9, chúc bạn thật nhiều niềm vui bên những người mình yêu quý.",
+   "translate": ""
+  },
+  {
+   "id": "quockhanh_41",
+   "content": "Chúc mừng ngày 2/9! Chúc bạn sức khỏe, bình an và vạn sự như ý.",
+   "translate": ""
+  },
+  {
+   "id": "quockhanh_42",
+   "content": "Nhân ngày Quốc khánh, chúc bạn một kỳ nghỉ vui vẻ và một chặng đường mới thật tốt.",
+   "translate": ""
+  }
+ ]
+}

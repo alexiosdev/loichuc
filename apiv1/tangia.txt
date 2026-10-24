@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "tangia_1",
+   "content": "Chúc mừng tân gia! Chúc gia đình bạn an cư lạc nghiệp, nhà mới nhiều may mắn và tài lộc.",
+   "translate": ""
+  },
+  {
+   "id": "tangia_2",
+   "content": "Mừng nhà mới! Chúc anh chị và cả nhà luôn khỏe mạnh, hạnh phúc trong tổ ấm này.",
+   "translate": ""
+  },
+  {
+   "id": "tangia_3",
+   "content": "Chúc mừng tân gia! Chúc gia đình bạn làm ăn phát đạt và nhà cửa luôn ấm êm.",
+   "translate": ""
+  },
+  {
+   "id": "tangia_4",
+   "content": "Mừng tân gia! Chúc anh chị có một ngôi nhà đầy ắp tiếng cười và yêu thương.",
+   "translate": ""
+  },
+  {
+   "id": "tangia_5",
+   "content": "Chúc mừng nhà mới! Chúc gia đình bạn vạn sự như ý, phúc lộc đầy nhà.",
+   "translate": ""
+  },
+  {
+   "id": "tangia_6",
+   "content": "Mừng anh chị về nhà mới! Chúc anh chị an cư lạc nghiệp và ngày càng sung túc.",
+   "translate": ""
+  },
+  {
+   "id": "tangia_7",
+   "content": "Chúc mừng tân gia! Chúc nhà mới của bạn luôn tràn ngập niềm vui và hơi ấm.",
+   "translate": ""
+  },
+  {
+   "id": "tangia_8",
+   "content": "Mừng nhà mới! Chúc gia đình bạn sức khỏe dồi dào và mọi sự hanh thông.",
+   "translate": ""
+  },
+  {
+   "id": "tangia_9",
+   "content": "Chúc mừng tân gia! Mong ngôi nhà này sẽ chứng kiến thật nhiều kỷ niệm đẹp của gia đình bạn.",
+   "translate": ""
+  },
+  {
+   "id": "tangia_10",
+   "content": "Mừng tân gia! Chúc anh chị làm ăn thuận lợi, gia đạo bình an trong tổ ấm mới.",
+   "translate": ""
+  },
+  {
+   "id": "tangia_11",
+   "content": "Chúc mừng nhà mới! Chúc gia đình bạn an khang, thịnh vượng và vạn sự cát tường.",
+   "translate": ""
+  },
+  {
+   "id": "tangia_12",
+   "content": "Mừng anh chị có nhà mới! Chúc anh chị luôn hạnh phúc và đủ đầy.",
+   "translate": ""
+  },
+  {
+   "id": "tangia_13",
+   "content": "Chúc mừng tân gia! Chúc nhà mới mang đến cho gia đình bạn thật nhiều may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "tangia_14",
+   "content": "Mừng nhà mới! Chúc gia đình bạn mọi điều tốt lành và cuộc sống viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "tangia_15",
+   "content": "Chúc mừng tân gia! Chúc anh chị có một khởi đầu thật đẹp ở nơi ở mới.",
+   "translate": ""
+  },
+  {
+   "id": "tangia_16",
+   "content": "Mừng tân gia! Chúc gia đình bạn trên thuận dưới hòa, trong ấm ngoài êm.",
+   "translate": ""
+  },
+  {
+   "id": "tangia_17",
+   "content": "Chúc mừng nhà mới! Chúc anh chị tài lộc dồi dào và con cái ngoan ngoãn.",
+   "translate": ""
+  },
+  {
+   "id": "tangia_18",
+   "content": "Mừng anh chị về nhà mới! Chúc ngôi nhà này luôn ấm áp và bình yên.",
+   "translate": ""
+  },
+  {
+   "id": "tangia_19",
+   "content": "Chúc mừng tân gia! Chúc gia đình bạn sức khỏe, hạnh phúc và thành công.",
+   "translate": ""
+  },
+  {
+   "id": "tangia_20",
+   "content": "Mừng nhà mới! Chúc anh chị an cư lạc nghiệp và mọi dự định đều thành.",
+   "translate": ""
+  },
+  {
+   "id": "tangia_21",
+   "content": "Chúc mừng tân gia! Mong nhà mới sẽ là nơi gia đình bạn luôn muốn trở về.",
+   "translate": ""
+  },
+  {
+   "id": "tangia_22",
+   "content": "Mừng tân gia! Chúc gia đình bạn làm ăn phát đạt và cuộc sống ngày càng tốt đẹp.",
+   "translate": ""
+  },
+  {
+   "id": "tangia_23",
+   "content": "Chúc mừng nhà mới! Chúc anh chị vạn sự hanh thông và gia đạo hưng long.",
+   "translate": ""
+  },
+  {
+   "id": "tangia_24",
+   "content": "Mừng anh chị có tổ ấm mới! Chúc anh chị luôn khỏe mạnh và luôn vui vẻ.",
+   "translate": ""
+  },
+  {
+   "id": "tangia_25",
+   "content": "Chúc mừng tân gia! Chúc gia đình bạn đón thật nhiều niềm vui trong ngôi nhà này.",
+   "translate": ""
+  },
+  {
+   "id": "tangia_26",
+   "content": "Mừng nhà mới! Chúc anh chị an khang, thịnh vượng và phúc lộc viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "tangia_27",
+   "content": "Chúc mừng tân gia! Chúc gia đình bạn mọi điều may mắn và tốt lành nhất.",
+   "translate": ""
+  },
+  {
+   "id": "tangia_28",
+   "content": "Mừng tân gia! Chúc anh chị có một cuộc sống thật thoải mái ở nơi ở mới.",
+   "translate": ""
+  },
+  {
+   "id": "tangia_29",
+   "content": "Chúc mừng nhà mới! Chúc gia đình bạn luôn hạnh phúc và luôn gắn bó.",
+   "translate": ""
+  },
+  {
+   "id": "tangia_30",
+   "content": "Mừng anh chị về nhà mới! Chúc anh chị làm ăn thuận lợi và gặp nhiều quý nhân.",
+   "translate": ""
+  },
+  {
+   "id": "tangia_31",
+   "content": "Chúc mừng tân gia! Chúc ngôi nhà mới luôn đầy ắp tiếng cười và sự ấm áp.",
+   "translate": ""
+  },
+  {
+   "id": "tangia_32",
+   "content": "Mừng nhà mới! Chúc gia đình bạn bình an, sung túc và viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "tangia_33",
+   "content": "Chúc mừng tân gia! Chúc anh chị có thật nhiều kỷ niệm đẹp ở ngôi nhà này.",
+   "translate": ""
+  },
+  {
+   "id": "tangia_34",
+   "content": "Mừng tân gia! Chúc gia đình bạn sức khỏe dồi dào và tài lộc dư dả.",
+   "translate": ""
+  },
+  {
+   "id": "tangia_35",
+   "content": "Chúc mừng nhà mới! Chúc anh chị an cư lạc nghiệp và ngày càng phát đạt.",
+   "translate": ""
+  },
+  {
+   "id": "tangia_36",
+   "content": "Mừng anh chị có nhà mới! Chúc anh chị mọi sự như ý và luôn hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "tangia_37",
+   "content": "Chúc mừng tân gia! Chúc gia đình bạn một khởi đầu thật tốt đẹp.",
+   "translate": ""
+  },
+  {
+   "id": "tangia_38",
+   "content": "Mừng nhà mới! Chúc anh chị luôn bình an và luôn đủ đầy trong tổ ấm này.",
+   "translate": ""
+  },
+  {
+   "id": "tangia_39",
+   "content": "Chúc mừng tân gia! Chúc gia đình bạn vạn sự cát tường và con cháu hiếu thảo.",
+   "translate": ""
+  },
+  {
+   "id": "tangia_40",
+   "content": "Mừng tân gia! Chúc anh chị có một ngôi nhà thật đẹp và một cuộc sống thật vui.",
+   "translate": ""
+  },
+  {
+   "id": "tangia_41",
+   "content": "Chúc mừng nhà mới! Chúc gia đình bạn mọi điều hanh thông và thật nhiều may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "tangia_42",
+   "content": "Mừng anh chị về nhà mới! Chúc anh chị hạnh phúc trọn vẹn trong tổ ấm mới này.",
+   "translate": ""
+  }
+ ]
+}

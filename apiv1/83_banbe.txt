@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "83_banbe_1",
+   "content": "Nhân ngày 8/3, chúc các bạn nữ của lớp mình luôn xinh đẹp, vui vẻ và gặp thật nhiều may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "83_banbe_2",
+   "content": "Chúc mừng 8/3! Chúc cậu mãi xinh, mãi tươi và mãi là cô bạn đáng yêu nhất hội.",
+   "translate": ""
+  },
+  {
+   "id": "83_banbe_3",
+   "content": "Ngày 8/3, chúc bạn luôn rạng rỡ, tự tin và được yêu thương thật nhiều.",
+   "translate": ""
+  },
+  {
+   "id": "83_banbe_4",
+   "content": "Chúc mừng ngày Quốc tế Phụ nữ! Chúc cậu một ngày thật vui và một năm thật rực rỡ.",
+   "translate": ""
+  },
+  {
+   "id": "83_banbe_5",
+   "content": "Nhân ngày 8/3, mình chúc bạn luôn khỏe mạnh, hạnh phúc và sống đúng với điều mình muốn.",
+   "translate": ""
+  },
+  {
+   "id": "83_banbe_6",
+   "content": "Chúc mừng 8/3! Chúc cậu ngày nào cũng được nhận hoa chứ không chỉ riêng hôm nay.",
+   "translate": ""
+  },
+  {
+   "id": "83_banbe_7",
+   "content": "Ngày của phái đẹp, chúc bạn luôn tỏa sáng theo cách riêng của mình.",
+   "translate": ""
+  },
+  {
+   "id": "83_banbe_8",
+   "content": "Chúc mừng 8/3 cậu nhé! Chúc cậu tình duyên viên mãn, công việc hanh thông, da dẻ hồng hào.",
+   "translate": ""
+  },
+  {
+   "id": "83_banbe_9",
+   "content": "Nhân ngày 8/3, chúc bạn bớt lo, bớt nghĩ và cười nhiều hơn mỗi ngày.",
+   "translate": ""
+  },
+  {
+   "id": "83_banbe_10",
+   "content": "Chúc mừng ngày 8/3! Chúc cậu mãi mạnh mẽ nhưng vẫn luôn được ai đó che chở.",
+   "translate": ""
+  },
+  {
+   "id": "83_banbe_11",
+   "content": "Ngày 8/3, mình chúc bạn thật nhiều sức khỏe, thật nhiều niềm vui và thật nhiều quà.",
+   "translate": ""
+  },
+  {
+   "id": "83_banbe_12",
+   "content": "Chúc mừng 8/3! Chúc cậu luôn xinh đẹp từ trong ra ngoài, như cậu vẫn luôn như vậy.",
+   "translate": ""
+  },
+  {
+   "id": "83_banbe_13",
+   "content": "Nhân ngày Quốc tế Phụ nữ, chúc bạn gặt hái được mọi điều bạn đang nỗ lực.",
+   "translate": ""
+  },
+  {
+   "id": "83_banbe_14",
+   "content": "Chúc mừng 8/3 nhé! Chúc cậu luôn giữ được nụ cười tươi làm cả hội vui lây.",
+   "translate": ""
+  },
+  {
+   "id": "83_banbe_15",
+   "content": "Ngày 8/3, chúc bạn một ngày thật đặc biệt và một cuộc sống thật đáng sống.",
+   "translate": ""
+  },
+  {
+   "id": "83_banbe_16",
+   "content": "Chúc mừng 8/3! Chúc cậu luôn có người bên cạnh để chia sẻ những ngày vui và cả ngày buồn.",
+   "translate": ""
+  },
+  {
+   "id": "83_banbe_17",
+   "content": "Nhân ngày 8/3, chúc bạn hạnh phúc, bình an và luôn được trân trọng.",
+   "translate": ""
+  },
+  {
+   "id": "83_banbe_18",
+   "content": "Chúc mừng ngày 8/3! Chúc cậu xinh hơn mỗi ngày và giàu hơn mỗi tháng.",
+   "translate": ""
+  },
+  {
+   "id": "83_banbe_19",
+   "content": "Ngày của chị em, chúc bạn luôn tự tin, luôn kiêu hãnh và luôn hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "83_banbe_20",
+   "content": "Chúc mừng 8/3! Chúc cậu một ngày ngập tràn hoa, quà và lời yêu thương.",
+   "translate": ""
+  },
+  {
+   "id": "83_banbe_21",
+   "content": "Nhân ngày 8/3, mình chúc bạn mọi dự định đều thành, mọi mong ước đều toại.",
+   "translate": ""
+  },
+  {
+   "id": "83_banbe_22",
+   "content": "Chúc mừng 8/3 cậu nhé! Chúc cậu luôn khỏe, luôn vui và luôn được yêu.",
+   "translate": ""
+  },
+  {
+   "id": "83_banbe_23",
+   "content": "Ngày 8/3, chúc bạn gác lại mọi muộn phiền và tận hưởng ngày của riêng mình.",
+   "translate": ""
+  },
+  {
+   "id": "83_banbe_24",
+   "content": "Chúc mừng ngày Quốc tế Phụ nữ! Chúc cậu mãi là cô gái tuyệt vời như bây giờ.",
+   "translate": ""
+  },
+  {
+   "id": "83_banbe_25",
+   "content": "Nhân ngày 8/3, chúc bạn thật nhiều sức khỏe để làm những điều bạn yêu thích.",
+   "translate": ""
+  },
+  {
+   "id": "83_banbe_26",
+   "content": "Chúc mừng 8/3! Chúc cậu công việc thuận lợi, tình cảm ngọt ngào, cuộc sống đủ đầy.",
+   "translate": ""
+  },
+  {
+   "id": "83_banbe_27",
+   "content": "Ngày 8/3, mình chúc bạn luôn tìm được niềm vui trong những điều giản dị.",
+   "translate": ""
+  },
+  {
+   "id": "83_banbe_28",
+   "content": "Chúc mừng 8/3 nhé! Chúc cậu luôn là phiên bản rực rỡ nhất của chính mình.",
+   "translate": ""
+  },
+  {
+   "id": "83_banbe_29",
+   "content": "Nhân ngày của phái đẹp, chúc bạn xinh đẹp, giỏi giang và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "83_banbe_30",
+   "content": "Chúc mừng 8/3! Chúc cậu được cưng chiều cả ngày hôm nay và cả 364 ngày còn lại.",
+   "translate": ""
+  },
+  {
+   "id": "83_banbe_31",
+   "content": "Ngày 8/3, chúc bạn bình an trong tâm và rực rỡ trong đời.",
+   "translate": ""
+  },
+  {
+   "id": "83_banbe_32",
+   "content": "Chúc mừng ngày 8/3! Chúc cậu luôn giữ được sự tử tế và mạnh mẽ đáng quý.",
+   "translate": ""
+  },
+  {
+   "id": "83_banbe_33",
+   "content": "Nhân ngày 8/3, mình chúc bạn mỗi ngày thức dậy đều thấy mình xinh đẹp.",
+   "translate": ""
+  },
+  {
+   "id": "83_banbe_34",
+   "content": "Chúc mừng 8/3! Chúc cậu một năm thật nhiều thành tựu và thật ít áp lực.",
+   "translate": ""
+  },
+  {
+   "id": "83_banbe_35",
+   "content": "Ngày của chị em, chúc bạn thật nhiều niềm vui và những người bạn tốt bên cạnh.",
+   "translate": ""
+  },
+  {
+   "id": "83_banbe_36",
+   "content": "Chúc mừng 8/3 cậu nhé! Chúc cậu luôn hạnh phúc, dù hạnh phúc với cậu là điều gì đi nữa.",
+   "translate": ""
+  },
+  {
+   "id": "83_banbe_37",
+   "content": "Nhân ngày 8/3, chúc bạn khỏe mạnh, xinh đẹp và sống thật trọn vẹn.",
+   "translate": ""
+  },
+  {
+   "id": "83_banbe_38",
+   "content": "Chúc mừng ngày Quốc tế Phụ nữ! Chúc cậu nhận được thật nhiều yêu thương hôm nay.",
+   "translate": ""
+  },
+  {
+   "id": "83_banbe_39",
+   "content": "Ngày 8/3, chúc bạn mọi điều tốt đẹp nhất sẽ đến, như cậu vẫn luôn xứng đáng.",
+   "translate": ""
+  },
+  {
+   "id": "83_banbe_40",
+   "content": "Chúc mừng 8/3! Chúc cậu mãi vui, mãi xinh và mãi là bạn thân của mình.",
+   "translate": ""
+  },
+  {
+   "id": "83_banbe_41",
+   "content": "Nhân ngày 8/3, chúc bạn một ngày thật nhẹ nhàng và một tương lai thật xán lạn.",
+   "translate": ""
+  },
+  {
+   "id": "83_banbe_42",
+   "content": "Chúc mừng 8/3 nhé! Chúc cậu luôn được yêu thương nhiều như cậu đã yêu thương mọi người.",
+   "translate": ""
+  }
+ ]
+}

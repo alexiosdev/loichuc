@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "mungtho_1",
+   "content": "Kính chúc ông/bà mừng thọ! Chúc ông bà sống lâu trăm tuổi, phúc thọ song toàn.",
+   "translate": ""
+  },
+  {
+   "id": "mungtho_2",
+   "content": "Mừng thọ ông! Cháu kính chúc ông mạnh khỏe, minh mẫn và vui vầy bên con cháu.",
+   "translate": ""
+  },
+  {
+   "id": "mungtho_3",
+   "content": "Kính chúc bà mừng thọ! Chúc bà phúc như Đông Hải, thọ tỷ Nam Sơn.",
+   "translate": ""
+  },
+  {
+   "id": "mungtho_4",
+   "content": "Mừng thọ ông bà! Cháu kính chúc ông bà an khang, trường thọ và luôn hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "mungtho_5",
+   "content": "Kính chúc ông/bà một ngày mừng thọ thật ấm áp bên con cháu đông đủ.",
+   "translate": ""
+  },
+  {
+   "id": "mungtho_6",
+   "content": "Mừng thọ bà! Cháu chúc bà ăn ngon ngủ ngon, ít đau nhức và nhiều tiếng cười.",
+   "translate": ""
+  },
+  {
+   "id": "mungtho_7",
+   "content": "Kính chúc ông mừng thọ! Chúc ông sức khỏe dẻo dai và tinh thần luôn minh mẫn.",
+   "translate": ""
+  },
+  {
+   "id": "mungtho_8",
+   "content": "Mừng thọ ông bà! Cháu kính chúc ông bà phúc lộc đầy nhà, con cháu hiếu thảo.",
+   "translate": ""
+  },
+  {
+   "id": "mungtho_9",
+   "content": "Kính chúc bà sống lâu trăm tuổi, luôn mạnh khỏe và luôn vui vẻ.",
+   "translate": ""
+  },
+  {
+   "id": "mungtho_10",
+   "content": "Mừng thọ ông! Cháu chúc ông tuổi càng cao, sức khỏe càng dồi dào.",
+   "translate": ""
+  },
+  {
+   "id": "mungtho_11",
+   "content": "Kính chúc ông/bà mừng thọ! Chúc ông bà an vui, thảnh thơi và trường thọ.",
+   "translate": ""
+  },
+  {
+   "id": "mungtho_12",
+   "content": "Mừng thọ bà! Cháu kính chúc bà luôn khỏe để con cháu còn được phụng dưỡng thật lâu.",
+   "translate": ""
+  },
+  {
+   "id": "mungtho_13",
+   "content": "Kính chúc ông mừng thọ! Chúc ông vạn sự cát tường và gia đạo hưng long.",
+   "translate": ""
+  },
+  {
+   "id": "mungtho_14",
+   "content": "Mừng thọ ông bà! Cháu chúc ông bà sống vui, sống khỏe và luôn hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "mungtho_15",
+   "content": "Kính chúc bà một ngày mừng thọ thật ý nghĩa bên con cháu.",
+   "translate": ""
+  },
+  {
+   "id": "mungtho_16",
+   "content": "Mừng thọ ông! Cháu kính chúc ông phúc đức ngày càng dày, con cháu ngày càng thảo hiền.",
+   "translate": ""
+  },
+  {
+   "id": "mungtho_17",
+   "content": "Kính chúc ông/bà sức khỏe như núi Thái Sơn, phúc lộc như biển cả.",
+   "translate": ""
+  },
+  {
+   "id": "mungtho_18",
+   "content": "Mừng thọ bà! Cháu chúc bà luôn minh mẫn, luôn vui và luôn được yêu thương.",
+   "translate": ""
+  },
+  {
+   "id": "mungtho_19",
+   "content": "Kính chúc ông mừng thọ! Chúc ông an khang, thịnh vượng và trường thọ.",
+   "translate": ""
+  },
+  {
+   "id": "mungtho_20",
+   "content": "Mừng thọ ông bà! Cháu kính chúc ông bà có thêm thật nhiều năm khỏe mạnh.",
+   "translate": ""
+  },
+  {
+   "id": "mungtho_21",
+   "content": "Kính chúc bà một tuổi mới an lành, thảnh thơi và tràn đầy hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "mungtho_22",
+   "content": "Mừng thọ ông! Cháu chúc ông luôn là cây cao bóng cả của cả gia đình.",
+   "translate": ""
+  },
+  {
+   "id": "mungtho_23",
+   "content": "Kính chúc ông/bà mừng thọ! Chúc ông bà bình an, khỏe mạnh và viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "mungtho_24",
+   "content": "Mừng thọ bà! Cháu kính chúc bà sống lâu cùng con cháu và luôn mỉm cười.",
+   "translate": ""
+  },
+  {
+   "id": "mungtho_25",
+   "content": "Kính chúc ông mừng thọ! Chúc ông tâm luôn an, thân luôn khỏe, lòng luôn vui.",
+   "translate": ""
+  },
+  {
+   "id": "mungtho_26",
+   "content": "Mừng thọ ông bà! Cháu chúc ông bà phúc thọ khang ninh, vạn sự như ý.",
+   "translate": ""
+  },
+  {
+   "id": "mungtho_27",
+   "content": "Kính chúc bà một ngày mừng thọ thật đặc biệt và đáng nhớ.",
+   "translate": ""
+  },
+  {
+   "id": "mungtho_28",
+   "content": "Mừng thọ ông! Cháu kính chúc ông mạnh khỏe để kể cho cháu nghe thêm nhiều chuyện xưa.",
+   "translate": ""
+  },
+  {
+   "id": "mungtho_29",
+   "content": "Kính chúc ông/bà sống lâu trăm tuổi và luôn được con cháu quây quần.",
+   "translate": ""
+  },
+  {
+   "id": "mungtho_30",
+   "content": "Mừng thọ bà! Cháu chúc bà sức khỏe dồi dào và tâm hồn luôn thanh thản.",
+   "translate": ""
+  },
+  {
+   "id": "mungtho_31",
+   "content": "Kính chúc ông mừng thọ! Chúc ông an nhiên, tự tại và trường thọ cùng con cháu.",
+   "translate": ""
+  },
+  {
+   "id": "mungtho_32",
+   "content": "Mừng thọ ông bà! Cháu kính chúc ông bà mọi điều tốt lành và an vui.",
+   "translate": ""
+  },
+  {
+   "id": "mungtho_33",
+   "content": "Kính chúc bà một tuổi mới thật nhiều sức khỏe và thật nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "mungtho_34",
+   "content": "Mừng thọ ông! Cháu chúc ông luôn tự hào về con cháu và luôn hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "mungtho_35",
+   "content": "Kính chúc ông/bà mừng thọ! Chúc ông bà trường thọ, an khang và viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "mungtho_36",
+   "content": "Mừng thọ bà! Cháu kính chúc bà luôn khỏe mạnh để năm nào cũng được mừng thọ bà.",
+   "translate": ""
+  },
+  {
+   "id": "mungtho_37",
+   "content": "Kính chúc ông mừng thọ! Chúc ông phúc lộc song toàn và con cháu đầy đàn.",
+   "translate": ""
+  },
+  {
+   "id": "mungtho_38",
+   "content": "Mừng thọ ông bà! Cháu chúc ông bà có những năm tháng tuổi già thật an yên.",
+   "translate": ""
+  },
+  {
+   "id": "mungtho_39",
+   "content": "Kính chúc bà sống lâu, sống khỏe và luôn là chỗ dựa tinh thần của cả nhà.",
+   "translate": ""
+  },
+  {
+   "id": "mungtho_40",
+   "content": "Mừng thọ ông! Cháu kính chúc ông vạn sự hanh thông và phúc đức viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "mungtho_41",
+   "content": "Kính chúc ông/bà một ngày mừng thọ thật trọn vẹn bên con cháu.",
+   "translate": ""
+  },
+  {
+   "id": "mungtho_42",
+   "content": "Mừng thọ ông bà! Cháu chúc ông bà bình an, mạnh khỏe và sống thật lâu với chúng cháu.",
+   "translate": ""
+  }
+ ]
+}

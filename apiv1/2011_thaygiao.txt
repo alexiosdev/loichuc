@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "2011_thaygiao_1",
+   "content": "Nhân ngày 20/11, em kính chúc thầy luôn mạnh khỏe, bình an và mãi vững vàng trên bục giảng.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaygiao_2",
+   "content": "Chúc mừng ngày Nhà giáo Việt Nam! Em kính chúc thầy một ngày thật ý nghĩa và đáng nhớ.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaygiao_3",
+   "content": "Kính chúc thầy ngày 20/11 tràn đầy niềm vui, sức khỏe và những lời tri ân chân thành.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaygiao_4",
+   "content": "Nhân ngày 20/11, em xin gửi tới thầy lòng biết ơn sâu sắc nhất vì tất cả những gì thầy đã dạy.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaygiao_5",
+   "content": "Chúc mừng 20/11! Em kính chúc thầy sức khỏe dẻo dai, tinh thần minh mẫn, gia đình hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaygiao_6",
+   "content": "Kính chúc thầy một ngày Nhà giáo Việt Nam thật ấm áp bên gia đình và học trò.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaygiao_7",
+   "content": "Nhân ngày 20/11, em chúc thầy luôn giữ được ngọn lửa nghề đáng quý ấy.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaygiao_8",
+   "content": "Chúc mừng ngày 20/11! Cảm ơn thầy đã dạy em không chỉ kiến thức mà cả cách sống.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaygiao_9",
+   "content": "Kính chúc thầy ngày 20/11 vạn sự như ý, an khang thịnh vượng, sự nghiệp trồng người viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaygiao_10",
+   "content": "Nhân ngày Nhà giáo Việt Nam, em kính chúc thầy mãi khỏe để dìu dắt thêm nhiều thế hệ học trò.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaygiao_11",
+   "content": "Chúc mừng 20/11! Em chúc thầy luôn tự hào về những học trò thầy đã dạy dỗ.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaygiao_12",
+   "content": "Kính chúc thầy một ngày 20/11 trọn vẹn và một năm thật nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaygiao_13",
+   "content": "Nhân ngày 20/11, em chúc thầy bớt vất vả và có nhiều thời gian hơn cho bản thân.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaygiao_14",
+   "content": "Chúc mừng ngày Nhà giáo Việt Nam! Em kính chúc thầy bình an, hạnh phúc và viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaygiao_15",
+   "content": "Kính chúc thầy ngày 20/11 nhận được thật nhiều tình cảm từ các thế hệ học trò.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaygiao_16",
+   "content": "Nhân ngày 20/11, em chúc thầy sức khỏe dồi dào và tâm hồn luôn thư thái.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaygiao_17",
+   "content": "Chúc mừng 20/11! Em kính chúc thầy mọi điều tốt đẹp nhất sẽ luôn đến với thầy.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaygiao_18",
+   "content": "Kính chúc thầy một ngày Nhà giáo Việt Nam thật vui và thật đáng nhớ.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaygiao_19",
+   "content": "Nhân ngày 20/11, em xin chúc thầy gia đình thuận hòa, công việc hanh thông.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaygiao_20",
+   "content": "Chúc mừng ngày 20/11! Em biết ơn thầy vì đã nghiêm khắc đúng lúc và bao dung đúng chỗ.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaygiao_21",
+   "content": "Kính chúc thầy ngày 20/11 an lành, sung túc và ngập tràn niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaygiao_22",
+   "content": "Nhân ngày Nhà giáo Việt Nam, em chúc thầy luôn mạnh khỏe và luôn hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaygiao_23",
+   "content": "Chúc mừng 20/11! Em kính chúc thầy mọi dự định đều thành, mọi mong ước đều toại.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaygiao_24",
+   "content": "Kính chúc thầy một ngày 20/11 thật đặc biệt, xứng đáng với công lao của thầy.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaygiao_25",
+   "content": "Nhân ngày 20/11, em chúc thầy thân tâm an lạc, gia đạo hưng long, phúc lộc đầy nhà.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaygiao_26",
+   "content": "Chúc mừng ngày Nhà giáo Việt Nam! Em chúc thầy luôn được học trò kính trọng và yêu quý.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaygiao_27",
+   "content": "Kính chúc thầy ngày 20/11 thật nhiều sức khỏe và thật nhiều tiếng cười.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaygiao_28",
+   "content": "Nhân ngày 20/11, em kính chúc thầy sự nghiệp vẻ vang và cuộc sống viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaygiao_29",
+   "content": "Chúc mừng 20/11! Em chúc thầy mãi là người thầy mà chúng em luôn kính yêu.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaygiao_30",
+   "content": "Kính chúc thầy một ngày Nhà giáo Việt Nam thật trọn vẹn và ý nghĩa.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaygiao_31",
+   "content": "Nhân ngày 20/11, em chúc thầy luôn khỏe mạnh để tiếp tục cống hiến cho sự nghiệp giáo dục.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaygiao_32",
+   "content": "Chúc mừng ngày 20/11! Em kính chúc thầy an khang, hạnh phúc và thật nhiều may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaygiao_33",
+   "content": "Kính chúc thầy ngày 20/11 tràn ngập hoa tươi và những lời chúc tốt đẹp.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaygiao_34",
+   "content": "Nhân ngày Nhà giáo Việt Nam, em chúc thầy luôn giữ được sự điềm tĩnh và tâm huyết đáng quý.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaygiao_35",
+   "content": "Chúc mừng 20/11! Em kính chúc thầy sức khỏe như ý, công việc hanh thông, gia đình êm ấm.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaygiao_36",
+   "content": "Kính chúc thầy một ngày 20/11 nhẹ nhàng, thảnh thơi và thật nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaygiao_37",
+   "content": "Nhân ngày 20/11, em chúc thầy mãi khỏe, mãi vui và mãi là tấm gương cho chúng em.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaygiao_38",
+   "content": "Chúc mừng ngày Nhà giáo Việt Nam! Cảm ơn thầy vì đã tin vào em khi em còn nhiều thiếu sót.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaygiao_39",
+   "content": "Kính chúc thầy ngày 20/11 bình an, viên mãn và tràn đầy hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaygiao_40",
+   "content": "Nhân ngày 20/11, em kính chúc thầy vạn sự cát tường và mọi điều hanh thông.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaygiao_41",
+   "content": "Chúc mừng 20/11! Em chúc thầy một ngày thật vui và một đời thật an yên.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaygiao_42",
+   "content": "Kính chúc thầy ngày Nhà giáo Việt Nam thật nhiều sức khỏe, niềm vui và thành công.",
+   "translate": ""
+  }
+ ]
+}

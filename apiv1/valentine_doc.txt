@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "valentine_doc_1",
+   "content": "Valentine này không có người yêu cũng không sao, miễn là mình vẫn yêu chính mình.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_doc_2",
+   "content": "Chúc bạn một Valentine vui vẻ, dù độc thân hay có đôi thì cũng xứng đáng hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_doc_3",
+   "content": "Độc thân không phải là thiếu sót, đó là lúc mình được toàn quyền chọn lựa.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_doc_4",
+   "content": "Valentine vui vẻ! Chúc bạn sớm gặp được người xứng đáng, còn giờ thì cứ vui đã.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_doc_5",
+   "content": "Chúc bạn một Valentine thật thoải mái: không phải chờ tin nhắn, không phải đoán ý ai.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_doc_6",
+   "content": "Hôm nay chúc bạn tự mua quà cho mình, vì mình xứng đáng nhất.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_doc_7",
+   "content": "Valentine này, chúc bạn đủ đầy với chính mình trước khi đủ đầy với ai khác.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_doc_8",
+   "content": "Chúc bạn một ngày lễ tình yêu bình yên và tự do theo cách của riêng mình.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_doc_9",
+   "content": "Độc thân nghĩa là cả trái tim vẫn còn nguyên vẹn để trao đúng người.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_doc_10",
+   "content": "Valentine vui vẻ! Chúc bạn không vội vàng chỉ vì sợ cô đơn.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_doc_11",
+   "content": "Chúc bạn một Valentine thật nhẹ nhàng: ăn ngon, ngủ đủ, tiêu tiền cho bản thân.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_doc_12",
+   "content": "Hôm nay chúc bạn yêu thương chính mình nhiều hơn một chút.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_doc_13",
+   "content": "Valentine này, chúc bạn tận hưởng sự tự do mà người có đôi đang thèm muốn.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_doc_14",
+   "content": "Chúc bạn sớm gặp được người làm bạn muốn thay đổi trạng thái độc thân.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_doc_15",
+   "content": "Độc thân vui vẻ cũng là một thành tựu, chúc bạn giữ được nó thật lâu nếu muốn.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_doc_16",
+   "content": "Valentine vui vẻ! Chúc bạn không phải chia đồ ăn với ai hôm nay.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_doc_17",
+   "content": "Chúc bạn một Valentine ý nghĩa bên bạn bè, gia đình và chính mình.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_doc_18",
+   "content": "Hôm nay chúc bạn nhớ rằng giá trị của mình không phụ thuộc vào tình trạng quan hệ.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_doc_19",
+   "content": "Valentine này, chúc bạn đủ bình yên để không cần ai lấp chỗ trống.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_doc_20",
+   "content": "Chúc bạn một ngày lễ tình yêu thật vui, kiểu gì cũng vui được.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_doc_21",
+   "content": "Độc thân nghĩa là chưa tìm thấy, chứ không phải không ai muốn. Chúc bạn kiên nhẫn.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_doc_22",
+   "content": "Valentine vui vẻ! Chúc bạn một ngày không ai làm phiền và không ai làm buồn.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_doc_23",
+   "content": "Chúc bạn tận hưởng Valentine theo cách bạn thích nhất, kể cả là ngủ cả ngày.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_doc_24",
+   "content": "Hôm nay chúc bạn tự tin rằng người phù hợp đang trên đường đến.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_doc_25",
+   "content": "Valentine này, chúc bạn thương mình như cách bạn vẫn thương người khác.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_doc_26",
+   "content": "Chúc bạn một Valentine không áp lực, không so sánh và không chạnh lòng.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_doc_27",
+   "content": "Độc thân là lúc tốt nhất để xây dựng bản thân. Chúc bạn tận dụng thật tốt.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_doc_28",
+   "content": "Valentine vui vẻ! Chúc bạn giữ được sự tỉnh táo giữa mùa yêu đương rộn ràng.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_doc_29",
+   "content": "Chúc bạn một ngày thật vui, và nhớ rằng cô đơn khác với một mình.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_doc_30",
+   "content": "Hôm nay chúc bạn làm điều mình thích mà không cần hỏi ý ai.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_doc_31",
+   "content": "Valentine này, chúc bạn gặp được người khiến bạn muốn thử lại lần nữa.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_doc_32",
+   "content": "Chúc bạn một Valentine đầy tự do, đầy lựa chọn và đầy khả năng.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_doc_33",
+   "content": "Độc thân không buồn, chỉ buồn khi ở cạnh sai người. Chúc bạn luôn chọn đúng.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_doc_34",
+   "content": "Valentine vui vẻ! Chúc bạn ngày hôm nay không nhận được tin nhắn nào làm phiền lòng.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_doc_35",
+   "content": "Chúc bạn một Valentine thật chất: tự do, thoải mái và không tốn tiền quà cáp.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_doc_36",
+   "content": "Hôm nay chúc bạn biết ơn những người đang yêu thương bạn theo cách khác.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_doc_37",
+   "content": "Valentine này, chúc bạn vững vàng và hạnh phúc, dù một mình hay có đôi.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_doc_38",
+   "content": "Chúc bạn sớm thoát ế, nhưng nếu chưa thì cũng chẳng sao cả.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_doc_39",
+   "content": "Độc thân là một lựa chọn hợp lệ. Chúc bạn không phải giải thích điều đó với ai.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_doc_40",
+   "content": "Valentine vui vẻ! Chúc bạn một ngày thật nhiều niềm vui từ những điều nhỏ bé.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_doc_41",
+   "content": "Chúc bạn một Valentine an yên, và chúc trái tim bạn luôn rộng mở.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_doc_42",
+   "content": "Hôm nay chúc bạn nhớ rằng bạn đã luôn đủ, dù có ai bên cạnh hay không.",
+   "translate": ""
+  }
+ ]
+}

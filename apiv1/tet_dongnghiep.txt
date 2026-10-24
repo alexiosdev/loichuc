@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "tet_dongnghiep_1",
+   "content": "Chúc đồng nghiệp thân mến một năm mới dồi dào sức khỏe, công việc thuận lợi, lương thưởng tăng đều.",
+   "translate": ""
+  },
+  {
+   "id": "tet_dongnghiep_2",
+   "content": "Năm mới chúc bạn an khang thịnh vượng, mọi dự án đều trót lọt, mọi deadline đều kịp hạn.",
+   "translate": ""
+  },
+  {
+   "id": "tet_dongnghiep_3",
+   "content": "Chúc cậu một năm mới thật nhiều niềm vui, ít họp hành và nhiều ngày nghỉ hơn năm cũ.",
+   "translate": ""
+  },
+  {
+   "id": "tet_dongnghiep_4",
+   "content": "Năm mới sang trang, chúc đồng nghiệp sức khỏe dẻo dai, tinh thần phơi phới, sự nghiệp thăng hoa.",
+   "translate": ""
+  },
+  {
+   "id": "tet_dongnghiep_5",
+   "content": "Chúc bạn năm mới gặt hái thật nhiều thành công, và đừng quên rủ cả phòng đi ăn mừng nhé.",
+   "translate": ""
+  },
+  {
+   "id": "tet_dongnghiep_6",
+   "content": "Một năm mới an lành đến với bạn và gia đình, chúc mọi điều tốt đẹp nhất sẽ đến.",
+   "translate": ""
+  },
+  {
+   "id": "tet_dongnghiep_7",
+   "content": "Chúc đồng nghiệp năm mới tiền vào như nước, tiền ra nhỏ giọt, ví lúc nào cũng rủng rỉnh.",
+   "translate": ""
+  },
+  {
+   "id": "tet_dongnghiep_8",
+   "content": "Năm mới chúc bạn luôn giữ được năng lượng tích cực đã truyền cho cả team suốt năm qua.",
+   "translate": ""
+  },
+  {
+   "id": "tet_dongnghiep_9",
+   "content": "Chúc cậu năm mới thật nhiều may mắn, gặp sếp tâm lý, gặp khách dễ tính, gặp việc vừa tay.",
+   "translate": ""
+  },
+  {
+   "id": "tet_dongnghiep_10",
+   "content": "Xuân sang, chúc đồng nghiệp thân yêu vạn sự như ý, gia đình ấm êm, công việc hanh thông.",
+   "translate": ""
+  },
+  {
+   "id": "tet_dongnghiep_11",
+   "content": "Chúc bạn một năm mới bứt phá, chạm tới những mục tiêu mà năm ngoái còn đang ấp ủ.",
+   "translate": ""
+  },
+  {
+   "id": "tet_dongnghiep_12",
+   "content": "Năm mới chúc đồng nghiệp sức khỏe đầy bình, niềm vui đầy ắp, tài khoản đầy số.",
+   "translate": ""
+  },
+  {
+   "id": "tet_dongnghiep_13",
+   "content": "Chúc cậu đón Tết thật ấm áp bên gia đình và quay lại công ty với thật nhiều năng lượng.",
+   "translate": ""
+  },
+  {
+   "id": "tet_dongnghiep_14",
+   "content": "Năm mới, chúc bạn công việc suôn sẻ, đồng nghiệp hòa thuận, cuối năm thưởng dày.",
+   "translate": ""
+  },
+  {
+   "id": "tet_dongnghiep_15",
+   "content": "Chúc đồng nghiệp một năm mới ít stress, nhiều thành tựu, và luôn có người pha cà phê giúp.",
+   "translate": ""
+  },
+  {
+   "id": "tet_dongnghiep_16",
+   "content": "Năm mới chúc bạn mọi việc hanh thông, mọi khó khăn đều có người cùng gánh.",
+   "translate": ""
+  },
+  {
+   "id": "tet_dongnghiep_17",
+   "content": "Chúc cậu năm mới thăng tiến như diều gặp gió, thu nhập tăng theo cấp số nhân.",
+   "translate": ""
+  },
+  {
+   "id": "tet_dongnghiep_18",
+   "content": "Xuân về, chúc đồng nghiệp thân mến bình an, hạnh phúc và luôn mỉm cười mỗi sáng đến văn phòng.",
+   "translate": ""
+  },
+  {
+   "id": "tet_dongnghiep_19",
+   "content": "Chúc bạn một năm mới trọn vẹn cả công việc lẫn gia đình, cân bằng và thảnh thơi.",
+   "translate": ""
+  },
+  {
+   "id": "tet_dongnghiep_20",
+   "content": "Năm mới chúc đồng nghiệp gặp nhiều quý nhân, làm đâu trúng đó, nói đâu nghe đó.",
+   "translate": ""
+  },
+  {
+   "id": "tet_dongnghiep_21",
+   "content": "Chúc cậu năm mới sức khỏe như trâu, tinh thần như hổ, may mắn như rồng gặp mây.",
+   "translate": ""
+  },
+  {
+   "id": "tet_dongnghiep_22",
+   "content": "Năm mới sang, chúc bạn bỏ lại hết muộn phiền năm cũ, đón nhận thật nhiều điều tốt lành.",
+   "translate": ""
+  },
+  {
+   "id": "tet_dongnghiep_23",
+   "content": "Chúc đồng nghiệp một năm mới thật nhiều tiếng cười, bởi phòng mình thiếu cậu là thiếu vui.",
+   "translate": ""
+  },
+  {
+   "id": "tet_dongnghiep_24",
+   "content": "Năm mới chúc bạn hoàn thành vượt chỉ tiêu, nhận thưởng xứng đáng và đi du lịch thật đã.",
+   "translate": ""
+  },
+  {
+   "id": "tet_dongnghiep_25",
+   "content": "Chúc cậu năm mới an khang thịnh vượng, vạn sự cát tường, tâm luôn an, đời luôn vui.",
+   "translate": ""
+  },
+  {
+   "id": "tet_dongnghiep_26",
+   "content": "Xuân mới, chúc đồng nghiệp công danh rộng mở, tài lộc dồi dào, gia đạo bình yên.",
+   "translate": ""
+  },
+  {
+   "id": "tet_dongnghiep_27",
+   "content": "Chúc bạn một năm mới làm ít hưởng nhiều, nghỉ nhiều mà vẫn được khen.",
+   "translate": ""
+  },
+  {
+   "id": "tet_dongnghiep_28",
+   "content": "Năm mới chúc đồng nghiệp luôn khỏe mạnh để còn cùng nhau chiến đấu với những dự án khó.",
+   "translate": ""
+  },
+  {
+   "id": "tet_dongnghiep_29",
+   "content": "Chúc cậu năm mới mọi điều như ý, riêng chuyện tăng lương thì hơn cả như ý.",
+   "translate": ""
+  },
+  {
+   "id": "tet_dongnghiep_30",
+   "content": "Năm mới, chúc bạn giữ mãi sự nhiệt tình và tử tế đã khiến cả phòng quý mến.",
+   "translate": ""
+  },
+  {
+   "id": "tet_dongnghiep_31",
+   "content": "Chúc đồng nghiệp một mùa xuân ấm áp, một năm mới rực rỡ và một tương lai thật xán lạn.",
+   "translate": ""
+  },
+  {
+   "id": "tet_dongnghiep_32",
+   "content": "Năm mới chúc bạn mọi dự định đều thành, mọi mong ước đều toại, mọi nỗ lực đều được ghi nhận.",
+   "translate": ""
+  },
+  {
+   "id": "tet_dongnghiep_33",
+   "content": "Chúc cậu năm mới sức khỏe tràn trề, ý tưởng tuôn trào, deadline nào cũng xử gọn.",
+   "translate": ""
+  },
+  {
+   "id": "tet_dongnghiep_34",
+   "content": "Xuân sang, chúc đồng nghiệp và gia đình một năm mới bình an, sung túc, đầy ắp tiếng cười.",
+   "translate": ""
+  },
+  {
+   "id": "tet_dongnghiep_35",
+   "content": "Chúc bạn năm mới bước ra khỏi vùng an toàn và gặt hái những điều ngoài mong đợi.",
+   "translate": ""
+  },
+  {
+   "id": "tet_dongnghiep_36",
+   "content": "Năm mới chúc đồng nghiệp tiền tiêu không hết, việc làm không mệt, ngày nào cũng vui.",
+   "translate": ""
+  },
+  {
+   "id": "tet_dongnghiep_37",
+   "content": "Chúc cậu một năm mới nhiều cơ hội mới, nhiều mối quan hệ tốt và nhiều bước tiến dài.",
+   "translate": ""
+  },
+  {
+   "id": "tet_dongnghiep_38",
+   "content": "Năm mới, chúc bạn luôn là người đồng đội tuyệt vời như suốt năm qua đã luôn là.",
+   "translate": ""
+  },
+  {
+   "id": "tet_dongnghiep_39",
+   "content": "Chúc đồng nghiệp năm mới an khang, thịnh vượng, mọi điều hanh thông, vạn sự tốt lành.",
+   "translate": ""
+  },
+  {
+   "id": "tet_dongnghiep_40",
+   "content": "Chúc cậu năm mới thật nhiều sức khỏe, bởi còn sức khỏe là còn chiến được mọi thứ.",
+   "translate": ""
+  },
+  {
+   "id": "tet_dongnghiep_41",
+   "content": "Năm mới chúc bạn công việc nhẹ nhàng, thu nhập nặng tay, cuộc sống thong dong.",
+   "translate": ""
+  },
+  {
+   "id": "tet_dongnghiep_42",
+   "content": "Chúc đồng nghiệp một năm mới mà mỗi sáng thức dậy đều thấy háo hức với ngày mới.",
+   "translate": ""
+  }
+ ]
+}

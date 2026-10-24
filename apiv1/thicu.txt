@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "thicu_1",
+   "content": "Chúc bạn thi tốt! Chúc bạn bình tĩnh, tự tin và làm bài thật tốt.",
+   "translate": ""
+  },
+  {
+   "id": "thicu_2",
+   "content": "Chúc bạn một kỳ thi thuận lợi, đề dễ và điểm cao.",
+   "translate": ""
+  },
+  {
+   "id": "thicu_3",
+   "content": "Chúc bạn thi đâu đậu đó, làm bài trôi chảy và đạt kết quả như mong muốn.",
+   "translate": ""
+  },
+  {
+   "id": "thicu_4",
+   "content": "Chúc bạn bước vào phòng thi thật tự tin và bước ra thật nhẹ nhõm.",
+   "translate": ""
+  },
+  {
+   "id": "thicu_5",
+   "content": "Chúc bạn thi tốt! Bao nhiêu công sức ôn luyện sẽ được đền đáp xứng đáng.",
+   "translate": ""
+  },
+  {
+   "id": "thicu_6",
+   "content": "Chúc bạn một kỳ thi suôn sẻ và một kết quả thật đẹp.",
+   "translate": ""
+  },
+  {
+   "id": "thicu_7",
+   "content": "Chúc bạn giữ được bình tĩnh, đọc kỹ đề và làm bài thật chắc.",
+   "translate": ""
+  },
+  {
+   "id": "thicu_8",
+   "content": "Chúc bạn thi tốt! Chúc bạn gặp đúng phần mình ôn kỹ nhất.",
+   "translate": ""
+  },
+  {
+   "id": "thicu_9",
+   "content": "Chúc bạn một kỳ thi thành công và đỗ vào ngôi trường mình mơ ước.",
+   "translate": ""
+  },
+  {
+   "id": "thicu_10",
+   "content": "Chúc bạn làm bài tốt, không sai sót và đạt điểm số xứng đáng.",
+   "translate": ""
+  },
+  {
+   "id": "thicu_11",
+   "content": "Chúc bạn thi tốt! Chúc bạn đủ tự tin để thể hiện hết những gì đã học.",
+   "translate": ""
+  },
+  {
+   "id": "thicu_12",
+   "content": "Chúc bạn ngủ đủ giấc trước ngày thi và tỉnh táo khi làm bài.",
+   "translate": ""
+  },
+  {
+   "id": "thicu_13",
+   "content": "Chúc bạn một kỳ thi may mắn, đề vừa sức và kết quả như ý.",
+   "translate": ""
+  },
+  {
+   "id": "thicu_14",
+   "content": "Chúc bạn thi tốt! Chúc bạn giữ được sự tập trung suốt buổi thi.",
+   "translate": ""
+  },
+  {
+   "id": "thicu_15",
+   "content": "Chúc bạn đạt kết quả cao và mở ra cánh cửa tương lai mình mong muốn.",
+   "translate": ""
+  },
+  {
+   "id": "thicu_16",
+   "content": "Chúc bạn một kỳ thi nhẹ nhàng và một kết quả thật đáng tự hào.",
+   "translate": ""
+  },
+  {
+   "id": "thicu_17",
+   "content": "Chúc bạn thi tốt! Chúc bạn không run, không quên và không bỏ sót câu nào.",
+   "translate": ""
+  },
+  {
+   "id": "thicu_18",
+   "content": "Chúc bạn bình tĩnh, tự tin và làm chủ được bài thi của mình.",
+   "translate": ""
+  },
+  {
+   "id": "thicu_19",
+   "content": "Chúc bạn một kỳ thi thuận lợi và sớm nhận tin vui.",
+   "translate": ""
+  },
+  {
+   "id": "thicu_20",
+   "content": "Chúc bạn thi tốt! Chúc bạn vững tâm, chắc kiến thức và đạt điểm cao.",
+   "translate": ""
+  },
+  {
+   "id": "thicu_21",
+   "content": "Chúc bạn làm bài đúng sức mình và hài lòng với kết quả.",
+   "translate": ""
+  },
+  {
+   "id": "thicu_22",
+   "content": "Chúc bạn một kỳ thi may mắn và một tương lai thật rộng mở.",
+   "translate": ""
+  },
+  {
+   "id": "thicu_23",
+   "content": "Chúc bạn thi tốt! Chúc bạn giữ được tinh thần thoải mái trước giờ thi.",
+   "translate": ""
+  },
+  {
+   "id": "thicu_24",
+   "content": "Chúc bạn đỗ đạt như mong muốn và sớm ăn mừng cùng gia đình.",
+   "translate": ""
+  },
+  {
+   "id": "thicu_25",
+   "content": "Chúc bạn một kỳ thi trôi chảy, không áp lực và không tiếc nuối.",
+   "translate": ""
+  },
+  {
+   "id": "thicu_26",
+   "content": "Chúc bạn thi tốt! Mọi nỗ lực của bạn chắc chắn sẽ được đền đáp.",
+   "translate": ""
+  },
+  {
+   "id": "thicu_27",
+   "content": "Chúc bạn tự tin bước vào phòng thi và tự hào khi bước ra.",
+   "translate": ""
+  },
+  {
+   "id": "thicu_28",
+   "content": "Chúc bạn một kỳ thi thành công và một kết quả vượt mong đợi.",
+   "translate": ""
+  },
+  {
+   "id": "thicu_29",
+   "content": "Chúc bạn thi tốt! Chúc bạn gặp may và làm bài thật chắc chắn.",
+   "translate": ""
+  },
+  {
+   "id": "thicu_30",
+   "content": "Chúc bạn giữ sức khỏe tốt, tinh thần vững và làm bài thật tốt.",
+   "translate": ""
+  },
+  {
+   "id": "thicu_31",
+   "content": "Chúc bạn một kỳ thi suôn sẻ và đạt được mục tiêu đã đặt ra.",
+   "translate": ""
+  },
+  {
+   "id": "thicu_32",
+   "content": "Chúc bạn thi tốt! Chúc bạn đọc kỹ đề và phân bổ thời gian hợp lý.",
+   "translate": ""
+  },
+  {
+   "id": "thicu_33",
+   "content": "Chúc bạn đạt điểm cao và vào được ngôi trường mình yêu thích.",
+   "translate": ""
+  },
+  {
+   "id": "thicu_34",
+   "content": "Chúc bạn một kỳ thi may mắn, thuận lợi và đầy tự tin.",
+   "translate": ""
+  },
+  {
+   "id": "thicu_35",
+   "content": "Chúc bạn thi tốt! Hãy tin vào những gì bạn đã chuẩn bị.",
+   "translate": ""
+  },
+  {
+   "id": "thicu_36",
+   "content": "Chúc bạn làm bài thật tốt và nhận được kết quả xứng đáng.",
+   "translate": ""
+  },
+  {
+   "id": "thicu_37",
+   "content": "Chúc bạn một kỳ thi nhẹ nhàng và một mùa thi đáng nhớ.",
+   "translate": ""
+  },
+  {
+   "id": "thicu_38",
+   "content": "Chúc bạn thi tốt! Chúc bạn bình tĩnh trước mọi câu hỏi khó.",
+   "translate": ""
+  },
+  {
+   "id": "thicu_39",
+   "content": "Chúc bạn đỗ cao và mở ra một chặng đường mới thật đẹp.",
+   "translate": ""
+  },
+  {
+   "id": "thicu_40",
+   "content": "Chúc bạn một kỳ thi thành công và sớm được nghỉ ngơi thật đã.",
+   "translate": ""
+  },
+  {
+   "id": "thicu_41",
+   "content": "Chúc bạn thi tốt! Chúc bạn tự tin, may mắn và đạt kết quả tốt nhất.",
+   "translate": ""
+  },
+  {
+   "id": "thicu_42",
+   "content": "Chúc bạn làm bài hết khả năng và hài lòng với chính mình.",
+   "translate": ""
+  }
+ ]
+}

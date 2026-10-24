@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "ngungon_tienganh_1",
+   "content": "Good night! Sleep well and wake up refreshed.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_tienganh_2",
+   "content": "Good night! May your dreams be sweet and your sleep be deep.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_tienganh_3",
+   "content": "Sweet dreams! Rest well, you have earned it today.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_tienganh_4",
+   "content": "Good night! Let go of today and rest easy.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_tienganh_5",
+   "content": "Wishing you a peaceful night and a bright morning.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_tienganh_6",
+   "content": "Good night! May tomorrow be kinder than today.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_tienganh_7",
+   "content": "Sleep tight! Tomorrow is a new chance to get it right.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_tienganh_8",
+   "content": "Good night! Put the phone down and let your mind rest.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_tienganh_9",
+   "content": "Sweet dreams! May you sleep without a single worry.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_tienganh_10",
+   "content": "Good night! Rest now, the rest can wait until morning.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_tienganh_11",
+   "content": "Wishing you deep sleep and gentle dreams tonight.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_tienganh_12",
+   "content": "Good night! May you wake up with energy and a clear head.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_tienganh_13",
+   "content": "Sleep well! You did enough today.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_tienganh_14",
+   "content": "Good night! May your night be calm and your morning be easy.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_tienganh_15",
+   "content": "Sweet dreams! Hope tonight brings you the rest you need.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_tienganh_16",
+   "content": "Good night! Leave your worries at the door and sleep in peace.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_tienganh_17",
+   "content": "Wishing you a restful night and a good day ahead.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_tienganh_18",
+   "content": "Good night! May sleep find you quickly tonight.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_tienganh_19",
+   "content": "Sleep tight! Thank you for today, see you in the morning.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_tienganh_20",
+   "content": "Good night! May your dreams be as lovely as you are.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_tienganh_21",
+   "content": "Sweet dreams! Rest your body and quiet your mind.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_tienganh_22",
+   "content": "Good night! Tomorrow will look better after some sleep.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_tienganh_23",
+   "content": "Wishing you a quiet night and a peaceful heart.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_tienganh_24",
+   "content": "Good night! May you sleep deeply and wake up smiling.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_tienganh_25",
+   "content": "Sleep well! Everything else can be handled tomorrow.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_tienganh_26",
+   "content": "Good night! May the night be gentle with you.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_tienganh_27",
+   "content": "Sweet dreams! Hope you drift off easily tonight.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_tienganh_28",
+   "content": "Good night! Wishing you comfort, calm and good rest.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_tienganh_29",
+   "content": "Sleep tight! May nothing disturb you until morning.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_tienganh_30",
+   "content": "Good night! You deserve a proper rest after today.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_tienganh_31",
+   "content": "Wishing you sweet dreams and a soft pillow.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_tienganh_32",
+   "content": "Good night! May tonight be the best sleep you have had all week.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_tienganh_33",
+   "content": "Sleep well! Tomorrow we try again.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_tienganh_34",
+   "content": "Good night! May your sleep be long and your dreams be kind.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_tienganh_35",
+   "content": "Sweet dreams! Thank you for being part of my day.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_tienganh_36",
+   "content": "Good night! Rest now, you will feel better in the morning.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_tienganh_37",
+   "content": "Wishing you a peaceful sleep and a hopeful morning.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_tienganh_38",
+   "content": "Good night! May all your worries dissolve as you sleep.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_tienganh_39",
+   "content": "Sleep tight! Looking forward to another day with you.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_tienganh_40",
+   "content": "Good night! May you wake up ready for whatever comes.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_tienganh_41",
+   "content": "Sweet dreams! Sleep as deeply as you need to.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_tienganh_42",
+   "content": "Good night! Wishing you rest, peace and a quiet mind.",
+   "translate": ""
+  }
+ ]
+}

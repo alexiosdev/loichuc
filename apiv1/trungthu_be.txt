@@ -1,0 +1,204 @@
+{
+ "result": [
+  {
+   "id": "trungthu_be_1",
+   "content": "Tết trung thu đã về, gửi lời chúc tới tất cả các em nhỏ từ nông thôn tới thành thị, từ bé trai tới bé gái có một trung thu vui vẻ, ấm áp tình yêu thương. Chúc các em nhận được thật thật nhiều quà và có những lời chúc ý nghĩa.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_be_2",
+   "content": "Chúc cho các bé có 1 tết trung thu thật vui vẻ và mọi điều ước sớm thành hiện thực nhé.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_be_3",
+   "content": "Nhân dịp Tết Trung thu, chúc các bạn nhỏ có những ước mơ sớm thành hiện thực, trung thu đáng nhớ! Hãy luôn mỉm cười và yêu đời những mầm non tương lai của đất nước nhé.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_be_4",
+   "content": "Trung thu năm nay, mẹ chỉ muốn nói rằng \"mẹ yêu con thật nhiều, yêu hơn bất cứ điều gì mẹ có\". Hãy luôn hạnh phúc thế này con nhé!",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_be_5",
+   "content": "Cuộc sống đôi lúc mệt mỏi, mẹ tưởng như không thể bước nổi, nhưng mẹ đã có một điểm tựa lớn lao là con. Mẹ chúc con một trung thu ý nghĩa.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_be_6",
+   "content": "Nhân dịp tết trung thu đã đến ba mẹ chúc con trai, con gái yêu của ba mẹ luôn mạnh khỏe và đáng yêu và học giỏi nhé",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_be_7",
+   "content": "Phá cỗ thôi nào… chúc các bé một trung thu vui vẻ và nhận được thật nhiều quà. Nhớ chia cho chị Hằng và chú Cuội với nhé.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_be_8",
+   "content": "Trung thu đến rồi, chúc các bé ăn nhiều chóng lớn, chúc các bé luôn ngoan ngoãn học giỏi và nhận được nhiều phiếu bé ngoan.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_be_9",
+   "content": "Con yêu của bố mẹ, con luôn là niềm tự hào lớn nhất của ba mẹ. Nhân dịp Trung thu bố mẹ chúc con ăn nhiều chóng lớn và luôn cười con nhé! Ngàn lần yêu con, thương con.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_be_10",
+   "content": "Chúc các bé luôn luôn khoẻ mạnh, ngoan ngoãn, học giỏi, luôn được yêu thương, được chăm sóc một cách tốt nhất. Chúc các bé nhận được nhiều quà nhân ngày tết trung thu.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_be_11",
+   "content": "Một mùa Trung thu nữa lại đến, tạm biệt mùa hè tiết trời đang dần mát dịu hơn cho đêm hội trăng rằm tháng 8 thêm sôi động, náo nhiệt. Chúc các bé thiếu nhi có nhiều sức khỏe, học giỏi, chăm ngoan, làm được thật nhiều việc tốt và mãi luôn là con ngoan trò giỏi- cháu ngoan bác Hồ.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_be_12",
+   "content": "Chúc các bé mau ăn chóng lớn để đón những cái tết trung thu cùng với gia đình nhé",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_be_13",
+   "content": "Xin được chúc các bé một Trung thu tràn đầy tình thương yêu và nhận được thật nhiều quà. Nhớ chia cho chị Hằng và chú Cuội với nhé.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_be_14",
+   "content": "Nhân dịp Tết Trung thu, chúc các bé luôn mạnh khỏe, đáng yêu và nhận được nhiều tình yêu thương hơn nữa.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_be_15",
+   "content": "Năm học mới đã về, tết trung thu cũng đã đến, chúc các bạn nhỏ có những ước mơ sớm thành hiện thực, thành công trong học tập, luôn khỏe mạnh, đáng yêu và lúc nào cũng vui vẻ như khi đón tết trung thu.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_be_16",
+   "content": "Mẹ luôn có một điểm tựa lớn lao là con. Mẹ chúc con một Trung thu ý nghĩa.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_be_17",
+   "content": "Vậy là tết Trung thu đã về, xin gửi lời chúc tới tất cả các em nhỏ từ nông thôn cho tới thành thị, từ bé trai cho tới bé gái có một Trung thu thật vui vẻ, thật ấm áp và đầy tình yêu thương. Chúc các em trong đêm hội trăng rằm sẽ nhận được thật nhiều quà và có nhiều những lời chúc ý nghĩa.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_be_18",
+   "content": "Chúc trung thu thật vui và hạnh phúc bạn nhé",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_be_19",
+   "content": "Trung thu vui vẻ con nhé! Chúc con rước đèn thật vui và ăn bánh thật ngon.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_be_20",
+   "content": "Chúc mừng Trung thu! Chúc bé hay ăn chóng lớn, ngoan ngoãn và học thật giỏi.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_be_21",
+   "content": "Trung thu an lành! Chúc con một đêm rằm thật vui bên bạn bè và gia đình.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_be_22",
+   "content": "Chúc bé một mùa Trung thu ngập tràn tiếng cười và thật nhiều quà bánh.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_be_23",
+   "content": "Trung thu này, chúc con khỏe mạnh, vui tươi và luôn hồn nhiên như thế.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_be_24",
+   "content": "Chúc mừng Tết Trung thu! Chúc bé có một đêm phá cỗ thật đáng nhớ.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_be_25",
+   "content": "Trung thu vui vẻ! Chúc con được rước đèn ông sao và xem múa lân thỏa thích.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_be_26",
+   "content": "Chúc bé một mùa Trung thu thật đẹp, với đèn lồng lung linh và bánh nướng thơm lừng.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_be_27",
+   "content": "Trung thu an lành! Chúc con luôn ngoan, luôn vui và luôn được yêu thương.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_be_28",
+   "content": "Chúc mừng Trung thu! Chúc bé một đêm rằm thần tiên như trong truyện cổ tích.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_be_29",
+   "content": "Trung thu này, chúc con mọi điều ước dưới ánh trăng đều thành sự thật.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_be_30",
+   "content": "Chúc bé một mùa Trung thu vui vẻ, khỏe mạnh và thật nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_be_31",
+   "content": "Trung thu an lành! Chúc con lớn lên thật khỏe mạnh và thật hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_be_32",
+   "content": "Chúc mừng Tết Trung thu! Chúc bé có thật nhiều kỷ niệm đẹp trong đêm rằm này.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_be_33",
+   "content": "Trung thu vui vẻ con nhé! Chúc con một mùa đoàn viên ấm áp bên gia đình.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_be_34",
+   "content": "Chúc bé một Trung thu thật ngọt ngào và thật đáng nhớ.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_be_35",
+   "content": "Trung thu này, chúc con luôn tươi cười và luôn tràn đầy năng lượng.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_be_36",
+   "content": "Chúc mừng Trung thu! Chúc bé ăn ngon, ngủ ngon và chơi thật vui.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_be_37",
+   "content": "Trung thu an lành! Chúc con một đêm rằm đầy ánh trăng và tiếng cười.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_be_38",
+   "content": "Chúc bé một mùa Trung thu ngập tràn niềm vui và những điều kỳ diệu.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_be_39",
+   "content": "Trung thu vui vẻ! Chúc con học giỏi, ngoan ngoãn và được thầy cô yêu quý.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_be_40",
+   "content": "Chúc bé một Trung thu thật vui, và nhớ chia bánh cho các bạn nhé.",
+   "translate": ""
+  }
+ ]
+}

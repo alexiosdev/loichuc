@@ -1,0 +1,204 @@
+{
+ "result": [
+  {
+   "id": "sinhnhat_nguoiyeu_1",
+   "content": "Hãy luôn giữ nét baby và giọng cười trời cho của anh nha. Đừng thay đổi hình tượng của em nha anh, một anh chàng baby đáng đánh đòn.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_nguoiyeu_2",
+   "content": "Chúc em sinh nhật vui vẻ, sang tuổi mới xinh lại càng xinh, duyên lại càng duyên, yêu lại càng yêu",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_nguoiyeu_3",
+   "content": "Thông tấn xã tình yêu xin thông báo, chủ thuê bao xxx vừa nhận được 1 lời chúc mừng sinh nhật cùng 1 nụ hôn gió từ thuê bao yyy. Happy birthday to you.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_nguoiyeu_4",
+   "content": "Gửi đến em những lời chúc tốt đẹp nhất, ngọt ngào như những bông hoa này, vì em đã cùng anh đi đến tận cùng thế giới. Chúc sinh nhật hạnh phúc",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_nguoiyeu_5",
+   "content": "Không được ở bên em trong ngày sinh nhật ý nghĩa nhưng trái tim anh, tâm trí anh, hơi thở anh luôn hướng về em. Chúc em yêu ngày sinh nhật tràn đầy niềm vui và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_nguoiyeu_6",
+   "content": "Yêu anh, em nhận được yêu thương về mình tất cả, cảm ơn tình yêu của anh, cảm ơn mẹ đã sinh ra anh để bây giờ dành cho em. Dù cuộc sống phía trước còn nhiều khó khăn và thử thách hãy vững lòng và vượt qua anh nhé. Em sẽ luôn ở bên anh. Chúc anh sinh nhật vui vẻ, thành công và gặp nhiều may mắn! Yêu anh!",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_nguoiyeu_7",
+   "content": "Anh yêu quý, mong anh một tuổi mới yêu em nhiều hơn, nhiều hơn nữa nha anh và giữ mãi tình yêu mà anh dành cho em.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_nguoiyeu_8",
+   "content": "Anh à! Muốn nói với anh thật nhiều, muốn viết cho anh thật nhiều nhưng không biết phải bắt đầu từ đâu, bắt đầu như thế nào để có thể mở lòng mình để nói hết tất cả những suy nghĩ trong em hiện giờ. Em chúc anh có một ngày sinh nhật thật ấm áp và hạnh phúc!",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_nguoiyeu_9",
+   "content": "Chúc Vợ yêu thêm một tuổi đầy hạnh phúc bên chồng và Em mãi mãi xinh đẹp, mãi tươi trẻ, đáng yêu, đằm thắm như thủa ban đầu và mãi là như thế. Anh đã rất hạnh phúc lắm lắm Em biết không? Anh cám ơn Em về tất cả những gì Em đã mang lại cho anh, anh vẫn luôn lấy đó là niềm tự hào hãnh diện vì có Em, một người vợ xinh đẹp, ngoan ngoãn và chu đáo, hết mực yêu thương chồng.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_nguoiyeu_10",
+   "content": "Dẫu có viết nghìn lời em cũng chẳng thể nào diễn tả được tình yêu của em dành cho anh. Em chỉ biết chúc anh vui vẻ nhân ngày sinh nhật. Chúc ông xã luôn vững vàng trước mọi sóng gió của cuộc đời. Chúc cho tình yêu và hạnh phúc của chúng mình luôn bền vững và thắm nồng anh nhé!",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_nguoiyeu_11",
+   "content": "Vợ yêu của anh à. Anh và con chúc em luôn luôn mạnh khỏe, vui vẻ và ăn khỏe. Vợ ơi! Cố gắng an nhiều vào nhé! Yêu vợ nhiều lắm. Cảm ơn vợ đã vất vả vì bố con anh!",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_nguoiyeu_12",
+   "content": "Chúc Vợ yêu hạnh phúc bên chồng và Em mãi mãi xinh đẹp, mãi tươi trẻ, đáng yêu, đằm thắm như thủa ban đầu và mãi là như thế. Anh đã rất hạnh phúc lắm lắm Em biết không? Anh cám ơn Em về tất cả những gì Em đã mang lại cho anh…anh vẫn luôn lấy đó là niềm tự hào hãnh diện vì có Em, một người vợ xinh đẹp, ngoan ngoãn và chu đáo, hết mực yêu thương chồng.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_nguoiyeu_13",
+   "content": "Cứ mỗi năm anh lại yêu em nhiều và nhiều hơn nữa. Chức mừng sinh nhật em yêu!",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_nguoiyeu_14",
+   "content": "Anh yêu! Sinh nhật anh em chúc anh gặt hái nhiều thành công. Mong anh mãi yêu em như ngày đầu và luôn ở bên em.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_nguoiyeu_15",
+   "content": "Em à! Gửi em những lời chúc yêu thương nhất nhân Sinh nhật của em! Đơn giản anh chỉ muốn nói với em rằng anh mãi yêu em. Cuộc đời này của anh gắn chặt với em mất rồi.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_nguoiyeu_16",
+   "content": "My love! Amh đã yêu em từ khi anh chưa ra đời. Chúc em có được đầy tràn tình yêu của anh.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_nguoiyeu_17",
+   "content": "Nếu có một điều ước, anh sẽ ước giờ này anh được ở cạnh em, cùng gửi lời ước nguyện và thổi nến với em. Chúc em sinh nhật vui vẻ và nhớ đến anh!",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_nguoiyeu_18",
+   "content": "Tình yêu của em, ngày mai là sinh nhật lần thứ N của anh, em muốn gửi những lời yêu thương chân thành nhất của mình tới anh. Hãy cùng nhau cố gắng vì tình yêu của chúng mình, anh nhé!",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_nguoiyeu_19",
+   "content": "Em cầu chúc cho ông xã của em luôn luôn mạnh khoẻ, luôn là người chồng mà em luôn thương yêu và tin tưởng suốt cuộc đời, luôn là bờ vai vững chắc để em ngả vào những lúc em gặp khó khăn trong cuộc sống.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_nguoiyeu_20",
+   "content": "Chồng yêu vợ thật nhiều, muốn ôm vợ yêu thật chặt, muốn tặng vợ yêu với những nụ hôn thật sâu. Chồng yêu vợ. Sinh nhật chồng chúc vợ bản lĩnh trong công việc và chúc cho tình yêu của vợ chồng mình dành cho nhau ngày càng ngập tràn trong căn phòng của vợ chồng mình. Mãi yêu vợ, mình sẽ mãi mãi hạnh phúc nhé vợ yêu của chồng. Chúng mình cùng nhau vượt qua tất cả nhé yêu vợ nhiều!",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_nguoiyeu_21",
+   "content": "Sinh nhật em yêu. Đánh liều xin chúc. Chúc em hạnh phúc. Sinh nhật bình an. Quà xếp hàng dàn. Thật vui em nhé.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_nguoiyeu_22",
+   "content": "Mỗi ngày, khi Chúa mở cánh cửa thiên đường, Ngài nhìn anh và hỏi: \"Điều ước hôm nay của con là gì?\". Anh trả lời: \"Xin Người hãy giúp người đang đọc tin nhắn này ngủ thật ngon và có giấc mơ thật đẹp\". Chúc em iu ngủ ngon nhé!",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_nguoiyeu_23",
+   "content": "Chúc mừng sinh nhật người yêu của anh! Chúc em một tuổi mới thật nhiều niềm vui và luôn được anh yêu thương.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_nguoiyeu_24",
+   "content": "Happy birthday em yêu! Anh chúc em tuổi mới xinh đẹp hơn, hạnh phúc hơn và luôn mỉm cười.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_nguoiyeu_25",
+   "content": "Chúc mừng sinh nhật! Cảm ơn em vì đã xuất hiện trong đời anh, chúc em tuổi mới thật rực rỡ.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_nguoiyeu_26",
+   "content": "Sinh nhật vui vẻ em nhé! Chúc em tuổi mới khỏe mạnh, bình an và luôn có anh bên cạnh.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_nguoiyeu_27",
+   "content": "Chúc mừng sinh nhật người thương! Chúc em tuổi mới mọi điều em ước đều thành hiện thực.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_nguoiyeu_28",
+   "content": "Happy birthday! Anh chúc em một tuổi mới ít buồn, nhiều vui và thật nhiều điều bất ngờ dễ thương.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_nguoiyeu_29",
+   "content": "Chúc mừng sinh nhật em! Chúc em tuổi mới tự tin, rạng rỡ và luôn được yêu chiều.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_nguoiyeu_30",
+   "content": "Sinh nhật vui vẻ! Anh chúc em tuổi mới thuận lợi trong công việc và ngọt ngào trong tình yêu.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_nguoiyeu_31",
+   "content": "Chúc mừng sinh nhật người yêu! Chúc em tuổi mới luôn giữ được nụ cười làm anh say đắm.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_nguoiyeu_32",
+   "content": "Happy birthday em yêu! Chúc em một tuổi mới bình yên bên anh và bên những người em thương.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_nguoiyeu_33",
+   "content": "Chúc mừng sinh nhật! Anh chúc em tuổi mới sức khỏe dồi dào và tâm hồn luôn thảnh thơi.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_nguoiyeu_34",
+   "content": "Sinh nhật vui vẻ em nhé! Chúc em tuổi mới gặt hái được những điều em đã cố gắng bấy lâu.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_nguoiyeu_35",
+   "content": "Chúc mừng sinh nhật người thương! Chúc em tuổi mới thật nhiều yêu thương từ tất cả mọi người.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_nguoiyeu_36",
+   "content": "Happy birthday! Anh chúc em tuổi mới mãi đáng yêu như ngày đầu anh gặp em.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_nguoiyeu_37",
+   "content": "Chúc mừng sinh nhật em! Chúc em tuổi mới an yên, hạnh phúc và không phải lo lắng điều gì.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_nguoiyeu_38",
+   "content": "Sinh nhật vui vẻ! Anh chúc em tuổi mới rực rỡ và anh sẽ luôn ở đây để cùng em đi tiếp.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_nguoiyeu_39",
+   "content": "Chúc mừng sinh nhật người yêu! Chúc em tuổi mới mọi ngày đều có lý do để vui.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_nguoiyeu_40",
+   "content": "Happy birthday em! Anh chúc em một tuổi mới trọn vẹn, và cảm ơn em vì đã chọn anh.",
+   "translate": ""
+  }
+ ]
+}

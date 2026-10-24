@@ -1,0 +1,204 @@
+{
+ "result": [
+  {
+   "id": "mung1_bame_1",
+   "content": "Hôm nay mùng 1 đầu tháng, chúc ba mẹ thật nhiều sức khỏe, vui vẻ và gặp nhiều may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_bame_2",
+   "content": "Chúc ba mẹ đón chào tháng mới thật nhiều niềm vui, yêu thương, an nhiên và khỏe mạnh.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_bame_3",
+   "content": "Hôm nay mùng 1 đầu tháng, con chúc ba mẹ sức khỏe, vui vẻ, gặp nhiều may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_bame_4",
+   "content": "Chúc ngày mùng 1 đầu tháng ba mẹ gặp may mắn, nhiều tài lộc, cả tháng thuận lợi làm ăn phát đạt và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_bame_5",
+   "content": "Mùng 1 không có gì hơn ngoài lời chúc tốt đẹp nhất dành cho ba mẹ yêu quý của con, chúc ba mẹ luôn hạnh phúc, sức khỏe dồi dào và gặp thật nhiều may mắn!",
+   "translate": ""
+  },
+  {
+   "id": "mung1_bame_6",
+   "content": "Chúc ba mẹ của con lúc nào cũng có thật nhiều sức khỏe và luôn nở nụ cười trên môi. Chúc ba mẹ tháng mới thật may mắn, ngập tràn niềm hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_bame_7",
+   "content": "Một tháng nhanh quá ba ơi, mới đó lại là mùng 1 rồi và hôm nay con không có gì ngoài lời chúc chân thành đến từ tận trái tim con. Chúc ba một tháng mới làm ăn phát đạt, luôn vui vẻ và hạnh phúc nha!",
+   "translate": ""
+  },
+  {
+   "id": "mung1_bame_8",
+   "content": "Tháng mới đến rồi, chúc cho ba mẹ của con một tháng mới tràn đầy năng lực, làm việc hết mình để việc kinh doanh buôn bán thuận lợi, suôn sẻ.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_bame_9",
+   "content": "Chúc ba mẹ một tháng mới với nhiều điều may mắn, làm ăn phát đạt, sức khỏe dồi dào.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_bame_10",
+   "content": "Tháng mới mong cho những điều tốt đẹp sẽ luôn đến với ba mẹ, lúc nào nụ cười cũng hiện hữu trên gương mặt.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_bame_11",
+   "content": "Bố à! Bố con mình không có ngày gì cho đàn ông hết là vì mỗi ngày trong năm đều là của chúng ta, con sẽ tạo ra những ngày riêng cho bố và đó là ngày hôm nay. Chúc bố có một ngày đầu tháng suôn sẻ, vui tươi và trẻ khỏe!",
+   "translate": ""
+  },
+  {
+   "id": "mung1_bame_12",
+   "content": "Chúc ba mẹ mùng 1 đầu tháng tốt lành, vạn sự bình an.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_bame_13",
+   "content": "Mùng 1 đầu tháng, con kính chúc bố mẹ thật nhiều sức khỏe và luôn bình an.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_bame_14",
+   "content": "Đầu tháng mới, con chúc ba mẹ mọi sự hanh thông và tâm luôn an yên.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_bame_15",
+   "content": "Con kính chúc bố mẹ mùng 1 may mắn, cả tháng bình an và nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_bame_16",
+   "content": "Mùng 1 đầu tháng, con chúc ba mẹ ăn ngon ngủ ngon và ít lo nghĩ.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_bame_17",
+   "content": "Đầu tháng, con kính chúc bố mẹ sức khỏe dồi dào và lòng luôn thanh thản.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_bame_18",
+   "content": "Con chúc ba mẹ một tháng mới an khang, thịnh vượng và vạn sự như ý.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_bame_19",
+   "content": "Mùng 1 may mắn! Con kính chúc bố mẹ mọi điều tốt lành sẽ đến.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_bame_20",
+   "content": "Đầu tháng mới, con chúc ba mẹ bớt vất vả và có nhiều thời gian nghỉ ngơi hơn.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_bame_21",
+   "content": "Con kính chúc bố mẹ mùng 1 bình an, cả tháng hanh thông, cả năm viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_bame_22",
+   "content": "Mùng 1 đầu tháng, con chúc ba mẹ luôn khỏe mạnh để con còn được báo hiếu.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_bame_23",
+   "content": "Đầu tháng, con kính chúc bố mẹ một tháng mới nhẹ nhàng và thật nhiều tiếng cười.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_bame_24",
+   "content": "Con chúc ba mẹ mùng 1 gặp nhiều may mắn và cả tháng đều thuận lợi.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_bame_25",
+   "content": "Mùng 1 may mắn! Con kính chúc bố mẹ sức khỏe như ý và cuộc sống đủ đầy.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_bame_26",
+   "content": "Đầu tháng mới, con chúc ba mẹ tâm an, trí sáng và luôn vui vẻ.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_bame_27",
+   "content": "Con kính chúc bố mẹ một tháng mới bình yên, sung túc và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_bame_28",
+   "content": "Mùng 1 đầu tháng, con chúc ba mẹ mọi lo toan đều qua và mọi điều tốt đều đến.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_bame_29",
+   "content": "Đầu tháng, con kính chúc bố mẹ sống thật lâu, thật khỏe cùng con cháu.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_bame_30",
+   "content": "Con chúc ba mẹ mùng 1 an lành và cả tháng ngập tràn niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_bame_31",
+   "content": "Mùng 1 may mắn! Con kính chúc bố mẹ vạn sự cát tường và gia đạo bình an.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_bame_32",
+   "content": "Đầu tháng mới, con chúc ba mẹ luôn khỏe mạnh và luôn mỉm cười.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_bame_33",
+   "content": "Con kính chúc bố mẹ một tháng mới thật nhiều sức khỏe và thật ít muộn phiền.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_bame_34",
+   "content": "Mùng 1 đầu tháng, con chúc ba mẹ phúc lộc đầy nhà và con cháu hiếu thảo.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_bame_35",
+   "content": "Đầu tháng, con kính chúc bố mẹ mọi dự định đều thành hiện thực.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_bame_36",
+   "content": "Con chúc ba mẹ mùng 1 bình an, và chúc cả nhà mình một tháng thật vui.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_bame_37",
+   "content": "Mùng 1 may mắn! Con kính chúc bố mẹ thân tâm an lạc và hạnh phúc trọn vẹn.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_bame_38",
+   "content": "Đầu tháng mới, con chúc ba mẹ gặp nhiều điều lành và tránh xa điều dữ.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_bame_39",
+   "content": "Con kính chúc bố mẹ một tháng mới an khang và tràn đầy năng lượng.",
+   "translate": ""
+  },
+  {
+   "id": "mung1_bame_40",
+   "content": "Mùng 1 đầu tháng, con chúc ba mẹ luôn bình an trong tâm và vững vàng trong đời.",
+   "translate": ""
+  }
+ ]
+}

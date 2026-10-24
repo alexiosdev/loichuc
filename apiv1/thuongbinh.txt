@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "thuongbinh_1",
+   "content": "Nhân ngày Thương binh Liệt sĩ 27/7, xin tri ân sâu sắc những hy sinh to lớn của các anh hùng liệt sĩ.",
+   "translate": ""
+  },
+  {
+   "id": "thuongbinh_2",
+   "content": "Ngày 27/7, xin kính cẩn nghiêng mình trước những người đã ngã xuống vì độc lập dân tộc.",
+   "translate": ""
+  },
+  {
+   "id": "thuongbinh_3",
+   "content": "Nhân ngày 27/7, xin gửi lời tri ân tới các thương binh, bệnh binh và gia đình liệt sĩ.",
+   "translate": ""
+  },
+  {
+   "id": "thuongbinh_4",
+   "content": "Ngày Thương binh Liệt sĩ, xin tưởng nhớ và biết ơn những người đã hy sinh vì Tổ quốc.",
+   "translate": ""
+  },
+  {
+   "id": "thuongbinh_5",
+   "content": "Nhân ngày 27/7, kính chúc các bác thương binh thật nhiều sức khỏe và bình an.",
+   "translate": ""
+  },
+  {
+   "id": "thuongbinh_6",
+   "content": "Ngày 27/7, xin tri ân những người đã để lại một phần máu xương cho đất nước.",
+   "translate": ""
+  },
+  {
+   "id": "thuongbinh_7",
+   "content": "Nhân ngày Thương binh Liệt sĩ, xin thắp nén tâm nhang tưởng nhớ các anh hùng liệt sĩ.",
+   "translate": ""
+  },
+  {
+   "id": "thuongbinh_8",
+   "content": "Ngày 27/7, chúng ta nhớ về những người đã hy sinh để chúng ta có hôm nay.",
+   "translate": ""
+  },
+  {
+   "id": "thuongbinh_9",
+   "content": "Nhân ngày 27/7, kính chúc các gia đình chính sách luôn mạnh khỏe và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "thuongbinh_10",
+   "content": "Ngày Thương binh Liệt sĩ, xin cúi đầu biết ơn những hy sinh thầm lặng.",
+   "translate": ""
+  },
+  {
+   "id": "thuongbinh_11",
+   "content": "Nhân ngày 27/7, xin tri ân các thế hệ cha anh đã ngã xuống vì hòa bình hôm nay.",
+   "translate": ""
+  },
+  {
+   "id": "thuongbinh_12",
+   "content": "Ngày 27/7, kính chúc các bác thương binh và thân nhân liệt sĩ an khang, hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "thuongbinh_13",
+   "content": "Nhân ngày Thương binh Liệt sĩ, xin ghi nhớ công ơn của những người con ưu tú của dân tộc.",
+   "translate": ""
+  },
+  {
+   "id": "thuongbinh_14",
+   "content": "Ngày 27/7, xin tưởng niệm và tri ân những anh hùng đã hy sinh vì Tổ quốc.",
+   "translate": ""
+  },
+  {
+   "id": "thuongbinh_15",
+   "content": "Nhân ngày 27/7, kính chúc các thương binh, bệnh binh luôn khỏe mạnh và an vui.",
+   "translate": ""
+  },
+  {
+   "id": "thuongbinh_16",
+   "content": "Ngày Thương binh Liệt sĩ, chúng ta biết ơn vì nền hòa bình được đổi bằng máu xương.",
+   "translate": ""
+  },
+  {
+   "id": "thuongbinh_17",
+   "content": "Nhân ngày 27/7, xin gửi lời tri ân chân thành nhất tới các gia đình liệt sĩ.",
+   "translate": ""
+  },
+  {
+   "id": "thuongbinh_18",
+   "content": "Ngày 27/7, xin kính cẩn tưởng nhớ những người đã nằm xuống cho đất nước đứng lên.",
+   "translate": ""
+  },
+  {
+   "id": "thuongbinh_19",
+   "content": "Nhân ngày Thương binh Liệt sĩ, kính chúc các bác và gia đình luôn bình an.",
+   "translate": ""
+  },
+  {
+   "id": "thuongbinh_20",
+   "content": "Ngày 27/7, xin tri ân và nguyện sống xứng đáng với sự hy sinh của các thế hệ đi trước.",
+   "translate": ""
+  },
+  {
+   "id": "thuongbinh_21",
+   "content": "Nhân ngày 27/7, xin thành kính tưởng nhớ các anh hùng liệt sĩ đã quên mình vì nước.",
+   "translate": ""
+  },
+  {
+   "id": "thuongbinh_22",
+   "content": "Ngày Thương binh Liệt sĩ, kính chúc các thương binh sức khỏe dồi dào và cuộc sống ấm no.",
+   "translate": ""
+  },
+  {
+   "id": "thuongbinh_23",
+   "content": "Nhân ngày 27/7, xin biết ơn những người đã đánh đổi tuổi xuân cho hòa bình.",
+   "translate": ""
+  },
+  {
+   "id": "thuongbinh_24",
+   "content": "Ngày 27/7, xin tri ân các mẹ Việt Nam anh hùng và các gia đình có công với cách mạng.",
+   "translate": ""
+  },
+  {
+   "id": "thuongbinh_25",
+   "content": "Nhân ngày Thương binh Liệt sĩ, chúng ta mãi ghi nhớ công ơn của các anh hùng.",
+   "translate": ""
+  },
+  {
+   "id": "thuongbinh_26",
+   "content": "Ngày 27/7, kính chúc các bác thương binh luôn mạnh khỏe và được chăm sóc chu đáo.",
+   "translate": ""
+  },
+  {
+   "id": "thuongbinh_27",
+   "content": "Nhân ngày 27/7, xin cúi đầu tưởng niệm những người đã hy sinh vì độc lập tự do.",
+   "translate": ""
+  },
+  {
+   "id": "thuongbinh_28",
+   "content": "Ngày Thương binh Liệt sĩ, xin gửi lời tri ân tới những người lính năm xưa.",
+   "translate": ""
+  },
+  {
+   "id": "thuongbinh_29",
+   "content": "Nhân ngày 27/7, kính chúc thân nhân các liệt sĩ luôn bình an và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "thuongbinh_30",
+   "content": "Ngày 27/7, chúng ta tưởng nhớ những người đã viết nên trang sử hào hùng của dân tộc.",
+   "translate": ""
+  },
+  {
+   "id": "thuongbinh_31",
+   "content": "Nhân ngày Thương binh Liệt sĩ, xin tri ân và nguyện tiếp bước cha anh.",
+   "translate": ""
+  },
+  {
+   "id": "thuongbinh_32",
+   "content": "Ngày 27/7, kính chúc các gia đình chính sách một cuộc sống đủ đầy và ấm áp.",
+   "translate": ""
+  },
+  {
+   "id": "thuongbinh_33",
+   "content": "Nhân ngày 27/7, xin thành kính tri ân những hy sinh không gì bù đắp được.",
+   "translate": ""
+  },
+  {
+   "id": "thuongbinh_34",
+   "content": "Ngày Thương binh Liệt sĩ, xin tưởng nhớ các anh hùng đã nằm lại nơi chiến trường.",
+   "translate": ""
+  },
+  {
+   "id": "thuongbinh_35",
+   "content": "Nhân ngày 27/7, kính chúc các bác thương binh an khang và luôn vui vẻ.",
+   "translate": ""
+  },
+  {
+   "id": "thuongbinh_36",
+   "content": "Ngày 27/7, xin biết ơn vì những ngày bình yên mà chúng ta đang có hôm nay.",
+   "translate": ""
+  },
+  {
+   "id": "thuongbinh_37",
+   "content": "Nhân ngày Thương binh Liệt sĩ, xin thắp lên ngọn nến tri ân các anh hùng liệt sĩ.",
+   "translate": ""
+  },
+  {
+   "id": "thuongbinh_38",
+   "content": "Ngày 27/7, kính chúc các thương binh và gia đình liệt sĩ mọi điều tốt lành.",
+   "translate": ""
+  },
+  {
+   "id": "thuongbinh_39",
+   "content": "Nhân ngày 27/7, chúng ta mãi khắc ghi công ơn của những người đã hy sinh.",
+   "translate": ""
+  },
+  {
+   "id": "thuongbinh_40",
+   "content": "Ngày Thương binh Liệt sĩ, xin tri ân và kính chúc các bác thật nhiều sức khỏe.",
+   "translate": ""
+  },
+  {
+   "id": "thuongbinh_41",
+   "content": "Nhân ngày 27/7, xin nghiêng mình trước những tấm gương hy sinh cao cả.",
+   "translate": ""
+  },
+  {
+   "id": "thuongbinh_42",
+   "content": "Ngày 27/7, xin tưởng nhớ, tri ân và nguyện sống tốt để không phụ lòng các thế hệ đi trước.",
+   "translate": ""
+  }
+ ]
+}

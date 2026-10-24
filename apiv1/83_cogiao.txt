@@ -1,0 +1,204 @@
+{
+ "result": [
+  {
+   "id": "83_cogiao_1",
+   "content": "Cô giáo kính yêu! Cô là đốm lửa đã nhen nhóm lên ngọn lửa tâm hồn cho chúng em. Cô là những bậc thềm đá để chúng em bước từng bước tiến lên phía trước. Cảm ơn cô nhiều. Ngày 8/3 chúng em chúc cô sức khỏe, niềm vui và hạnh phúc!",
+   "translate": ""
+  },
+  {
+   "id": "83_cogiao_2",
+   "content": "Chúc mừng các cô giáo nhân ngày 8/3. Chúc cô luôn đủ tâm, trí và lực để ngày càng cống hiến nhiều hơn nữa vì các em học sinh thân yêu.",
+   "translate": ""
+  },
+  {
+   "id": "83_cogiao_3",
+   "content": "Chúc mừng cô nhân ngày 8/3. Chúc các cô thật nhiều sức khỏe, niềm vui và hạnh phúc. Kính tặng cô những bông hoa tươi thắm nhất.",
+   "translate": ""
+  },
+  {
+   "id": "83_cogiao_4",
+   "content": "Nhân ngày 8/3 em xin chúc các cô lời chúc tốt đẹp nhất. Chúc các cô hoàn thành nhiệm vụ cao cả của mình trong sự nghiệp trăm năm trồng người. Em chân thành cám ơn các cô.",
+   "translate": ""
+  },
+  {
+   "id": "83_cogiao_5",
+   "content": "Ơn dạy dỗ cao dường hơn núi, nghĩa Thầy Cô như nước biển khơi, công Cha Mẹ con luôn tạc dạ, ơn Cô con mãi ghi lòng. Mùng 8/3 con xin kính chúc Cô mạnh khỏe, thành công trong sự nghiệp trồng người.",
+   "translate": ""
+  },
+  {
+   "id": "83_cogiao_6",
+   "content": "Nhân ngày quốc tế phụ nữ chúc tất cả các cô giáo trên mọi miền đất nước sức khỏe, hạnh phúc và thành công. Riêng chúc cô đang đọc tin nhắn này ngày 8/3 thật vui, với lời chúc tốt đẹp nhất. Và chúc các cô luôn cố gắng hết mình cho thế hệ trẻ hôm nay.",
+   "translate": ""
+  },
+  {
+   "id": "83_cogiao_7",
+   "content": "Em không là học trò xuất sắc nhất của Cô, nhưng Cô là người mà em yêu quý nhất. Nhân ngày 8/3, kính chúc Cô luôn mạnh khỏe, hạnh phúc và gặt hái được nhiều thành công trong sự nghiệp trồng người!",
+   "translate": ""
+  },
+  {
+   "id": "83_cogiao_8",
+   "content": "8/3 chúc cô giáo của con có thật nhiều hoa, quà và vui... thả ga cô nhé.",
+   "translate": ""
+  },
+  {
+   "id": "83_cogiao_9",
+   "content": "Em cám ơn cô đã dạy dỗ em nên người, đã truyền cho em biết bao kiến thức để em trở thành một người hữu dụng cho đất nước, xã hội….Chúc cô luôn vui tươi và ngập tràn hạnh phúc nhân ngày mùng 8-3.",
+   "translate": ""
+  },
+  {
+   "id": "83_cogiao_10",
+   "content": "Nhân ngày 8/3 em xin chúc các cô giáo lời chúc tốt đẹp nhất. Chúc các cô luôn tràn đầy nhiệt huyết với sự nghiệp cao cả của mình. Chúc các cô thật nhiều sức khỏe để vững bước chèo lái con thuyền \"trồng người\" đến bờ bến thành công.",
+   "translate": ""
+  },
+  {
+   "id": "83_cogiao_11",
+   "content": "Ngày mồng tám tháng ba Chúng em đi hái hoa Mang về tặng cô giáo Bó hoa của em đây Vàng tươi hoa cúc áo Hồng hồng hoa cối xay Đỏ rực nụ dong riềng Tím tím hoa bìm bìm Dây tơ hồng em cuốn Thành một bó vừa xinh Sao em hồi hộp thế Chẳng nói được câu nào Lời cô than thiết sao Vòng tay cô dịu quá Có phải hoa nói hộn Cho lòng em xôn xao Ôi chum hoa bé nhỏ Của đồng quê ngọt ngào.",
+   "translate": ""
+  },
+  {
+   "id": "83_cogiao_12",
+   "content": "Không có từ ngữ nào có thể diễn tả được tình cảm em dành cho cô. Cầu mong cô luôn mạnh khỏe để chéo lái những con đò cập bến thành công.",
+   "translate": ""
+  },
+  {
+   "id": "83_cogiao_13",
+   "content": "Nhân Quốc tế Phụ nữ, với tất cả tấm chân tình mà con muốn gửi đến cô, chúc cho cô luôn vui vẻ tràn ngập niềm tin trong cuộc sống, ngày nào cũng luôn gặp may mắn và thành công trên con đường dạy học của mình, chăm bón những mầm non của mình thật tốt để sau này giúp đời.",
+   "translate": ""
+  },
+  {
+   "id": "83_cogiao_14",
+   "content": "Em chúc cô giáo luôn mạnh khoẻ, trẻ trung, vui tính, luôn luôn giữ vững niềm tin và ngày càng nâng cao sự dũng cảm trước những đứa học trò nghịch ngợm như bọn em. Happy Women's day.",
+   "translate": ""
+  },
+  {
+   "id": "83_cogiao_15",
+   "content": "Em xin gửi lời chúc 8/3 đến cô, một cô giáo nghiêm khắc mà cũng bao dung, giỏi giang mà cũng xinh đẹp nữa, chúc cô luôn xử lý được đám học sinh của mình như ngày nào.",
+   "translate": ""
+  },
+  {
+   "id": "83_cogiao_16",
+   "content": "Nhân ngày 8/3, em chúc cô luôn trẻ trung vui tươi để mãi là người cô, người chỉ đường gần gũi nhất với mọi học sinh.",
+   "translate": ""
+  },
+  {
+   "id": "83_cogiao_17",
+   "content": "Nhân ngày 8/3, em xin gửi đến cô lời cảm ơn chân thành đã dìu dắt chúng em đến gần hơn với chân trời kiến thức. Kính chúc cô luôn luôn mạnh khỏe và hạnh phúc và luôn mang đến cho chúng em ngày càng nhiều bài học hay và bổ ích.",
+   "translate": ""
+  },
+  {
+   "id": "83_cogiao_18",
+   "content": "Nghề giáo bao đời nay luôn được xem là nghề cao quý, nghề \"trồng người\". Người thầy, dù ở đâu cũng là những người được kính trọng nhất. Nhân ngày 8/3, xin gửi lời chúc mừng tốt đẹp nhất đến các cô.",
+   "translate": ""
+  },
+  {
+   "id": "83_cogiao_19",
+   "content": "Nhân ngày 8/3 em gửi lời chúc tốt đẹp nhất tới cô, người mà con luôn luôn kính trọng và yêu mến. Mong rằng cô luôn khỏe mạnh và có nhiều niềm vui trong cuộc sống.",
+   "translate": ""
+  },
+  {
+   "id": "83_cogiao_20",
+   "content": "Nhân ngày 8/3, em gửi lời chúc tốt đẹp nhất tới cô giáo, người mà em luôn luôn kính trọng và yêu mến. Mong rằng cô luôn khỏe mạnh và có nhiều niềm vui trong cuộc sống.",
+   "translate": ""
+  },
+  {
+   "id": "83_cogiao_21",
+   "content": "Là một đứa học trò cá biệt trong lớp, em đã làm cô buồn thật nhiều. Nhưng mùng 8/3 em xin kính chúc cô thật nhiều sức khỏe, thật nhiều thành công. Em xin hứa sẽ không quậy phá, trốn tiết để cô phải buồn nữa!",
+   "translate": ""
+  },
+  {
+   "id": "83_cogiao_22",
+   "content": "Em chúc cô giáo luôn mạnh khỏe, trẻ trung, vui tính, luôn luôn giữ vững niềm tin và ngày càng nâng cao sự... dũng cảm trước những đứa học trò nghịch như quỷ sứ bọn em. Happy Women's day.",
+   "translate": ""
+  },
+  {
+   "id": "83_cogiao_23",
+   "content": "Dành tặng những tình cảm sâu sắc và tôn kính nhất đến các cô giáo trong ngày 8/3. Chúc các cô luôn mạnh khỏe, thành đạt, hạnh phúc và công tác tốt.",
+   "translate": ""
+  },
+  {
+   "id": "83_cogiao_24",
+   "content": "Cám ơn các cô giáo, đã dạy dỗ em nên người, đã truyền cho em biết bao kiến thức để em trở thành một người hữu dụng cho đất nước, xã hội….Chúc các cô giáo luôn vui tươi và ngập tràn hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "83_cogiao_25",
+   "content": "Con cảm ơn Cô! Cô không chỉ cho con kiến thức mà còn dạy con cách làm người, biết thương yêu, giúp đỡ người khác. Con mong Cô luôn mạnh khỏe để dìu dắt chúng con. Chúc Cô 8/3 thật vui vẻ và tràn đầy hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "83_cogiao_26",
+   "content": "Chúc cô mạnh khỏe Trẻ mãi không già Sống mãi bên em Tăng cô bao đóa hoa hồng Tặng cô với cả hương nồng sắc xuân Tháng ngày dạy dỗ ân cần Cho bao thế hệ góp phân dựng xây Tiếng cô tưởng nhớ mới đây Xây bao hạnh phúc trấn dầy yêu thương...",
+   "translate": ""
+  },
+  {
+   "id": "83_cogiao_27",
+   "content": "Hôm nay mùng 8 tháng 3 Em có mấy chữ tặng cô thế này Tặng cô bao đóa hoa hồng Tặng cô với cả hương nồng sắc xuân Tháng ngày dạy dỗ ân cần Cho bao thế hệ góp phân dựng xây Tiếng cô tưởng nhớ mới đây Xây bao hạnh phúc tràn đầy yêu thương...",
+   "translate": ""
+  },
+  {
+   "id": "83_cogiao_28",
+   "content": "\"Một chữ là Thầy, nữa chữ cũng là Thầy\". Con luôn nhớ về Cô - người đã trang bị cho con những kiến thức bổ ích, người chắp cánh cho con hiện thực hóa những giấc mơ. Con cảm ơn cô thật nhiều! Chúc cô mọi điều tốt đẹp. Con yên cô.",
+   "translate": ""
+  },
+  {
+   "id": "83_cogiao_29",
+   "content": "Nhân ngày Quốc tế Phụ nữ 8/3, với tất cả tấm chân tình em muốn gửi đến cô, chúc cho cô luôn vui vẻ tràn ngập niềm tin trong cuộc sống. Chúc cô luôn gặp may mắn và thành công trên con đường dạy học của mình.",
+   "translate": ""
+  },
+  {
+   "id": "83_cogiao_30",
+   "content": "Nhân ngày 8/3 em xin chúc cô lời chúc tốt đẹp nhất. Chúc cô luôn tràn đầy nhiệt huyết với sự nghiệp cao cả của mình. Chúc các cô thật nhiều sức khỏe để vững bước chèo lái con thuyền \"trồng người\" đến bờ bến thành công.",
+   "translate": ""
+  },
+  {
+   "id": "83_cogiao_31",
+   "content": "Chúc bạn một ngày 8/3 thật ý nghĩa, vui tươi ngập tràn hạnh phúc. Chúc bạn luôn cười tươi, cười duyên, cười e thẹn, cười trẻ trung, ngập tràn các kiểu cười trong ngày hôm nay.",
+   "translate": ""
+  },
+  {
+   "id": "83_cogiao_32",
+   "content": "Nhân ngày 8/3, em kính chúc cô luôn xinh đẹp, mạnh khỏe và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "83_cogiao_33",
+   "content": "Chúc mừng ngày Quốc tế Phụ nữ! Em chúc cô một ngày thật ý nghĩa và đáng nhớ.",
+   "translate": ""
+  },
+  {
+   "id": "83_cogiao_34",
+   "content": "Ngày 8/3, em kính chúc cô mãi trẻ trung, dịu dàng và được học trò yêu quý.",
+   "translate": ""
+  },
+  {
+   "id": "83_cogiao_35",
+   "content": "Nhân ngày 8/3, em xin gửi tới cô lòng biết ơn và lời chúc tốt đẹp nhất.",
+   "translate": ""
+  },
+  {
+   "id": "83_cogiao_36",
+   "content": "Chúc mừng 8/3! Em kính chúc cô bớt vất vả và có nhiều thời gian cho bản thân.",
+   "translate": ""
+  },
+  {
+   "id": "83_cogiao_37",
+   "content": "Ngày của phái đẹp, em chúc cô luôn giữ được nụ cười ấm áp trên bục giảng.",
+   "translate": ""
+  },
+  {
+   "id": "83_cogiao_38",
+   "content": "Nhân ngày 8/3, em kính chúc cô vạn sự như ý và gia đình hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "83_cogiao_39",
+   "content": "Chúc mừng ngày 8/3! Em chúc cô sức khỏe dồi dào và tâm hồn luôn thư thái.",
+   "translate": ""
+  },
+  {
+   "id": "83_cogiao_40",
+   "content": "Ngày 8/3, em kính chúc cô nhận được thật nhiều hoa và lời chúc chân thành.",
+   "translate": ""
+  }
+ ]
+}

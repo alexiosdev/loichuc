@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "trungthu_khachhang_1",
+   "content": "Nhân dịp Tết Trung thu, kính chúc Quý khách hàng và gia đình một mùa đoàn viên ấm áp, hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_khachhang_2",
+   "content": "Trung thu an lành! Kính chúc Quý đối tác sức khỏe dồi dào và công việc hanh thông.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_khachhang_3",
+   "content": "Kính chúc Quý khách một mùa Trung thu trọn vẹn bên gia đình và người thân yêu.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_khachhang_4",
+   "content": "Nhân dịp Trung thu, chúng tôi xin tri ân và kính chúc Quý khách vạn sự như ý.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_khachhang_5",
+   "content": "Trung thu vui vẻ! Kính chúc Quý công ty ngày càng phát đạt và thịnh vượng.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_khachhang_6",
+   "content": "Kính chúc Quý khách hàng một đêm rằm tròn đầy, an lành và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_khachhang_7",
+   "content": "Nhân dịp Tết Trung thu, kính chúc Quý đối tác hợp tác thuận lợi và cùng nhau phát triển.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_khachhang_8",
+   "content": "Trung thu an lành! Kính chúc Quý khách bình an, sung túc và viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_khachhang_9",
+   "content": "Kính chúc Quý khách hàng một mùa Trung thu ngọt ngào và ấm áp.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_khachhang_10",
+   "content": "Nhân dịp Trung thu, kính chúc Quý công ty một mùa lễ an lành và kinh doanh khởi sắc.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_khachhang_11",
+   "content": "Trung thu vui vẻ! Kính chúc Quý khách và gia đình thật nhiều sức khỏe và niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_khachhang_12",
+   "content": "Kính chúc Quý đối tác một mùa đoàn viên hạnh phúc và một năm thật nhiều thắng lợi.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_khachhang_13",
+   "content": "Nhân dịp Tết Trung thu, xin cảm ơn Quý khách đã luôn đồng hành cùng chúng tôi.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_khachhang_14",
+   "content": "Trung thu an lành! Kính chúc Quý khách hàng mọi điều tốt đẹp nhất.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_khachhang_15",
+   "content": "Kính chúc Quý khách một mùa Trung thu đầm ấm bên những người thân yêu.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_khachhang_16",
+   "content": "Nhân dịp Trung thu, kính chúc Quý công ty tài lộc dồi dào và vạn sự cát tường.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_khachhang_17",
+   "content": "Trung thu vui vẻ! Kính chúc Quý đối tác một đêm rằm thật đẹp và ý nghĩa.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_khachhang_18",
+   "content": "Kính chúc Quý khách hàng sức khỏe, hạnh phúc và thành công trong mùa Trung thu này.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_khachhang_19",
+   "content": "Nhân dịp Tết Trung thu, kính chúc Quý khách một mùa đoàn viên thật trọn vẹn.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_khachhang_20",
+   "content": "Trung thu an lành! Kính chúc Quý công ty phát triển bền vững và vươn xa.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_khachhang_21",
+   "content": "Kính chúc Quý khách một mùa Trung thu an yên và ngập tràn niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_khachhang_22",
+   "content": "Nhân dịp Trung thu, kính chúc Quý đối tác mọi kế hoạch đều thuận lợi.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_khachhang_23",
+   "content": "Trung thu vui vẻ! Kính chúc Quý khách hàng và gia đình một mùa rằm hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_khachhang_24",
+   "content": "Kính chúc Quý khách một Tết Trung thu ngọt ngào như hương bánh nướng.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_khachhang_25",
+   "content": "Nhân dịp Tết Trung thu, kính chúc Quý công ty an khang và thịnh vượng.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_khachhang_26",
+   "content": "Trung thu an lành! Kính chúc Quý đối tác gặp nhiều may mắn và cơ hội tốt.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_khachhang_27",
+   "content": "Kính chúc Quý khách hàng một mùa Trung thu thật ấm áp và đáng nhớ.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_khachhang_28",
+   "content": "Nhân dịp Trung thu, kính chúc Quý khách vạn sự hanh thông và viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_khachhang_29",
+   "content": "Trung thu vui vẻ! Kính chúc Quý công ty một mùa lễ an lành và phát đạt.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_khachhang_30",
+   "content": "Kính chúc Quý đối tác một đêm rằm tròn đầy và một năm thật nhiều thành công.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_khachhang_31",
+   "content": "Nhân dịp Tết Trung thu, kính chúc Quý khách hàng bình an và sung túc.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_khachhang_32",
+   "content": "Trung thu an lành! Kính chúc Quý khách một mùa đoàn viên hạnh phúc bên gia đình.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_khachhang_33",
+   "content": "Kính chúc Quý khách hàng mùa Trung thu này thật nhiều sức khỏe và niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_khachhang_34",
+   "content": "Nhân dịp Trung thu, kính chúc Quý công ty doanh thu khởi sắc và đội ngũ vững mạnh.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_khachhang_35",
+   "content": "Trung thu vui vẻ! Kính chúc Quý đối tác mọi điều may mắn và tốt lành.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_khachhang_36",
+   "content": "Kính chúc Quý khách một mùa Trung thu trọn vẹn, ấm áp và ý nghĩa.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_khachhang_37",
+   "content": "Nhân dịp Tết Trung thu, kính chúc Quý khách hàng an khang, thịnh vượng.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_khachhang_38",
+   "content": "Trung thu an lành! Kính chúc Quý công ty một mùa lễ thật nhiều thắng lợi.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_khachhang_39",
+   "content": "Kính chúc Quý đối tác một mùa Trung thu bình an và hợp tác ngày càng bền chặt.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_khachhang_40",
+   "content": "Nhân dịp Trung thu, kính chúc Quý khách hàng hạnh phúc trọn vẹn bên gia đình.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_khachhang_41",
+   "content": "Trung thu vui vẻ! Kính chúc Quý khách một đêm rằm an lành và nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_khachhang_42",
+   "content": "Kính chúc Quý khách hàng một mùa Trung thu thật đẹp và một năm thật rực rỡ.",
+   "translate": ""
+  }
+ ]
+}

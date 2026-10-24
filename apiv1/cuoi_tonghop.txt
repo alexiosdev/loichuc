@@ -1,0 +1,204 @@
+{
+ "result": [
+  {
+   "id": "cuoi_tonghop_1",
+   "content": "Chúc mừng hạnh phúc! Chúc hai bạn trăm năm hạnh phúc, bách niên giai lão, sớm sinh quý tử.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tonghop_2",
+   "content": "Chúc mừng đám cưới! Chúc hai bạn mãi yêu thương nhau như ngày hôm nay.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tonghop_3",
+   "content": "Chúc hai bạn một cuộc hôn nhân bền chặt, ấm áp và thật nhiều tiếng cười.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tonghop_4",
+   "content": "Chúc mừng ngày vui của hai bạn! Chúc hai bạn trăm năm hạnh phúc và luôn bên nhau.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tonghop_5",
+   "content": "Chúc mừng hạnh phúc! Mong hai bạn mãi giữ được ánh mắt dành cho nhau như hôm nay.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tonghop_6",
+   "content": "Chúc hai bạn một đám cưới thật đẹp và một hôn nhân thật bền.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tonghop_7",
+   "content": "Chúc mừng đám cưới! Chúc hai bạn thuận vợ thuận chồng, tát biển Đông cũng cạn.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tonghop_8",
+   "content": "Chúc hai bạn trăm năm hạnh phúc, con đàn cháu đống, gia đạo hưng long.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tonghop_9",
+   "content": "Chúc mừng ngày trọng đại! Chúc hai bạn mãi mãi yêu thương và thấu hiểu nhau.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tonghop_10",
+   "content": "Chúc hai bạn một cuộc sống hôn nhân viên mãn, đủ đầy và thật nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tonghop_11",
+   "content": "Chúc mừng hạnh phúc! Chúc hai bạn luôn là chỗ dựa vững chắc cho nhau.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tonghop_12",
+   "content": "Chúc hai bạn trăm năm hạnh phúc, sống bên nhau trọn đời trọn kiếp.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tonghop_13",
+   "content": "Chúc mừng đám cưới! Mong hai bạn cùng nhau vượt qua mọi thăng trầm phía trước.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tonghop_14",
+   "content": "Chúc hai bạn một tổ ấm thật ấm, một gia đình thật vui và một tương lai thật đẹp.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tonghop_15",
+   "content": "Chúc mừng ngày vui! Chúc hai bạn mãi mặn nồng như ngày đầu gặp gỡ.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tonghop_16",
+   "content": "Chúc hai bạn trăm năm hạnh phúc, mãi mãi bên nhau và luôn mỉm cười.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tonghop_17",
+   "content": "Chúc mừng hạnh phúc! Chúc hai bạn xây dựng được một gia đình thật ấm áp.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tonghop_18",
+   "content": "Chúc hai bạn một hôn nhân đầy yêu thương, sẻ chia và tôn trọng.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tonghop_19",
+   "content": "Chúc mừng đám cưới! Chúc hai bạn sớm có tin vui và luôn hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tonghop_20",
+   "content": "Chúc hai bạn trăm năm hạnh phúc, bách niên giai lão, đầu bạc răng long.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tonghop_21",
+   "content": "Chúc mừng ngày trọng đại của hai bạn! Chúc hai bạn mãi mãi yêu nhau.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tonghop_22",
+   "content": "Chúc hai bạn một cuộc sống vợ chồng thật êm ấm và thật nhiều may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tonghop_23",
+   "content": "Chúc mừng hạnh phúc! Mong hai bạn luôn chọn nhau, mỗi ngày.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tonghop_24",
+   "content": "Chúc hai bạn trăm năm hạnh phúc và một hành trình chung thật đáng nhớ.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tonghop_25",
+   "content": "Chúc mừng đám cưới! Chúc hai bạn thương nhau nhiều hơn mỗi năm trôi qua.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tonghop_26",
+   "content": "Chúc hai bạn một gia đình hạnh phúc, con cái ngoan ngoãn và cuộc sống đủ đầy.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tonghop_27",
+   "content": "Chúc hai bạn trăm năm hạnh phúc, thuận hòa và luôn hiểu nhau.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tonghop_28",
+   "content": "Chúc mừng hạnh phúc! Chúc hai bạn luôn giữ được sự dịu dàng dành cho nhau.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tonghop_29",
+   "content": "Chúc hai bạn một hôn nhân vững bền, ấm áp và tràn đầy yêu thương.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tonghop_30",
+   "content": "Chúc hai bạn trăm năm hạnh phúc và sớm sinh quý tử.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tonghop_31",
+   "content": "Chúc mừng ngày trọng đại! Chúc hai bạn sống vui, sống khỏe và sống bên nhau thật lâu.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tonghop_32",
+   "content": "Chúc hai bạn một cuộc sống chung thật nhẹ nhàng và thật nhiều hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tonghop_33",
+   "content": "Chúc mừng hạnh phúc! Chúc hai bạn mãi là bờ vai của nhau trong mọi hoàn cảnh.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tonghop_34",
+   "content": "Chúc hai bạn trăm năm hạnh phúc, gia đình êm ấm và sự nghiệp hanh thông.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tonghop_35",
+   "content": "Chúc mừng đám cưới! Mong hai bạn luôn kiên nhẫn và bao dung với nhau.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tonghop_36",
+   "content": "Chúc hai bạn một tổ ấm đầy tiếng cười và một tình yêu không phai.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tonghop_37",
+   "content": "Chúc mừng ngày vui của hai bạn! Chúc hai bạn hạnh phúc trọn đời.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tonghop_38",
+   "content": "Chúc hai bạn trăm năm hạnh phúc, luôn khỏe mạnh và luôn yêu thương nhau.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tonghop_39",
+   "content": "Chúc mừng hạnh phúc! Chúc hai bạn một khởi đầu thật đẹp cho chặng đường dài.",
+   "translate": ""
+  },
+  {
+   "id": "cuoi_tonghop_40",
+   "content": "Chúc hai bạn một đám cưới trọn vẹn và một cuộc hôn nhân viên mãn.",
+   "translate": ""
+  }
+ ]
+}

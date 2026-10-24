@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "2011_thaycocu_1",
+   "content": "Nhân ngày 20/11, dù đã rời xa mái trường, em vẫn luôn nhớ và kính chúc thầy cô thật nhiều sức khỏe.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaycocu_2",
+   "content": "Chúc mừng ngày Nhà giáo Việt Nam! Em xin gửi lời tri ân muộn màng nhưng chân thành nhất tới thầy cô.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaycocu_3",
+   "content": "Kính chúc thầy cô ngày 20/11 bình an, hạnh phúc. Em vẫn luôn biết ơn những bài học năm nào.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaycocu_4",
+   "content": "Nhân ngày 20/11, em kính chúc thầy cô cũ của em luôn mạnh khỏe và vui vẻ bên gia đình.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaycocu_5",
+   "content": "Chúc mừng 20/11! Nhiều năm trôi qua, em vẫn nhớ từng lời thầy cô dạy. Kính chúc thầy cô an khang.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaycocu_6",
+   "content": "Kính chúc thầy cô một ngày Nhà giáo Việt Nam ấm áp, dù em không thể về thăm trường.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaycocu_7",
+   "content": "Nhân ngày 20/11, em chúc thầy cô sức khỏe dồi dào và luôn tự hào về các thế hệ học trò.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaycocu_8",
+   "content": "Chúc mừng ngày 20/11! Em đã trưởng thành hơn, và em biết phần lớn là nhờ thầy cô.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaycocu_9",
+   "content": "Kính chúc thầy cô ngày 20/11 vạn sự như ý, gia đình hạnh phúc, cuộc sống viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaycocu_10",
+   "content": "Nhân ngày Nhà giáo Việt Nam, em kính chúc thầy cô cũ luôn khỏe mạnh và an yên.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaycocu_11",
+   "content": "Chúc mừng 20/11! Em xin lỗi vì đã lâu không ghé thăm, và kính chúc thầy cô thật nhiều sức khỏe.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaycocu_12",
+   "content": "Kính chúc thầy cô một ngày 20/11 trọn vẹn và một năm thật nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaycocu_13",
+   "content": "Nhân ngày 20/11, em chúc thầy cô có một tuổi nghề đáng tự hào và một cuộc sống thảnh thơi.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaycocu_14",
+   "content": "Chúc mừng ngày Nhà giáo Việt Nam! Em vẫn nhớ lớp học ngày ấy, và vẫn biết ơn thầy cô rất nhiều.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaycocu_15",
+   "content": "Kính chúc thầy cô ngày 20/11 nhận được thật nhiều tình cảm từ các lứa học trò.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaycocu_16",
+   "content": "Nhân ngày 20/11, em chúc thầy cô bình an, mạnh khỏe và luôn giữ được nụ cười ấm áp ấy.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaycocu_17",
+   "content": "Chúc mừng 20/11! Em kính chúc thầy cô mọi điều tốt đẹp nhất sẽ luôn đến.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaycocu_18",
+   "content": "Kính chúc thầy cô một ngày Nhà giáo Việt Nam thật vui và thật đáng nhớ.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaycocu_19",
+   "content": "Nhân ngày 20/11, em xin chúc thầy cô gia đình thuận hòa và sức khỏe bền bỉ.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaycocu_20",
+   "content": "Chúc mừng ngày 20/11! Những gì thầy cô dạy em năm xưa, em vẫn dùng đến tận bây giờ.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaycocu_21",
+   "content": "Kính chúc thầy cô ngày 20/11 an lành, sung túc và ngập tràn niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaycocu_22",
+   "content": "Nhân ngày Nhà giáo Việt Nam, em chúc thầy cô cũ luôn hạnh phúc và an nhiên.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaycocu_23",
+   "content": "Chúc mừng 20/11! Em kính chúc thầy cô sức khỏe dẻo dai và tinh thần luôn minh mẫn.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaycocu_24",
+   "content": "Kính chúc thầy cô một ngày 20/11 thật đặc biệt, bởi thầy cô rất đặc biệt với em.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaycocu_25",
+   "content": "Nhân ngày 20/11, em chúc thầy cô thân tâm an lạc và phúc lộc đầy nhà.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaycocu_26",
+   "content": "Chúc mừng ngày Nhà giáo Việt Nam! Em chúc thầy cô luôn được học trò nhớ tới với lòng biết ơn.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaycocu_27",
+   "content": "Kính chúc thầy cô ngày 20/11 thật nhiều sức khỏe và thật nhiều tiếng cười.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaycocu_28",
+   "content": "Nhân ngày 20/11, em kính chúc thầy cô có những năm tháng nghỉ ngơi thật trọn vẹn.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaycocu_29",
+   "content": "Chúc mừng 20/11! Em chúc thầy cô mãi là người thầy người cô mà em luôn kính yêu.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaycocu_30",
+   "content": "Kính chúc thầy cô một ngày Nhà giáo Việt Nam thật ý nghĩa bên gia đình.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaycocu_31",
+   "content": "Nhân ngày 20/11, em chúc thầy cô luôn khỏe mạnh và luôn vui vẻ.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaycocu_32",
+   "content": "Chúc mừng ngày 20/11! Em kính chúc thầy cô an khang và thật nhiều may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaycocu_33",
+   "content": "Kính chúc thầy cô ngày 20/11 tràn ngập lời chúc tốt đẹp từ khắp nơi.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaycocu_34",
+   "content": "Nhân ngày Nhà giáo Việt Nam, em chúc thầy cô giữ mãi được sự minh mẫn và niềm vui sống.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaycocu_35",
+   "content": "Chúc mừng 20/11! Em kính chúc thầy cô sức khỏe như ý và gia đình êm ấm.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaycocu_36",
+   "content": "Kính chúc thầy cô một ngày 20/11 nhẹ nhàng, thảnh thơi và thật nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaycocu_37",
+   "content": "Nhân ngày 20/11, em chúc thầy cô mãi khỏe, mãi vui và mãi là tấm gương cho chúng em.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaycocu_38",
+   "content": "Chúc mừng ngày Nhà giáo Việt Nam! Cảm ơn thầy cô vì đã kiên nhẫn với một học trò bướng bỉnh như em.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaycocu_39",
+   "content": "Kính chúc thầy cô ngày 20/11 bình an, viên mãn và tràn đầy hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaycocu_40",
+   "content": "Nhân ngày 20/11, em kính chúc thầy cô vạn sự cát tường và mọi điều hanh thông.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaycocu_41",
+   "content": "Chúc mừng 20/11! Em chúc thầy cô một ngày thật vui và một đời thật an yên.",
+   "translate": ""
+  },
+  {
+   "id": "2011_thaycocu_42",
+   "content": "Kính chúc thầy cô ngày Nhà giáo Việt Nam thật nhiều sức khỏe, niềm vui và hạnh phúc.",
+   "translate": ""
+  }
+ ]
+}

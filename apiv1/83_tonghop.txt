@@ -1,0 +1,204 @@
+{
+ "result": [
+  {
+   "id": "83_tonghop_1",
+   "content": "Ngày mùng 8 tháng 3 luôn là ngày thật đặc biệt với em và đặc biệt với cả anh nữa. Vì đó lại thêm ngày anh được yêu thương chăm sóc em. Anh chúc em tràn đầy hạnh phúc ngọt ngào hãy gìn giữ và nuôi dưỡng tình yêu của chúng mình em nhé.",
+   "translate": ""
+  },
+  {
+   "id": "83_tonghop_2",
+   "content": "Mỗi người đều có hạnh phúc của riêng mình. Đối với anh, hạnh phúc lớn nhất là có em. Anh mong rằng mỗi ngày đều có em bên cạnh, trọn kiếp này và cả kiếp sau nữa. Happy Women's Day! Chúc em có ngày 8/3 thật hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "83_tonghop_3",
+   "content": "Nhân ngày 8/3 chúc các chị em… Trẻ trung như heo sữa Bốc lửa như heo hơi Chịu chơi như heo nái Hăng hái như heo con Sắc son như heo đất Đủ chất như heo thịt.",
+   "translate": ""
+  },
+  {
+   "id": "83_tonghop_4",
+   "content": "Mẹ, mẹ là dòng suối dịu hiền Mẹ, mẹ là bài hát thần tiên Là bóng mát trên cao Là mắt sáng trăng sao Là ánh đuốc trong đêm khi lạc lối... Mẹ là điều tốt đẹp nhất con có.",
+   "translate": ""
+  },
+  {
+   "id": "83_tonghop_5",
+   "content": "Chúc mừng ngày Quốc tế Phụ nữ 8/3! Chúc một nửa thế giới luôn xinh đẹp, mạnh khỏe và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "83_tonghop_6",
+   "content": "Nhân ngày 8/3, xin chúc tất cả phụ nữ luôn được yêu thương, trân trọng và nâng niu.",
+   "translate": ""
+  },
+  {
+   "id": "83_tonghop_7",
+   "content": "Chúc mừng 8/3! Chúc bạn một ngày thật đặc biệt và một năm thật rực rỡ.",
+   "translate": ""
+  },
+  {
+   "id": "83_tonghop_8",
+   "content": "Ngày 8/3, chúc phái đẹp luôn tự tin, kiêu hãnh và tỏa sáng theo cách riêng.",
+   "translate": ""
+  },
+  {
+   "id": "83_tonghop_9",
+   "content": "Nhân ngày Quốc tế Phụ nữ, chúc bạn mọi điều tốt đẹp nhất trong cuộc sống.",
+   "translate": ""
+  },
+  {
+   "id": "83_tonghop_10",
+   "content": "Chúc mừng ngày 8/3! Chúc bạn sức khỏe dồi dào, tinh thần phơi phới, nhan sắc bền lâu.",
+   "translate": ""
+  },
+  {
+   "id": "83_tonghop_11",
+   "content": "Ngày 8/3, chúc bạn gác lại mọi lo toan và tận hưởng ngày của riêng mình.",
+   "translate": ""
+  },
+  {
+   "id": "83_tonghop_12",
+   "content": "Nhân ngày 8/3, chúc bạn luôn giữ được nụ cười rạng rỡ trên môi.",
+   "translate": ""
+  },
+  {
+   "id": "83_tonghop_13",
+   "content": "Chúc mừng 8/3! Chúc bạn công việc thuận lợi, gia đình êm ấm, tình cảm viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "83_tonghop_14",
+   "content": "Ngày Quốc tế Phụ nữ, chúc bạn hạnh phúc theo cách bạn muốn, không cần giống ai.",
+   "translate": ""
+  },
+  {
+   "id": "83_tonghop_15",
+   "content": "Nhân ngày 8/3, chúc bạn thật nhiều hoa, thật nhiều quà và thật nhiều yêu thương.",
+   "translate": ""
+  },
+  {
+   "id": "83_tonghop_16",
+   "content": "Chúc mừng ngày 8/3! Chúc bạn mọi dự định đều thành và mọi mong ước đều toại.",
+   "translate": ""
+  },
+  {
+   "id": "83_tonghop_17",
+   "content": "Ngày 8/3, chúc bạn bớt gồng, bớt lo và sống nhẹ nhàng hơn một chút.",
+   "translate": ""
+  },
+  {
+   "id": "83_tonghop_18",
+   "content": "Nhân ngày Quốc tế Phụ nữ, chúc bạn luôn được lắng nghe và được thấu hiểu.",
+   "translate": ""
+  },
+  {
+   "id": "83_tonghop_19",
+   "content": "Chúc mừng 8/3! Chúc bạn một ngày được nghỉ ngơi thật sự và được chiều chuộng thật nhiều.",
+   "translate": ""
+  },
+  {
+   "id": "83_tonghop_20",
+   "content": "Ngày 8/3, chúc bạn luôn đủ mạnh mẽ nhưng vẫn giữ được sự dịu dàng.",
+   "translate": ""
+  },
+  {
+   "id": "83_tonghop_21",
+   "content": "Nhân ngày 8/3, chúc bạn ngày nào cũng được nâng niu chứ không chỉ riêng hôm nay.",
+   "translate": ""
+  },
+  {
+   "id": "83_tonghop_22",
+   "content": "Chúc mừng ngày Quốc tế Phụ nữ! Chúc bạn an yên trong tâm và rực rỡ trong đời.",
+   "translate": ""
+  },
+  {
+   "id": "83_tonghop_23",
+   "content": "Ngày 8/3, chúc bạn yêu thương bản thân nhiều hơn một chút mỗi ngày.",
+   "translate": ""
+  },
+  {
+   "id": "83_tonghop_24",
+   "content": "Nhân ngày 8/3, chúc bạn gặt hái được mọi điều bạn đang nỗ lực.",
+   "translate": ""
+  },
+  {
+   "id": "83_tonghop_25",
+   "content": "Chúc mừng 8/3! Chúc bạn luôn khỏe mạnh để làm những điều mình yêu thích.",
+   "translate": ""
+  },
+  {
+   "id": "83_tonghop_26",
+   "content": "Ngày Quốc tế Phụ nữ, chúc bạn luôn có những người tốt bên cạnh.",
+   "translate": ""
+  },
+  {
+   "id": "83_tonghop_27",
+   "content": "Nhân ngày 8/3, chúc bạn một ngày trọn vẹn và một đời thật đáng sống.",
+   "translate": ""
+  },
+  {
+   "id": "83_tonghop_28",
+   "content": "Chúc mừng ngày 8/3! Chúc bạn xinh đẹp từ trong ra ngoài và luôn hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "83_tonghop_29",
+   "content": "Ngày 8/3, chúc bạn tìm được niềm vui trong những điều giản dị nhất.",
+   "translate": ""
+  },
+  {
+   "id": "83_tonghop_30",
+   "content": "Nhân ngày Quốc tế Phụ nữ, chúc bạn mãi tự do sống cuộc đời mình muốn.",
+   "translate": ""
+  },
+  {
+   "id": "83_tonghop_31",
+   "content": "Chúc mừng 8/3! Chúc bạn thật nhiều sức khỏe, niềm vui và may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "83_tonghop_32",
+   "content": "Ngày 8/3, chúc bạn nhận lại gấp nhiều lần những điều tốt đẹp bạn đã trao đi.",
+   "translate": ""
+  },
+  {
+   "id": "83_tonghop_33",
+   "content": "Nhân ngày 8/3, chúc bạn luôn tỏa sáng ở bất cứ nơi đâu mình có mặt.",
+   "translate": ""
+  },
+  {
+   "id": "83_tonghop_34",
+   "content": "Chúc mừng ngày Quốc tế Phụ nữ! Chúc bạn bình an, hạnh phúc và viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "83_tonghop_35",
+   "content": "Ngày 8/3, chúc bạn một ngày thật nhẹ nhàng và một tương lai thật xán lạn.",
+   "translate": ""
+  },
+  {
+   "id": "83_tonghop_36",
+   "content": "Nhân ngày 8/3, chúc bạn mãi là người phụ nữ tuyệt vời như bạn vốn có.",
+   "translate": ""
+  },
+  {
+   "id": "83_tonghop_37",
+   "content": "Chúc mừng 8/3! Chúc bạn mọi điều như ý và mọi ước mơ thành hiện thực.",
+   "translate": ""
+  },
+  {
+   "id": "83_tonghop_38",
+   "content": "Ngày Quốc tế Phụ nữ, chúc bạn luôn được yêu thương như bạn xứng đáng.",
+   "translate": ""
+  },
+  {
+   "id": "83_tonghop_39",
+   "content": "Nhân ngày 8/3, chúc bạn một năm thật nhiều thành tựu và thật ít áp lực.",
+   "translate": ""
+  },
+  {
+   "id": "83_tonghop_40",
+   "content": "Chúc mừng ngày 8/3! Chúc bạn sống vui, sống khỏe và sống thật trọn vẹn.",
+   "translate": ""
+  }
+ ]
+}

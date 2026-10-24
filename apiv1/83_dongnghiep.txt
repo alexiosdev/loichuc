@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "83_dongnghiep_1",
+   "content": "Nhân ngày 8/3, xin chúc các chị em đồng nghiệp luôn xinh đẹp, vui tươi và thành công trong công việc.",
+   "translate": ""
+  },
+  {
+   "id": "83_dongnghiep_2",
+   "content": "Chúc mừng 8/3! Chúc các chị em trong phòng một ngày thật vui và một năm thật nhiều thắng lợi.",
+   "translate": ""
+  },
+  {
+   "id": "83_dongnghiep_3",
+   "content": "Ngày 8/3, chúc chị luôn rạng rỡ, khỏe mạnh và là điểm tựa vững vàng của cả team.",
+   "translate": ""
+  },
+  {
+   "id": "83_dongnghiep_4",
+   "content": "Chúc mừng ngày Quốc tế Phụ nữ! Chúc các chị em đồng nghiệp mãi tươi trẻ và tràn đầy năng lượng.",
+   "translate": ""
+  },
+  {
+   "id": "83_dongnghiep_5",
+   "content": "Nhân ngày 8/3, chúc chị em công việc hanh thông, gia đình êm ấm, nhan sắc thăng hạng.",
+   "translate": ""
+  },
+  {
+   "id": "83_dongnghiep_6",
+   "content": "Chúc mừng 8/3! Cảm ơn các chị em đã làm cho văn phòng này ấm áp hơn mỗi ngày.",
+   "translate": ""
+  },
+  {
+   "id": "83_dongnghiep_7",
+   "content": "Ngày 8/3, chúc các chị em luôn tự tin tỏa sáng ở bất cứ đâu mình có mặt.",
+   "translate": ""
+  },
+  {
+   "id": "83_dongnghiep_8",
+   "content": "Chúc mừng 8/3! Chúc chị một ngày được nghỉ ngơi thật sự và được chiều chuộng thật nhiều.",
+   "translate": ""
+  },
+  {
+   "id": "83_dongnghiep_9",
+   "content": "Nhân ngày của phái đẹp, chúc các chị em đồng nghiệp mạnh khỏe, hạnh phúc và viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "83_dongnghiep_10",
+   "content": "Chúc mừng 8/3! Chúc các chị em luôn cân bằng được công việc và gia đình một cách nhẹ nhàng.",
+   "translate": ""
+  },
+  {
+   "id": "83_dongnghiep_11",
+   "content": "Ngày 8/3, chúc chị em trong công ty luôn vui vẻ, đoàn kết và gặt hái nhiều thành công.",
+   "translate": ""
+  },
+  {
+   "id": "83_dongnghiep_12",
+   "content": "Chúc mừng ngày 8/3! Chúc các chị em nhận được thật nhiều hoa, quà và lời cảm ơn xứng đáng.",
+   "translate": ""
+  },
+  {
+   "id": "83_dongnghiep_13",
+   "content": "Nhân ngày 8/3, chúc chị luôn giữ được sự duyên dáng và bản lĩnh đáng ngưỡng mộ.",
+   "translate": ""
+  },
+  {
+   "id": "83_dongnghiep_14",
+   "content": "Chúc mừng 8/3! Chúc các chị em một ngày thảnh thơi và một năm bứt phá.",
+   "translate": ""
+  },
+  {
+   "id": "83_dongnghiep_15",
+   "content": "Ngày của chị em, chúc các chị luôn khỏe mạnh để tiếp tục là hậu phương vững chắc cho cả nhà và cả công ty.",
+   "translate": ""
+  },
+  {
+   "id": "83_dongnghiep_16",
+   "content": "Chúc mừng 8/3! Chúc chị em đồng nghiệp mọi dự định đều thành, mọi nỗ lực đều được ghi nhận.",
+   "translate": ""
+  },
+  {
+   "id": "83_dongnghiep_17",
+   "content": "Nhân ngày 8/3, xin chúc các chị em luôn xinh đẹp, giỏi giang và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "83_dongnghiep_18",
+   "content": "Chúc mừng ngày Quốc tế Phụ nữ! Chúc các chị em tràn đầy sức sống và thật nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "83_dongnghiep_19",
+   "content": "Ngày 8/3, chúc chị công việc thuận lợi, thu nhập tăng đều, tinh thần luôn phơi phới.",
+   "translate": ""
+  },
+  {
+   "id": "83_dongnghiep_20",
+   "content": "Chúc mừng 8/3! Chúc các chị em trong phòng mãi vui vẻ và mãi đoàn kết như bây giờ.",
+   "translate": ""
+  },
+  {
+   "id": "83_dongnghiep_21",
+   "content": "Nhân ngày 8/3, chúc chị em một ngày trọn vẹn và một cuộc sống thật đáng sống.",
+   "translate": ""
+  },
+  {
+   "id": "83_dongnghiep_22",
+   "content": "Chúc mừng 8/3! Chúc các chị em bớt áp lực, nhiều thời gian cho bản thân hơn.",
+   "translate": ""
+  },
+  {
+   "id": "83_dongnghiep_23",
+   "content": "Ngày 8/3, chúc các chị em luôn được tôn trọng, được yêu thương và được ghi nhận.",
+   "translate": ""
+  },
+  {
+   "id": "83_dongnghiep_24",
+   "content": "Chúc mừng ngày 8/3! Chúc chị luôn tươi tắn và luôn truyền năng lượng tích cực cho mọi người.",
+   "translate": ""
+  },
+  {
+   "id": "83_dongnghiep_25",
+   "content": "Nhân ngày của phái đẹp, chúc chị em đồng nghiệp vạn sự như ý, an khang thịnh vượng.",
+   "translate": ""
+  },
+  {
+   "id": "83_dongnghiep_26",
+   "content": "Chúc mừng 8/3! Chúc các chị em một năm thật nhiều cơ hội và thật nhiều thành tựu.",
+   "translate": ""
+  },
+  {
+   "id": "83_dongnghiep_27",
+   "content": "Ngày 8/3, chúc chị em luôn khỏe mạnh, xinh đẹp và hạnh phúc theo cách mình muốn.",
+   "translate": ""
+  },
+  {
+   "id": "83_dongnghiep_28",
+   "content": "Chúc mừng 8/3! Chúc các chị em trong công ty ngày càng thăng tiến và viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "83_dongnghiep_29",
+   "content": "Nhân ngày 8/3, chúc chị một ngày thật đặc biệt, xứng đáng với tất cả những gì chị đã làm.",
+   "translate": ""
+  },
+  {
+   "id": "83_dongnghiep_30",
+   "content": "Chúc mừng ngày Quốc tế Phụ nữ! Chúc chị em luôn giữ được nụ cười làm sáng cả văn phòng.",
+   "translate": ""
+  },
+  {
+   "id": "83_dongnghiep_31",
+   "content": "Ngày 8/3, chúc các chị em mọi điều may mắn và tốt lành nhất.",
+   "translate": ""
+  },
+  {
+   "id": "83_dongnghiep_32",
+   "content": "Chúc mừng 8/3! Chúc chị em đồng nghiệp sức khỏe dồi dào, tinh thần vững vàng.",
+   "translate": ""
+  },
+  {
+   "id": "83_dongnghiep_33",
+   "content": "Nhân ngày 8/3, chúc các chị luôn là những người phụ nữ tuyệt vời cả ở nhà lẫn nơi làm việc.",
+   "translate": ""
+  },
+  {
+   "id": "83_dongnghiep_34",
+   "content": "Chúc mừng 8/3! Chúc các chị em một ngày vui vẻ bên gia đình và đồng nghiệp.",
+   "translate": ""
+  },
+  {
+   "id": "83_dongnghiep_35",
+   "content": "Ngày của chị em, chúc các chị luôn tự tin với lựa chọn của mình và luôn hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "83_dongnghiep_36",
+   "content": "Chúc mừng ngày 8/3! Chúc chị em luôn gặp quý nhân và nắm bắt được nhiều cơ hội tốt.",
+   "translate": ""
+  },
+  {
+   "id": "83_dongnghiep_37",
+   "content": "Nhân ngày 8/3, chúc các chị em bình an, sung túc và ngập tràn niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "83_dongnghiep_38",
+   "content": "Chúc mừng 8/3! Chúc chị một năm mới rực rỡ trong sự nghiệp và viên mãn trong gia đình.",
+   "translate": ""
+  },
+  {
+   "id": "83_dongnghiep_39",
+   "content": "Ngày 8/3, chúc các chị em nhận lại gấp nhiều lần những điều tốt đẹp đã trao đi.",
+   "translate": ""
+  },
+  {
+   "id": "83_dongnghiep_40",
+   "content": "Chúc mừng 8/3! Chúc chị em đồng nghiệp luôn khỏe, luôn vui và luôn thành công.",
+   "translate": ""
+  },
+  {
+   "id": "83_dongnghiep_41",
+   "content": "Nhân ngày của phái đẹp, chúc các chị em một ngày thật ý nghĩa và đáng nhớ.",
+   "translate": ""
+  },
+  {
+   "id": "83_dongnghiep_42",
+   "content": "Chúc mừng 8/3! Chúc các chị em mãi xinh đẹp, mãi giỏi giang và mãi hạnh phúc.",
+   "translate": ""
+  }
+ ]
+}

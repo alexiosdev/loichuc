@@ -1,0 +1,204 @@
+{
+ "result": [
+  {
+   "id": "2010_tienganh_1",
+   "content": "A beautiful woman, a great friend and a wonderful mother. You are all this to me and much more… I feel so lucky and proud to have a mom like you.",
+   "translate": ""
+  },
+  {
+   "id": "2010_tienganh_2",
+   "content": "I make this to give it to the most special woman in my life. Love you mom!",
+   "translate": ""
+  },
+  {
+   "id": "2010_tienganh_3",
+   "content": "Happy Vietnamese Women's Day! Sending you wishes to say you blossom up the world around me!",
+   "translate": ""
+  },
+  {
+   "id": "2010_tienganh_4",
+   "content": "Wishing a very Happy Vietnamese Women's Day to the most amazing women I know",
+   "translate": ""
+  },
+  {
+   "id": "2010_tienganh_5",
+   "content": "Happy Vietnamese Women's Day to the one who has stolen my heart! Love you, my baby!",
+   "translate": ""
+  },
+  {
+   "id": "2010_tienganh_6",
+   "content": "Wishing a very happy Vietnamese Women's Day to the most amazing girl that I know! I love you!",
+   "translate": ""
+  },
+  {
+   "id": "2010_tienganh_7",
+   "content": "Sending you best wishes to say you blossom up the world around me! Happy Vietnamese Women's Day! I love you so much!",
+   "translate": ""
+  },
+  {
+   "id": "2010_tienganh_8",
+   "content": "Feel special, unique, on top of the world. It's your day! Happy Women's Day my girl.",
+   "translate": ""
+  },
+  {
+   "id": "2010_tienganh_9",
+   "content": "Happy Vietnamese Women's Day to the one who has stolen my heart.",
+   "translate": ""
+  },
+  {
+   "id": "2010_tienganh_10",
+   "content": "The best place in the world for me is… by your side! I love you!",
+   "translate": ""
+  },
+  {
+   "id": "2010_tienganh_11",
+   "content": "Happy Vietnamese Women's Day! Wishing you health, happiness and endless confidence.",
+   "translate": ""
+  },
+  {
+   "id": "2010_tienganh_12",
+   "content": "Happy Women's Day on 20/10! May you always be appreciated as much as you deserve.",
+   "translate": ""
+  },
+  {
+   "id": "2010_tienganh_13",
+   "content": "Wishing you a beautiful Vietnamese Women's Day filled with love and flowers.",
+   "translate": ""
+  },
+  {
+   "id": "2010_tienganh_14",
+   "content": "Happy 20/10! May your days be as bright and warm as your smile.",
+   "translate": ""
+  },
+  {
+   "id": "2010_tienganh_15",
+   "content": "To an amazing woman: happy Vietnamese Women's Day. Thank you for everything you do.",
+   "translate": ""
+  },
+  {
+   "id": "2010_tienganh_16",
+   "content": "Happy Women's Day! May you achieve every goal you have set your heart on.",
+   "translate": ""
+  },
+  {
+   "id": "2010_tienganh_17",
+   "content": "Wishing you joy, success and peace of mind on this special day.",
+   "translate": ""
+  },
+  {
+   "id": "2010_tienganh_18",
+   "content": "Happy Vietnamese Women's Day! Keep shining and keep being wonderfully you.",
+   "translate": ""
+  },
+  {
+   "id": "2010_tienganh_19",
+   "content": "May this 20th of October bring you rest, flowers and genuine appreciation.",
+   "translate": ""
+  },
+  {
+   "id": "2010_tienganh_20",
+   "content": "Happy Women's Day! You make everything around you better just by being there.",
+   "translate": ""
+  },
+  {
+   "id": "2010_tienganh_21",
+   "content": "Wishing you a lovely Vietnamese Women's Day and an even lovelier year ahead.",
+   "translate": ""
+  },
+  {
+   "id": "2010_tienganh_22",
+   "content": "Happy 20/10! May you always be surrounded by love, respect and kindness.",
+   "translate": ""
+  },
+  {
+   "id": "2010_tienganh_23",
+   "content": "To the woman who inspires us all: happy Vietnamese Women's Day.",
+   "translate": ""
+  },
+  {
+   "id": "2010_tienganh_24",
+   "content": "Happy Women's Day! May your courage keep opening doors for you.",
+   "translate": ""
+  },
+  {
+   "id": "2010_tienganh_25",
+   "content": "Wishing you health, laughter and well-deserved happiness today and always.",
+   "translate": ""
+  },
+  {
+   "id": "2010_tienganh_26",
+   "content": "Happy Vietnamese Women's Day! May you never doubt how much you are valued.",
+   "translate": ""
+  },
+  {
+   "id": "2010_tienganh_27",
+   "content": "May today remind you that you are strong, capable and more than enough.",
+   "translate": ""
+  },
+  {
+   "id": "2010_tienganh_28",
+   "content": "Happy 20/10! Wishing you flowers, kind words and a day entirely for yourself.",
+   "translate": ""
+  },
+  {
+   "id": "2010_tienganh_29",
+   "content": "Wishing you a wonderful Vietnamese Women's Day full of smiles.",
+   "translate": ""
+  },
+  {
+   "id": "2010_tienganh_30",
+   "content": "Happy 20/10! Thank you for your strength, your patience and your kindness.",
+   "translate": ""
+  },
+  {
+   "id": "2010_tienganh_31",
+   "content": "Happy Vietnamese Women's Day! May this year be your happiest and brightest yet.",
+   "translate": ""
+  },
+  {
+   "id": "2010_tienganh_32",
+   "content": "Wishing you confidence, joy and a life you are proud of.",
+   "translate": ""
+  },
+  {
+   "id": "2010_tienganh_33",
+   "content": "Happy Women's Day! May you always have the courage to choose yourself first.",
+   "translate": ""
+  },
+  {
+   "id": "2010_tienganh_34",
+   "content": "Happy 20/10! May your efforts always be seen and your worth never questioned.",
+   "translate": ""
+  },
+  {
+   "id": "2010_tienganh_35",
+   "content": "To my favourite woman: happy Vietnamese Women's Day. You are simply the best.",
+   "translate": ""
+  },
+  {
+   "id": "2010_tienganh_36",
+   "content": "Happy Women's Day! Wishing you good health and great happiness.",
+   "translate": ""
+  },
+  {
+   "id": "2010_tienganh_37",
+   "content": "May this Vietnamese Women's Day bring you everything you have worked toward.",
+   "translate": ""
+  },
+  {
+   "id": "2010_tienganh_38",
+   "content": "Happy 20/10! You deserve the world and so much more.",
+   "translate": ""
+  },
+  {
+   "id": "2010_tienganh_39",
+   "content": "Happy Vietnamese Women's Day! Wishing you love, laughter and lasting peace.",
+   "translate": ""
+  },
+  {
+   "id": "2010_tienganh_40",
+   "content": "Happy Vietnamese Women's Day! May today bring you flowers, kindness and rest.",
+   "translate": ""
+  }
+ ]
+}

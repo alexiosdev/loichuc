@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "83_khachhang_1",
+   "content": "Nhân ngày Quốc tế Phụ nữ 8/3, kính chúc Quý khách hàng nữ luôn xinh đẹp, mạnh khỏe và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "83_khachhang_2",
+   "content": "Chúc mừng 8/3! Kính chúc Quý khách một ngày thật đặc biệt và một năm thật nhiều may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "83_khachhang_3",
+   "content": "Nhân ngày 8/3, xin gửi tới Quý khách hàng lời chúc sức khỏe, thành công và viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "83_khachhang_4",
+   "content": "Kính chúc Quý khách hàng nữ ngày 8/3 tràn ngập niềm vui, hoa tươi và những lời yêu thương.",
+   "translate": ""
+  },
+  {
+   "id": "83_khachhang_5",
+   "content": "Chúc mừng ngày Quốc tế Phụ nữ! Kính chúc Quý khách luôn rạng rỡ và thành đạt.",
+   "translate": ""
+  },
+  {
+   "id": "83_khachhang_6",
+   "content": "Nhân ngày 8/3, chúng tôi xin tri ân và kính chúc Quý khách hàng vạn sự như ý.",
+   "translate": ""
+  },
+  {
+   "id": "83_khachhang_7",
+   "content": "Kính chúc Quý khách một ngày 8/3 thật ấm áp bên gia đình và người thân yêu.",
+   "translate": ""
+  },
+  {
+   "id": "83_khachhang_8",
+   "content": "Chúc mừng 8/3! Kính chúc Quý khách hàng nữ công việc hanh thông, gia đình hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "83_khachhang_9",
+   "content": "Nhân ngày của phái đẹp, kính chúc Quý khách luôn tự tin, xinh đẹp và tỏa sáng.",
+   "translate": ""
+  },
+  {
+   "id": "83_khachhang_10",
+   "content": "Kính chúc Quý khách hàng ngày 8/3 nhiều sức khỏe, nhiều niềm vui và nhiều thành công.",
+   "translate": ""
+  },
+  {
+   "id": "83_khachhang_11",
+   "content": "Chúc mừng ngày 8/3! Xin cảm ơn Quý khách đã luôn tin tưởng và đồng hành cùng chúng tôi.",
+   "translate": ""
+  },
+  {
+   "id": "83_khachhang_12",
+   "content": "Nhân ngày 8/3, kính chúc Quý khách hàng nữ an khang, thịnh vượng, vạn sự cát tường.",
+   "translate": ""
+  },
+  {
+   "id": "83_khachhang_13",
+   "content": "Kính chúc Quý khách một ngày 8/3 trọn vẹn và một năm thật rực rỡ.",
+   "translate": ""
+  },
+  {
+   "id": "83_khachhang_14",
+   "content": "Chúc mừng 8/3! Kính chúc Quý khách luôn được yêu thương và trân trọng.",
+   "translate": ""
+  },
+  {
+   "id": "83_khachhang_15",
+   "content": "Nhân ngày Quốc tế Phụ nữ, kính chúc Quý khách hàng sức khỏe dồi dào, tâm an, đời vui.",
+   "translate": ""
+  },
+  {
+   "id": "83_khachhang_16",
+   "content": "Kính chúc Quý khách ngày 8/3 thật nhiều hoa, thật nhiều quà và thật nhiều hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "83_khachhang_17",
+   "content": "Chúc mừng ngày 8/3! Kính chúc Quý khách hàng nữ mãi trẻ trung và tràn đầy năng lượng.",
+   "translate": ""
+  },
+  {
+   "id": "83_khachhang_18",
+   "content": "Nhân ngày 8/3, kính chúc Quý khách mọi dự định đều thành, mọi mong ước đều toại.",
+   "translate": ""
+  },
+  {
+   "id": "83_khachhang_19",
+   "content": "Kính chúc Quý khách hàng một ngày 8/3 nhẹ nhàng, thảnh thơi và thật nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "83_khachhang_20",
+   "content": "Chúc mừng 8/3! Kính chúc Quý khách luôn giữ được nét duyên dáng và bản lĩnh đáng quý.",
+   "translate": ""
+  },
+  {
+   "id": "83_khachhang_21",
+   "content": "Nhân ngày của phái đẹp, kính chúc Quý khách hàng bình an, sung túc và viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "83_khachhang_22",
+   "content": "Kính chúc Quý khách ngày 8/3 hạnh phúc bên gia đình và thành công trong sự nghiệp.",
+   "translate": ""
+  },
+  {
+   "id": "83_khachhang_23",
+   "content": "Chúc mừng ngày 8/3! Kính chúc Quý khách hàng nữ ngày càng xinh đẹp và thành đạt.",
+   "translate": ""
+  },
+  {
+   "id": "83_khachhang_24",
+   "content": "Nhân ngày 8/3, chúng tôi kính chúc Quý khách thật nhiều sức khỏe và niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "83_khachhang_25",
+   "content": "Kính chúc Quý khách hàng một ngày 8/3 ngập tràn yêu thương từ những người thân yêu.",
+   "translate": ""
+  },
+  {
+   "id": "83_khachhang_26",
+   "content": "Chúc mừng 8/3! Kính chúc Quý khách gặp nhiều may mắn và cơ hội tốt trong năm nay.",
+   "translate": ""
+  },
+  {
+   "id": "83_khachhang_27",
+   "content": "Nhân ngày Quốc tế Phụ nữ, kính chúc Quý khách hàng luôn tươi trẻ và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "83_khachhang_28",
+   "content": "Kính chúc Quý khách ngày 8/3 thật ý nghĩa và đáng nhớ bên những người mình yêu quý.",
+   "translate": ""
+  },
+  {
+   "id": "83_khachhang_29",
+   "content": "Chúc mừng ngày 8/3! Kính chúc Quý khách hàng nữ an lành, thuận lợi và viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "83_khachhang_30",
+   "content": "Nhân ngày 8/3, kính chúc Quý khách luôn tỏa sáng theo cách riêng của mình.",
+   "translate": ""
+  },
+  {
+   "id": "83_khachhang_31",
+   "content": "Kính chúc Quý khách hàng một ngày 8/3 vui vẻ và một năm thật nhiều thắng lợi.",
+   "translate": ""
+  },
+  {
+   "id": "83_khachhang_32",
+   "content": "Chúc mừng 8/3! Kính chúc Quý khách sức khỏe, hạnh phúc và thành công trọn vẹn.",
+   "translate": ""
+  },
+  {
+   "id": "83_khachhang_33",
+   "content": "Nhân ngày của phái đẹp, kính chúc Quý khách hàng nữ ngày càng rực rỡ và tự tin.",
+   "translate": ""
+  },
+  {
+   "id": "83_khachhang_34",
+   "content": "Kính chúc Quý khách ngày 8/3 tràn đầy niềm vui và những điều tốt đẹp nhất.",
+   "translate": ""
+  },
+  {
+   "id": "83_khachhang_35",
+   "content": "Chúc mừng ngày 8/3! Chúng tôi kính chúc Quý khách luôn mạnh khỏe và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "83_khachhang_36",
+   "content": "Nhân ngày 8/3, kính chúc Quý khách hàng công việc thuận lợi và cuộc sống đủ đầy.",
+   "translate": ""
+  },
+  {
+   "id": "83_khachhang_37",
+   "content": "Kính chúc Quý khách một ngày 8/3 thật đáng nhớ và một tương lai thật xán lạn.",
+   "translate": ""
+  },
+  {
+   "id": "83_khachhang_38",
+   "content": "Chúc mừng 8/3! Kính chúc Quý khách hàng nữ vạn sự hanh thông, phúc lộc viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "83_khachhang_39",
+   "content": "Nhân ngày Quốc tế Phụ nữ, kính chúc Quý khách luôn được yêu thương và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "83_khachhang_40",
+   "content": "Kính chúc Quý khách ngày 8/3 thật nhiều sức khỏe, niềm vui và may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "83_khachhang_41",
+   "content": "Chúc mừng ngày 8/3! Kính chúc Quý khách hàng một ngày trọn vẹn và ý nghĩa.",
+   "translate": ""
+  },
+  {
+   "id": "83_khachhang_42",
+   "content": "Nhân ngày 8/3, xin kính chúc Quý khách mọi điều tốt đẹp nhất sẽ luôn đến.",
+   "translate": ""
+  }
+ ]
+}

@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "ngungon_vochong_1",
+   "content": "Ngủ ngon em nhé! Cảm ơn em vì một ngày vất vả, mai mình lại cùng nhau cố gắng.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_vochong_2",
+   "content": "Chúc vợ yêu ngủ thật ngon, mơ thật đẹp và sáng mai thức dậy thật khỏe.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_vochong_3",
+   "content": "Ngủ ngon anh nhé! Nghỉ ngơi cho lại sức, mai còn nhiều việc đang chờ.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_vochong_4",
+   "content": "Chúc chồng một giấc ngủ sâu, bỏ lại hết mệt mỏi của ngày hôm nay.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_vochong_5",
+   "content": "Ngủ ngon em! Có em bên cạnh, anh thấy ngày nào cũng đáng để cố gắng.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_vochong_6",
+   "content": "Chúc bà xã ngủ ngon, mai anh dậy sớm pha cà phê cho em.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_vochong_7",
+   "content": "Ngủ ngon nhé! Cảm ơn vì hôm nay em đã chịu đựng cả những lúc anh cáu gắt.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_vochong_8",
+   "content": "Chúc vợ yêu một đêm bình yên và một giấc mơ thật đẹp.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_vochong_9",
+   "content": "Ngủ ngon anh nhé! Đừng thức khuya nữa, sức khỏe quan trọng hơn công việc.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_vochong_10",
+   "content": "Chúc chồng ngủ ngon, mai lại là một ngày mới của chúng mình.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_vochong_11",
+   "content": "Ngủ ngon em yêu! Dù hôm nay có chuyện gì, mình vẫn ở đây với nhau.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_vochong_12",
+   "content": "Chúc bà xã một giấc ngủ thật sâu, không lo toan, không mộng mị.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_vochong_13",
+   "content": "Ngủ ngon nhé! Mai mình cùng dậy sớm, cùng ăn sáng, cùng bắt đầu lại.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_vochong_14",
+   "content": "Chúc vợ ngủ ngon, cảm ơn em vì đã giữ cho nhà mình luôn ấm.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_vochong_15",
+   "content": "Ngủ ngon anh! Nghỉ ngơi đi, mọi chuyện mai tính tiếp cũng được.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_vochong_16",
+   "content": "Chúc chồng yêu một đêm ngon giấc và một ngày mai thật thuận lợi.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_vochong_17",
+   "content": "Ngủ ngon em nhé! Anh biết hôm nay em mệt, mai anh sẽ đỡ đần nhiều hơn.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_vochong_18",
+   "content": "Chúc bà xã ngủ ngon, mơ thấy chuyến đi chơi mà mình đang dự định.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_vochong_19",
+   "content": "Ngủ ngon! Dù cả ngày bận rộn, được nằm cạnh nhau thế này là đủ rồi.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_vochong_20",
+   "content": "Chúc vợ yêu một giấc ngủ bình yên sau một ngày dài.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_vochong_21",
+   "content": "Ngủ ngon anh nhé! Mai đừng dậy muộn kẻo lại vội vàng.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_vochong_22",
+   "content": "Chúc chồng ngủ ngon, cảm ơn anh vì đã vất vả cho cả nhà.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_vochong_23",
+   "content": "Ngủ ngon em! Gác lại mọi lo toan, mai mình cùng giải quyết.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_vochong_24",
+   "content": "Chúc bà xã một đêm thật nhẹ nhàng và một giấc mơ thật ngọt.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_vochong_25",
+   "content": "Ngủ ngon nhé! Có nhau là chuyện gì cũng qua được thôi.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_vochong_26",
+   "content": "Chúc vợ yêu ngủ ngon, mai anh sẽ về sớm hơn hôm nay.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_vochong_27",
+   "content": "Ngủ ngon anh! Nhớ tắt điện thoại đi, mắt cũng cần nghỉ ngơi.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_vochong_28",
+   "content": "Chúc chồng một đêm ngon giấc, mai lại khỏe mạnh và vui vẻ.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_vochong_29",
+   "content": "Ngủ ngon em yêu! Cảm ơn em vì đã luôn kiên nhẫn với anh.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_vochong_30",
+   "content": "Chúc bà xã ngủ thật sâu, bỏ hết mệt mỏi lại phía sau.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_vochong_31",
+   "content": "Ngủ ngon nhé! Mai mình lại tiếp tục, từ từ rồi cũng tới đích.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_vochong_32",
+   "content": "Chúc vợ một giấc ngủ ngon và một ngày mai thật nhẹ nhàng.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_vochong_33",
+   "content": "Ngủ ngon anh nhé! Dù mai có bận thế nào thì tối nay cứ nghỉ đã.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_vochong_34",
+   "content": "Chúc chồng yêu ngủ ngon, mai em sẽ nấu món anh thích.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_vochong_35",
+   "content": "Ngủ ngon em! Anh chúc em một đêm bình an bên anh.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_vochong_36",
+   "content": "Chúc bà xã ngủ ngon, cảm ơn em vì tất cả những điều nhỏ bé mỗi ngày.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_vochong_37",
+   "content": "Ngủ ngon nhé! Mọi chuyện rồi sẽ ổn, giờ chỉ cần nghỉ ngơi thôi.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_vochong_38",
+   "content": "Chúc vợ yêu một đêm không lo nghĩ và một sáng mai thật tươi.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_vochong_39",
+   "content": "Ngủ ngon anh! Mai lại là một ngày mới, mình cùng cố gắng nhé.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_vochong_40",
+   "content": "Chúc chồng ngủ ngon, mơ đẹp và sáng mai dậy thật khỏe.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_vochong_41",
+   "content": "Ngủ ngon em yêu! Cảm ơn vì đã là nhà của anh.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_vochong_42",
+   "content": "Chúc bà xã một giấc ngủ thật ngon sau một ngày thật dài.",
+   "translate": ""
+  }
+ ]
+}

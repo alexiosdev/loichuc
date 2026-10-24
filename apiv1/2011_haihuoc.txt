@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "2011_haihuoc_1",
+   "content": "Nhân ngày 20/11, em chúc thầy cô nhiều sức khỏe để còn đủ sức chấm bài của lớp em.",
+   "translate": ""
+  },
+  {
+   "id": "2011_haihuoc_2",
+   "content": "Chúc mừng 20/11! Em chúc cô ngày nào cũng vui, và hôm nay thì xin cô đừng gọi em lên bảng.",
+   "translate": ""
+  },
+  {
+   "id": "2011_haihuoc_3",
+   "content": "Ngày 20/11, em chúc thầy cô dạy đâu trò nhớ đó, chứ không phải giảng xong là quên hết như em.",
+   "translate": ""
+  },
+  {
+   "id": "2011_haihuoc_4",
+   "content": "Chúc mừng ngày Nhà giáo Việt Nam! Em chúc cô luôn xinh đẹp, và điểm của em cũng đẹp như cô.",
+   "translate": ""
+  },
+  {
+   "id": "2011_haihuoc_5",
+   "content": "Nhân ngày 20/11, em chúc thầy nhiều sức khỏe, ít phải nhắc nhở lớp em giữ trật tự.",
+   "translate": ""
+  },
+  {
+   "id": "2011_haihuoc_6",
+   "content": "Chúc mừng 20/11! Em chúc cô một ngày không ai nộp bài muộn, kể cả em.",
+   "translate": ""
+  },
+  {
+   "id": "2011_haihuoc_7",
+   "content": "Ngày 20/11, em chúc thầy cô mọi điều tốt đẹp, và chúc bài kiểm tra tới dễ hơn một chút.",
+   "translate": ""
+  },
+  {
+   "id": "2011_haihuoc_8",
+   "content": "Chúc mừng ngày 20/11! Em chúc cô luôn vui vẻ, kể cả khi chấm bài của em.",
+   "translate": ""
+  },
+  {
+   "id": "2011_haihuoc_9",
+   "content": "Nhân ngày 20/11, em chúc thầy cô bớt stress vì lớp em, bọn em sẽ cố gắng ngoan hơn.",
+   "translate": ""
+  },
+  {
+   "id": "2011_haihuoc_10",
+   "content": "Chúc mừng 20/11! Em chúc cô trẻ mãi không già, còn em thì học mãi vẫn chưa giỏi.",
+   "translate": ""
+  },
+  {
+   "id": "2011_haihuoc_11",
+   "content": "Ngày 20/11, em chúc thầy cô nhiều sức khỏe và nhiều kiên nhẫn, nhất là với lớp em.",
+   "translate": ""
+  },
+  {
+   "id": "2011_haihuoc_12",
+   "content": "Chúc mừng ngày Nhà giáo Việt Nam! Em chúc cô một ngày không phải nghe câu \"em chưa làm bài\".",
+   "translate": ""
+  },
+  {
+   "id": "2011_haihuoc_13",
+   "content": "Nhân ngày 20/11, em chúc thầy cô vui vẻ, và xin lỗi vì những lần em ngủ gật trong giờ.",
+   "translate": ""
+  },
+  {
+   "id": "2011_haihuoc_14",
+   "content": "Chúc mừng 20/11! Em chúc cô xinh đẹp mãi, và mong cô cho lớp em một buổi liên hoan.",
+   "translate": ""
+  },
+  {
+   "id": "2011_haihuoc_15",
+   "content": "Ngày 20/11, em chúc thầy cô dạy ít mà trò hiểu nhiều, như thế đỡ mệt cho cả đôi bên.",
+   "translate": ""
+  },
+  {
+   "id": "2011_haihuoc_16",
+   "content": "Chúc mừng ngày 20/11! Em chúc cô hạnh phúc, và chúc em qua môn.",
+   "translate": ""
+  },
+  {
+   "id": "2011_haihuoc_17",
+   "content": "Nhân ngày 20/11, em chúc thầy nhiều sức khỏe, nhiều niềm vui và ít bài tập về nhà cho chúng em.",
+   "translate": ""
+  },
+  {
+   "id": "2011_haihuoc_18",
+   "content": "Chúc mừng 20/11! Em chúc cô luôn tươi cười, kể cả lúc đọc điểm thi của em.",
+   "translate": ""
+  },
+  {
+   "id": "2011_haihuoc_19",
+   "content": "Ngày 20/11, em chúc thầy cô mọi sự như ý, riêng chuyện kiểm tra miệng thì xin nhẹ tay.",
+   "translate": ""
+  },
+  {
+   "id": "2011_haihuoc_20",
+   "content": "Chúc mừng ngày Nhà giáo Việt Nam! Em chúc cô mãi là cô giáo đáng yêu nhất trường.",
+   "translate": ""
+  },
+  {
+   "id": "2011_haihuoc_21",
+   "content": "Nhân ngày 20/11, em chúc thầy cô ngày nào cũng vui như hôm nay, không phải nhắc ai làm bài.",
+   "translate": ""
+  },
+  {
+   "id": "2011_haihuoc_22",
+   "content": "Chúc mừng 20/11! Em chúc cô sức khỏe dồi dào, và chúc phấn trong lớp không bao giờ hết.",
+   "translate": ""
+  },
+  {
+   "id": "2011_haihuoc_23",
+   "content": "Ngày 20/11, em chúc thầy cô thật nhiều hoa, và chúc em thật nhiều điểm cao.",
+   "translate": ""
+  },
+  {
+   "id": "2011_haihuoc_24",
+   "content": "Chúc mừng ngày 20/11! Em chúc cô luôn vui, và mong cô quên mất là em còn nợ bài.",
+   "translate": ""
+  },
+  {
+   "id": "2011_haihuoc_25",
+   "content": "Nhân ngày 20/11, em chúc thầy cô ngủ ngon, đừng mơ thấy bài kiểm tra của lớp em.",
+   "translate": ""
+  },
+  {
+   "id": "2011_haihuoc_26",
+   "content": "Chúc mừng 20/11! Em chúc cô trẻ đẹp như hoa, còn em thì cố gắng học khá hơn một chút.",
+   "translate": ""
+  },
+  {
+   "id": "2011_haihuoc_27",
+   "content": "Ngày 20/11, em chúc thầy cô mỗi ngày đến lớp đều thấy cả lớp đã làm bài đầy đủ.",
+   "translate": ""
+  },
+  {
+   "id": "2011_haihuoc_28",
+   "content": "Chúc mừng ngày Nhà giáo Việt Nam! Em chúc thầy nhiều sức khỏe và nhiều cà phê.",
+   "translate": ""
+  },
+  {
+   "id": "2011_haihuoc_29",
+   "content": "Nhân ngày 20/11, em chúc cô vui vẻ, và em hứa lần sau sẽ không quên vở nữa.",
+   "translate": ""
+  },
+  {
+   "id": "2011_haihuoc_30",
+   "content": "Chúc mừng 20/11! Em chúc thầy cô một ngày thật nhẹ nhàng, không ai làm thầy cô bực mình.",
+   "translate": ""
+  },
+  {
+   "id": "2011_haihuoc_31",
+   "content": "Ngày 20/11, em chúc cô luôn xinh, luôn vui và luôn chấm điểm rộng tay.",
+   "translate": ""
+  },
+  {
+   "id": "2011_haihuoc_32",
+   "content": "Chúc mừng ngày 20/11! Em chúc thầy cô nhiều niềm vui và ít tóc bạc vì lớp em.",
+   "translate": ""
+  },
+  {
+   "id": "2011_haihuoc_33",
+   "content": "Nhân ngày 20/11, em chúc cô sức khỏe như ý, và chúc lớp mình bớt ồn ào.",
+   "translate": ""
+  },
+  {
+   "id": "2011_haihuoc_34",
+   "content": "Chúc mừng 20/11! Em chúc thầy cô một ngày không phải nhắc nhở bất kỳ ai.",
+   "translate": ""
+  },
+  {
+   "id": "2011_haihuoc_35",
+   "content": "Ngày 20/11, em chúc cô hạnh phúc, và mong cô hiểu rằng bọn em thương cô lắm.",
+   "translate": ""
+  },
+  {
+   "id": "2011_haihuoc_36",
+   "content": "Chúc mừng ngày Nhà giáo Việt Nam! Em chúc thầy cô vui vẻ, trẻ trung và luôn yêu nghề.",
+   "translate": ""
+  },
+  {
+   "id": "2011_haihuoc_37",
+   "content": "Nhân ngày 20/11, em chúc cô mãi đẹp, mãi vui và mãi dễ tính với lớp em.",
+   "translate": ""
+  },
+  {
+   "id": "2011_haihuoc_38",
+   "content": "Chúc mừng 20/11! Em chúc thầy cô nhiều sức khỏe, vì dạy lớp em cần rất nhiều sức khỏe.",
+   "translate": ""
+  },
+  {
+   "id": "2011_haihuoc_39",
+   "content": "Ngày 20/11, em chúc cô một ngày thật vui và một năm thật ít bài phải chấm.",
+   "translate": ""
+  },
+  {
+   "id": "2011_haihuoc_40",
+   "content": "Chúc mừng ngày 20/11! Em chúc thầy cô mọi điều tốt lành, và em sẽ cố gắng hơn, thật đấy.",
+   "translate": ""
+  },
+  {
+   "id": "2011_haihuoc_41",
+   "content": "Nhân ngày 20/11, em chúc cô luôn tươi tắn, và chúc em thi đâu đậu đó.",
+   "translate": ""
+  },
+  {
+   "id": "2011_haihuoc_42",
+   "content": "Chúc mừng 20/11! Em chúc thầy cô thật nhiều niềm vui, và cảm ơn thầy cô vì đã không bỏ cuộc với em.",
+   "translate": ""
+  }
+ ]
+}

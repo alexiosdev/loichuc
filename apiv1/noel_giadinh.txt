@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "noel_giadinh_1",
+   "content": "Giáng sinh an lành! Chúc cả nhà một mùa Noel ấm áp, sum vầy và thật nhiều tiếng cười.",
+   "translate": ""
+  },
+  {
+   "id": "noel_giadinh_2",
+   "content": "Merry Christmas! Chúc gia đình mình một đêm Giáng sinh bình an và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "noel_giadinh_3",
+   "content": "Chúc cả nhà một mùa Noel thật ấm áp bên nhau, đó là món quà quý nhất rồi.",
+   "translate": ""
+  },
+  {
+   "id": "noel_giadinh_4",
+   "content": "Giáng sinh này, con chúc bố mẹ sức khỏe dồi dào và luôn vui vẻ.",
+   "translate": ""
+  },
+  {
+   "id": "noel_giadinh_5",
+   "content": "Merry Christmas gia đình mình! Chúc mọi người một mùa lễ thật trọn vẹn.",
+   "translate": ""
+  },
+  {
+   "id": "noel_giadinh_6",
+   "content": "Chúc cả nhà một Noel an lành, ấm cúng và ngập tràn yêu thương.",
+   "translate": ""
+  },
+  {
+   "id": "noel_giadinh_7",
+   "content": "Giáng sinh an lành! Chúc gia đình mình luôn khỏe mạnh và luôn bên nhau.",
+   "translate": ""
+  },
+  {
+   "id": "noel_giadinh_8",
+   "content": "Merry Christmas! Chúc nhà mình một mùa Giáng sinh thật nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "noel_giadinh_9",
+   "content": "Chúc cả nhà một đêm Noel ấm áp, và một năm mới sắp tới thật rực rỡ.",
+   "translate": ""
+  },
+  {
+   "id": "noel_giadinh_10",
+   "content": "Giáng sinh này, con chúc gia đình mình mọi điều tốt đẹp nhất.",
+   "translate": ""
+  },
+  {
+   "id": "noel_giadinh_11",
+   "content": "Merry Christmas! Chúc cả nhà bình an, hạnh phúc và sung túc.",
+   "translate": ""
+  },
+  {
+   "id": "noel_giadinh_12",
+   "content": "Chúc gia đình mình một mùa Noel thật đáng nhớ bên nhau.",
+   "translate": ""
+  },
+  {
+   "id": "noel_giadinh_13",
+   "content": "Giáng sinh an lành! Chúc bố mẹ và các con một mùa lễ thật vui vẻ.",
+   "translate": ""
+  },
+  {
+   "id": "noel_giadinh_14",
+   "content": "Merry Christmas nhà mình! Chúc mọi người luôn khỏe mạnh và luôn yêu thương nhau.",
+   "translate": ""
+  },
+  {
+   "id": "noel_giadinh_15",
+   "content": "Chúc cả nhà một Noel ấm cúng, với bữa tối ngon và những câu chuyện vui.",
+   "translate": ""
+  },
+  {
+   "id": "noel_giadinh_16",
+   "content": "Giáng sinh này, con chúc gia đình mình luôn đầm ấm như ngọn lửa trong lò sưởi.",
+   "translate": ""
+  },
+  {
+   "id": "noel_giadinh_17",
+   "content": "Merry Christmas! Chúc nhà mình một mùa Giáng sinh an lành và đủ đầy.",
+   "translate": ""
+  },
+  {
+   "id": "noel_giadinh_18",
+   "content": "Chúc cả nhà một đêm Noel bình yên, không lo toan, chỉ có niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "noel_giadinh_19",
+   "content": "Giáng sinh an lành! Chúc gia đình mình thật nhiều sức khỏe và thật nhiều may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "noel_giadinh_20",
+   "content": "Merry Christmas! Chúc cả nhà một mùa lễ ấm áp và một năm mới thành công.",
+   "translate": ""
+  },
+  {
+   "id": "noel_giadinh_21",
+   "content": "Chúc gia đình mình một Noel ngập tràn tiếng cười và hơi ấm.",
+   "translate": ""
+  },
+  {
+   "id": "noel_giadinh_22",
+   "content": "Giáng sinh này, con chúc bố mẹ an khang và luôn tự hào về các con.",
+   "translate": ""
+  },
+  {
+   "id": "noel_giadinh_23",
+   "content": "Merry Christmas nhà mình! Chúc mọi người giữ mãi sự gắn bó này.",
+   "translate": ""
+  },
+  {
+   "id": "noel_giadinh_24",
+   "content": "Chúc cả nhà một mùa Noel thật vui, thật ấm và thật đáng nhớ.",
+   "translate": ""
+  },
+  {
+   "id": "noel_giadinh_25",
+   "content": "Giáng sinh an lành! Chúc gia đình mình mọi điều ước đều thành hiện thực.",
+   "translate": ""
+  },
+  {
+   "id": "noel_giadinh_26",
+   "content": "Merry Christmas! Chúc nhà mình bình an trong tâm và sung túc trong đời.",
+   "translate": ""
+  },
+  {
+   "id": "noel_giadinh_27",
+   "content": "Chúc cả nhà một đêm Giáng sinh ấm áp bên cây thông và những món quà nhỏ.",
+   "translate": ""
+  },
+  {
+   "id": "noel_giadinh_28",
+   "content": "Giáng sinh này, con chúc gia đình mình luôn khỏe và luôn hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "noel_giadinh_29",
+   "content": "Merry Christmas! Chúc cả nhà một mùa lễ thật nhẹ nhàng và thảnh thơi.",
+   "translate": ""
+  },
+  {
+   "id": "noel_giadinh_30",
+   "content": "Chúc gia đình mình một Noel an lành, và mong năm nào cũng được sum họp thế này.",
+   "translate": ""
+  },
+  {
+   "id": "noel_giadinh_31",
+   "content": "Giáng sinh an lành! Chúc bố mẹ và cả nhà một mùa Giáng sinh viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "noel_giadinh_32",
+   "content": "Merry Christmas nhà mình! Chúc mọi người thật nhiều niềm vui và ít muộn phiền.",
+   "translate": ""
+  },
+  {
+   "id": "noel_giadinh_33",
+   "content": "Chúc cả nhà một mùa Noel ấm áp, đủ đầy và tràn ngập yêu thương.",
+   "translate": ""
+  },
+  {
+   "id": "noel_giadinh_34",
+   "content": "Giáng sinh này, con chúc gia đình mình sức khỏe, bình an và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "noel_giadinh_35",
+   "content": "Merry Christmas! Chúc nhà mình một đêm Giáng sinh thật ý nghĩa bên nhau.",
+   "translate": ""
+  },
+  {
+   "id": "noel_giadinh_36",
+   "content": "Chúc gia đình mình một Noel thật vui, với bữa cơm ấm và những lời chúc chân thành.",
+   "translate": ""
+  },
+  {
+   "id": "noel_giadinh_37",
+   "content": "Giáng sinh an lành! Chúc cả nhà một năm mới sắp tới thật nhiều thắng lợi.",
+   "translate": ""
+  },
+  {
+   "id": "noel_giadinh_38",
+   "content": "Merry Christmas! Chúc mọi người trong nhà luôn mạnh khỏe và luôn mỉm cười.",
+   "translate": ""
+  },
+  {
+   "id": "noel_giadinh_39",
+   "content": "Chúc cả nhà một mùa Noel bình an, ấm áp và thật nhiều kỷ niệm đẹp.",
+   "translate": ""
+  },
+  {
+   "id": "noel_giadinh_40",
+   "content": "Giáng sinh này, con chúc gia đình mình mọi điều may mắn và tốt lành.",
+   "translate": ""
+  },
+  {
+   "id": "noel_giadinh_41",
+   "content": "Merry Christmas nhà mình! Chúc mọi người một mùa lễ trọn vẹn và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "noel_giadinh_42",
+   "content": "Chúc cả nhà một đêm Giáng sinh thật ấm, bởi có nhau là đã đủ ấm rồi.",
+   "translate": ""
+  }
+ ]
+}

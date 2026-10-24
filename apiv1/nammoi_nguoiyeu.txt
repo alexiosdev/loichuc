@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "nammoi_nguoiyeu_1",
+   "content": "Năm mới, anh chúc em một năm thật nhiều sức khỏe, niềm vui và luôn được anh yêu thương.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_nguoiyeu_2",
+   "content": "Happy New Year em yêu! Chúc em một năm mới rực rỡ và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_nguoiyeu_3",
+   "content": "Chúc mừng năm mới! Cảm ơn em vì đã ở bên anh suốt năm qua, mong năm nay cũng vậy.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_nguoiyeu_4",
+   "content": "Năm mới, anh chúc em mọi điều em mong đều thành hiện thực.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_nguoiyeu_5",
+   "content": "Chúc em một năm mới bình an, thuận lợi và ngập tràn yêu thương.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_nguoiyeu_6",
+   "content": "Happy New Year! Anh chúc chúng mình năm nay vẫn bên nhau như năm ngoái.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_nguoiyeu_7",
+   "content": "Năm mới, anh chúc em luôn xinh đẹp, luôn khỏe mạnh và luôn mỉm cười.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_nguoiyeu_8",
+   "content": "Chúc mừng năm mới em nhé! Chúc em một năm công việc hanh thông và tinh thần phơi phới.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_nguoiyeu_9",
+   "content": "Chúc em một năm mới nhẹ nhàng, ít lo toan và nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_nguoiyeu_10",
+   "content": "Happy New Year em! Anh chúc em một năm mới thật đáng nhớ bên anh.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_nguoiyeu_11",
+   "content": "Năm mới, anh chúc em gặt hái được mọi điều em đã nỗ lực suốt năm qua.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_nguoiyeu_12",
+   "content": "Chúc mừng năm mới! Chúc em một năm an yên và tràn đầy hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_nguoiyeu_13",
+   "content": "Chúc em một năm mới thật nhiều may mắn và thật ít muộn phiền.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_nguoiyeu_14",
+   "content": "Happy New Year! Anh chúc tình yêu của chúng mình mãi bền chặt và ngọt ngào.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_nguoiyeu_15",
+   "content": "Năm mới, anh chúc em luôn giữ được nụ cười làm anh say đắm.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_nguoiyeu_16",
+   "content": "Chúc mừng năm mới em yêu! Chúc em sức khỏe dồi dào và tâm hồn luôn thảnh thơi.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_nguoiyeu_17",
+   "content": "Chúc em một năm mới rực rỡ, tự do và hạnh phúc theo cách em muốn.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_nguoiyeu_18",
+   "content": "Happy New Year em! Anh chúc em mọi dự định đều thành và mọi mong ước đều toại.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_nguoiyeu_19",
+   "content": "Năm mới, anh chúc em bình an trong tâm và viên mãn trong đời.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_nguoiyeu_20",
+   "content": "Chúc mừng năm mới! Chúc em một năm thật nhiều trải nghiệm đẹp và kỷ niệm vui.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_nguoiyeu_21",
+   "content": "Chúc em một năm mới mà mỗi ngày đều có lý do để vui.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_nguoiyeu_22",
+   "content": "Happy New Year! Anh chúc chúng mình đi cùng nhau thêm thật nhiều năm nữa.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_nguoiyeu_23",
+   "content": "Năm mới, anh chúc em luôn được yêu thương như em xứng đáng.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_nguoiyeu_24",
+   "content": "Chúc mừng năm mới em nhé! Chúc em một năm bứt phá và thật nhiều thành công.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_nguoiyeu_25",
+   "content": "Chúc em một năm mới đầy ắp tiếng cười và những điều bất ngờ dễ thương.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_nguoiyeu_26",
+   "content": "Happy New Year em yêu! Anh chúc em khỏe mạnh để cùng anh đi thật xa.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_nguoiyeu_27",
+   "content": "Năm mới, anh chúc em dám theo đuổi điều em thích và đủ may mắn để đạt được.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_nguoiyeu_28",
+   "content": "Chúc mừng năm mới! Chúc em một năm trọn vẹn cả trong công việc lẫn tình cảm.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_nguoiyeu_29",
+   "content": "Chúc em một năm mới thong dong, thảnh thơi và thật nhiều hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_nguoiyeu_30",
+   "content": "Happy New Year! Anh chúc em năm nay vui hơn, khỏe hơn và được yêu nhiều hơn.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_nguoiyeu_31",
+   "content": "Năm mới, anh chúc em luôn là chính mình và luôn tự tin.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_nguoiyeu_32",
+   "content": "Chúc mừng năm mới em! Chúc em gặp nhiều quý nhân và nhiều điều tốt lành.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_nguoiyeu_33",
+   "content": "Chúc em một năm mới an khang, hạnh phúc và vạn sự như ý.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_nguoiyeu_34",
+   "content": "Happy New Year em yêu! Cảm ơn em vì đã làm năm cũ của anh trọn vẹn hơn.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_nguoiyeu_35",
+   "content": "Năm mới, anh chúc em thật nhiều sức khỏe và thật nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_nguoiyeu_36",
+   "content": "Chúc mừng năm mới! Chúc em một năm mới mở ra thật nhiều cơ hội tốt.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_nguoiyeu_37",
+   "content": "Chúc em một năm mới bình yên, và anh sẽ luôn ở đây dù có chuyện gì.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_nguoiyeu_38",
+   "content": "Happy New Year! Anh chúc em mọi điều tốt đẹp nhất trong năm nay.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_nguoiyeu_39",
+   "content": "Năm mới, anh chúc em bớt lo, bớt nghĩ và cười nhiều hơn.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_nguoiyeu_40",
+   "content": "Chúc mừng năm mới em nhé! Chúc em một năm thật đẹp, đẹp như em vậy.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_nguoiyeu_41",
+   "content": "Chúc em một năm mới ngập tràn yêu thương từ anh và từ mọi người.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_nguoiyeu_42",
+   "content": "Happy New Year em! Anh yêu em, năm nay và cả những năm sau nữa.",
+   "translate": ""
+  }
+ ]
+}

@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "cnh_congviec_1",
+   "content": "Thành công không đến từ việc làm những điều phi thường, mà từ việc làm tốt những điều bình thường mỗi ngày.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_congviec_2",
+   "content": "Kỷ luật sẽ đưa bạn đi xa hơn động lực, vì động lực không phải lúc nào cũng có.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_congviec_3",
+   "content": "Đừng so sánh chương một của bạn với chương hai mươi của người khác.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_congviec_4",
+   "content": "Làm tốt hôm nay quan trọng hơn lên kế hoạch hoàn hảo cho ngày mai.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_congviec_5",
+   "content": "Cơ hội thường đến với người đã chuẩn bị sẵn sàng từ trước.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_congviec_6",
+   "content": "Không ai giỏi ngay từ đầu, ai cũng phải bắt đầu từ chỗ chưa biết gì.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_congviec_7",
+   "content": "Mỗi sai lầm là một bài học, miễn là bạn chịu rút kinh nghiệm.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_congviec_8",
+   "content": "Hãy làm việc chăm chỉ trong im lặng, để thành công lên tiếng thay bạn.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_congviec_9",
+   "content": "Thành công là tổng của những nỗ lực nhỏ lặp lại mỗi ngày.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_congviec_10",
+   "content": "Đừng đợi cảm hứng, hãy bắt đầu rồi cảm hứng sẽ đến.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_congviec_11",
+   "content": "Người giỏi không phải người không bao giờ thất bại, mà là người đứng dậy nhanh hơn.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_congviec_12",
+   "content": "Hãy đầu tư vào bản thân, đó là khoản đầu tư không bao giờ lỗ.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_congviec_13",
+   "content": "Việc khó làm hôm nay sẽ trở thành việc dễ của ngày mai.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_congviec_14",
+   "content": "Đừng bận rộn, hãy hiệu quả. Hai điều đó không giống nhau.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_congviec_15",
+   "content": "Giá trị của bạn không nằm ở chức danh, mà ở những gì bạn tạo ra.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_congviec_16",
+   "content": "Học hỏi không bao giờ là muộn, trừ khi bạn ngừng học.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_congviec_17",
+   "content": "Hãy làm điều đúng ngay cả khi không ai nhìn thấy.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_congviec_18",
+   "content": "Thành công cần thời gian, đừng bỏ cuộc chỉ vì chưa thấy kết quả.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_congviec_19",
+   "content": "Người chuyên nghiệp là người vẫn làm tốt kể cả khi không có hứng.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_congviec_20",
+   "content": "Đừng sợ bắt đầu lại, sợ nhất là mãi đứng yên.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_congviec_21",
+   "content": "Mỗi ngày tiến một chút, một năm sau bạn sẽ ở rất xa nơi mình bắt đầu.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_congviec_22",
+   "content": "Hãy chọn công việc khiến bạn muốn giỏi hơn mỗi ngày.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_congviec_23",
+   "content": "Thất bại không phải điều ngược lại của thành công, nó là một phần của thành công.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_congviec_24",
+   "content": "Đừng chờ hoàn hảo mới bắt đầu, hãy bắt đầu rồi hoàn thiện dần.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_congviec_25",
+   "content": "Người thành công là người biết mình không biết gì và sẵn sàng học.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_congviec_26",
+   "content": "Cách tốt nhất để dự đoán tương lai là tự tạo ra nó.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_congviec_27",
+   "content": "Hãy làm nhiều hơn những gì được yêu cầu, đó là cách bạn nổi bật.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_congviec_28",
+   "content": "Thời gian bạn dành cho việc gì, bạn sẽ giỏi việc đó.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_congviec_29",
+   "content": "Đừng đổ lỗi cho hoàn cảnh, hãy tìm cách làm tốt nhất trong hoàn cảnh đó.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_congviec_30",
+   "content": "Thành công thật sự là khi bạn vẫn giữ được chính mình trên đường đi.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_congviec_31",
+   "content": "Hãy kiên nhẫn với quá trình nhưng nghiêm khắc với nỗ lực của mình.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_congviec_32",
+   "content": "Người ta nhớ bạn vì thái độ nhiều hơn vì năng lực.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_congviec_33",
+   "content": "Mỗi vấn đề đều là một cơ hội để bạn chứng minh giá trị của mình.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_congviec_34",
+   "content": "Đừng làm việc để gây ấn tượng, hãy làm việc để tạo ra kết quả.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_congviec_35",
+   "content": "Thành công không phải đích đến, mà là cách bạn đi mỗi ngày.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_congviec_36",
+   "content": "Hãy biết nghỉ ngơi, vì kiệt sức không phải huân chương.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_congviec_37",
+   "content": "Người giỏi nhất không phải người biết tất cả, mà là người biết tìm câu trả lời.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_congviec_38",
+   "content": "Đừng ngại hỏi, ngại hỏi mới là điều khiến bạn mãi không biết.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_congviec_39",
+   "content": "Chất lượng công việc của bạn chính là chữ ký của bạn.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_congviec_40",
+   "content": "Hãy cạnh tranh với chính mình của ngày hôm qua, không phải với người khác.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_congviec_41",
+   "content": "Thành công đến chậm nhưng chắc vẫn hơn thành công nhanh rồi vụt tắt.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_congviec_42",
+   "content": "Làm tốt một việc còn hơn làm qua loa mười việc.",
+   "translate": ""
+  }
+ ]
+}

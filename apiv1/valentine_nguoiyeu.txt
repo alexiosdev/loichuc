@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "valentine_nguoiyeu_1",
+   "content": "Valentine này, anh chỉ muốn nói rằng có em là điều tuyệt vời nhất từng xảy đến với anh.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_nguoiyeu_2",
+   "content": "Chúc em một ngày Valentine thật ngọt ngào. Yêu em hôm nay và cả những ngày sau nữa.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_nguoiyeu_3",
+   "content": "Happy Valentine em yêu! Cảm ơn em vì đã chọn anh giữa bao nhiêu người ngoài kia.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_nguoiyeu_4",
+   "content": "Valentine vui vẻ nhé! Anh chúc chúng mình mãi bên nhau như ngày hôm nay.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_nguoiyeu_5",
+   "content": "Chúc em một Valentine thật đẹp. Em là lý do anh mỉm cười mỗi sáng thức dậy.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_nguoiyeu_6",
+   "content": "Happy Valentine! Anh không giỏi nói lời hoa mỹ, chỉ biết là anh rất thương em.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_nguoiyeu_7",
+   "content": "Valentine này, anh chúc em luôn hạnh phúc, và anh hứa sẽ cố gắng vì điều đó.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_nguoiyeu_8",
+   "content": "Chúc em ngày lễ tình yêu ngập tràn niềm vui. Yêu em nhiều lắm.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_nguoiyeu_9",
+   "content": "Happy Valentine em! Mong rằng năm nào chúng ta cũng được bên nhau như thế này.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_nguoiyeu_10",
+   "content": "Valentine vui vẻ! Cảm ơn em vì đã kiên nhẫn với một người vụng về như anh.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_nguoiyeu_11",
+   "content": "Chúc em một Valentine thật ấm áp. Anh may mắn vì có em trong đời.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_nguoiyeu_12",
+   "content": "Happy Valentine! Anh chúc tình yêu của chúng mình mãi bền chặt và ngọt ngào.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_nguoiyeu_13",
+   "content": "Valentine này, anh chúc em luôn được yêu thương như cách em xứng đáng.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_nguoiyeu_14",
+   "content": "Chúc em ngày Valentine thật vui. Em chính là món quà lớn nhất của anh rồi.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_nguoiyeu_15",
+   "content": "Happy Valentine em yêu! Mỗi ngày bên em đều là một ngày đáng nhớ.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_nguoiyeu_16",
+   "content": "Valentine vui vẻ nhé! Anh yêu em, đơn giản vậy thôi.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_nguoiyeu_17",
+   "content": "Chúc em một Valentine ngọt ngào. Cảm ơn em vì đã luôn ở bên anh.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_nguoiyeu_18",
+   "content": "Happy Valentine! Anh chúc chúng mình đi cùng nhau thật xa và thật lâu.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_nguoiyeu_19",
+   "content": "Valentine này, anh chúc em mãi xinh đẹp và mãi là người anh thương nhất.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_nguoiyeu_20",
+   "content": "Chúc em ngày lễ tình yêu thật hạnh phúc. Có em, mọi ngày đều là Valentine.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_nguoiyeu_21",
+   "content": "Happy Valentine em! Anh chúc em luôn vui, luôn khỏe và luôn được yêu.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_nguoiyeu_22",
+   "content": "Valentine vui vẻ! Yêu em không phải vì em hoàn hảo, mà vì em là em.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_nguoiyeu_23",
+   "content": "Chúc em một Valentine thật đặc biệt, bởi em rất đặc biệt với anh.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_nguoiyeu_24",
+   "content": "Happy Valentine! Anh chúc chúng mình luôn hiểu và thương nhau như bây giờ.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_nguoiyeu_25",
+   "content": "Valentine này, cảm ơn em vì đã làm cuộc sống của anh dịu dàng hơn.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_nguoiyeu_26",
+   "content": "Chúc em ngày Valentine thật đẹp. Anh sẽ luôn ở đây, dù có chuyện gì xảy ra.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_nguoiyeu_27",
+   "content": "Happy Valentine em yêu! Chúc em một ngày đầy hoa và một đời đầy yêu thương.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_nguoiyeu_28",
+   "content": "Valentine vui vẻ nhé! Anh chúc em mọi điều em mong đều thành hiện thực.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_nguoiyeu_29",
+   "content": "Chúc em một Valentine ấm áp. Em là nơi anh muốn quay về sau mọi mệt mỏi.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_nguoiyeu_30",
+   "content": "Happy Valentine! Anh yêu em hôm qua, hôm nay và cả ngày mai nữa.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_nguoiyeu_31",
+   "content": "Valentine này, anh chúc em luôn giữ được nụ cười mà anh say đắm.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_nguoiyeu_32",
+   "content": "Chúc em ngày lễ tình yêu thật trọn vẹn. Cảm ơn em vì tất cả.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_nguoiyeu_33",
+   "content": "Happy Valentine em! Chúc chúng mình mãi là của nhau.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_nguoiyeu_34",
+   "content": "Valentine vui vẻ! Anh chúc em hạnh phúc, kể cả những ngày không có anh bên cạnh.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_nguoiyeu_35",
+   "content": "Chúc em một Valentine thật ngọt. Em làm anh tin vào những điều tốt đẹp.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_nguoiyeu_36",
+   "content": "Happy Valentine! Anh chúc tình mình mãi như những ngày đầu.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_nguoiyeu_37",
+   "content": "Valentine này, anh chúc em thật nhiều sức khỏe và thật nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_nguoiyeu_38",
+   "content": "Chúc em ngày Valentine thật vui vẻ. Yêu em, luôn luôn.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_nguoiyeu_39",
+   "content": "Happy Valentine em yêu! Mong rằng mọi Valentine sau này đều có em.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_nguoiyeu_40",
+   "content": "Valentine vui vẻ nhé! Anh biết ơn vì mỗi ngày được ở bên em.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_nguoiyeu_41",
+   "content": "Chúc em một Valentine đáng nhớ. Em xứng đáng với tất cả điều tốt đẹp.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_nguoiyeu_42",
+   "content": "Happy Valentine! Anh chúc chúng mình luôn chọn nhau, mỗi ngày.",
+   "translate": ""
+  }
+ ]
+}

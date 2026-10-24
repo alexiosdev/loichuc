@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "quandoi_1",
+   "content": "Nhân ngày thành lập Quân đội Nhân dân Việt Nam 22/12, kính chúc các anh bộ đội luôn mạnh khỏe và vững vàng.",
+   "translate": ""
+  },
+  {
+   "id": "quandoi_2",
+   "content": "Chúc mừng ngày 22/12! Kính chúc các chiến sĩ chân cứng đá mềm, hoàn thành tốt nhiệm vụ.",
+   "translate": ""
+  },
+  {
+   "id": "quandoi_3",
+   "content": "Nhân ngày 22/12, xin tri ân những người lính đã và đang giữ gìn bình yên cho Tổ quốc.",
+   "translate": ""
+  },
+  {
+   "id": "quandoi_4",
+   "content": "Chúc mừng ngày Quân đội Nhân dân Việt Nam! Kính chúc các anh sức khỏe và bình an.",
+   "translate": ""
+  },
+  {
+   "id": "quandoi_5",
+   "content": "Ngày 22/12, chúc các chiến sĩ luôn vững tay súng và vững niềm tin.",
+   "translate": ""
+  },
+  {
+   "id": "quandoi_6",
+   "content": "Nhân ngày thành lập Quân đội Nhân dân, kính chúc các anh hoàn thành xuất sắc mọi nhiệm vụ.",
+   "translate": ""
+  },
+  {
+   "id": "quandoi_7",
+   "content": "Chúc mừng 22/12! Xin gửi lời tri ân sâu sắc tới các thế hệ bộ đội Cụ Hồ.",
+   "translate": ""
+  },
+  {
+   "id": "quandoi_8",
+   "content": "Ngày Quân đội Nhân dân Việt Nam, kính chúc các anh luôn mạnh khỏe và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "quandoi_9",
+   "content": "Nhân ngày 22/12, chúc các chiến sĩ luôn giữ vững phẩm chất bộ đội Cụ Hồ.",
+   "translate": ""
+  },
+  {
+   "id": "quandoi_10",
+   "content": "Chúc mừng ngày 22/12! Kính chúc các anh và gia đình luôn bình an, hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "quandoi_11",
+   "content": "Ngày 22/12, xin cảm ơn những người lính đã hy sinh thầm lặng vì đất nước.",
+   "translate": ""
+  },
+  {
+   "id": "quandoi_12",
+   "content": "Nhân ngày Quân đội Nhân dân Việt Nam, kính chúc các anh sức khỏe dồi dào.",
+   "translate": ""
+  },
+  {
+   "id": "quandoi_13",
+   "content": "Chúc mừng 22/12! Chúc các chiến sĩ luôn vững vàng nơi tuyến đầu.",
+   "translate": ""
+  },
+  {
+   "id": "quandoi_14",
+   "content": "Ngày thành lập Quân đội Nhân dân, kính chúc các anh mọi điều tốt lành.",
+   "translate": ""
+  },
+  {
+   "id": "quandoi_15",
+   "content": "Nhân ngày 22/12, chúc các anh bộ đội luôn kiên cường và luôn được yêu thương.",
+   "translate": ""
+  },
+  {
+   "id": "quandoi_16",
+   "content": "Chúc mừng ngày Quân đội Nhân dân Việt Nam! Kính chúc các anh vững bước trên mọi chặng đường.",
+   "translate": ""
+  },
+  {
+   "id": "quandoi_17",
+   "content": "Ngày 22/12, chúc các chiến sĩ hoàn thành tốt nhiệm vụ và sớm về bên gia đình.",
+   "translate": ""
+  },
+  {
+   "id": "quandoi_18",
+   "content": "Nhân ngày 22/12, xin tri ân và kính chúc các anh thật nhiều sức khỏe.",
+   "translate": ""
+  },
+  {
+   "id": "quandoi_19",
+   "content": "Chúc mừng ngày 22/12! Chúc các anh luôn giữ vững ý chí và tinh thần thép.",
+   "translate": ""
+  },
+  {
+   "id": "quandoi_20",
+   "content": "Ngày Quân đội Nhân dân Việt Nam, kính chúc các anh bình an và thành công.",
+   "translate": ""
+  },
+  {
+   "id": "quandoi_21",
+   "content": "Nhân ngày thành lập Quân đội Nhân dân, chúc các chiến sĩ luôn mạnh mẽ và kiên định.",
+   "translate": ""
+  },
+  {
+   "id": "quandoi_22",
+   "content": "Chúc mừng 22/12! Kính chúc các anh và gia đình một cuộc sống ấm no, hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "quandoi_23",
+   "content": "Ngày 22/12, chúc các anh bộ đội luôn khỏe mạnh để bảo vệ bình yên cho nhân dân.",
+   "translate": ""
+  },
+  {
+   "id": "quandoi_24",
+   "content": "Nhân ngày Quân đội Nhân dân Việt Nam, xin gửi lời biết ơn chân thành nhất.",
+   "translate": ""
+  },
+  {
+   "id": "quandoi_25",
+   "content": "Chúc mừng ngày 22/12! Chúc các chiến sĩ luôn vững tâm và vững chí.",
+   "translate": ""
+  },
+  {
+   "id": "quandoi_26",
+   "content": "Ngày thành lập Quân đội Nhân dân, kính chúc các anh thật nhiều niềm vui và may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "quandoi_27",
+   "content": "Nhân ngày 22/12, chúc các anh luôn tự hào về màu áo mình đang mặc.",
+   "translate": ""
+  },
+  {
+   "id": "quandoi_28",
+   "content": "Chúc mừng ngày Quân đội Nhân dân Việt Nam! Kính chúc các anh an khang và viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "quandoi_29",
+   "content": "Ngày 22/12, chúc các chiến sĩ luôn được gia đình và hậu phương vững chắc ủng hộ.",
+   "translate": ""
+  },
+  {
+   "id": "quandoi_30",
+   "content": "Nhân ngày 22/12, kính chúc các anh hoàn thành mọi nhiệm vụ được giao.",
+   "translate": ""
+  },
+  {
+   "id": "quandoi_31",
+   "content": "Chúc mừng 22/12! Chúc các anh bộ đội luôn khỏe mạnh và luôn hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "quandoi_32",
+   "content": "Ngày Quân đội Nhân dân Việt Nam, xin tri ân những hy sinh thầm lặng của các anh.",
+   "translate": ""
+  },
+  {
+   "id": "quandoi_33",
+   "content": "Nhân ngày thành lập Quân đội Nhân dân, chúc các anh vững vàng và kiên cường.",
+   "translate": ""
+  },
+  {
+   "id": "quandoi_34",
+   "content": "Chúc mừng ngày 22/12! Kính chúc các chiến sĩ sức khỏe, bình an và thành công.",
+   "translate": ""
+  },
+  {
+   "id": "quandoi_35",
+   "content": "Ngày 22/12, chúc các anh luôn giữ được tinh thần lạc quan nơi quân ngũ.",
+   "translate": ""
+  },
+  {
+   "id": "quandoi_36",
+   "content": "Nhân ngày 22/12, kính chúc các anh và gia đình mọi điều tốt đẹp nhất.",
+   "translate": ""
+  },
+  {
+   "id": "quandoi_37",
+   "content": "Chúc mừng ngày Quân đội Nhân dân Việt Nam! Chúc các anh chân cứng đá mềm.",
+   "translate": ""
+  },
+  {
+   "id": "quandoi_38",
+   "content": "Ngày thành lập Quân đội Nhân dân, chúc các chiến sĩ luôn mạnh khỏe và vững tin.",
+   "translate": ""
+  },
+  {
+   "id": "quandoi_39",
+   "content": "Nhân ngày 22/12, xin cảm ơn các anh vì sự bình yên mà chúng tôi đang có.",
+   "translate": ""
+  },
+  {
+   "id": "quandoi_40",
+   "content": "Chúc mừng 22/12! Kính chúc các anh luôn hoàn thành tốt nhiệm vụ và sớm đoàn tụ gia đình.",
+   "translate": ""
+  },
+  {
+   "id": "quandoi_41",
+   "content": "Ngày 22/12, chúc các anh bộ đội luôn kiên trung và luôn hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "quandoi_42",
+   "content": "Nhân ngày Quân đội Nhân dân Việt Nam, kính chúc các anh vạn sự bình an.",
+   "translate": ""
+  }
+ ]
+}

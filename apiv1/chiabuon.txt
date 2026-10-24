@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "chiabuon_1",
+   "content": "Xin chia buồn sâu sắc cùng gia đình. Mong gia đình sớm vượt qua nỗi đau mất mát này.",
+   "translate": ""
+  },
+  {
+   "id": "chiabuon_2",
+   "content": "Thành kính phân ưu cùng gia quyến. Cầu mong người đã khuất được an nghỉ.",
+   "translate": ""
+  },
+  {
+   "id": "chiabuon_3",
+   "content": "Xin gửi lời chia buồn chân thành nhất tới bạn và gia đình.",
+   "translate": ""
+  },
+  {
+   "id": "chiabuon_4",
+   "content": "Mình rất tiếc khi nghe tin. Xin chia buồn cùng bạn và gia đình.",
+   "translate": ""
+  },
+  {
+   "id": "chiabuon_5",
+   "content": "Thành kính chia buồn cùng gia đình. Mong mọi người giữ gìn sức khỏe.",
+   "translate": ""
+  },
+  {
+   "id": "chiabuon_6",
+   "content": "Xin chia buồn cùng bạn. Nếu cần gì, mình luôn ở đây.",
+   "translate": ""
+  },
+  {
+   "id": "chiabuon_7",
+   "content": "Thành kính phân ưu. Cầu mong hương hồn người quá cố sớm siêu thoát.",
+   "translate": ""
+  },
+  {
+   "id": "chiabuon_8",
+   "content": "Xin gửi lời chia buồn sâu sắc. Mong gia đình sớm nguôi ngoai.",
+   "translate": ""
+  },
+  {
+   "id": "chiabuon_9",
+   "content": "Mình xin chia buồn cùng bạn và gia đình trong thời khắc khó khăn này.",
+   "translate": ""
+  },
+  {
+   "id": "chiabuon_10",
+   "content": "Thành kính chia buồn cùng gia quyến. Xin chia sẻ nỗi mất mát lớn lao này.",
+   "translate": ""
+  },
+  {
+   "id": "chiabuon_11",
+   "content": "Xin chia buồn! Mong bạn giữ gìn sức khỏe và vững vàng vượt qua.",
+   "translate": ""
+  },
+  {
+   "id": "chiabuon_12",
+   "content": "Thành kính phân ưu cùng gia đình. Cầu mong người đã khuất an giấc ngàn thu.",
+   "translate": ""
+  },
+  {
+   "id": "chiabuon_13",
+   "content": "Xin gửi lời chia buồn tới bạn và toàn thể gia quyến.",
+   "translate": ""
+  },
+  {
+   "id": "chiabuon_14",
+   "content": "Mình rất tiếc về sự mất mát của gia đình bạn. Xin thành kính chia buồn.",
+   "translate": ""
+  },
+  {
+   "id": "chiabuon_15",
+   "content": "Thành kính chia buồn. Mong gia đình sớm vượt qua giai đoạn khó khăn này.",
+   "translate": ""
+  },
+  {
+   "id": "chiabuon_16",
+   "content": "Xin chia buồn cùng gia đình. Xin chia sẻ phần nào nỗi đau này.",
+   "translate": ""
+  },
+  {
+   "id": "chiabuon_17",
+   "content": "Thành kính phân ưu. Mong bạn và gia đình mạnh mẽ vượt qua.",
+   "translate": ""
+  },
+  {
+   "id": "chiabuon_18",
+   "content": "Xin gửi lời chia buồn chân thành. Cầu mong người đã khuất được bình an.",
+   "translate": ""
+  },
+  {
+   "id": "chiabuon_19",
+   "content": "Mình xin chia buồn sâu sắc. Nếu bạn cần ai đó lắng nghe, mình luôn sẵn sàng.",
+   "translate": ""
+  },
+  {
+   "id": "chiabuon_20",
+   "content": "Thành kính chia buồn cùng gia đình. Mong mọi người giữ gìn sức khỏe trong những ngày này.",
+   "translate": ""
+  },
+  {
+   "id": "chiabuon_21",
+   "content": "Xin chia buồn! Mong nỗi đau sẽ nguôi dần theo thời gian.",
+   "translate": ""
+  },
+  {
+   "id": "chiabuon_22",
+   "content": "Thành kính phân ưu cùng gia quyến. Xin chia sẻ nỗi buồn này cùng gia đình.",
+   "translate": ""
+  },
+  {
+   "id": "chiabuon_23",
+   "content": "Xin gửi lời chia buồn sâu sắc nhất tới bạn và những người thân.",
+   "translate": ""
+  },
+  {
+   "id": "chiabuon_24",
+   "content": "Mình rất tiếc khi hay tin. Xin thành kính chia buồn cùng gia đình.",
+   "translate": ""
+  },
+  {
+   "id": "chiabuon_25",
+   "content": "Thành kính chia buồn. Cầu mong người đã khuất sớm được an nghỉ nơi vĩnh hằng.",
+   "translate": ""
+  },
+  {
+   "id": "chiabuon_26",
+   "content": "Xin chia buồn cùng bạn. Mong bạn vững vàng và giữ gìn sức khỏe.",
+   "translate": ""
+  },
+  {
+   "id": "chiabuon_27",
+   "content": "Thành kính phân ưu cùng gia đình. Mong gia đình sớm tìm lại được bình yên.",
+   "translate": ""
+  },
+  {
+   "id": "chiabuon_28",
+   "content": "Xin gửi lời chia buồn tới toàn thể gia quyến. Xin thành kính phân ưu.",
+   "translate": ""
+  },
+  {
+   "id": "chiabuon_29",
+   "content": "Mình xin chia buồn cùng bạn. Hãy cho phép mình được chia sẻ phần nào nỗi đau này.",
+   "translate": ""
+  },
+  {
+   "id": "chiabuon_30",
+   "content": "Thành kính chia buồn cùng gia đình trong giờ phút đau thương này.",
+   "translate": ""
+  },
+  {
+   "id": "chiabuon_31",
+   "content": "Xin chia buồn! Mong bạn và gia đình sớm vượt qua mất mát lớn lao.",
+   "translate": ""
+  },
+  {
+   "id": "chiabuon_32",
+   "content": "Thành kính phân ưu. Cầu mong hương hồn người quá cố được thanh thản.",
+   "translate": ""
+  },
+  {
+   "id": "chiabuon_33",
+   "content": "Xin gửi lời chia buồn chân thành nhất. Mong gia đình giữ gìn sức khỏe.",
+   "translate": ""
+  },
+  {
+   "id": "chiabuon_34",
+   "content": "Mình rất tiếc về sự ra đi của người thân bạn. Xin chia buồn sâu sắc.",
+   "translate": ""
+  },
+  {
+   "id": "chiabuon_35",
+   "content": "Thành kính chia buồn cùng gia quyến. Xin được chia sẻ nỗi đau này.",
+   "translate": ""
+  },
+  {
+   "id": "chiabuon_36",
+   "content": "Xin chia buồn cùng gia đình. Mong mọi người mạnh mẽ vượt qua.",
+   "translate": ""
+  },
+  {
+   "id": "chiabuon_37",
+   "content": "Thành kính phân ưu cùng bạn và gia đình. Cầu mong người đã khuất an nghỉ.",
+   "translate": ""
+  },
+  {
+   "id": "chiabuon_38",
+   "content": "Xin gửi lời chia buồn sâu sắc. Mong thời gian sẽ xoa dịu nỗi đau này.",
+   "translate": ""
+  },
+  {
+   "id": "chiabuon_39",
+   "content": "Mình xin thành kính chia buồn. Nếu cần bất cứ điều gì, đừng ngại nói với mình.",
+   "translate": ""
+  },
+  {
+   "id": "chiabuon_40",
+   "content": "Thành kính chia buồn cùng gia đình. Xin chia sẻ nỗi mất mát không gì bù đắp được.",
+   "translate": ""
+  },
+  {
+   "id": "chiabuon_41",
+   "content": "Xin chia buồn! Mong gia đình luôn vững vàng và giữ gìn sức khỏe.",
+   "translate": ""
+  },
+  {
+   "id": "chiabuon_42",
+   "content": "Thành kính phân ưu cùng gia quyến. Cầu mong người đã khuất yên nghỉ bình an.",
+   "translate": ""
+  }
+ ]
+}

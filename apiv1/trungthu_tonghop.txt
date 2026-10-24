@@ -1,0 +1,209 @@
+{
+ "result": [
+  {
+   "id": "trungthu_tonghop_1",
+   "content": "Chúc bạn một mùa Trung thu thật vui, thật ấm áp bên gia đình và người thân yêu.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_tonghop_2",
+   "content": "Trung thu an lành! Chúc bạn một đêm rằm tròn đầy như vầng trăng trên cao.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_tonghop_3",
+   "content": "Chúc mừng Tết Trung thu! Chúc bạn và gia đình một mùa đoàn viên hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_tonghop_4",
+   "content": "Trung thu này, chúc bạn thật nhiều sức khỏe, niềm vui và những khoảnh khắc đáng nhớ.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_tonghop_5",
+   "content": "Trung thu vui vẻ! Chúc bạn một đêm rằm thật đẹp bên những người mình yêu quý.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_tonghop_6",
+   "content": "Chúc mừng Trung thu! Mong rằng mùa đoàn viên này nhà bạn đông đủ và ấm áp.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_tonghop_7",
+   "content": "Trung thu an lành! Chúc bạn mọi điều tốt đẹp nhất dưới ánh trăng rằm.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_tonghop_8",
+   "content": "Chúc bạn một Tết Trung thu đầy ắp tiếng cười và hơi ấm gia đình.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_tonghop_9",
+   "content": "Trung thu này, chúc bạn bình an, hạnh phúc và luôn được yêu thương.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_tonghop_10",
+   "content": "Chúc mừng Trung thu! Chúc bạn một đêm rằm trọn vẹn và thật nhiều kỷ niệm đẹp.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_tonghop_11",
+   "content": "Trung thu vui vẻ! Chúc bạn một mùa đoàn viên thật ý nghĩa bên gia đình.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_tonghop_12",
+   "content": "Chúc bạn một mùa Trung thu an lành, với bánh ngon, trà thơm và người thương bên cạnh.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_tonghop_13",
+   "content": "Trung thu này, chúc bạn tròn đầy như trăng và ngọt ngào như bánh.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_tonghop_14",
+   "content": "Chúc mừng Tết Trung thu! Chúc bạn sức khỏe dồi dào và tinh thần luôn vui tươi.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_tonghop_15",
+   "content": "Trung thu an lành! Chúc bạn một đêm rằm bình yên và thật nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_tonghop_16",
+   "content": "Chúc bạn một Trung thu đáng nhớ bên gia đình và những người bạn thân thiết.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_tonghop_17",
+   "content": "Trung thu vui vẻ! Mong bạn có một mùa đoàn viên ấm áp và trọn vẹn.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_tonghop_18",
+   "content": "Chúc mừng Trung thu! Chúc bạn mọi mong ước dưới ánh trăng rằm đều thành hiện thực.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_tonghop_19",
+   "content": "Trung thu này, chúc bạn một đêm thật đẹp và một mùa thu thật dịu dàng.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_tonghop_20",
+   "content": "Chúc bạn một mùa Trung thu ngập tràn hạnh phúc và tiếng cười trẻ thơ.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_tonghop_21",
+   "content": "Trung thu an lành! Chúc bạn và gia đình một mùa đoàn viên thật đầm ấm.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_tonghop_22",
+   "content": "Chúc mừng Tết Trung thu! Chúc bạn một đêm rằm vui vẻ và an yên.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_tonghop_23",
+   "content": "Trung thu vui vẻ! Chúc bạn tìm lại được chút hồn nhiên của tuổi thơ trong đêm nay.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_tonghop_24",
+   "content": "Chúc bạn một Trung thu thật ấm, dù ở xa hay gần thì lòng vẫn hướng về gia đình.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_tonghop_25",
+   "content": "Trung thu này, chúc bạn thật nhiều may mắn và thật nhiều điều tốt lành.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_tonghop_26",
+   "content": "Chúc mừng Trung thu! Chúc bạn một mùa đoàn viên hạnh phúc và sung túc.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_tonghop_27",
+   "content": "Trung thu an lành! Chúc bạn một đêm rằm thật đẹp và một cuộc sống thật viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_tonghop_28",
+   "content": "Chúc bạn một mùa Trung thu vui vẻ, bên mâm cỗ và ánh đèn lồng lung linh.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_tonghop_29",
+   "content": "Trung thu vui vẻ! Chúc bạn và gia đình luôn khỏe mạnh và luôn bên nhau.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_tonghop_30",
+   "content": "Chúc mừng Tết Trung thu! Chúc bạn một đêm rằm tròn vẹn như vầng trăng.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_tonghop_31",
+   "content": "Trung thu này, chúc bạn bỏ lại mọi lo toan và tận hưởng mùa đoàn viên.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_tonghop_32",
+   "content": "Chúc bạn một Trung thu an lành, ngọt ngào và thật nhiều yêu thương.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_tonghop_33",
+   "content": "Trung thu an lành! Chúc bạn một mùa thu thật đẹp và thật nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_tonghop_34",
+   "content": "Chúc mừng Trung thu! Chúc bạn sức khỏe, bình an và hạnh phúc trọn vẹn.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_tonghop_35",
+   "content": "Trung thu vui vẻ! Chúc bạn một đêm rằm đáng nhớ bên những người quan trọng nhất.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_tonghop_36",
+   "content": "Chúc bạn một mùa Trung thu ấm áp, với thật nhiều bánh và thật nhiều tiếng cười.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_tonghop_37",
+   "content": "Trung thu này, chúc bạn mọi điều như ý và vạn sự cát tường.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_tonghop_38",
+   "content": "Chúc mừng Tết Trung thu! Chúc bạn một mùa đoàn viên thật trọn vẹn.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_tonghop_39",
+   "content": "Trung thu an lành! Chúc bạn luôn vui, luôn khỏe và luôn được yêu thương.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_tonghop_40",
+   "content": "Chúc bạn một Trung thu thật đẹp, và mong năm nào cũng được sum họp như thế này.",
+   "translate": ""
+  },
+  {
+   "id": "trungthu_tonghop_41",
+   "content": "Trung thu vui vẻ! Chúc bạn và gia đình một mùa rằm tháng Tám thật hạnh phúc.",
+   "translate": ""
+  }
+ ]
+}

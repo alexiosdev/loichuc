@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "tet_treem_1",
+   "content": "Chúc con năm mới hay ăn chóng lớn, khỏe mạnh, ngoan ngoãn và học giỏi nhé!",
+   "translate": ""
+  },
+  {
+   "id": "tet_treem_2",
+   "content": "Năm mới chúc cháu học hành tấn tới, điểm mười như bắp, lớn nhanh như thổi.",
+   "translate": ""
+  },
+  {
+   "id": "tet_treem_3",
+   "content": "Mừng tuổi con, chúc con một năm mới thật nhiều niềm vui, nhiều bạn tốt và thật nhiều điểm cao.",
+   "translate": ""
+  },
+  {
+   "id": "tet_treem_4",
+   "content": "Chúc bé năm mới ngoan ngoãn, vâng lời ông bà cha mẹ, khỏe mạnh và luôn tươi cười.",
+   "translate": ""
+  },
+  {
+   "id": "tet_treem_5",
+   "content": "Năm mới, chúc con cao thêm một chút, giỏi thêm một chút và ngoan thêm thật nhiều.",
+   "translate": ""
+  },
+  {
+   "id": "tet_treem_6",
+   "content": "Mừng tuổi cháu, chúc cháu một năm mới ăn no chóng lớn, học đâu nhớ đó, thi đâu đậu đó.",
+   "translate": ""
+  },
+  {
+   "id": "tet_treem_7",
+   "content": "Chúc con năm mới khỏe như siêu nhân, thông minh như thần đồng và đáng yêu như hiện tại.",
+   "translate": ""
+  },
+  {
+   "id": "tet_treem_8",
+   "content": "Năm mới chúc bé luôn vui vẻ, ít ốm vặt, ăn ngon ngủ kỹ và lớn thật nhanh.",
+   "translate": ""
+  },
+  {
+   "id": "tet_treem_9",
+   "content": "Chúc cháu một năm mới nhiều lì xì, nhiều quà và nhiều điểm mười hơn nữa.",
+   "translate": ""
+  },
+  {
+   "id": "tet_treem_10",
+   "content": "Năm mới, chúc con giữ mãi nụ cười này, học thật giỏi và luôn là niềm tự hào của bố mẹ.",
+   "translate": ""
+  },
+  {
+   "id": "tet_treem_11",
+   "content": "Mừng tuổi con, chúc con năm mới mạnh khỏe, hiếu thảo, chăm ngoan và gặp nhiều may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "tet_treem_12",
+   "content": "Chúc bé năm mới hay ăn chóng lớn, biết thêm nhiều điều hay và có thêm nhiều bạn mới.",
+   "translate": ""
+  },
+  {
+   "id": "tet_treem_13",
+   "content": "Năm mới chúc cháu học giỏi toàn diện, được thầy cô yêu quý, bạn bè quý mến.",
+   "translate": ""
+  },
+  {
+   "id": "tet_treem_14",
+   "content": "Chúc con một năm mới tràn đầy năng lượng, tự tin khám phá thế giới và luôn an toàn.",
+   "translate": ""
+  },
+  {
+   "id": "tet_treem_15",
+   "content": "Năm mới, chúc bé ngủ ngoan, ăn khỏe, ít khóc nhè và cười thật nhiều.",
+   "translate": ""
+  },
+  {
+   "id": "tet_treem_16",
+   "content": "Mừng tuổi cháu, chúc cháu năm mới tiến bộ từng ngày, đạt được mọi điều cháu ước.",
+   "translate": ""
+  },
+  {
+   "id": "tet_treem_17",
+   "content": "Chúc con năm mới can đảm hơn, tự lập hơn và vẫn luôn ngọt ngào như thế.",
+   "translate": ""
+  },
+  {
+   "id": "tet_treem_18",
+   "content": "Năm mới chúc bé luôn khỏe mạnh, hồn nhiên và lớn lên thật hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "tet_treem_19",
+   "content": "Chúc cháu một năm mới học hành giỏi giang, thể thao khỏe khoắn, vui chơi thỏa thích.",
+   "translate": ""
+  },
+  {
+   "id": "tet_treem_20",
+   "content": "Năm mới, chúc con đạt được điều con mơ ước, dù đó là một con robot hay một điểm mười.",
+   "translate": ""
+  },
+  {
+   "id": "tet_treem_21",
+   "content": "Mừng tuổi con, chúc con một năm mới bình an, khỏe mạnh và thật nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "tet_treem_22",
+   "content": "Chúc bé năm mới chóng lớn, mau biết đi, mau biết nói để ông bà được nghe tiếng cười.",
+   "translate": ""
+  },
+  {
+   "id": "tet_treem_23",
+   "content": "Năm mới chúc cháu luôn ngoan, luôn lễ phép và luôn được mọi người yêu thương.",
+   "translate": ""
+  },
+  {
+   "id": "tet_treem_24",
+   "content": "Chúc con một năm mới thật nhiều trải nghiệm thú vị và thật nhiều kỷ niệm đẹp.",
+   "translate": ""
+  },
+  {
+   "id": "tet_treem_25",
+   "content": "Năm mới, chúc bé khỏe mạnh để chạy nhảy thỏa thích và học thật nhiều điều mới.",
+   "translate": ""
+  },
+  {
+   "id": "tet_treem_26",
+   "content": "Mừng tuổi cháu, chúc cháu năm mới học đâu giỏi đó, làm đâu nên đó, đi đâu cũng vui.",
+   "translate": ""
+  },
+  {
+   "id": "tet_treem_27",
+   "content": "Chúc con năm mới giữ được sự tò mò và lòng tốt đáng quý của mình.",
+   "translate": ""
+  },
+  {
+   "id": "tet_treem_28",
+   "content": "Năm mới chúc bé ăn chóng lớn, da dẻ hồng hào, cả nhà ai cũng mê.",
+   "translate": ""
+  },
+  {
+   "id": "tet_treem_29",
+   "content": "Chúc cháu một năm mới nhiều sức khỏe, nhiều tiếng cười và thật ít ốm đau.",
+   "translate": ""
+  },
+  {
+   "id": "tet_treem_30",
+   "content": "Năm mới, chúc con học giỏi hơn năm ngoái, ngoan hơn năm ngoái và cao hơn năm ngoái.",
+   "translate": ""
+  },
+  {
+   "id": "tet_treem_31",
+   "content": "Mừng tuổi con, chúc con một năm mới vui vẻ bên gia đình và tự tin ở trường lớp.",
+   "translate": ""
+  },
+  {
+   "id": "tet_treem_32",
+   "content": "Chúc bé năm mới luôn được yêu thương, luôn được che chở và luôn hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "tet_treem_33",
+   "content": "Năm mới chúc cháu đạt học sinh giỏi, được nhiều phiếu bé ngoan và nhiều lời khen.",
+   "translate": ""
+  },
+  {
+   "id": "tet_treem_34",
+   "content": "Chúc con một năm mới mạnh dạn hơn, dám thử điều mới và không sợ sai.",
+   "translate": ""
+  },
+  {
+   "id": "tet_treem_35",
+   "content": "Năm mới, chúc bé khỏe mạnh, đáng yêu và là niềm vui của cả nhà.",
+   "translate": ""
+  },
+  {
+   "id": "tet_treem_36",
+   "content": "Mừng tuổi cháu, chúc cháu năm mới gặp nhiều điều tốt lành và học được thật nhiều điều hay.",
+   "translate": ""
+  },
+  {
+   "id": "tet_treem_37",
+   "content": "Chúc con năm mới ăn nhiều rau, ít kẹo, chăm tập thể dục và luôn khỏe mạnh.",
+   "translate": ""
+  },
+  {
+   "id": "tet_treem_38",
+   "content": "Năm mới chúc bé lớn khôn từng ngày trong tình yêu thương của ông bà, bố mẹ.",
+   "translate": ""
+  },
+  {
+   "id": "tet_treem_39",
+   "content": "Chúc cháu một năm mới rực rỡ, vui tươi và thành công với mọi điều cháu thử sức.",
+   "translate": ""
+  },
+  {
+   "id": "tet_treem_40",
+   "content": "Năm mới, chúc con luôn là cô bé/cậu bé ngoan ngoãn, lễ phép và chăm chỉ.",
+   "translate": ""
+  },
+  {
+   "id": "tet_treem_41",
+   "content": "Mừng tuổi con, chúc con năm mới nhiều sức khỏe, nhiều niềm vui, nhiều điểm tốt.",
+   "translate": ""
+  },
+  {
+   "id": "tet_treem_42",
+   "content": "Chúc bé năm mới cười thật nhiều, khóc thật ít và lớn lên thật khỏe mạnh.",
+   "translate": ""
+  }
+ ]
+}

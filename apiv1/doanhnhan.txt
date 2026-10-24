@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "doanhnhan_1",
+   "content": "Nhân ngày Doanh nhân Việt Nam 13/10, kính chúc Quý doanh nhân sức khỏe dồi dào và kinh doanh phát đạt.",
+   "translate": ""
+  },
+  {
+   "id": "doanhnhan_2",
+   "content": "Chúc mừng ngày Doanh nhân Việt Nam! Chúc anh chị vững tay chèo và gặt hái thật nhiều thành công.",
+   "translate": ""
+  },
+  {
+   "id": "doanhnhan_3",
+   "content": "Ngày 13/10, kính chúc Quý doanh nhân bản lĩnh vững vàng và sự nghiệp thăng hoa.",
+   "translate": ""
+  },
+  {
+   "id": "doanhnhan_4",
+   "content": "Nhân ngày Doanh nhân Việt Nam, chúc anh chị luôn sáng suốt trong mọi quyết định.",
+   "translate": ""
+  },
+  {
+   "id": "doanhnhan_5",
+   "content": "Chúc mừng 13/10! Kính chúc Quý doanh nhân vạn sự hanh thông và tài lộc dồi dào.",
+   "translate": ""
+  },
+  {
+   "id": "doanhnhan_6",
+   "content": "Ngày Doanh nhân Việt Nam, chúc anh chị dẫn dắt doanh nghiệp vượt qua mọi sóng gió.",
+   "translate": ""
+  },
+  {
+   "id": "doanhnhan_7",
+   "content": "Nhân ngày 13/10, kính chúc Quý doanh nhân sức khỏe, hạnh phúc và thịnh vượng.",
+   "translate": ""
+  },
+  {
+   "id": "doanhnhan_8",
+   "content": "Chúc mừng ngày Doanh nhân Việt Nam! Chúc anh chị tiếp tục tiên phong và đổi mới.",
+   "translate": ""
+  },
+  {
+   "id": "doanhnhan_9",
+   "content": "Ngày 13/10, chúc anh chị gặt hái trọn vẹn những gì đã gieo trồng.",
+   "translate": ""
+  },
+  {
+   "id": "doanhnhan_10",
+   "content": "Nhân ngày Doanh nhân Việt Nam, kính chúc Quý doanh nhân doanh thu bứt phá.",
+   "translate": ""
+  },
+  {
+   "id": "doanhnhan_11",
+   "content": "Chúc mừng 13/10! Chúc anh chị giữ mãi ngọn lửa khởi nghiệp đáng ngưỡng mộ.",
+   "translate": ""
+  },
+  {
+   "id": "doanhnhan_12",
+   "content": "Ngày Doanh nhân Việt Nam, kính chúc Quý doanh nhân an khang và thịnh vượng.",
+   "translate": ""
+  },
+  {
+   "id": "doanhnhan_13",
+   "content": "Nhân ngày 13/10, chúc anh chị gặp nhiều cơ hội tốt và nắm bắt được hết.",
+   "translate": ""
+  },
+  {
+   "id": "doanhnhan_14",
+   "content": "Chúc mừng ngày Doanh nhân Việt Nam! Chúc anh chị đội ngũ vững mạnh và đoàn kết.",
+   "translate": ""
+  },
+  {
+   "id": "doanhnhan_15",
+   "content": "Ngày 13/10, kính chúc Quý doanh nhân luôn bản lĩnh trước mọi thử thách.",
+   "translate": ""
+  },
+  {
+   "id": "doanhnhan_16",
+   "content": "Nhân ngày Doanh nhân Việt Nam, chúc anh chị thương hiệu ngày càng vươn xa.",
+   "translate": ""
+  },
+  {
+   "id": "doanhnhan_17",
+   "content": "Chúc mừng 13/10! Kính chúc Quý doanh nhân mọi kế hoạch đều sinh lời.",
+   "translate": ""
+  },
+  {
+   "id": "doanhnhan_18",
+   "content": "Ngày Doanh nhân Việt Nam, chúc anh chị cân bằng được sự nghiệp và gia đình.",
+   "translate": ""
+  },
+  {
+   "id": "doanhnhan_19",
+   "content": "Nhân ngày 13/10, kính chúc Quý doanh nhân sức khỏe bền bỉ và tinh thần phơi phới.",
+   "translate": ""
+  },
+  {
+   "id": "doanhnhan_20",
+   "content": "Chúc mừng ngày Doanh nhân Việt Nam! Chúc anh chị tiếp tục tạo giá trị cho cộng đồng.",
+   "translate": ""
+  },
+  {
+   "id": "doanhnhan_21",
+   "content": "Ngày 13/10, chúc anh chị gặp nhiều quý nhân và nhiều đối tác tin cậy.",
+   "translate": ""
+  },
+  {
+   "id": "doanhnhan_22",
+   "content": "Nhân ngày Doanh nhân Việt Nam, kính chúc Quý doanh nhân vạn sự cát tường.",
+   "translate": ""
+  },
+  {
+   "id": "doanhnhan_23",
+   "content": "Chúc mừng 13/10! Chúc anh chị doanh nghiệp ngày càng lớn mạnh và bền vững.",
+   "translate": ""
+  },
+  {
+   "id": "doanhnhan_24",
+   "content": "Ngày Doanh nhân Việt Nam, kính chúc Quý doanh nhân mọi mục tiêu đều cán đích.",
+   "translate": ""
+  },
+  {
+   "id": "doanhnhan_25",
+   "content": "Nhân ngày 13/10, chúc anh chị luôn giữ được tầm nhìn xa và sự điềm tĩnh.",
+   "translate": ""
+  },
+  {
+   "id": "doanhnhan_26",
+   "content": "Chúc mừng ngày Doanh nhân Việt Nam! Chúc anh chị thành công nối tiếp thành công.",
+   "translate": ""
+  },
+  {
+   "id": "doanhnhan_27",
+   "content": "Ngày 13/10, kính chúc Quý doanh nhân tài lộc viên mãn và gia đạo bình an.",
+   "translate": ""
+  },
+  {
+   "id": "doanhnhan_28",
+   "content": "Nhân ngày Doanh nhân Việt Nam, chúc anh chị vượt qua mọi khó khăn một cách bản lĩnh.",
+   "translate": ""
+  },
+  {
+   "id": "doanhnhan_29",
+   "content": "Chúc mừng 13/10! Kính chúc Quý doanh nhân một năm bội thu và nhiều thắng lợi.",
+   "translate": ""
+  },
+  {
+   "id": "doanhnhan_30",
+   "content": "Ngày Doanh nhân Việt Nam, chúc anh chị giữ mãi khát vọng và tinh thần dấn thân.",
+   "translate": ""
+  },
+  {
+   "id": "doanhnhan_31",
+   "content": "Nhân ngày 13/10, kính chúc Quý doanh nhân luôn mạnh khỏe và minh mẫn.",
+   "translate": ""
+  },
+  {
+   "id": "doanhnhan_32",
+   "content": "Chúc mừng ngày Doanh nhân Việt Nam! Chúc anh chị thị trường mở rộng và lợi nhuận tăng đều.",
+   "translate": ""
+  },
+  {
+   "id": "doanhnhan_33",
+   "content": "Ngày 13/10, chúc anh chị tiếp tục là niềm tự hào của doanh nghiệp Việt.",
+   "translate": ""
+  },
+  {
+   "id": "doanhnhan_34",
+   "content": "Nhân ngày Doanh nhân Việt Nam, kính chúc Quý doanh nhân hạnh phúc và viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "doanhnhan_35",
+   "content": "Chúc mừng 13/10! Chúc anh chị mọi khó khăn đều hóa cơ hội.",
+   "translate": ""
+  },
+  {
+   "id": "doanhnhan_36",
+   "content": "Ngày Doanh nhân Việt Nam, kính chúc Quý doanh nhân sự nghiệp vững vàng như bàn thạch.",
+   "translate": ""
+  },
+  {
+   "id": "doanhnhan_37",
+   "content": "Nhân ngày 13/10, chúc anh chị một năm thật nhiều cột mốc đáng nhớ.",
+   "translate": ""
+  },
+  {
+   "id": "doanhnhan_38",
+   "content": "Chúc mừng ngày Doanh nhân Việt Nam! Chúc anh chị kinh doanh hanh thông và phát đạt.",
+   "translate": ""
+  },
+  {
+   "id": "doanhnhan_39",
+   "content": "Ngày 13/10, kính chúc Quý doanh nhân gặt hái bội thu và luôn hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "doanhnhan_40",
+   "content": "Nhân ngày Doanh nhân Việt Nam, chúc anh chị giữ mãi bản lĩnh và lòng tử tế trong kinh doanh.",
+   "translate": ""
+  },
+  {
+   "id": "doanhnhan_41",
+   "content": "Chúc mừng 13/10! Kính chúc Quý doanh nhân an khang, thịnh vượng, vạn sự như ý.",
+   "translate": ""
+  },
+  {
+   "id": "doanhnhan_42",
+   "content": "Ngày Doanh nhân Việt Nam, chúc anh chị tiếp tục vươn xa và chinh phục những đỉnh cao mới.",
+   "translate": ""
+  }
+ ]
+}

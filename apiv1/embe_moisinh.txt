@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "embe_moisinh_1",
+   "content": "Chúc mừng hai bạn đã đón thiên thần nhỏ! Chúc bé hay ăn chóng lớn, khỏe mạnh và bình an.",
+   "translate": ""
+  },
+  {
+   "id": "embe_moisinh_2",
+   "content": "Chúc mừng gia đình nhỏ! Chúc bé ngoan, mẹ khỏe và cả nhà thật nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "embe_moisinh_3",
+   "content": "Chúc mừng em bé chào đời! Chúc bé lớn lên thật khỏe mạnh và thật hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "embe_moisinh_4",
+   "content": "Chúc mừng hai bạn làm bố mẹ! Chúc bé ăn ngon ngủ ngon và mau lớn.",
+   "translate": ""
+  },
+  {
+   "id": "embe_moisinh_5",
+   "content": "Chào mừng thiên thần nhỏ đến với thế giới này! Chúc bé bình an và khỏe mạnh.",
+   "translate": ""
+  },
+  {
+   "id": "embe_moisinh_6",
+   "content": "Chúc mừng hai bạn! Chúc bé hay ăn chóng lớn, ít ốm vặt và luôn tươi cười.",
+   "translate": ""
+  },
+  {
+   "id": "embe_moisinh_7",
+   "content": "Chúc mừng em bé mới sinh! Chúc mẹ tròn con vuông, cả nhà hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "embe_moisinh_8",
+   "content": "Chúc mừng gia đình! Chúc bé lớn lên trong tình yêu thương và luôn được che chở.",
+   "translate": ""
+  },
+  {
+   "id": "embe_moisinh_9",
+   "content": "Chào mừng bé yêu! Chúc bé ngoan ngoãn, khỏe mạnh và mang nhiều niềm vui cho cả nhà.",
+   "translate": ""
+  },
+  {
+   "id": "embe_moisinh_10",
+   "content": "Chúc mừng hai bạn đã lên chức bố mẹ! Chúc bé mau lớn và cả nhà thật vui.",
+   "translate": ""
+  },
+  {
+   "id": "embe_moisinh_11",
+   "content": "Chúc mừng em bé chào đời! Chúc bé bụ bẫm, đáng yêu và luôn khỏe mạnh.",
+   "translate": ""
+  },
+  {
+   "id": "embe_moisinh_12",
+   "content": "Chúc mừng gia đình nhỏ! Chúc bé ngủ ngoan, bú khỏe và lớn nhanh từng ngày.",
+   "translate": ""
+  },
+  {
+   "id": "embe_moisinh_13",
+   "content": "Chào mừng thiên thần nhỏ! Chúc bé có một tuổi thơ thật đẹp và thật hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "embe_moisinh_14",
+   "content": "Chúc mừng hai bạn! Chúc mẹ mau phục hồi sức khỏe và bé luôn bình an.",
+   "translate": ""
+  },
+  {
+   "id": "embe_moisinh_15",
+   "content": "Chúc mừng em bé mới sinh! Chúc bé lớn lên thông minh, khỏe mạnh và ngoan ngoãn.",
+   "translate": ""
+  },
+  {
+   "id": "embe_moisinh_16",
+   "content": "Chúc mừng gia đình! Từ nay nhà mình đông vui hơn rồi, chúc bé thật nhiều sức khỏe.",
+   "translate": ""
+  },
+  {
+   "id": "embe_moisinh_17",
+   "content": "Chào mừng bé yêu đến với gia đình! Chúc bé luôn được yêu thương và che chở.",
+   "translate": ""
+  },
+  {
+   "id": "embe_moisinh_18",
+   "content": "Chúc mừng hai bạn đã có thêm thành viên mới! Chúc bé hay ăn chóng lớn.",
+   "translate": ""
+  },
+  {
+   "id": "embe_moisinh_19",
+   "content": "Chúc mừng em bé chào đời! Chúc bé ngủ ngon, ít quấy và luôn khỏe mạnh.",
+   "translate": ""
+  },
+  {
+   "id": "embe_moisinh_20",
+   "content": "Chúc mừng gia đình nhỏ! Chúc bé lớn lên thật ngoan và thật hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "embe_moisinh_21",
+   "content": "Chào mừng thiên thần nhỏ! Chúc bé mang thật nhiều may mắn đến cho cả nhà.",
+   "translate": ""
+  },
+  {
+   "id": "embe_moisinh_22",
+   "content": "Chúc mừng hai bạn! Chúc bé khỏe mạnh, đáng yêu và lớn nhanh như thổi.",
+   "translate": ""
+  },
+  {
+   "id": "embe_moisinh_23",
+   "content": "Chúc mừng em bé mới sinh! Chúc mẹ nhiều sữa và bé bú khỏe.",
+   "translate": ""
+  },
+  {
+   "id": "embe_moisinh_24",
+   "content": "Chúc mừng gia đình! Chúc bé bình an, khỏe mạnh và luôn tươi cười.",
+   "translate": ""
+  },
+  {
+   "id": "embe_moisinh_25",
+   "content": "Chào mừng bé yêu! Chúc bé có một cuộc đời thật đẹp phía trước.",
+   "translate": ""
+  },
+  {
+   "id": "embe_moisinh_26",
+   "content": "Chúc mừng hai bạn làm bố mẹ! Chúc cả nhà thật nhiều sức khỏe và niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "embe_moisinh_27",
+   "content": "Chúc mừng em bé chào đời! Chúc bé lớn lên khỏe mạnh và được yêu thương thật nhiều.",
+   "translate": ""
+  },
+  {
+   "id": "embe_moisinh_28",
+   "content": "Chúc mừng gia đình nhỏ! Chúc bé ngoan ngoãn và mang nhiều tiếng cười cho cả nhà.",
+   "translate": ""
+  },
+  {
+   "id": "embe_moisinh_29",
+   "content": "Chào mừng thiên thần nhỏ! Chúc bé luôn bình an và luôn hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "embe_moisinh_30",
+   "content": "Chúc mừng hai bạn! Chúc bé hay ăn chóng lớn, da dẻ hồng hào, ai cũng mê.",
+   "translate": ""
+  },
+  {
+   "id": "embe_moisinh_31",
+   "content": "Chúc mừng em bé mới sinh! Chúc mẹ khỏe, con ngoan và bố thật nhiều năng lượng.",
+   "translate": ""
+  },
+  {
+   "id": "embe_moisinh_32",
+   "content": "Chúc mừng gia đình! Chúc bé lớn lên thật khỏe và thật tử tế.",
+   "translate": ""
+  },
+  {
+   "id": "embe_moisinh_33",
+   "content": "Chào mừng bé yêu đến với thế giới! Chúc bé có thật nhiều điều tốt đẹp phía trước.",
+   "translate": ""
+  },
+  {
+   "id": "embe_moisinh_34",
+   "content": "Chúc mừng hai bạn đã làm bố mẹ! Chúc bé mau lớn và luôn khỏe mạnh.",
+   "translate": ""
+  },
+  {
+   "id": "embe_moisinh_35",
+   "content": "Chúc mừng em bé chào đời! Chúc cả nhà thật nhiều niềm vui và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "embe_moisinh_36",
+   "content": "Chúc mừng gia đình nhỏ! Chúc bé ít ốm vặt và luôn tràn đầy năng lượng.",
+   "translate": ""
+  },
+  {
+   "id": "embe_moisinh_37",
+   "content": "Chào mừng thiên thần nhỏ! Chúc bé ngủ ngoan để bố mẹ cũng được nghỉ ngơi.",
+   "translate": ""
+  },
+  {
+   "id": "embe_moisinh_38",
+   "content": "Chúc mừng hai bạn! Chúc bé khỏe mạnh, thông minh và luôn được yêu thương.",
+   "translate": ""
+  },
+  {
+   "id": "embe_moisinh_39",
+   "content": "Chúc mừng em bé mới sinh! Chúc bé lớn lên trong một gia đình thật ấm áp.",
+   "translate": ""
+  },
+  {
+   "id": "embe_moisinh_40",
+   "content": "Chúc mừng gia đình! Chúc bé bình an, hạnh phúc và mang may mắn đến cho cả nhà.",
+   "translate": ""
+  },
+  {
+   "id": "embe_moisinh_41",
+   "content": "Chào mừng bé yêu! Chúc bé có những năm tháng đầu đời thật khỏe mạnh.",
+   "translate": ""
+  },
+  {
+   "id": "embe_moisinh_42",
+   "content": "Chúc mừng hai bạn! Chúc mẹ tròn con vuông và cả nhà luôn vui vẻ.",
+   "translate": ""
+  }
+ ]
+}

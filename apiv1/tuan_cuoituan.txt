@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "tuan_cuoituan_1",
+   "content": "Cuối tuần vui vẻ! Chúc bạn có những ngày nghỉ thật thoải mái và trọn vẹn.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_cuoituan_2",
+   "content": "Chúc bạn một cuối tuần thảnh thơi, không deadline và không lo toan.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_cuoituan_3",
+   "content": "Cuối tuần rồi! Chúc bạn nghỉ ngơi thật đã sau một tuần vất vả.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_cuoituan_4",
+   "content": "Chúc bạn cuối tuần vui vẻ bên gia đình và những người mình yêu quý.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_cuoituan_5",
+   "content": "Cuối tuần an lành! Chúc bạn có thời gian làm điều mình thích.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_cuoituan_6",
+   "content": "Chúc bạn một cuối tuần thật nhiều niềm vui và thật ít việc phải làm.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_cuoituan_7",
+   "content": "Cuối tuần vui vẻ! Chúc bạn ngủ nướng thỏa thích mà không ai gọi dậy.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_cuoituan_8",
+   "content": "Chúc bạn hai ngày cuối tuần thật đáng nhớ và thật đáng nghỉ.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_cuoituan_9",
+   "content": "Cuối tuần rồi! Chúc bạn gác lại mọi công việc và tận hưởng thời gian cho mình.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_cuoituan_10",
+   "content": "Chúc bạn một cuối tuần bình yên, nhẹ nhàng và thật nhiều tiếng cười.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_cuoituan_11",
+   "content": "Cuối tuần an lành! Chúc bạn nạp đầy năng lượng cho tuần mới.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_cuoituan_12",
+   "content": "Chúc bạn cuối tuần vui vẻ, ăn ngon, ngủ đủ và chơi thật đã.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_cuoituan_13",
+   "content": "Cuối tuần vui vẻ! Chúc bạn có một chuyến đi chơi thú vị hoặc một ngày nằm nhà thật sướng.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_cuoituan_14",
+   "content": "Chúc bạn một cuối tuần không phải nghĩ tới email và tin nhắn công việc.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_cuoituan_15",
+   "content": "Cuối tuần rồi! Chúc bạn làm được những việc mà cả tuần không có thời gian làm.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_cuoituan_16",
+   "content": "Chúc bạn cuối tuần thật thoải mái và thật nhiều niềm vui nhỏ.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_cuoituan_17",
+   "content": "Cuối tuần an lành! Chúc bạn dành thời gian cho những người quan trọng.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_cuoituan_18",
+   "content": "Chúc bạn một cuối tuần đầy nắng, đầy cà phê và đầy sự thảnh thơi.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_cuoituan_19",
+   "content": "Cuối tuần vui vẻ! Chúc bạn quên hết mệt mỏi và chỉ nhớ những điều vui.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_cuoituan_20",
+   "content": "Chúc bạn hai ngày nghỉ thật trọn vẹn và thật đáng giá.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_cuoituan_21",
+   "content": "Cuối tuần rồi! Chúc bạn nghỉ ngơi đủ để tuần sau lại chiến tiếp.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_cuoituan_22",
+   "content": "Chúc bạn một cuối tuần bình an, vui vẻ và thật nhiều kỷ niệm đẹp.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_cuoituan_23",
+   "content": "Cuối tuần an lành! Chúc bạn không phải đặt báo thức sáng mai.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_cuoituan_24",
+   "content": "Chúc bạn cuối tuần thật vui, và nhớ ra ngoài hít thở không khí nhé.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_cuoituan_25",
+   "content": "Cuối tuần vui vẻ! Chúc bạn có một bữa ăn ngon và một giấc ngủ dài.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_cuoituan_26",
+   "content": "Chúc bạn một cuối tuần thảnh thơi, không vội vã và không áp lực.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_cuoituan_27",
+   "content": "Cuối tuần rồi! Chúc bạn tận hưởng từng giờ một cách trọn vẹn.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_cuoituan_28",
+   "content": "Chúc bạn cuối tuần thật nhiều tiếng cười bên gia đình và bạn bè.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_cuoituan_29",
+   "content": "Cuối tuần an lành! Chúc bạn tìm lại được sự cân bằng sau một tuần dài.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_cuoituan_30",
+   "content": "Chúc bạn một cuối tuần đáng nhớ, dù là đi chơi hay ở nhà.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_cuoituan_31",
+   "content": "Cuối tuần vui vẻ! Chúc bạn làm điều mình thích mà không cần lý do.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_cuoituan_32",
+   "content": "Chúc bạn hai ngày cuối tuần thật nhẹ nhàng và thật hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_cuoituan_33",
+   "content": "Cuối tuần rồi! Chúc bạn sạc đầy pin cho một tuần mới thật tốt.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_cuoituan_34",
+   "content": "Chúc bạn cuối tuần an yên, thong dong và tràn đầy niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_cuoituan_35",
+   "content": "Cuối tuần vui vẻ! Chúc bạn không phải trả lời bất kỳ cuộc gọi công việc nào.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_cuoituan_36",
+   "content": "Chúc bạn một cuối tuần thật chất, thật đã và thật đáng nghỉ.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_cuoituan_37",
+   "content": "Cuối tuần an lành! Chúc bạn dành được chút thời gian cho chính mình.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_cuoituan_38",
+   "content": "Chúc bạn cuối tuần vui vẻ và tuần mới thật nhiều may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_cuoituan_39",
+   "content": "Cuối tuần rồi! Chúc bạn tạm quên mọi lo toan và chỉ tận hưởng thôi.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_cuoituan_40",
+   "content": "Chúc bạn một cuối tuần tuyệt vời, đúng như bạn xứng đáng được hưởng.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_cuoituan_41",
+   "content": "Cuối tuần vui vẻ! Chúc bạn nghỉ ngơi thật tốt và quay lại thật khỏe.",
+   "translate": ""
+  },
+  {
+   "id": "tuan_cuoituan_42",
+   "content": "Chúc bạn hai ngày cuối tuần bình an, ấm áp và thật nhiều niềm vui.",
+   "translate": ""
+  }
+ ]
+}

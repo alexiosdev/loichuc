@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "laodong_1",
+   "content": "Chúc mừng ngày Quốc tế Lao động 1/5! Chúc bạn một kỳ nghỉ lễ thật vui và trọn vẹn.",
+   "translate": ""
+  },
+  {
+   "id": "laodong_2",
+   "content": "Nhân dịp 30/4 - 1/5, chúc bạn và gia đình có một kỳ nghỉ thật thoải mái.",
+   "translate": ""
+  },
+  {
+   "id": "laodong_3",
+   "content": "Chúc mừng ngày Giải phóng miền Nam 30/4! Chúc bạn một ngày lễ ý nghĩa và vui vẻ.",
+   "translate": ""
+  },
+  {
+   "id": "laodong_4",
+   "content": "Nhân ngày Quốc tế Lao động, chúc bạn luôn khỏe mạnh và yêu công việc mình làm.",
+   "translate": ""
+  },
+  {
+   "id": "laodong_5",
+   "content": "Chúc mừng 30/4 - 1/5! Chúc bạn có những ngày nghỉ thật đáng nhớ bên người thân.",
+   "translate": ""
+  },
+  {
+   "id": "laodong_6",
+   "content": "Nhân dịp lễ 30/4, chúc bạn một kỳ nghỉ bình an và thật nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "laodong_7",
+   "content": "Chúc mừng ngày 1/5! Chúc bạn luôn được ghi nhận xứng đáng với công sức mình bỏ ra.",
+   "translate": ""
+  },
+  {
+   "id": "laodong_8",
+   "content": "Nhân ngày Quốc tế Lao động, chúc bạn công việc thuận lợi và thu nhập ngày càng tốt.",
+   "translate": ""
+  },
+  {
+   "id": "laodong_9",
+   "content": "Chúc mừng 30/4 - 1/5! Chúc bạn nghỉ ngơi thật đã sau những ngày làm việc vất vả.",
+   "translate": ""
+  },
+  {
+   "id": "laodong_10",
+   "content": "Nhân dịp lễ, chúc bạn và gia đình một kỳ nghỉ thật vui và an toàn.",
+   "translate": ""
+  },
+  {
+   "id": "laodong_11",
+   "content": "Chúc mừng ngày Giải phóng miền Nam và Quốc tế Lao động! Chúc bạn thật nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "laodong_12",
+   "content": "Nhân ngày 1/5, chúc bạn luôn tự hào về công việc mình đang làm.",
+   "translate": ""
+  },
+  {
+   "id": "laodong_13",
+   "content": "Chúc mừng 30/4! Chúc bạn một ngày lễ ý nghĩa và một kỳ nghỉ trọn vẹn.",
+   "translate": ""
+  },
+  {
+   "id": "laodong_14",
+   "content": "Nhân dịp 30/4 - 1/5, chúc bạn có thật nhiều kỷ niệm đẹp trong kỳ nghỉ này.",
+   "translate": ""
+  },
+  {
+   "id": "laodong_15",
+   "content": "Chúc mừng ngày Quốc tế Lao động! Chúc bạn sức khỏe dồi dào và tinh thần phơi phới.",
+   "translate": ""
+  },
+  {
+   "id": "laodong_16",
+   "content": "Nhân ngày lễ 1/5, chúc bạn luôn giữ được niềm vui trong công việc.",
+   "translate": ""
+  },
+  {
+   "id": "laodong_17",
+   "content": "Chúc mừng 30/4 - 1/5! Chúc bạn một chuyến đi chơi thật thú vị và an toàn.",
+   "translate": ""
+  },
+  {
+   "id": "laodong_18",
+   "content": "Nhân dịp lễ, chúc bạn gác lại mọi lo toan và tận hưởng kỳ nghỉ.",
+   "translate": ""
+  },
+  {
+   "id": "laodong_19",
+   "content": "Chúc mừng ngày 30/4! Chúc bạn và gia đình một ngày lễ thật ấm áp.",
+   "translate": ""
+  },
+  {
+   "id": "laodong_20",
+   "content": "Nhân ngày Quốc tế Lao động, chúc bạn mọi nỗ lực đều được đền đáp xứng đáng.",
+   "translate": ""
+  },
+  {
+   "id": "laodong_21",
+   "content": "Chúc mừng 1/5! Chúc bạn một kỳ nghỉ thoải mái và một tuần làm việc mới đầy năng lượng.",
+   "translate": ""
+  },
+  {
+   "id": "laodong_22",
+   "content": "Nhân dịp 30/4 - 1/5, chúc bạn thật nhiều sức khỏe và thật nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "laodong_23",
+   "content": "Chúc mừng ngày lễ! Chúc bạn có những ngày nghỉ thật đáng giá.",
+   "translate": ""
+  },
+  {
+   "id": "laodong_24",
+   "content": "Nhân ngày 1/5, chúc bạn công việc hanh thông và cuộc sống đủ đầy.",
+   "translate": ""
+  },
+  {
+   "id": "laodong_25",
+   "content": "Chúc mừng 30/4 - 1/5! Chúc bạn một kỳ nghỉ bình an bên những người mình yêu quý.",
+   "translate": ""
+  },
+  {
+   "id": "laodong_26",
+   "content": "Nhân dịp lễ Quốc tế Lao động, chúc bạn luôn khỏe mạnh và luôn vui vẻ.",
+   "translate": ""
+  },
+  {
+   "id": "laodong_27",
+   "content": "Chúc mừng ngày Giải phóng miền Nam! Chúc bạn một ngày lễ thật ý nghĩa.",
+   "translate": ""
+  },
+  {
+   "id": "laodong_28",
+   "content": "Nhân ngày 1/5, chúc bạn tìm được niềm vui và ý nghĩa trong công việc mỗi ngày.",
+   "translate": ""
+  },
+  {
+   "id": "laodong_29",
+   "content": "Chúc mừng 30/4 - 1/5! Chúc bạn nghỉ ngơi đủ đầy và quay lại thật khỏe.",
+   "translate": ""
+  },
+  {
+   "id": "laodong_30",
+   "content": "Nhân dịp lễ, chúc bạn và gia đình một kỳ nghỉ vui vẻ và đáng nhớ.",
+   "translate": ""
+  },
+  {
+   "id": "laodong_31",
+   "content": "Chúc mừng ngày Quốc tế Lao động! Chúc bạn luôn tự hào về những gì mình làm ra.",
+   "translate": ""
+  },
+  {
+   "id": "laodong_32",
+   "content": "Nhân ngày 30/4, chúc bạn một ngày lễ bình an và tràn đầy niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "laodong_33",
+   "content": "Chúc mừng 1/5! Chúc bạn một kỳ nghỉ thật chất và thật thoải mái.",
+   "translate": ""
+  },
+  {
+   "id": "laodong_34",
+   "content": "Nhân dịp 30/4 - 1/5, chúc bạn có thời gian dành cho những điều mình yêu thích.",
+   "translate": ""
+  },
+  {
+   "id": "laodong_35",
+   "content": "Chúc mừng ngày lễ! Chúc bạn sức khỏe, hạnh phúc và thật nhiều may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "laodong_36",
+   "content": "Nhân ngày Quốc tế Lao động, chúc bạn công việc ổn định và cuộc sống viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "laodong_37",
+   "content": "Chúc mừng 30/4 - 1/5! Chúc bạn và gia đình một kỳ nghỉ thật đáng nhớ.",
+   "translate": ""
+  },
+  {
+   "id": "laodong_38",
+   "content": "Nhân dịp lễ 1/5, chúc bạn luôn giữ được đam mê với nghề mình đã chọn.",
+   "translate": ""
+  },
+  {
+   "id": "laodong_39",
+   "content": "Chúc mừng ngày Giải phóng miền Nam và Quốc tế Lao động! Chúc bạn mọi điều tốt lành.",
+   "translate": ""
+  },
+  {
+   "id": "laodong_40",
+   "content": "Nhân ngày 30/4, chúc bạn một kỳ nghỉ an toàn, vui vẻ và trọn vẹn.",
+   "translate": ""
+  },
+  {
+   "id": "laodong_41",
+   "content": "Chúc mừng 1/5! Chúc bạn thật nhiều sức khỏe để tiếp tục cố gắng.",
+   "translate": ""
+  },
+  {
+   "id": "laodong_42",
+   "content": "Nhân dịp 30/4 - 1/5, chúc bạn tận hưởng kỳ nghỉ và quay lại với thật nhiều năng lượng.",
+   "translate": ""
+  }
+ ]
+}

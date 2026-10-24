@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "sinhnhat_ongba_1",
+   "content": "Chúc mừng sinh nhật ông/bà! Cháu kính chúc ông bà sống lâu trăm tuổi, luôn mạnh khỏe và vui vầy bên con cháu.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_ongba_2",
+   "content": "Sinh nhật ông, cháu kính chúc ông sức khỏe dồi dào, minh mẫn và luôn là cây cao bóng cả của cả nhà.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_ongba_3",
+   "content": "Chúc mừng sinh nhật bà! Cháu chúc bà tuổi mới an khang, ăn ngon ngủ ngon, lòng luôn thanh thản.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_ongba_4",
+   "content": "Kính chúc ông bà một tuổi mới bình an, phúc thọ song toàn, con cháu hiếu thảo đầy đàn.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_ongba_5",
+   "content": "Chúc mừng sinh nhật ông! Cháu chúc ông mãi khỏe để còn kể cháu nghe những câu chuyện ngày xưa.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_ongba_6",
+   "content": "Sinh nhật bà vui vẻ! Cháu kính chúc bà sức khỏe như ý, tinh thần vui tươi, sống thật lâu với con cháu.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_ongba_7",
+   "content": "Chúc mừng sinh nhật ông/bà! Cháu chúc ông bà tuổi mới ít bệnh tật, nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_ongba_8",
+   "content": "Kính chúc ông một tuổi mới an khang, trường thọ và luôn tự hào về con cháu.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_ongba_9",
+   "content": "Chúc mừng sinh nhật bà! Cháu chúc bà luôn khỏe mạnh, luôn vui và luôn được cả nhà chăm sóc chu đáo.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_ongba_10",
+   "content": "Sinh nhật ông, cháu kính chúc ông phúc như Đông Hải, thọ tỷ Nam Sơn.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_ongba_11",
+   "content": "Chúc mừng sinh nhật ông bà! Cháu chúc ông bà tuổi mới thật nhiều sức khỏe và thật nhiều tiếng cười.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_ongba_12",
+   "content": "Kính chúc bà một tuổi mới an lành, thảnh thơi và luôn được quây quần bên con cháu.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_ongba_13",
+   "content": "Chúc mừng sinh nhật ông! Cháu chúc ông mãi minh mẫn, mãi khỏe mạnh và mãi là chỗ dựa của cả nhà.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_ongba_14",
+   "content": "Sinh nhật bà vui vẻ! Cháu chúc bà sống lâu, sống khỏe, sống vui và luôn hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_ongba_15",
+   "content": "Chúc mừng sinh nhật ông/bà! Cháu kính chúc ông bà tuổi mới bình an, phúc lộc viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_ongba_16",
+   "content": "Kính chúc ông tuổi mới dồi dào sức khỏe, tâm hồn thư thái, ngày nào cũng vui.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_ongba_17",
+   "content": "Chúc mừng sinh nhật bà! Cháu chúc bà mãi là bà tiên hiền hậu nhất trong lòng cháu.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_ongba_18",
+   "content": "Sinh nhật ông, cháu chúc ông khỏe mạnh để năm nào cháu cũng được mừng sinh nhật ông.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_ongba_19",
+   "content": "Chúc mừng sinh nhật ông bà! Cháu chúc ông bà tuổi mới an vui, không lo không nghĩ, chỉ có hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_ongba_20",
+   "content": "Kính chúc bà một tuổi mới sức khỏe bền bỉ, ăn được ngủ được, lòng luôn nhẹ nhõm.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_ongba_21",
+   "content": "Chúc mừng sinh nhật ông! Cháu kính chúc ông trường thọ, an khang và luôn vui vẻ.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_ongba_22",
+   "content": "Sinh nhật bà vui vẻ! Cháu chúc bà tuổi mới khỏe mạnh để còn dạy cháu nấu những món bà nấu.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_ongba_23",
+   "content": "Chúc mừng sinh nhật ông/bà! Cháu chúc ông bà luôn được con cháu yêu thương và phụng dưỡng chu đáo.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_ongba_24",
+   "content": "Kính chúc ông tuổi mới mạnh khỏe, an nhiên tự tại, mọi sự đều hanh thông.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_ongba_25",
+   "content": "Chúc mừng sinh nhật bà! Cháu chúc bà tuổi mới nhiều sức khỏe, ít đau nhức, nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_ongba_26",
+   "content": "Sinh nhật ông, cháu kính chúc ông sống lâu trăm tuổi để chứng kiến các cháu trưởng thành.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_ongba_27",
+   "content": "Chúc mừng sinh nhật ông bà! Cháu chúc ông bà tuổi mới phúc đức dày, con cháu thảo hiền.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_ongba_28",
+   "content": "Kính chúc bà một tuổi mới tươi vui, khỏe mạnh và luôn mỉm cười như bây giờ.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_ongba_29",
+   "content": "Chúc mừng sinh nhật ông! Cháu chúc ông tuổi mới nhiều sức khỏe, nhiều niềm vui bên bạn bè và con cháu.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_ongba_30",
+   "content": "Sinh nhật bà vui vẻ! Cháu kính chúc bà an khang, trường thọ, vạn sự bình an.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_ongba_31",
+   "content": "Chúc mừng sinh nhật ông/bà! Cháu chúc ông bà tuổi mới thật thong dong và thật hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_ongba_32",
+   "content": "Kính chúc ông tuổi mới sức khỏe như núi, tinh thần như xuân, phúc lộc đầy nhà.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_ongba_33",
+   "content": "Chúc mừng sinh nhật bà! Cháu chúc bà luôn khỏe, luôn vui và luôn được yêu thương.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_ongba_34",
+   "content": "Sinh nhật ông, cháu chúc ông tuổi mới an lành, mọi điều tốt đẹp sẽ đến với ông.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_ongba_35",
+   "content": "Chúc mừng sinh nhật ông bà! Cháu chúc ông bà có thêm thật nhiều năm khỏe mạnh bên con cháu.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_ongba_36",
+   "content": "Kính chúc bà một tuổi mới đủ đầy, ấm áp và ngập tràn tình yêu thương của cả nhà.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_ongba_37",
+   "content": "Chúc mừng sinh nhật ông! Cháu chúc ông tuổi mới bình an, vui khỏe, sống lâu cùng con cháu.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_ongba_38",
+   "content": "Sinh nhật bà vui vẻ! Cháu chúc bà tuổi mới nhẹ nhàng, thảnh thơi và không phải lo lắng điều gì.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_ongba_39",
+   "content": "Chúc mừng sinh nhật ông/bà! Cháu kính chúc ông bà phúc thọ khang ninh, vạn sự như ý.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_ongba_40",
+   "content": "Kính chúc ông tuổi mới mạnh khỏe, vui vẻ và luôn được cả nhà quây quần bên cạnh.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_ongba_41",
+   "content": "Chúc mừng sinh nhật bà! Cháu chúc bà tuổi mới sức khỏe dẻo dai, tinh thần minh mẫn, lòng luôn an yên.",
+   "translate": ""
+  },
+  {
+   "id": "sinhnhat_ongba_42",
+   "content": "Sinh nhật ông bà vui vẻ! Cháu chúc ông bà sống lâu, sống khỏe và luôn hạnh phúc bên nhau.",
+   "translate": ""
+  }
+ ]
+}

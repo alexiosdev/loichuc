@@ -1,0 +1,204 @@
+{
+ "result": [
+  {
+   "id": "totinh_1",
+   "content": "Anh thích em, thật lòng. Em có muốn cho anh một cơ hội không?",
+   "translate": ""
+  },
+  {
+   "id": "totinh_2",
+   "content": "Có một điều anh giấu đã lâu: mỗi ngày anh đều nghĩ về em.",
+   "translate": ""
+  },
+  {
+   "id": "totinh_3",
+   "content": "Anh không giỏi nói lời hay, chỉ biết là anh thương em.",
+   "translate": ""
+  },
+  {
+   "id": "totinh_4",
+   "content": "Nếu em hỏi anh thích ai, câu trả lời luôn là em.",
+   "translate": ""
+  },
+  {
+   "id": "totinh_5",
+   "content": "Em là người đầu tiên anh nghĩ đến khi thức dậy mỗi sáng.",
+   "translate": ""
+  },
+  {
+   "id": "totinh_6",
+   "content": "Anh không hứa cho em cả thế giới, chỉ hứa sẽ ở bên em mỗi ngày.",
+   "translate": ""
+  },
+  {
+   "id": "totinh_7",
+   "content": "Mỗi lần gặp em, anh đều quên mất mình định nói gì. Hôm nay thì anh nhớ rồi.",
+   "translate": ""
+  },
+  {
+   "id": "totinh_8",
+   "content": "Anh muốn làm nhiều hơn là một người bạn của em.",
+   "translate": ""
+  },
+  {
+   "id": "totinh_9",
+   "content": "Anh thích em từ lâu rồi, chỉ là chưa đủ can đảm để nói.",
+   "translate": ""
+  },
+  {
+   "id": "totinh_10",
+   "content": "Anh không giỏi lãng mạn, nhưng anh giỏi kiên nhẫn. Anh sẽ chờ em.",
+   "translate": ""
+  },
+  {
+   "id": "totinh_11",
+   "content": "Em không cần trả lời ngay. Anh chờ được, miễn là cuối cùng em nói có.",
+   "translate": ""
+  },
+  {
+   "id": "totinh_12",
+   "content": "Anh thích em theo cách rất bình thường: muốn gặp em, muốn nghe em kể chuyện.",
+   "translate": ""
+  },
+  {
+   "id": "totinh_13",
+   "content": "Em có biết người anh thích là ai không? Gợi ý: người đang đọc tin nhắn này.",
+   "translate": ""
+  },
+  {
+   "id": "totinh_14",
+   "content": "Anh gom hết can đảm để nói với em ba chữ: anh thích em.",
+   "translate": ""
+  },
+  {
+   "id": "totinh_15",
+   "content": "Nếu em cũng có chút cảm tình với anh, thì mình thử nhé?",
+   "translate": ""
+  },
+  {
+   "id": "totinh_16",
+   "content": "Anh đã mất rất nhiều thời gian mới dám gửi tin nhắn này.",
+   "translate": ""
+  },
+  {
+   "id": "totinh_17",
+   "content": "Em làm anh muốn dậy sớm hơn chỉ để nhắn chúc em buổi sáng.",
+   "translate": ""
+  },
+  {
+   "id": "totinh_18",
+   "content": "Anh thích em, và anh nghĩ em nên biết điều đó.",
+   "translate": ""
+  },
+  {
+   "id": "totinh_19",
+   "content": "Em là lý do anh mỉm cười một mình giữa đám đông.",
+   "translate": ""
+  },
+  {
+   "id": "totinh_20",
+   "content": "Anh thích em từ khi nào, anh cũng không rõ. Chỉ biết là bây giờ vẫn thích.",
+   "translate": ""
+  },
+  {
+   "id": "totinh_21",
+   "content": "Em có muốn cùng anh đi tiếp chặng đường phía trước không?",
+   "translate": ""
+  },
+  {
+   "id": "totinh_22",
+   "content": "Anh chỉ muốn nói rằng có em là điều may mắn với anh.",
+   "translate": ""
+  },
+  {
+   "id": "totinh_23",
+   "content": "Nếu có một điều ước, anh sẽ ước em cũng thích anh.",
+   "translate": ""
+  },
+  {
+   "id": "totinh_24",
+   "content": "Anh nói thật lòng: anh thương em, rất nhiều.",
+   "translate": ""
+  },
+  {
+   "id": "totinh_25",
+   "content": "Em suy nghĩ rồi trả lời anh nhé. Anh sẽ đợi.",
+   "translate": ""
+  },
+  {
+   "id": "totinh_26",
+   "content": "Anh không giỏi tán tỉnh, chỉ giỏi thật lòng. Và anh thật lòng thích em.",
+   "translate": ""
+  },
+  {
+   "id": "totinh_27",
+   "content": "Cho anh một cơ hội nhé? Anh sẽ cố gắng hết sức.",
+   "translate": ""
+  },
+  {
+   "id": "totinh_28",
+   "content": "Có lẽ em không biết, nhưng em là lý do anh mong tới ngày mai.",
+   "translate": ""
+  },
+  {
+   "id": "totinh_29",
+   "content": "Anh chẳng dám hứa điều gì lớn lao, chỉ mong được ở cạnh em mỗi ngày.",
+   "translate": ""
+  },
+  {
+   "id": "totinh_30",
+   "content": "Em có biết anh đã viết rồi xóa tin nhắn này bao nhiêu lần không?",
+   "translate": ""
+  },
+  {
+   "id": "totinh_31",
+   "content": "Nếu em hỏi anh sợ gì nhất, anh sợ em không thích anh.",
+   "translate": ""
+  },
+  {
+   "id": "totinh_32",
+   "content": "Anh thích em theo kiểu muốn kể cho em nghe mọi chuyện trong ngày.",
+   "translate": ""
+  },
+  {
+   "id": "totinh_33",
+   "content": "Em là điều tốt đẹp nhất xảy đến với anh gần đây.",
+   "translate": ""
+  },
+  {
+   "id": "totinh_34",
+   "content": "Anh không cần em trả lời ngay, chỉ cần em biết là anh thương em.",
+   "translate": ""
+  },
+  {
+   "id": "totinh_35",
+   "content": "Nếu có ai đó luôn để ý em mỗi lần em cười, thì đó là anh.",
+   "translate": ""
+  },
+  {
+   "id": "totinh_36",
+   "content": "Anh thích em, và anh không muốn giấu điều đó thêm nữa.",
+   "translate": ""
+  },
+  {
+   "id": "totinh_37",
+   "content": "Em có muốn cho chúng mình một cơ hội không?",
+   "translate": ""
+  },
+  {
+   "id": "totinh_38",
+   "content": "Anh đã chuẩn bị tinh thần cho mọi câu trả lời, chỉ mong em thành thật.",
+   "translate": ""
+  },
+  {
+   "id": "totinh_39",
+   "content": "Thích một người là muốn họ vui, còn thương là muốn ở bên họ. Anh đang ở vế sau.",
+   "translate": ""
+  },
+  {
+   "id": "totinh_40",
+   "content": "Anh không giỏi làm người khác ấn tượng, nhưng anh giỏi ở lại.",
+   "translate": ""
+  }
+ ]
+}

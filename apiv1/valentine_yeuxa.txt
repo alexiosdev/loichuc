@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "valentine_yeuxa_1",
+   "content": "Valentine này dù không ở cạnh nhau, nhưng trái tim anh vẫn luôn hướng về em.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_yeuxa_2",
+   "content": "Chúc em một Valentine ấm áp. Khoảng cách chỉ là tạm thời, tình mình thì không.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_yeuxa_3",
+   "content": "Happy Valentine em yêu! Dù xa nhau, anh vẫn thấy em gần hơn bất cứ ai.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_yeuxa_4",
+   "content": "Valentine vui vẻ nhé! Anh mong ngày được ôm em thật chặt sẽ đến thật sớm.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_yeuxa_5",
+   "content": "Chúc em một Valentine thật vui. Nhớ em nhiều lắm, nhiều hơn em nghĩ.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_yeuxa_6",
+   "content": "Happy Valentine! Yêu xa khó thật, nhưng yêu em thì chưa bao giờ là khó.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_yeuxa_7",
+   "content": "Valentine này, anh chúc em luôn khỏe và luôn vui, dù anh không ở bên.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_yeuxa_8",
+   "content": "Chúc em ngày lễ tình yêu thật ngọt ngào. Chúng mình sắp gặp nhau rồi.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_yeuxa_9",
+   "content": "Happy Valentine em! Mỗi ngày xa nhau là một ngày gần hơn tới lúc đoàn tụ.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_yeuxa_10",
+   "content": "Valentine vui vẻ! Cảm ơn em vì đã kiên nhẫn chờ đợi cùng anh.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_yeuxa_11",
+   "content": "Chúc em một Valentine ấm lòng dù trời có lạnh đến đâu.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_yeuxa_12",
+   "content": "Happy Valentine! Anh chúc em một ngày thật đẹp, và anh sẽ bù cho em khi về.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_yeuxa_13",
+   "content": "Valentine này, anh chỉ ước được ngồi cạnh em thay vì nhìn em qua màn hình.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_yeuxa_14",
+   "content": "Chúc em ngày Valentine thật vui. Khoảng cách không làm anh yêu em ít đi.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_yeuxa_15",
+   "content": "Happy Valentine em yêu! Anh tự hào vì chúng mình vẫn giữ được nhau đến hôm nay.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_yeuxa_16",
+   "content": "Valentine vui vẻ nhé! Anh chúc em luôn mạnh mẽ như em vẫn luôn như vậy.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_yeuxa_17",
+   "content": "Chúc em một Valentine đáng nhớ, dù chúng mình cách nhau bao xa.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_yeuxa_18",
+   "content": "Happy Valentine! Cảm ơn em vì những cuộc gọi muộn và những tin nhắn chúc ngủ ngon.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_yeuxa_19",
+   "content": "Valentine này, anh chúc em biết rằng em luôn được yêu, dù anh ở đâu.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_yeuxa_20",
+   "content": "Chúc em ngày lễ tình yêu bình an. Chờ anh về nhé.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_yeuxa_21",
+   "content": "Happy Valentine em! Yêu xa dạy anh rằng tình yêu không cần có mặt mới là có thật.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_yeuxa_22",
+   "content": "Valentine vui vẻ! Anh chúc em thật nhiều sức khỏe, vì anh không ở đó để chăm em.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_yeuxa_23",
+   "content": "Chúc em một Valentine ngọt ngào. Nhớ ăn uống đầy đủ giúp anh nhé.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_yeuxa_24",
+   "content": "Happy Valentine! Anh chúc chúng mình sớm có một Valentine không còn xa cách.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_yeuxa_25",
+   "content": "Valentine này, anh gửi em một cái ôm qua từng dòng tin nhắn.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_yeuxa_26",
+   "content": "Chúc em ngày Valentine thật vui vẻ. Anh luôn ở đây, chỉ là xa một chút thôi.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_yeuxa_27",
+   "content": "Happy Valentine em yêu! Mỗi lần nhìn đồng hồ là anh lại nghĩ bên đó em đang làm gì.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_yeuxa_28",
+   "content": "Valentine vui vẻ nhé! Cảm ơn em vì đã không bỏ cuộc giữa chừng.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_yeuxa_29",
+   "content": "Chúc em một Valentine thật ấm. Anh đang đếm ngược từng ngày để gặp em.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_yeuxa_30",
+   "content": "Happy Valentine! Anh chúc em luôn hạnh phúc, và anh sẽ cố gắng để rút ngắn khoảng cách này.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_yeuxa_31",
+   "content": "Valentine này, dù chỉ là tin nhắn, nhưng tình cảm trong đó là thật nhất.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_yeuxa_32",
+   "content": "Chúc em ngày lễ tình yêu thật đẹp. Yêu em, từ rất xa nhưng rất thật.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_yeuxa_33",
+   "content": "Happy Valentine em! Anh chúc em mọi điều tốt đẹp, và chúc chúng mình sớm đoàn tụ.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_yeuxa_34",
+   "content": "Valentine vui vẻ! Anh biết ơn công nghệ vì mỗi ngày vẫn được nhìn thấy em.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_yeuxa_35",
+   "content": "Chúc em một Valentine ý nghĩa. Khoảng cách chỉ làm anh trân trọng em hơn.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_yeuxa_36",
+   "content": "Happy Valentine! Anh chúc em luôn vững vàng, chúng mình sẽ vượt qua được thôi.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_yeuxa_37",
+   "content": "Valentine này, anh chúc em biết rằng mọi nỗ lực của chúng mình đều xứng đáng.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_yeuxa_38",
+   "content": "Chúc em ngày Valentine thật vui. Hẹn em ở lần gặp sắp tới nhé.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_yeuxa_39",
+   "content": "Happy Valentine em yêu! Dù xa cách, em vẫn là người anh nghĩ tới đầu tiên mỗi sáng.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_yeuxa_40",
+   "content": "Valentine vui vẻ nhé! Anh chúc em một ngày đầy yêu thương, dù anh không ở đó.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_yeuxa_41",
+   "content": "Chúc em một Valentine ngập tràn hạnh phúc. Chờ nhau thêm chút nữa thôi.",
+   "translate": ""
+  },
+  {
+   "id": "valentine_yeuxa_42",
+   "content": "Happy Valentine! Anh yêu em, qua mọi múi giờ và mọi khoảng cách.",
+   "translate": ""
+  }
+ ]
+}

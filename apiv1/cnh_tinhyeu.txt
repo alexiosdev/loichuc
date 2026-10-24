@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "cnh_tinhyeu_1",
+   "content": "Yêu một người không phải là nhìn nhau, mà là cùng nhìn về một hướng.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhyeu_2",
+   "content": "Tình yêu bền vững không đến từ sự hoàn hảo, mà từ sự chấp nhận.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhyeu_3",
+   "content": "Người phù hợp không phải người không bao giờ cãi nhau với bạn, mà là người luôn quay lại làm lành.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhyeu_4",
+   "content": "Yêu là khi bạn muốn người ấy hạnh phúc, kể cả khi hạnh phúc đó không có bạn.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhyeu_5",
+   "content": "Một mối quan hệ tốt không khiến bạn phải trở thành người khác.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhyeu_6",
+   "content": "Tình yêu thật sự không ồn ào, nó chỉ đơn giản là ở lại.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhyeu_7",
+   "content": "Đừng yêu một người vì họ hoàn hảo, hãy yêu vì họ phù hợp với bạn.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhyeu_8",
+   "content": "Người thương bạn thật lòng sẽ không để bạn phải đoán xem họ nghĩ gì.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhyeu_9",
+   "content": "Yêu nhau không khó, khó là cùng nhau đi qua những ngày không dễ dàng.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhyeu_10",
+   "content": "Tình yêu không phải là tìm người hoàn hảo, mà là nhìn thấy sự hoàn hảo ở một người không hoàn hảo.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhyeu_11",
+   "content": "Một mối quan hệ lành mạnh làm bạn yên tâm, không phải lo lắng.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhyeu_12",
+   "content": "Thương một người là chấp nhận cả những ngày họ không dễ thương.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhyeu_13",
+   "content": "Đừng cố níu giữ người đã muốn đi, hãy trân trọng người đang ở lại.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhyeu_14",
+   "content": "Tình yêu đẹp nhất là khi hai người cùng trưởng thành, không phải khi một người phải hy sinh.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhyeu_15",
+   "content": "Người đúng sẽ làm cuộc sống của bạn nhẹ nhàng hơn, không phải phức tạp hơn.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhyeu_16",
+   "content": "Yêu là khi bạn cảm thấy an toàn để là chính mình.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhyeu_17",
+   "content": "Một tình yêu bền lâu cần nhiều sự tử tế hơn là nhiều lời hoa mỹ.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhyeu_18",
+   "content": "Đừng đo tình yêu bằng những lời hứa, hãy đo bằng những việc đã làm.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhyeu_19",
+   "content": "Người thương bạn sẽ chọn bạn mỗi ngày, không chỉ những ngày họ rảnh.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhyeu_20",
+   "content": "Yêu nhau là cùng nhau xây, chứ không phải chờ đợi người kia xây giúp.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhyeu_21",
+   "content": "Tình yêu không cứu được một người, nhưng nó có thể khiến họ muốn tự cứu mình.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhyeu_22",
+   "content": "Mối quan hệ tốt không phải không có vấn đề, mà là cả hai cùng muốn giải quyết.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhyeu_23",
+   "content": "Hãy yêu người làm bạn muốn trở thành phiên bản tốt hơn của chính mình.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhyeu_24",
+   "content": "Đừng nhầm sự quen thuộc với tình yêu, cũng đừng nhầm sự cô đơn với nhu cầu yêu.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhyeu_25",
+   "content": "Người phù hợp sẽ không khiến bạn phải cầu xin sự quan tâm.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhyeu_26",
+   "content": "Tình yêu cần cả cảm xúc lẫn sự lựa chọn mỗi ngày.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhyeu_27",
+   "content": "Một người thương bạn sẽ không để bạn phải tự hỏi mình có quan trọng không.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhyeu_28",
+   "content": "Yêu là khi im lặng bên nhau cũng thấy đủ đầy.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhyeu_29",
+   "content": "Đừng yêu bằng tất cả những gì mình có, hãy giữ lại một chút để yêu chính mình.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhyeu_30",
+   "content": "Tình yêu lâu dài được xây từ những điều nhỏ nhặt lặp đi lặp lại.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhyeu_31",
+   "content": "Người ở lại không phải vì bạn hoàn hảo, mà vì họ chọn bạn.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhyeu_32",
+   "content": "Thương nhau là cùng nhau sửa vấn đề, không phải đổ lỗi cho nhau.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhyeu_33",
+   "content": "Một mối quan hệ cần hai người cùng cố gắng, một người thì chỉ là chịu đựng.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhyeu_34",
+   "content": "Hãy chọn người làm bạn cười nhiều hơn khóc.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhyeu_35",
+   "content": "Tình yêu không phải cuộc đua, không cần vội vàng, chỉ cần đúng người.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhyeu_36",
+   "content": "Đừng ở lại chỉ vì đã đầu tư quá nhiều thời gian, hãy ở lại vì bạn hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhyeu_37",
+   "content": "Người đúng sẽ xuất hiện đúng lúc bạn đã đủ tốt với chính mình.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhyeu_38",
+   "content": "Yêu là một quyết định được lặp lại mỗi ngày, không phải một lần là xong.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhyeu_39",
+   "content": "Tình yêu tốt khiến bạn bình yên, không phải bất an.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhyeu_40",
+   "content": "Hãy yêu một người mà bạn có thể nói ra mọi điều mà không sợ bị phán xét.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhyeu_41",
+   "content": "Mối quan hệ nào cũng cần sự tôn trọng trước khi cần tình yêu.",
+   "translate": ""
+  },
+  {
+   "id": "cnh_tinhyeu_42",
+   "content": "Người xứng đáng với bạn sẽ không bắt bạn phải chứng minh giá trị của mình.",
+   "translate": ""
+  }
+ ]
+}

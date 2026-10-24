@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "nammoi_dongnghiep_1",
+   "content": "Chúc mừng năm mới! Kính chúc Quý khách hàng một năm an khang, thịnh vượng và phát đạt.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_dongnghiep_2",
+   "content": "Happy New Year! Chúc đồng nghiệp một năm mới thật nhiều sức khỏe và thành công.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_dongnghiep_3",
+   "content": "Năm mới, kính chúc Quý đối tác một năm hợp tác thuận lợi và cùng nhau phát triển.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_dongnghiep_4",
+   "content": "Chúc mừng năm mới! Chúc bạn một năm công việc hanh thông và thăng tiến thuận lợi.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_dongnghiep_5",
+   "content": "Kính chúc Quý khách một năm mới vạn sự như ý và tài lộc dồi dào.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_dongnghiep_6",
+   "content": "Happy New Year! Chúc đồng nghiệp một năm mới bứt phá và thật nhiều thành tựu.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_dongnghiep_7",
+   "content": "Năm mới, kính chúc Quý công ty ngày càng lớn mạnh và vươn xa hơn nữa.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_dongnghiep_8",
+   "content": "Chúc mừng năm mới! Chúc bạn một năm ít áp lực, nhiều niềm vui và nhiều thưởng.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_dongnghiep_9",
+   "content": "Kính chúc Quý đối tác một năm mới bội thu và thật nhiều thắng lợi.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_dongnghiep_10",
+   "content": "Happy New Year! Chúc đồng nghiệp một năm mới khỏe mạnh và luôn tràn đầy năng lượng.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_dongnghiep_11",
+   "content": "Năm mới, kính chúc Quý khách hàng sức khỏe dồi dào và công việc thuận lợi.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_dongnghiep_12",
+   "content": "Chúc mừng năm mới! Chúc bạn một năm mọi mục tiêu đều cán đích.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_dongnghiep_13",
+   "content": "Kính chúc Quý công ty một năm mới doanh thu khởi sắc và thị phần mở rộng.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_dongnghiep_14",
+   "content": "Happy New Year! Chúc đồng nghiệp một năm mới gặp nhiều quý nhân và cơ hội tốt.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_dongnghiep_15",
+   "content": "Năm mới, kính chúc Quý đối tác vạn sự hanh thông và niềm tin bền vững.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_dongnghiep_16",
+   "content": "Chúc mừng năm mới! Chúc bạn một năm cân bằng được công việc và cuộc sống.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_dongnghiep_17",
+   "content": "Kính chúc Quý khách một năm mới bình an, sung túc và viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_dongnghiep_18",
+   "content": "Happy New Year! Chúc đồng nghiệp một năm mới thật nhiều tiếng cười.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_dongnghiep_19",
+   "content": "Năm mới, kính chúc Quý công ty đoàn kết, vững mạnh và dẫn đầu thị trường.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_dongnghiep_20",
+   "content": "Chúc mừng năm mới! Chúc bạn một năm mọi nỗ lực đều được ghi nhận xứng đáng.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_dongnghiep_21",
+   "content": "Kính chúc Quý đối tác một năm mới khởi đầu thuận lợi và kết thúc rực rỡ.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_dongnghiep_22",
+   "content": "Happy New Year! Chúc đồng nghiệp một năm mới an khang và thật nhiều may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_dongnghiep_23",
+   "content": "Năm mới, kính chúc Quý khách hàng buôn may bán đắt và khách hàng nối tiếp khách hàng.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_dongnghiep_24",
+   "content": "Chúc mừng năm mới! Chúc bạn một năm thu nhập tăng và công việc nhẹ nhàng hơn.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_dongnghiep_25",
+   "content": "Kính chúc Quý công ty một năm mới phát triển bền vững và thương hiệu vươn xa.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_dongnghiep_26",
+   "content": "Happy New Year! Chúc đồng nghiệp một năm mới nhiều ý tưởng hay và nhiều cơ hội.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_dongnghiep_27",
+   "content": "Năm mới, kính chúc Quý đối tác mọi hợp tác đều mang lại quả ngọt.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_dongnghiep_28",
+   "content": "Chúc mừng năm mới! Chúc bạn một năm giữ mãi năng lượng tích cực đã truyền cho cả team.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_dongnghiep_29",
+   "content": "Kính chúc Quý khách một năm mới mọi kế hoạch đều suôn sẻ và sinh lời.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_dongnghiep_30",
+   "content": "Happy New Year! Chúc đồng nghiệp một năm mới thật nhiều bước tiến dài.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_dongnghiep_31",
+   "content": "Năm mới, kính chúc Quý công ty luôn tiên phong, đổi mới và thành công.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_dongnghiep_32",
+   "content": "Chúc mừng năm mới! Chúc bạn một năm mọi khó khăn đều hóa thuận lợi.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_dongnghiep_33",
+   "content": "Kính chúc Quý đối tác một năm mới an khang, thịnh vượng và hợp tác bền chặt.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_dongnghiep_34",
+   "content": "Happy New Year! Chúc đồng nghiệp một năm mới sức khỏe như ý và tinh thần phơi phới.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_dongnghiep_35",
+   "content": "Năm mới, kính chúc Quý khách hàng gặp nhiều may mắn và chinh phục nhiều cột mốc.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_dongnghiep_36",
+   "content": "Chúc mừng năm mới! Chúc bạn một năm đáng nhớ với thật nhiều thành quả.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_dongnghiep_37",
+   "content": "Kính chúc Quý công ty một năm mới trăm điều như ý, ngàn điều tốt lành.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_dongnghiep_38",
+   "content": "Happy New Year! Chúc đồng nghiệp một năm mới hạnh phúc và viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_dongnghiep_39",
+   "content": "Năm mới, kính chúc Quý đối tác tài lộc dồi dào và cơ hội rộng mở.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_dongnghiep_40",
+   "content": "Chúc mừng năm mới! Chúc bạn một năm thật vui, thật khỏe và thật thành công.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_dongnghiep_41",
+   "content": "Kính chúc Quý khách hàng một năm mới trọn vẹn và ngập tràn thắng lợi.",
+   "translate": ""
+  },
+  {
+   "id": "nammoi_dongnghiep_42",
+   "content": "Happy New Year! Chúc đồng nghiệp một năm mới tuyệt vời, và cảm ơn vì đã đồng hành.",
+   "translate": ""
+  }
+ ]
+}

@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "cv_nghihuu_1",
+   "content": "Chúc mừng cô/chú đã về hưu! Kính chúc cô chú một cuộc sống thật thảnh thơi và khỏe mạnh.",
+   "translate": ""
+  },
+  {
+   "id": "cv_nghihuu_2",
+   "content": "Chúc mừng bác nghỉ hưu! Chúc bác có thật nhiều thời gian cho bản thân và gia đình.",
+   "translate": ""
+  },
+  {
+   "id": "cv_nghihuu_3",
+   "content": "Kính chúc anh/chị nghỉ hưu vui vẻ, sức khỏe dồi dào và tâm luôn an yên.",
+   "translate": ""
+  },
+  {
+   "id": "cv_nghihuu_4",
+   "content": "Chúc mừng cô đã hoàn thành chặng đường công tác! Chúc cô nghỉ ngơi thật trọn vẹn.",
+   "translate": ""
+  },
+  {
+   "id": "cv_nghihuu_5",
+   "content": "Chúc mừng chú về hưu! Chúc chú sống vui, sống khỏe và làm những điều mình thích.",
+   "translate": ""
+  },
+  {
+   "id": "cv_nghihuu_6",
+   "content": "Kính chúc bác một tuổi nghỉ hưu thật an nhàn và hạnh phúc bên con cháu.",
+   "translate": ""
+  },
+  {
+   "id": "cv_nghihuu_7",
+   "content": "Chúc mừng anh/chị nghỉ hưu! Chúc anh chị có những năm tháng thật thong dong.",
+   "translate": ""
+  },
+  {
+   "id": "cv_nghihuu_8",
+   "content": "Chúc mừng cô/chú! Cảm ơn cô chú vì bao năm cống hiến, chúc cô chú thật nhiều sức khỏe.",
+   "translate": ""
+  },
+  {
+   "id": "cv_nghihuu_9",
+   "content": "Kính chúc bác nghỉ hưu vui vẻ và luôn giữ được tinh thần minh mẫn.",
+   "translate": ""
+  },
+  {
+   "id": "cv_nghihuu_10",
+   "content": "Chúc mừng anh/chị đã về hưu! Chúc anh chị tận hưởng cuộc sống thật trọn vẹn.",
+   "translate": ""
+  },
+  {
+   "id": "cv_nghihuu_11",
+   "content": "Chúc mừng cô! Chúc cô một chương mới thật nhẹ nhàng và đáng sống.",
+   "translate": ""
+  },
+  {
+   "id": "cv_nghihuu_12",
+   "content": "Kính chúc chú nghỉ hưu an vui, khỏe mạnh và hạnh phúc bên gia đình.",
+   "translate": ""
+  },
+  {
+   "id": "cv_nghihuu_13",
+   "content": "Chúc mừng bác! Chúc bác có thật nhiều chuyến đi và thật nhiều niềm vui mới.",
+   "translate": ""
+  },
+  {
+   "id": "cv_nghihuu_14",
+   "content": "Chúc mừng anh/chị nghỉ hưu! Chúc anh chị bình an và thảnh thơi mỗi ngày.",
+   "translate": ""
+  },
+  {
+   "id": "cv_nghihuu_15",
+   "content": "Kính chúc cô/chú một tuổi hưu trí thật khỏe mạnh và viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "cv_nghihuu_16",
+   "content": "Chúc mừng bác đã về hưu! Chúc bác thực hiện được những dự định còn dang dở.",
+   "translate": ""
+  },
+  {
+   "id": "cv_nghihuu_17",
+   "content": "Chúc mừng cô! Chúc cô có thật nhiều thời gian để chăm sóc bản thân.",
+   "translate": ""
+  },
+  {
+   "id": "cv_nghihuu_18",
+   "content": "Kính chúc chú nghỉ hưu vui vẻ, sum vầy bên con cháu và luôn mạnh khỏe.",
+   "translate": ""
+  },
+  {
+   "id": "cv_nghihuu_19",
+   "content": "Chúc mừng anh/chị! Chúc anh chị một cuộc sống hưu trí thật ý nghĩa.",
+   "translate": ""
+  },
+  {
+   "id": "cv_nghihuu_20",
+   "content": "Chúc mừng cô/chú nghỉ hưu! Chúc cô chú an nhiên, tự tại và luôn vui vẻ.",
+   "translate": ""
+  },
+  {
+   "id": "cv_nghihuu_21",
+   "content": "Kính chúc bác có những năm tháng nghỉ ngơi thật xứng đáng sau bao năm cống hiến.",
+   "translate": ""
+  },
+  {
+   "id": "cv_nghihuu_22",
+   "content": "Chúc mừng anh/chị về hưu! Chúc anh chị sức khỏe dồi dào và tâm hồn thư thái.",
+   "translate": ""
+  },
+  {
+   "id": "cv_nghihuu_23",
+   "content": "Chúc mừng cô! Chúc cô tìm được niềm vui mới trong chặng đường mới này.",
+   "translate": ""
+  },
+  {
+   "id": "cv_nghihuu_24",
+   "content": "Kính chúc chú một tuổi hưu trí thật nhẹ nhàng và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "cv_nghihuu_25",
+   "content": "Chúc mừng bác nghỉ hưu! Chúc bác luôn khỏe mạnh và luôn vui sống.",
+   "translate": ""
+  },
+  {
+   "id": "cv_nghihuu_26",
+   "content": "Chúc mừng anh/chị! Chúc anh chị tận hưởng tự do và làm điều mình yêu thích.",
+   "translate": ""
+  },
+  {
+   "id": "cv_nghihuu_27",
+   "content": "Kính chúc cô/chú nghỉ hưu an lành và viên mãn bên gia đình.",
+   "translate": ""
+  },
+  {
+   "id": "cv_nghihuu_28",
+   "content": "Chúc mừng bác đã hoàn thành chặng đường công tác! Chúc bác nghỉ ngơi thật tốt.",
+   "translate": ""
+  },
+  {
+   "id": "cv_nghihuu_29",
+   "content": "Chúc mừng cô! Chúc cô có thật nhiều sức khỏe để tận hưởng cuộc sống.",
+   "translate": ""
+  },
+  {
+   "id": "cv_nghihuu_30",
+   "content": "Kính chúc chú một cuộc sống hưu trí thật thong dong và đáng sống.",
+   "translate": ""
+  },
+  {
+   "id": "cv_nghihuu_31",
+   "content": "Chúc mừng anh/chị nghỉ hưu! Chúc anh chị mọi điều tốt đẹp nhất.",
+   "translate": ""
+  },
+  {
+   "id": "cv_nghihuu_32",
+   "content": "Chúc mừng cô/chú! Chúc cô chú sống lâu, sống khỏe và luôn hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "cv_nghihuu_33",
+   "content": "Kính chúc bác nghỉ hưu vui vẻ và có thật nhiều kỷ niệm đẹp phía trước.",
+   "translate": ""
+  },
+  {
+   "id": "cv_nghihuu_34",
+   "content": "Chúc mừng anh/chị về hưu! Chúc anh chị bình an và thảnh thơi.",
+   "translate": ""
+  },
+  {
+   "id": "cv_nghihuu_35",
+   "content": "Chúc mừng cô! Cảm ơn cô vì những năm tháng tận tụy, chúc cô nghỉ ngơi thật trọn vẹn.",
+   "translate": ""
+  },
+  {
+   "id": "cv_nghihuu_36",
+   "content": "Kính chúc chú một tuổi hưu trí khỏe mạnh, an vui và đủ đầy.",
+   "translate": ""
+  },
+  {
+   "id": "cv_nghihuu_37",
+   "content": "Chúc mừng bác! Chúc bác có thời gian làm những điều mà trước đây chưa làm được.",
+   "translate": ""
+  },
+  {
+   "id": "cv_nghihuu_38",
+   "content": "Chúc mừng anh/chị nghỉ hưu! Chúc anh chị luôn minh mẫn và luôn vui vẻ.",
+   "translate": ""
+  },
+  {
+   "id": "cv_nghihuu_39",
+   "content": "Kính chúc cô/chú một chặng đường mới thật nhẹ nhàng và ý nghĩa.",
+   "translate": ""
+  },
+  {
+   "id": "cv_nghihuu_40",
+   "content": "Chúc mừng bác đã về hưu! Chúc bác sức khỏe, bình an và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "cv_nghihuu_41",
+   "content": "Chúc mừng cô! Chúc cô tận hưởng từng ngày và luôn mỉm cười.",
+   "translate": ""
+  },
+  {
+   "id": "cv_nghihuu_42",
+   "content": "Kính chúc chú nghỉ hưu an khang, trường thọ và viên mãn bên con cháu.",
+   "translate": ""
+  }
+ ]
+}

@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "vulan_1",
+   "content": "Mùa Vu Lan báo hiếu, con kính chúc cha mẹ luôn mạnh khỏe, bình an và sống lâu trăm tuổi.",
+   "translate": ""
+  },
+  {
+   "id": "vulan_2",
+   "content": "Vu Lan về, con xin cảm ơn công ơn sinh thành dưỡng dục của cha mẹ.",
+   "translate": ""
+  },
+  {
+   "id": "vulan_3",
+   "content": "Mùa Vu Lan, con kính chúc cha mẹ thân tâm an lạc và phúc thọ viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "vulan_4",
+   "content": "Nhân mùa Vu Lan báo hiếu, con chúc cha mẹ luôn khỏe mạnh và an vui.",
+   "translate": ""
+  },
+  {
+   "id": "vulan_5",
+   "content": "Vu Lan an lành! Kính chúc cha mẹ mọi điều tốt lành và luôn hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "vulan_6",
+   "content": "Mùa Vu Lan, con xin cài lên ngực đóa hoa hồng đỏ và biết ơn vì còn có mẹ.",
+   "translate": ""
+  },
+  {
+   "id": "vulan_7",
+   "content": "Nhân mùa Vu Lan, con kính chúc cha mẹ sức khỏe dồi dào và lòng luôn thanh thản.",
+   "translate": ""
+  },
+  {
+   "id": "vulan_8",
+   "content": "Vu Lan về, con chỉ mong cha mẹ luôn khỏe mạnh để con còn được báo hiếu.",
+   "translate": ""
+  },
+  {
+   "id": "vulan_9",
+   "content": "Mùa Vu Lan báo hiếu, con kính chúc cha mẹ an khang và trường thọ.",
+   "translate": ""
+  },
+  {
+   "id": "vulan_10",
+   "content": "Nhân mùa Vu Lan, con xin lỗi vì những lần con chưa làm tròn đạo hiếu.",
+   "translate": ""
+  },
+  {
+   "id": "vulan_11",
+   "content": "Vu Lan an lành! Chúc mọi người luôn nhớ về công ơn cha mẹ.",
+   "translate": ""
+  },
+  {
+   "id": "vulan_12",
+   "content": "Mùa Vu Lan, con cầu mong cha mẹ luôn bình an và hạnh phúc bên con cháu.",
+   "translate": ""
+  },
+  {
+   "id": "vulan_13",
+   "content": "Nhân mùa Vu Lan báo hiếu, con kính chúc cha mẹ vạn sự cát tường.",
+   "translate": ""
+  },
+  {
+   "id": "vulan_14",
+   "content": "Vu Lan về, con biết ơn vì vẫn còn được gọi hai tiếng cha mẹ.",
+   "translate": ""
+  },
+  {
+   "id": "vulan_15",
+   "content": "Mùa Vu Lan, con kính chúc cha mẹ ăn ngon ngủ ngon và ít bệnh tật.",
+   "translate": ""
+  },
+  {
+   "id": "vulan_16",
+   "content": "Nhân mùa Vu Lan, con nguyện sống tốt để cha mẹ được an lòng.",
+   "translate": ""
+  },
+  {
+   "id": "vulan_17",
+   "content": "Vu Lan an lành! Kính chúc cha mẹ sức khỏe, bình an và viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "vulan_18",
+   "content": "Mùa Vu Lan báo hiếu, con xin tri ân công ơn trời biển của cha mẹ.",
+   "translate": ""
+  },
+  {
+   "id": "vulan_19",
+   "content": "Nhân mùa Vu Lan, con kính chúc cha mẹ luôn vui vẻ và an nhiên.",
+   "translate": ""
+  },
+  {
+   "id": "vulan_20",
+   "content": "Vu Lan về, con cầu cho cha mẹ đã khuất được siêu thoát và an nghỉ.",
+   "translate": ""
+  },
+  {
+   "id": "vulan_21",
+   "content": "Mùa Vu Lan, con kính chúc cha mẹ phúc thọ khang ninh và gia đạo hưng long.",
+   "translate": ""
+  },
+  {
+   "id": "vulan_22",
+   "content": "Nhân mùa Vu Lan báo hiếu, con hứa sẽ về thăm cha mẹ nhiều hơn.",
+   "translate": ""
+  },
+  {
+   "id": "vulan_23",
+   "content": "Vu Lan an lành! Chúc cha mẹ luôn mạnh khỏe và sống lâu cùng con cháu.",
+   "translate": ""
+  },
+  {
+   "id": "vulan_24",
+   "content": "Mùa Vu Lan, con biết ơn cha mẹ vì tất cả những gì đã hy sinh cho con.",
+   "translate": ""
+  },
+  {
+   "id": "vulan_25",
+   "content": "Nhân mùa Vu Lan, con kính chúc cha mẹ thân tâm an lạc và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "vulan_26",
+   "content": "Vu Lan về, con chỉ mong được ở bên cha mẹ thêm thật nhiều mùa nữa.",
+   "translate": ""
+  },
+  {
+   "id": "vulan_27",
+   "content": "Mùa Vu Lan báo hiếu, con kính chúc cha mẹ bình an trong tâm và khỏe mạnh trong thân.",
+   "translate": ""
+  },
+  {
+   "id": "vulan_28",
+   "content": "Nhân mùa Vu Lan, con xin nguyện làm người con hiếu thảo hơn.",
+   "translate": ""
+  },
+  {
+   "id": "vulan_29",
+   "content": "Vu Lan an lành! Kính chúc cha mẹ an khang, thịnh vượng và trường thọ.",
+   "translate": ""
+  },
+  {
+   "id": "vulan_30",
+   "content": "Mùa Vu Lan, con cầu mong cha mẹ luôn được che chở và bình an.",
+   "translate": ""
+  },
+  {
+   "id": "vulan_31",
+   "content": "Nhân mùa Vu Lan báo hiếu, con kính chúc cha mẹ mọi điều như ý.",
+   "translate": ""
+  },
+  {
+   "id": "vulan_32",
+   "content": "Vu Lan về, con nhớ mẹ, nhớ cha và nhớ cả những ngày thơ bé.",
+   "translate": ""
+  },
+  {
+   "id": "vulan_33",
+   "content": "Mùa Vu Lan, con kính chúc cha mẹ sức khỏe dẻo dai và tinh thần minh mẫn.",
+   "translate": ""
+  },
+  {
+   "id": "vulan_34",
+   "content": "Nhân mùa Vu Lan, con mong cha mẹ bớt lo nghĩ cho con cái.",
+   "translate": ""
+  },
+  {
+   "id": "vulan_35",
+   "content": "Vu Lan an lành! Chúc cha mẹ luôn hạnh phúc và được con cháu phụng dưỡng chu đáo.",
+   "translate": ""
+  },
+  {
+   "id": "vulan_36",
+   "content": "Mùa Vu Lan báo hiếu, con xin cúi đầu tri ân cha mẹ.",
+   "translate": ""
+  },
+  {
+   "id": "vulan_37",
+   "content": "Nhân mùa Vu Lan, con kính chúc cha mẹ an vui, thảnh thơi và viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "vulan_38",
+   "content": "Vu Lan về, con cầu cho tất cả cha mẹ trên đời đều được bình an.",
+   "translate": ""
+  },
+  {
+   "id": "vulan_39",
+   "content": "Mùa Vu Lan, con kính chúc cha mẹ sống lâu, sống khỏe và luôn mỉm cười.",
+   "translate": ""
+  },
+  {
+   "id": "vulan_40",
+   "content": "Nhân mùa Vu Lan báo hiếu, con nguyện sống tử tế để không phụ lòng cha mẹ.",
+   "translate": ""
+  },
+  {
+   "id": "vulan_41",
+   "content": "Vu Lan an lành! Kính chúc cha mẹ phúc lộc song toàn và con cháu hiếu thảo.",
+   "translate": ""
+  },
+  {
+   "id": "vulan_42",
+   "content": "Mùa Vu Lan, con biết ơn vì được làm con của cha mẹ.",
+   "translate": ""
+  }
+ ]
+}

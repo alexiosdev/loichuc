@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "sk_nguoigia_1",
+   "content": "Con kính chúc bố mẹ luôn mạnh khỏe, ăn ngon ngủ ngon và sống lâu cùng con cháu.",
+   "translate": ""
+  },
+  {
+   "id": "sk_nguoigia_2",
+   "content": "Cháu kính chúc ông bà sức khỏe dồi dào, ít bệnh tật và luôn vui vẻ.",
+   "translate": ""
+  },
+  {
+   "id": "sk_nguoigia_3",
+   "content": "Con chúc bố mẹ giữ gìn sức khỏe, nhớ đi khám định kỳ và đừng làm việc quá sức.",
+   "translate": ""
+  },
+  {
+   "id": "sk_nguoigia_4",
+   "content": "Kính chúc ông bà luôn minh mẫn, khỏe mạnh và an vui bên con cháu.",
+   "translate": ""
+  },
+  {
+   "id": "sk_nguoigia_5",
+   "content": "Con chúc bố mẹ sống lâu trăm tuổi để con còn được báo hiếu thật nhiều.",
+   "translate": ""
+  },
+  {
+   "id": "sk_nguoigia_6",
+   "content": "Cháu kính chúc ông bà ăn ngon ngủ ngon và lòng luôn thanh thản.",
+   "translate": ""
+  },
+  {
+   "id": "sk_nguoigia_7",
+   "content": "Con chúc bố mẹ bớt lo nghĩ cho con cái và chăm sóc bản thân nhiều hơn.",
+   "translate": ""
+  },
+  {
+   "id": "sk_nguoigia_8",
+   "content": "Kính chúc ông bà phúc thọ song toàn, sức khỏe dẻo dai.",
+   "translate": ""
+  },
+  {
+   "id": "sk_nguoigia_9",
+   "content": "Con chúc bố mẹ luôn khỏe mạnh, đó là điều con mong nhất.",
+   "translate": ""
+  },
+  {
+   "id": "sk_nguoigia_10",
+   "content": "Cháu kính chúc ông bà sống vui, sống khỏe và luôn hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "sk_nguoigia_11",
+   "content": "Con chúc bố mẹ giữ gìn sức khỏe, nhớ uống thuốc đúng giờ và tập thể dục đều.",
+   "translate": ""
+  },
+  {
+   "id": "sk_nguoigia_12",
+   "content": "Kính chúc ông bà an khang, trường thọ và luôn được con cháu quây quần.",
+   "translate": ""
+  },
+  {
+   "id": "sk_nguoigia_13",
+   "content": "Con chúc bố mẹ mỗi ngày đều khỏe mạnh và vui vẻ.",
+   "translate": ""
+  },
+  {
+   "id": "sk_nguoigia_14",
+   "content": "Cháu kính chúc ông bà ít đau nhức, nhiều tiếng cười và luôn an yên.",
+   "translate": ""
+  },
+  {
+   "id": "sk_nguoigia_15",
+   "content": "Con chúc bố mẹ sức khỏe bền bỉ và tinh thần luôn minh mẫn.",
+   "translate": ""
+  },
+  {
+   "id": "sk_nguoigia_16",
+   "content": "Kính chúc ông bà luôn mạnh khỏe để cháu còn được nghe ông bà kể chuyện.",
+   "translate": ""
+  },
+  {
+   "id": "sk_nguoigia_17",
+   "content": "Con chúc bố mẹ ăn uống đầy đủ, ngủ đủ giấc và đừng thức khuya.",
+   "translate": ""
+  },
+  {
+   "id": "sk_nguoigia_18",
+   "content": "Cháu kính chúc ông bà phúc như Đông Hải, thọ tỷ Nam Sơn.",
+   "translate": ""
+  },
+  {
+   "id": "sk_nguoigia_19",
+   "content": "Con chúc bố mẹ luôn bình an, khỏe mạnh và hạnh phúc bên con cháu.",
+   "translate": ""
+  },
+  {
+   "id": "sk_nguoigia_20",
+   "content": "Kính chúc ông bà sống lâu, sống khỏe và luôn mỉm cười.",
+   "translate": ""
+  },
+  {
+   "id": "sk_nguoigia_21",
+   "content": "Con chúc bố mẹ giữ sức khỏe thật tốt, đừng lo lắng gì cho con.",
+   "translate": ""
+  },
+  {
+   "id": "sk_nguoigia_22",
+   "content": "Cháu kính chúc ông bà an nhiên, tự tại và luôn mạnh khỏe.",
+   "translate": ""
+  },
+  {
+   "id": "sk_nguoigia_23",
+   "content": "Con chúc bố mẹ có thật nhiều năm khỏe mạnh bên con cháu.",
+   "translate": ""
+  },
+  {
+   "id": "sk_nguoigia_24",
+   "content": "Kính chúc ông bà sức khỏe như núi, tinh thần như xuân.",
+   "translate": ""
+  },
+  {
+   "id": "sk_nguoigia_25",
+   "content": "Con chúc bố mẹ bớt vất vả và nghỉ ngơi nhiều hơn.",
+   "translate": ""
+  },
+  {
+   "id": "sk_nguoigia_26",
+   "content": "Cháu kính chúc ông bà luôn vui, luôn khỏe và luôn được yêu thương.",
+   "translate": ""
+  },
+  {
+   "id": "sk_nguoigia_27",
+   "content": "Con chúc bố mẹ mạnh khỏe, minh mẫn và sống thật lâu.",
+   "translate": ""
+  },
+  {
+   "id": "sk_nguoigia_28",
+   "content": "Kính chúc ông bà vạn sự cát tường và gia đạo hưng long.",
+   "translate": ""
+  },
+  {
+   "id": "sk_nguoigia_29",
+   "content": "Con chúc bố mẹ luôn giữ được tinh thần lạc quan và sức khỏe tốt.",
+   "translate": ""
+  },
+  {
+   "id": "sk_nguoigia_30",
+   "content": "Cháu kính chúc ông bà ăn ngon, ngủ ngon và không phải lo nghĩ gì.",
+   "translate": ""
+  },
+  {
+   "id": "sk_nguoigia_31",
+   "content": "Con chúc bố mẹ sức khỏe dồi dào để cùng con đi thêm nhiều chặng đường.",
+   "translate": ""
+  },
+  {
+   "id": "sk_nguoigia_32",
+   "content": "Kính chúc ông bà an vui, thảnh thơi và trường thọ.",
+   "translate": ""
+  },
+  {
+   "id": "sk_nguoigia_33",
+   "content": "Con chúc bố mẹ luôn khỏe mạnh, đó là món quà lớn nhất cho con.",
+   "translate": ""
+  },
+  {
+   "id": "sk_nguoigia_34",
+   "content": "Cháu kính chúc ông bà phúc đức dày thêm và sức khỏe bền thêm.",
+   "translate": ""
+  },
+  {
+   "id": "sk_nguoigia_35",
+   "content": "Con chúc bố mẹ giữ gìn sức khỏe và luôn nhớ ăn uống đúng giờ.",
+   "translate": ""
+  },
+  {
+   "id": "sk_nguoigia_36",
+   "content": "Kính chúc ông bà sống lâu trăm tuổi và luôn hạnh phúc bên nhau.",
+   "translate": ""
+  },
+  {
+   "id": "sk_nguoigia_37",
+   "content": "Con chúc bố mẹ mỗi sáng thức dậy đều thấy khỏe mạnh và vui vẻ.",
+   "translate": ""
+  },
+  {
+   "id": "sk_nguoigia_38",
+   "content": "Cháu kính chúc ông bà bình an, khỏe mạnh và viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "sk_nguoigia_39",
+   "content": "Con chúc bố mẹ luôn mạnh khỏe để con còn được chăm sóc thật lâu.",
+   "translate": ""
+  },
+  {
+   "id": "sk_nguoigia_40",
+   "content": "Kính chúc ông bà tuổi càng cao, sức khỏe càng dồi dào.",
+   "translate": ""
+  },
+  {
+   "id": "sk_nguoigia_41",
+   "content": "Con chúc bố mẹ an lành, khỏe mạnh và luôn được con cháu hiếu thảo.",
+   "translate": ""
+  },
+  {
+   "id": "sk_nguoigia_42",
+   "content": "Cháu kính chúc ông bà thật nhiều sức khỏe và thật nhiều niềm vui mỗi ngày.",
+   "translate": ""
+  }
+ ]
+}

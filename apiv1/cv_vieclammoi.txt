@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "cv_vieclammoi_1",
+   "content": "Chúc mừng bạn có công việc mới! Chúc bạn nhanh chóng hòa nhập và thành công.",
+   "translate": ""
+  },
+  {
+   "id": "cv_vieclammoi_2",
+   "content": "Chúc mừng bạn! Chúc bạn ở môi trường mới gặp nhiều đồng nghiệp tốt và sếp tâm lý.",
+   "translate": ""
+  },
+  {
+   "id": "cv_vieclammoi_3",
+   "content": "Chúc mừng công việc mới! Chúc bạn một khởi đầu thật thuận lợi và nhiều may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "cv_vieclammoi_4",
+   "content": "Chúc mừng bạn đã nhận việc! Chúc bạn phát huy hết khả năng của mình.",
+   "translate": ""
+  },
+  {
+   "id": "cv_vieclammoi_5",
+   "content": "Chúc mừng bạn! Chúc bạn ở công ty mới luôn vui vẻ và tiến bộ mỗi ngày.",
+   "translate": ""
+  },
+  {
+   "id": "cv_vieclammoi_6",
+   "content": "Chúc mừng công việc mới! Chúc bạn sớm quen việc và gặt hái thật nhiều thành quả.",
+   "translate": ""
+  },
+  {
+   "id": "cv_vieclammoi_7",
+   "content": "Chúc mừng bạn! Chúc bạn tìm được niềm vui trong công việc mình đã chọn.",
+   "translate": ""
+  },
+  {
+   "id": "cv_vieclammoi_8",
+   "content": "Chúc mừng bạn có công việc mới! Chúc bạn thuận lợi ngay từ những ngày đầu.",
+   "translate": ""
+  },
+  {
+   "id": "cv_vieclammoi_9",
+   "content": "Chúc mừng công việc mới! Chúc bạn luôn tự tin và luôn được ghi nhận.",
+   "translate": ""
+  },
+  {
+   "id": "cv_vieclammoi_10",
+   "content": "Chúc mừng bạn! Chúc bạn ở vị trí mới học được nhiều điều và phát triển thật nhanh.",
+   "translate": ""
+  },
+  {
+   "id": "cv_vieclammoi_11",
+   "content": "Chúc mừng bạn đã có bến đỗ mới! Chúc bạn thành công và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "cv_vieclammoi_12",
+   "content": "Chúc mừng công việc mới! Chúc bạn gặp nhiều cơ hội tốt và nắm bắt được hết.",
+   "translate": ""
+  },
+  {
+   "id": "cv_vieclammoi_13",
+   "content": "Chúc mừng bạn! Chúc bạn hòa nhập nhanh và sớm tạo được dấu ấn riêng.",
+   "translate": ""
+  },
+  {
+   "id": "cv_vieclammoi_14",
+   "content": "Chúc mừng bạn có công việc mới! Chúc bạn một chặng đường thật thuận lợi.",
+   "translate": ""
+  },
+  {
+   "id": "cv_vieclammoi_15",
+   "content": "Chúc mừng công việc mới! Chúc bạn luôn khỏe mạnh và tràn đầy năng lượng.",
+   "translate": ""
+  },
+  {
+   "id": "cv_vieclammoi_16",
+   "content": "Chúc mừng bạn! Chúc bạn ở môi trường mới được trọng dụng và phát triển.",
+   "translate": ""
+  },
+  {
+   "id": "cv_vieclammoi_17",
+   "content": "Chúc mừng bạn đã nhận việc mới! Chúc bạn mọi điều suôn sẻ và tốt đẹp.",
+   "translate": ""
+  },
+  {
+   "id": "cv_vieclammoi_18",
+   "content": "Chúc mừng công việc mới! Chúc bạn tìm được sự cân bằng giữa công việc và cuộc sống.",
+   "translate": ""
+  },
+  {
+   "id": "cv_vieclammoi_19",
+   "content": "Chúc mừng bạn! Chúc bạn sớm thích nghi và gặt hái thành công ở nơi mới.",
+   "translate": ""
+  },
+  {
+   "id": "cv_vieclammoi_20",
+   "content": "Chúc mừng bạn có công việc mới! Chúc bạn thu nhập tốt và tinh thần thoải mái.",
+   "translate": ""
+  },
+  {
+   "id": "cv_vieclammoi_21",
+   "content": "Chúc mừng công việc mới! Chúc bạn một khởi đầu đẹp cho chặng đường dài.",
+   "translate": ""
+  },
+  {
+   "id": "cv_vieclammoi_22",
+   "content": "Chúc mừng bạn! Chúc bạn ở công ty mới luôn được quý mến và hỗ trợ.",
+   "translate": ""
+  },
+  {
+   "id": "cv_vieclammoi_23",
+   "content": "Chúc mừng bạn đã có công việc mới! Chúc bạn tự tin và bản lĩnh.",
+   "translate": ""
+  },
+  {
+   "id": "cv_vieclammoi_24",
+   "content": "Chúc mừng công việc mới! Chúc bạn mọi dự án đều thuận lợi và thành công.",
+   "translate": ""
+  },
+  {
+   "id": "cv_vieclammoi_25",
+   "content": "Chúc mừng bạn! Chúc bạn giữ mãi nhiệt huyết và sự cầu tiến đáng quý.",
+   "translate": ""
+  },
+  {
+   "id": "cv_vieclammoi_26",
+   "content": "Chúc mừng bạn có bến đỗ mới! Chúc bạn hạnh phúc với lựa chọn của mình.",
+   "translate": ""
+  },
+  {
+   "id": "cv_vieclammoi_27",
+   "content": "Chúc mừng công việc mới! Chúc bạn sớm chứng minh được năng lực của mình.",
+   "translate": ""
+  },
+  {
+   "id": "cv_vieclammoi_28",
+   "content": "Chúc mừng bạn! Chúc bạn ở nơi mới gặp nhiều người tốt và nhiều điều may mắn.",
+   "translate": ""
+  },
+  {
+   "id": "cv_vieclammoi_29",
+   "content": "Chúc mừng bạn đã nhận việc! Chúc bạn thuận lợi và ngày càng tiến xa.",
+   "translate": ""
+  },
+  {
+   "id": "cv_vieclammoi_30",
+   "content": "Chúc mừng công việc mới! Chúc bạn một hành trình mới thật đáng nhớ.",
+   "translate": ""
+  },
+  {
+   "id": "cv_vieclammoi_31",
+   "content": "Chúc mừng bạn! Chúc bạn tìm được môi trường phù hợp và phát triển hết mình.",
+   "translate": ""
+  },
+  {
+   "id": "cv_vieclammoi_32",
+   "content": "Chúc mừng bạn có công việc mới! Chúc bạn luôn vui vẻ và luôn thành công.",
+   "translate": ""
+  },
+  {
+   "id": "cv_vieclammoi_33",
+   "content": "Chúc mừng công việc mới! Chúc bạn sớm có những thành tích đầu tiên.",
+   "translate": ""
+  },
+  {
+   "id": "cv_vieclammoi_34",
+   "content": "Chúc mừng bạn! Chúc bạn bớt bỡ ngỡ và nhanh chóng làm chủ công việc.",
+   "translate": ""
+  },
+  {
+   "id": "cv_vieclammoi_35",
+   "content": "Chúc mừng bạn đã có công việc mới! Chúc bạn mọi điều tốt lành.",
+   "translate": ""
+  },
+  {
+   "id": "cv_vieclammoi_36",
+   "content": "Chúc mừng công việc mới! Chúc bạn thăng tiến thuận lợi trong thời gian tới.",
+   "translate": ""
+  },
+  {
+   "id": "cv_vieclammoi_37",
+   "content": "Chúc mừng bạn! Chúc bạn giữ được sự tử tế và chuyên nghiệp ở môi trường mới.",
+   "translate": ""
+  },
+  {
+   "id": "cv_vieclammoi_38",
+   "content": "Chúc mừng bạn có công việc mới! Chúc bạn sức khỏe dồi dào và tinh thần phơi phới.",
+   "translate": ""
+  },
+  {
+   "id": "cv_vieclammoi_39",
+   "content": "Chúc mừng công việc mới! Chúc bạn gặt hái thật nhiều thành quả đáng tự hào.",
+   "translate": ""
+  },
+  {
+   "id": "cv_vieclammoi_40",
+   "content": "Chúc mừng bạn! Chúc bạn một chương mới thật rực rỡ trong sự nghiệp.",
+   "translate": ""
+  },
+  {
+   "id": "cv_vieclammoi_41",
+   "content": "Chúc mừng bạn đã nhận việc mới! Chúc bạn luôn tự tin và luôn tiến bộ.",
+   "translate": ""
+  },
+  {
+   "id": "cv_vieclammoi_42",
+   "content": "Chúc mừng công việc mới! Chúc bạn thành công, hạnh phúc và bình an.",
+   "translate": ""
+  }
+ ]
+}

@@ -1,0 +1,684 @@
+{
+ "result": [
+  {
+   "id": "tet_tonghop_1",
+   "content": "Chúc bạn 12 tháng phú quý, 365 ngày phát tài, 8760 giờ sung túc, 525600 phút thành công 31536000 giây vạn sự như ý! Chúc mừng năm mới!",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_2",
+   "content": "Chúc bạn có 1 bầu trời sức khỏe, 1 Biển cả tình thương, 1 Đại dương tình bạn, 1 Điệp khúc tình yêu, 1 Người yêu chung thủy, 1 Sự nghiệp sáng ngời, 1 Gia đình thịnh vượng. Chúc năm mới cả gia đình bạn vạn sự như ý, Tỉ sự như mơ, Triệu triệu bất ngờ, Không chờ cũng đến!",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_3",
+   "content": "Cung chúc tân xuân phước vĩnh cửu Chúc trong gia quyến được an khương Tân niên lai đáo đa phú quý Xuân đến an khương vạn thọ tường!",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_4",
+   "content": "Năm hết Tết đến Chúc ông chúc bà Chúc cha chúc mẹ Chúc cô chúc cậu Chúc chú chúc dì Chúc anh chúc chị Chúc luôn các em Chúc cả các cháu Dồi dào sức khoẻ Có nhiều niềm vui Tiền xu nặng túi Tiền giấy đầy bao Đi ăn được khao Về nhà người rước Tiền vô như nước Tình vào đầy tim Chăn ấm nệm êm Sung sướng ban đêm Hạnh phúc ban ngày Luôn luôn gặp may Tràn đầy hạnh phúc!",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_5",
+   "content": "Năm hết Tết đến Chúc ông chúc bà Chúc cha chúc mẹ Chúc cô chúc cậu Chúc chú chúc dì Chúc anh chúc chị Chúc luôn các em Chúc cả các cháu Dồi dào sức khoẻ Có nhiều niềm vui Tiền xu nặng túi Tiền giấy đầy bao Đi ăn được khao Về nhà người rước Tiền vô như nước Tình vào đầy tim Chăn ấm nệm êm Sung sướng ban đêm Hạnh phúc ban ngày Luôn luôn gặp may Suốt năm mới 2022!",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_6",
+   "content": "Năm Nhâm Dần 2022Chúc bạn luôn Đong cho đầy hạnh phúc Gói cho trọn lộc tài Giữ cho mãi an khang Thắt cho chặt phú quý!",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_7",
+   "content": "Trên Trái Đất có 9.000.000.000 người. Và anh không hiểu vì sao anh chỉ nhắn tin cho mỗi mình em. Có lẽ vì 8.999.999.999 người còn lại không thể thay thế được em. Happy New Year My Love!",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_8",
+   "content": "Nhận được thư lúc nhá nhem, Mừng mừng tủi tủi mở ra xem liền Trong thư vỏn vẹn mấy câu chúc \"Chúc mừng năm mới thằng dở hơi Dở hơi mà lại biết bơi Thế thì tao chúc câu này mày ơi\" Chúc mừng năm mới khùng ơi là khùng",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_9",
+   "content": "Ôi cậu đây rồi Tôi tìm cậu mãi Một năm tài lộc Một năm thành công Hơn nhiều năm trước Rước mọi điều may Hơn hẳn năm cũ Quả là quá hay Cho một năm mới Hai không mười lăm.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_10",
+   "content": "Nghe vẻ nghe ve, nghe vè chúc Tết 30 mùng Một, năm mới cận kề Bao nỗi bộn bề qua năm là hết Chờ ăn bánh Tết bao đỏ liền tay Tài lộc vận may không mong cũng đến Tình duyên cặp bến hạnh phúc đáo gia Chúc khắp mọi nhà quanh năm no đủ Tiền vô đầy tủ, sự nghiệp vinh quang Vui vẻ họ hàng người người phấn khởi Học hành tấn tới khởi sự thành công.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_11",
+   "content": "Chúc Tết đến trăm điều như ý Mừng Xuân sang vạn sự thành công Chúc mừng năm mới 2022!",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_12",
+   "content": "Vui vẻ, lạc quan Yêu đời phơi phới Hạnh phúc sẽ tới Niềm vui sẽ về Cùng với năm Sửu Hả hê năm mới Chúc mừng năm mới 2022!",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_13",
+   "content": "Làm sao kiếm được nhiều tiền? Làm sao giấc ngủ cho tròn? Làm sao khi chết vẫn còn lưu danh? Làm sao để tiền bóng banh? Làm sao để nó nhanh nhanh sinh lời? Làm sao sống giữa cuộc đời? Làm sao sống được chơi bời xa hoa? Làm sao cứ mãi trêu hoa? Làm sao biết được người ta yêu mình? Làm sao biết cách tỏ tình? Làm sao biết được rằng mình đang yêu? Làm sao phải hỏi bạn ơi Những câu hỏi đó cứ để năm nay Năm nay năm mới đã về Nâng ly ta chúc đón chào 2022!",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_14",
+   "content": "Nam nhi thỏa chí anh hào Một năm tài lộc lại cao chất chồng Xuân vui Tết ấm quây quần Xin kính chúc sếp thành công mỗi ngày.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_15",
+   "content": "Tết đến pháo nổ giòn tai Chúc sếp phát lộc, phát tài, phát xuân Trong ngoài thuận lợi xa gần Hợp đồng dễ trúng, mười phân vẹn mười.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_16",
+   "content": "Tưng bừng pháo nổ rượu say Tưng bừng vui với những ngày bội thu Chúc cho chí lớn được mùa Đầu xuân chúc sếp sớm trưa yên bình!",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_17",
+   "content": "Em xin chúc mừng năm mới anh/chị. Chúc anh/chị luôn mạnh khỏe, hạnh phúc và luôn thành công trong công việc, cuộc sống",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_18",
+   "content": "Lộc xuân nở biếc quanh nhà Nâng ly chúc sếp thuận hòa gió mưa Chúc người đi sớm về trưa Lộc tài rủng rỉnh, suốt mùa gặp hên!",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_19",
+   "content": "Năm qua Tết đã đến rồi Em xin chúc sếp với đôi câu này Tiền tài nặng ví nặng tay Gia đình thịnh vượng, vui vầy, ấm êm Đối ngoại thuận dưới, thuận trên Đánh đâu cũng thắng, cũng bền sức dai. Một năm hỳ hục làm ăn Ngẩng đầu Tết đã ùn ùn đến chân Mừng ngày đông đã sang Xuân Em kính chúc sếp muôn phần bội thu",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_20",
+   "content": "Tiền vào như nước trùng trùng Tiền ra nhỏ giọt ngừng ngay tức thì Tết xuân chúc sếp đôi lời Một năm thuận lợi bại vơi thành đầy.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_21",
+   "content": "Tôi chúc bạn một năm mới Chủ Nhật ngọt ngào nhất Thứ hai kỳ diệu Thứ ba ngon tuyệt Thứ tư tuyệt vời Cảm ơn Thứ năm, Thân thiện Thứ sáu, Thứ bảy thành công Có một năm tuyệt vời Chúc mừng năm mới 2022",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_22",
+   "content": "CUNG kính mời nhau chén rượu nồng CHÚC mừng năm đến, tiễn năm xong TÂN niên phúc lộc khơi vừa dạ XUÂN mới tài danh khởi thỏa lòng VẠN chuyện lo toan thay đổi hết SỰ gì bế tắc thảy hanh thông NHƯ anh, như chị, bằng bè bạn Ý nguyện, duyên lành, đẹp ước mong",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_23",
+   "content": "Chúc mừng năm mới 2022, chúc mọi điều bằng an và tốt đẹp tới bạn và gia đình.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_24",
+   "content": "Chúc mọi người năm mới, tiền vào bạc tỉ, tiền ra rỉ rỉ, miệng cười hi hi, vạn sự như ý, cung hỉ, cung hỉ!",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_25",
+   "content": "Chàng Tân Sửu vui vẻ mời. Nàng Sửu 2022 tươi trẻ tới. Pháo hoa rực sáng đêm giao thừa. Chúng ta vui mừng đón chào năm mới!",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_26",
+   "content": "2022, 8 thì quá phát, 1 năm may mắn, 0 gì cản trở, 2 mình tiến lên. Chúc mừng năm mới.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_27",
+   "content": "Ve vẻ vè ve, Nghe vè chúc Tết Năm cũ đã hết Năm mới đã sang Chúc cho cô bác họ hàng Thêm một tuổi mới An khang trọn đời!",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_28",
+   "content": "Gia đình sức khỏe dồi dào Miệng cười phơi phới Làm ăn tấn tới Lộc vào phơi phới Cả năm phát tài Chúc mừng năm mới!",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_29",
+   "content": "Trẻ trung như heo sữa, Bốc lửa như heo hơi, Chịu chơi như heo nái, Hăng hái như heo con, Sắc son như heo đất, Đủ chất như..heo thịt! Chúc mừng năm mới 2022 Chúc bạn một năm mới vui vẻ, thêm tươi trẻ, luôn mới mẻ, càng mạnh khỏe. À... Luôn sạch sẽ. Không có... ghẻ nhé!",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_30",
+   "content": "Chúc bạn và gia đình năm mới đong đầy niềm vui, an lành hạnh phúc và thịnh vượng. Một năm rất tuyệt vời, Chúc mừng năm mới 2022!",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_31",
+   "content": "Chúc bạn một năm mới đạt được tất cả những ước mơ của mình... Chúc mừng năm mới 2022!",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_32",
+   "content": "Thần thời gian xoay tròn mùa hạ Thu qua rồi đông mới chia tay Ngày xuân đã rộng vòng tay Đón người sum họp vui vầy mừng xuân Ông bà con cháu quây quần Gia đình sung túc vang ngân nụ cười Nếm vị hạnh phúc đầu môi Chúc cho mọi người năm mới an vinh Chúc cho cuộc sống thanh bình Mạnh khỏe sung túc thêm tình thêm vui Chúc cho vang mãi nụ cười Ông bà mạnh khỏe nghỉ ngơi an nhàn Chúc anh chúc chị thăng quan Công tác thuận lợi chứa chan lộc về Chúc cho con cháu đề huề Học giỏi ngoan ngoãn rinh về bằng khen Vợ chồng tình cảm chứa chan Chúc cho cuộc sống là ngàn ngày vui Ngoài kia pháo nổ vang trời Chấm vào thời khắc đất trời sang xuân!",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_33",
+   "content": "Vợ ta tuy không sinh ra ta, nhưng có công nuôi dưỡng ta Cơm ta ăn, vợ ta nấu, quần áo ta mặc vợ và máy ta giặt Hoặc là máy ta giặt mà vợ ta là, vì lẽ đó Ta phải xem vợ ta như mẹ của ta. Dân gian có câu Kính vợ mới đắc thọ Nể vợ mới sống lâu Nịnh vợ mới bớt u sầu Để vợ lên đầu là.. trường sinh bất tử Chúc mừng các chị, em năm mới 2022 vui vẻ!!!",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_34",
+   "content": "Nếu giọt nước là những nụ hôn, anh sẽ trao em biển cả Nếu là những ôm ấp vuốt ve anh sẽ tặng em cả rừng cây Nếu đêm dài là tình yêu anh gửi em cả trời sao lấp lánh Nhưng anh không có quyền tặng em trái tim vì nơi đó đã thuộc về em Chúc em năm mới tình yêu của anh <3 <3 <3",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_35",
+   "content": "Chúc năm mới: 1 vợ, 2 con, nhà 3 tầng, xe 4 chỗ!",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_36",
+   "content": "Chúc cả gia đình bạn vạn sự như ý tỉ sự như mơ triệu điều bất ngờ, không chờ cũng đến!",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_37",
+   "content": "Chúc các bạn có 1 cái tết vui vẻ, hạnh phúc, vạn sự như ý, \"Tiền vào như nước sông Đà. Tiền ra nhỏ giọt như cà phê phin\".",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_38",
+   "content": "Chúc mọi người khoẻ như hổ, sống lâu như rùa, mắt tinh như đại bàng, nhanh nhẹn như thỏ, tinh ranh như cáo, ăn nhiều như….heo",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_39",
+   "content": "Chúc mừng năm mới Tân niên vạn lộc Trung niên vạn tài Hậu niên vạn phúc Trường niên vạn đức Thiên niên vạn đại.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_40",
+   "content": "Đầu xuân năm mới BÌNH AN Chúc luôn TUỔI TRẺ chúc AN KHANG.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_41",
+   "content": "Xuân này hơn hẳn mấy xuân qua Phúc lộc đưa nhau đến mọi nhà Vài lời cung chúc tân niên mới Vạn sự an khang vạn sự lành.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_42",
+   "content": "Năm hết tết đến Rước lộc vào nhà Quà cáp bao la Mọi nhà no đủ Vàng bạc đầy tủ Gia chủ phát tài Già trẻ gái trai sum vầy hạnh phúc!",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_43",
+   "content": "Hoa đào nở, chim én về, mùa Xuân lại đến. Chúc nghìn sự như ý, vạn sự như mơ, triệu sự bất ngờ, tỷ lần hạnh phúc!",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_44",
+   "content": "Năm con Chó Chúc vui vẻ như Chim Sẻ, Khỏe mạnh như Đại Bàng Giàu sang như chim Phụng Làm lụng như chim Sâu Sống lâu như Đà Điểu.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_45",
+   "content": "Giao thừa sắp đến.Chúc bạn đáng mến. Sự nghiệp tiến lên. Gặp nhiều điều hên!",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_46",
+   "content": "CHÚC MỪNG NĂM MỚI 2022.12 tháng phú quý, 365 ngày phát tài, 8760 giờ sung túc, 525600 phút thành công 31536000 giây VẠN SỰ NHƯ Ý.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_47",
+   "content": "Chúc mừng năm mới Hoa khai phú quý Lộc quyền lai Khai tài nở lộc Toàn gia đại phát",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_48",
+   "content": "Năm mới chúc nhau sức khỏe nhiều. Bạc tiền rủng rỉnh thoải mái tiêu. Happy New Year 2022!",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_49",
+   "content": "Chúc năm mới Công thành danh toại Trẻ mãi không già Phúc lộc trường tồn Tấn tài, tấn lộc!",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_50",
+   "content": "Chúc ông bà 1 tô như ý. Chúc cô chú 1 chén an khang. Chúc anh chị 1 dĩa, 1 dĩa… tài lộc! Công thành danh toại chúc VINH QUANG.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_51",
+   "content": "Cung chúc tân niên, Sức khỏe vô biên, thành công liên miên, hạnh phúc triền miên, túi luôn đầy tiền, sung sướng như tiên.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_52",
+   "content": "Năm hết Tết đến Đón hên về nhà. Quà cáp bao la. Một nhà không đủ. Vàng bạc đầy tủ. Gia chủ phát tài.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_53",
+   "content": "I wish you to have a Sweetest Sunday Marvelous Monday Tasty Tuesday Wonderful Wednesday Thankful Thursday, Fridendly Friday, Successful Saturday Have a great year Happy new year 2022!",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_54",
+   "content": "Wishing You A Year Filled With Great Joy Peace And Prosperity Have A Wonderful Year Ahead Happy New Year 2022!",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_55",
+   "content": "Hope the New sun of the New Year and the new moon of the New Year, Brings good fortune and great luck for you, Wish you Happy New Year!",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_56",
+   "content": "Forget the pains, sorrows, and sadness behind, Let us welcome this New Year with big smile, Wish you Happy New Year 2022!",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_57",
+   "content": "I wish that all your wishes are fulfilled this year... Happy new year 2022!",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_58",
+   "content": "In this New Year, I wish you achieve all your goals in life, And get success at every step of life, enjoy a wonderful 2022!",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_59",
+   "content": "A new year, new start and way to go.Wish you successful and glorious",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_60",
+   "content": "Dẫu đi khắp bốn phương trời, cũng không quên nổi lời thầy khắc ghi. Kính chúc thầy ngàn lời tốt đẹp, con mong thầy mạnh khỏe để chở thêm những chuyến đò sớm mai.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_61",
+   "content": "Kính chúc mọi người năm mới tràn đầy niềm vui và hạnh phúc. Vui trong sức khỏe, trẻ trong tâm hồn, khôn trong ý tưởng, trưởng thành trong mọi lĩnh vực.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_62",
+   "content": "Năm mới Tết đến. Rước hên vào nhà Quà cáp bao la. Mọi nhà no đủ Vàng bạc đầy hũ. Gia chủ phát tài Già trẻ gái trai. Sum vầy hạnh phúc Cầu tài chúc phúc. Lộc đến quanh năm An khang thịnh vượng!",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_63",
+   "content": "Năm mới chúc bạn sức khỏe nhiều. Bạc tiền rủng rỉnh thoải mái tiêu. Happy New Year 2022!!!",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_64",
+   "content": "Chúc mừng năm mới Tâm trí thảnh thơi Thỏa mái vui chơi Đời luôn tươi mới",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_65",
+   "content": "Em chúc anh công tác và học tập thuận lợi, suôn sẻ, thành công và luôn làm chỗ dựa vững chắc cho mẹ con em nhé. Chúc Bin đi học ngoan, hay ăn chóng lớn, ngày càng thông minh, lém lỉnh. Đặc biệt chúc gia đình nhỏ của chúng mình năm mới đón thành viên mới thành công rực rỡ. Chúc năm mới vẹn tròn, hạnh phúc đến tất cả mọi người.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_66",
+   "content": "Con kính chúc ba má sức khỏe dồi dào, lúc nào cũng \"tươi trẻ\" như thời mới yêu. Mong nhà mình lúc nào cũng quây quần, chị em chúng con luôn được nghe tiếng cười đùa vui vẻ của ba má.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_67",
+   "content": "Một mùa xuân nữa lại về, con xin lỗi ông vì con ở xa lại mải mê công việc nên không thường xuyên về thăm ông. Năm mới đến, con chúc ông luôn sống lâu sống thọ để vui vầy cùng con cháu, ông nhé.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_68",
+   "content": "Thế là đã qua Ta chào năm mới Chúc nhau lời ca Bình an vô sự, mọi điều tốt lành Chúc mừng năm mới 2022.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_69",
+   "content": "Đây là cái tết đầu tiên mình có nhau phải không anh? Nhưng mình cũng không được ở cạnh nhau anh nhỉ… Em rất mong đến lúc có thể hát được bài \"Xuân họp mặt\" lắm đó anh à.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_70",
+   "content": "Anh yêu anh có biết không năm qua là năm hạnh phúc nhất với em vì em đã có người mình yêu. Cho dù năm mới này hay là năm mới tiếp theo, anh hãy để em được yêu và bên anh nhé. Cám ơn anh vì đã yêu em!",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_71",
+   "content": "Chúc anh một năm mới với thật nhiều niềm vui mới, nhiều may mắn và thành công mới… nhưng \"người thương\" thì luôn luôn là cũ nha anh! Chúc anh mở mắt ra luôn gặp những điều vui vẻ, còn nhắm mắt lại thì mơ thấy toàn những giấc mơ đẹp… về tụi mình anh ha.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_72",
+   "content": "Chuột tạm biệt – Sửu gọi chào Năm mới đến – Đất nước hưng Non sông vững – Xã hội bền Dân trong nước – Tết sum vầy Nhiều niềm vui – Luôn mạnh khỏe Hạnh phúc tới – Thịnh bình an Đa tài lộc – Vượng công danh Chúc Tân niên – Vạn sự lành. Tân sửu vừa tới – Ra ngõ đón xuân Chúc bạn xa gần – Một năm mạnh khỏe Chúc cho con trẻ – Học hành chăm ngoan Tài lẻ tuôn tràn – Phúc, tài dư dả.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_73",
+   "content": "Nghe vẻ nghe ve, nghe vè mà chúc! Đầu năm Tết đến, chúc chuyện an vui. Phủi phủi bao xui đi về quá khứ. Vạn Phúc nhận ngày xuân sang mà Tết đến. Vạn Lộc hò reo mau mau về đến. Phước Tài Lộc Thọ cùng đến muôn nhà. Bao nỗi chờ mong, bao điều may mắn. Đều thành sự thật dù ở muôn nơi.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_74",
+   "content": "HEO HEO HEO! Bạn sống thật lâu, tiền vô như nước, gia đình đại phước, sức khỏe dồi dào, hạnh phúc tuôn trào!",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_75",
+   "content": "Năm mới năm mới: \"Tránh xa điểm 1, thui chột điểm 2, bye điểm 3, xa điểm 4, trốn điểm 5, căm điểm 6, quý báu gì điểm 7, quyết nhảy qua điểm 8, bám chặt điểm 9, vịn chắc điểm 10\". Hehe, chúc mừng năm mới 2022.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_76",
+   "content": "Chúc xuân Tân Sửu! Tiền tha hồ cất, Đất tha hồ mua. Sắm xe đi đua, làm vua làm chúa, mừng năm Con Lợn! Lộc to lộc to!",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_77",
+   "content": "Chúc năm mới 2022 phát tài, phát lộc, phát tướng, phát tình nhưng đừng phát phì!",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_78",
+   "content": "Đông qua thuận lợi bình an Tết đến lộc đỏ, lộc vàng bén chân Buôn Đông, bán Bắc đều thông Mùng 1 lại có quý nhân xông nhà Đầu năm sung túc thuận hòa Cuối năm rủng rỉnh đồng ra đồng vào Thành công mỗi lúc thêm cao Bạc vàng núi núi lại cao chất chồng.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_79",
+   "content": "Năm mới đến chúc cho nhau thật nhiều sức khỏe, tiền bạc rủng rỉnh, tiêu xài tẹt ga. Tân Sửu vừa sang hạnh phúc đón chào niềm vui dâng trào sức khỏe dồi dào. Chúc mừng năm mới!",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_80",
+   "content": "Chúc mừng năm mới! hạnh phúc trong tình yêu, sung túc trong mọi việc, sung nhãn trong sức khỏe.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_81",
+   "content": "Năm cũ đã qua, năm mới đang đến chúc anh/chị em thật nhiều sức khỏe. Tiền bạc xả láng. Phú quý ngập nhà. Tiêu xài tẹt ga, không lo về giá.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_82",
+   "content": "Năm mới sắp đến – Đón Hợi tiễn Chó – Chúc anh, chúc chị – Thật nhiều sức khỏe. Thật nhiều niềm vui – Tiền luôn đầy túi – Đi ăn được khao – Hạnh phúc đong đầy. Tiền vào như nước – Tình đầy tim – Luôn gặp điều may.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_83",
+   "content": "Mùa xuân xin chúc anh chị – Khúc hát an yên – Năm mới phát lộc – Vạn sự như ý – Già trẻ lớn bé – Luôn hé nụ cười.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_84",
+   "content": "Năm mới tưng bừng tiếng pháo vang Lộc mạng hạnh phúc thật đầy tràn Chúc huynh vui mãi ơn trời tặng Mừng tỷ đẹp hoài lộc thánh ban.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_85",
+   "content": "Mỗi năm là một mùa hoa nở, mỗi năm là một mùa bội thu. Cuộc sống như cái cây đang lớn. Đó là lời chúc bạn trong năm mới.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_86",
+   "content": "Mới ngày nào, em bẽn lẽn bên anh trong niềm hạnh phúc ngập tràn, ngày em đẹp nhất, em là cô dâu. Chúng ta sắp kỷ niệm một năm ngày cưới khi vừa đi qua Tết Giáp Ngọ này anh nhỉ? Một năm qua, biết bao buồn vui của cuộc sống mới nhưng hạnh phúc luôn ngập tràn, luôn tươi mới như ngày đầu ta là của nhau.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_87",
+   "content": "Chúc mọi người vui vẻ như Chim Sẻ, khỏe mạnh như Đại Bàng, giàu sang như chim Phụng, làm lụng như chim Sâu, sống lâu như Đà Điểu.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_88",
+   "content": "Chúc bạn năm mới Nhâm Dần 2022 có cái ví căng phồng và cái bụng xẹp lép chứ không phải là điều ngược lại. => Cho bạn bè.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_89",
+   "content": "Nếu một bông hoa tượng trưng cho 1 lời chúc Tôi sẽ tặng bạn cả một bó hoa Happy new year - Chúc mừng năm mới 2022.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_90",
+   "content": "Chúc em xuân mới thật xinh, hạnh phúc bên gia đình và gặp được nhiều may mắn!",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_91",
+   "content": "Tân niên kính chúc mọi nhà. An khang đầm ấp đậm đà tình thương. Người người hạnh phúc ấm nồng. Chắng còn khổ lụy đau buồn cô đơn. Độc thân sớm có tình hồng. Yêu thương xin chúc mặn nồng mãi thôi. Kính chúc tất cả mọi người. Năm mới hạnh phúc rạng ngời thành công",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_92",
+   "content": "Tân niên sung túc, lắm phúc nhiều duyên, trong túi nhiều tiền, tâm hồn vui sướng.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_93",
+   "content": "Chúc mừng năm Tân Sửu – Chào mừng may mắn mới – Một năm ắt thắng lợi",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_94",
+   "content": "Năm mới chúc mọi người có tuổi mới thành công luôn tới, sắc diện ai nhìn cũng chới với.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_95",
+   "content": "Chúc mừng năm mới. Chúc 365 ngày hạnh phúc 52 tuần như ý 12 tháng an vui 8.760 giờ thoải mái 52.600 phút may mắn và 1 Năm mới an khang thịnh vượng. Phát tài phát lộc.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_96",
+   "content": "Tết tới tấn tài. Xuân sang đắc lộc. Gia đình hạnh phúc. Vạn sự cát tường",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_97",
+   "content": "Chúc anh chị 12 tháng luôn luôn phú quý, 365 ngày phát tài, 8760 giờ hạnh phúc, 525600 phút may mắn 31536000 tài lộc.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_98",
+   "content": "Kính chúc anh, chị một năm mới tràn ngập hạnh phúc và yêu thương. Luôn vui trong sức khoẻ, trẻ khỏe trong tâm hồn, khôn trong lý tưởng và trưởng thành mọi lĩnh vực.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_99",
+   "content": "Chúc em sang năm mới hạnh phúc bên anh, thành công trên con đường em đã chọn. Anh sẽ cùng em bước tiếp vượt qua mọi thử thách.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_100",
+   "content": "Nếu như Trái Đất và Mặt Trời thì anh sẽ mãi là Trái Đất để luôn được xoay quanh cuộc sống của em. Chúc người yêu của anh năm mới luôn vui vẻ, hạnh phúc bên anh.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_101",
+   "content": "Chúc mình năm mới gặp may Nhà ai vẫn mãi bóng ngây đợi chờ Tuy rằng năm trước thờ ơ Năm nay phải ráng qua vơ được nàng",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_102",
+   "content": "Năm mới đến em chúc anh một năm mới ăn khỏe, ngủ khỏe và sức khỏe thì cực khỏe để yêu em cũng cực cực khỏe. Ước gì em có thể được hôn anh bây giờ, anh yêu à!",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_103",
+   "content": "Năm mới càng sung sức, không bực tức, không đau nhức, gấp đôi lợi tức... tiền vào thơm phức.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_104",
+   "content": "Anh à, năm mới em hy vọng anh có nhiều cái mới. Những cái cũ xếp xó một bên đi. Đừng làm lòng mình không thể mới vì những cái cũ kỹ. New Year, New YOU!",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_105",
+   "content": "Chúc tình yêu của em năm mới 2022 luôn có sức khoẻ dồi dào, hạnh phúc ngọt ngào và công danh thành đạt nhé! Yêu Anh!",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_106",
+   "content": "CHÚC xuân bao chuyện tốt lành MỪNG mùa én liệng trên cành hoa mai.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_107",
+   "content": "Cung chúc tân niên Vạn sự bình yên ạnh phúc vô biên Vui vẻ triền miên Kiếm được nhiều tiền Sung sướng như tiên.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_108",
+   "content": "Chúc anh năm mới thật nhiều niềm vui và thêm hạnh phúc hơn năm cũ. Chúc đôi ta sẽ thêm một năm yêu thương gắn bó thật nồng ấm!",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_109",
+   "content": "Em luôn dành cho anh trọn vẹn tình yêu thương trong trái tim. Yêu anh nhiều! Chúc mừng năm mới!",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_110",
+   "content": "Năm mới anh chỉ cần em có nhiều sức khỏe để đi tiếp cùng anh trên mọi chặng đường. Còn niềm hạnh phúc chính anh sẽ mang đến cho em.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_111",
+   "content": "Năm mới đã đến rồi một năm trôi đi với bao nhiêu sóng gió chúng ta mới có ngày hôm nay. Chúc cho tình yêu của mình luôn tràn đầy hạnh phúc, ngọt ngào như viên kẹo ngọt.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_112",
+   "content": "Chúc anh, chúc chị bước sang năm mới, mọi điều may mắn. Tỷ sự như mơ, triệu triệu bất ngờ, nhà nhà hạnh phúc. Con cháu sum vầy, cả nhà mạnh khỏe, gặp điều vui vẻ xuyên suốt cả năm.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_113",
+   "content": "Cung chúc tân xuân phước như vĩnh cửu, gia quyến an khương, tân niên giai lão, thọ trường an khang.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_114",
+   "content": "Chúc tình yêu của chúng mình sang năm đâm hoa kết trái, hạnh phúc tràn đầy, tình cảm bền lâu em nhé!",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_115",
+   "content": "Một mùa xuân lại đến, anh cầu chúc cho tình yêu của anh và em luôn bền chặt. Con cái được ngoan hiền, vui khỏe. Chúc cho gia đình nhỏ của mình luôn ấm no, yêu thương nhau.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_116",
+   "content": "Anh yêu dấu! Em luôn khao khát được dành tặng cả cuộc đời mình cho anh. Mong anh mãi khỏe mạnh và bình an. Chúc cho tình yêu của anh và em sẽ cập bến bờ hạnh phúc! Chúc mừng năm mới!",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_117",
+   "content": "Gà ngốc của anh, hôm nay năm mới anh chúc vợ yêu của anh luôn vui vẻ, trẻ trung và quyến rũ nhé. Love you!Gà ngốc của anh, hôm nay năm mới anh chúc vợ yêu của anh luôn vui vẻ, trẻ trung và quyến rũ nhé. Love you!",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_118",
+   "content": "Một năm qua có biết bao niềm vui, nỗi buồn nhưng thật hạnh phúc bởi dù có chuyện gì thì vợ chồng mình vẫn luôn ở cạnh nhau, cùng nhau cố gắng vượt qua. Mãi là chỗ dựa vững chắc cho vợ, chồng yêu nhé!",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_119",
+   "content": "Năm mới đến rồi một năm qua thật đặc biệt với anh và cả em nữa. Năm mới đến thế là a lại được nối dài năm tháng được yêu thương chăm sóc em. Anh chúc em tràn đầy hạnh phúc ngọt ngào hãy gìn giữ và nuôi dưỡng tình yêu của chúng mình em nhé.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_120",
+   "content": "Năm mới đến, con cầu cho cả đại gia đình ta một năm hạnh phúc và thịnh vượng. Một năm được bình an về sức khỏe, dồi dào tình cảm. Hãy cùng vượt qua mọi khó khăn trước mắt, để luôn có một cuộc sống đầm ấm hạnh phúc. Con yêu tất cả mọi người trong gia đình mình nhiều lắm!",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_121",
+   "content": "Chúc các ông các bà sống lâu trăm tuổi cùng con cháu. Các cô các chú thành công trong công việc. Các em tiền đầy túi tình đầy tim nhé. Riêng các cháu nhỏ thì ngoan ngoãn, học hành chăm chỉ. Chúc mừng năm mới!",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_122",
+   "content": "Năm cũ vừa qua. Bước sang năm mới. Con tới Kính chúc ông bà: Sống lâu sức khỏe, Trẻ mãi không già, Yêu thương thuận hòa, Cửa nhà sung túc, Hạnh phúc khang an, Ơn trên thương ban, Suốt năm may mắn, Làm ăn phấn chấn, Phúc, lộc, thọ, tài, Ông bà hưởng trọn, Đôi lời con mọn, Xin kính dâng lên, Ông Bà đừng quên, Lì xì cho con, Năm mới lấy hên. Con xin cám ơn Ông Bà.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_123",
+   "content": "Nhân dịp năm mới, con chúc mẹ và ba sức khỏe dồi dào, vui vầy con cháu. Là phận dâu con luôn mong được ba mẹ căn dặn và dạy dỗ mỗi ngày.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_124",
+   "content": "Một mùa xuân nữa lại đến, con mong luôn được đón mùa xuân cùng ba mẹ. Mong cho gia đình ta lúc nào cũng quây quần, sum vầy, đoàn kết bên nhau. Chúc mừng năm mới!",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_125",
+   "content": "Mùa xuân chim én lượn bầy đàn, năm mới sắp đến chúng ta cùng chúc nhau. Chúc bố thật nhiều sức khỏe, chúc mẹ yêu chẳng bao giờ ốm đau. Sống mãi cùng con cùng cháu, cùng hưởng hạnh phúc. Anh chị em con cùng đến đây để chúc cho đại gia đình ta năm mới an khang thịnh vượng.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_126",
+   "content": "Mùa xuân chi én lượn chao Tân Sửu năm mới, ta cùng chúc nhau. Chúc bố sức khỏe dồi dào Mẹ thêm tuổi mới, ốm đau chẳng còn. Mãi mãi sống cùng các con Cùng nhau hạnh phúc, chúng con vui vầy. Anh em con cùng đến đây Sum vầy hạnh phúc, đón vàng lộc xuân.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_127",
+   "content": "Con chúc gia đình một năm mới Thịnh vượng an khang - Giữ chặt lộc tài - Hưởng trọn bình an - Cùng nhau sung túc.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_128",
+   "content": "Năm mới đã tới, con chúc Bố mãi trẻ khỏe, dẻo dai. Xuân sang con gái yêu chúc Mẹ ngày càng tươi tắn, xuân sắc hơn xuân. Con mãi yêu gia đình nhỏ bé, thân thường này.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_129",
+   "content": "Chúc mừng năm mới sếp nhà ta Có mấy chút thơ đọc gọi là Mừng cho sếp một năm mới Rạng rỡ công danh sự nghiệp thành Hạnh phúc tiền tài luôn tấp nập Gia đình trẻ nhỏ tiếng cười vui Sức khỏe dồi dào, tăng gia mạnh Buôn bán kinh doanh, lợi nhuận nhiều.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_130",
+   "content": "Chúc tết ban lãnh đạo công ty hiện tại Thưa anh, năm cũ sắp qua, năm mới sắp đến, tôi va gia đình xin cầu chúc anh và gia đình một năm mới dồi dào sức khỏe, vạn sự như ý, luôn đạt những thành quả mới trong cuộc sống.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_131",
+   "content": "Anh tài lại gặp vận hên Làm ăn tiến tới phất lên bất ngờ Chúc người cầm lái xuôi đò Tiến con thuyền đến bến bờ thành công.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_132",
+   "content": "Chúng em xin chúc Sếp: Có một Bầu trời sức khỏe, Một biển cả tình thương cùng ánh Đại Dương hạnh phúc và chúc sếp Thành Đạt - Thành Công hơn nữa trên con đường sự nghiệp. Nào tất cả chúng ta cùng chúc sếp HAPPY NEWYEAR...HAPPY NEWYEAR...HAPPY NEWYEAR...HAPPY NEWYEAR.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_133",
+   "content": "Chúc vị Thuyền trưởng của chúng ta tiếp tục đưa con tàu... thẳng tiến ra biển lớn. Công ty ngày càng lớn mạnh, vững vàng trên thị trường.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_134",
+   "content": "Tết xuân chúc sếp đôi lời Đại dương sức khỏe thảnh thơi an nhàn Gia đình sung túc giàu sang Làm ăn phát đạt thăng quan mỗi ngày.",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_135",
+   "content": "Anh em đồng sức, đồng lòng, đồng con tim và khối óc để cùng nhau chèo kéo con thuyền này lên một đỉnh cao mới nhé!",
+   "translate": ""
+  },
+  {
+   "id": "tet_tonghop_136",
+   "content": "Thay mặt ACE xin gửi tới sếp lời chúc mừng mừng năm mới, chúc sếp một năm mới vui – khỏe – trẻ trung – Luôn giữ được tâm hồn dạt dào tràn đầy năng lượng thắp sáng công ty.",
+   "translate": ""
+  }
+ ]
+}

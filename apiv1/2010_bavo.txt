@@ -1,0 +1,204 @@
+{
+ "result": [
+  {
+   "id": "2010_bavo_1",
+   "content": "Nhân ngày 20/10, con kính chúc bà luôn mạnh khỏe, minh mẫn và sống lâu cùng con cháu.",
+   "translate": ""
+  },
+  {
+   "id": "2010_bavo_2",
+   "content": "Chúc mừng ngày Phụ nữ Việt Nam! Con kính chúc mẹ chồng một ngày thật vui và ấm áp.",
+   "translate": ""
+  },
+  {
+   "id": "2010_bavo_3",
+   "content": "Ngày 20/10, con kính chúc mẹ vợ luôn khỏe mạnh, an yên và hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "2010_bavo_4",
+   "content": "Nhân ngày 20/10, cháu kính chúc bà ăn ngon ngủ ngon, ít đau nhức, nhiều tiếng cười.",
+   "translate": ""
+  },
+  {
+   "id": "2010_bavo_5",
+   "content": "Chúc mừng 20/10! Con kính chúc mẹ sức khỏe dồi dào và lòng luôn thanh thản.",
+   "translate": ""
+  },
+  {
+   "id": "2010_bavo_6",
+   "content": "Ngày của phụ nữ Việt Nam, con kính chúc bà một ngày thật nhẹ nhàng và được con cháu chăm sóc.",
+   "translate": ""
+  },
+  {
+   "id": "2010_bavo_7",
+   "content": "Nhân ngày 20/10, con kính chúc mẹ chồng mãi khỏe, mãi vui và mãi là chỗ dựa của cả nhà.",
+   "translate": ""
+  },
+  {
+   "id": "2010_bavo_8",
+   "content": "Chúc mừng ngày 20/10! Cháu kính chúc bà sống lâu trăm tuổi, phúc thọ song toàn.",
+   "translate": ""
+  },
+  {
+   "id": "2010_bavo_9",
+   "content": "Ngày 20/10, con kính chúc mẹ vợ vạn sự như ý và thật nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "2010_bavo_10",
+   "content": "Nhân ngày Phụ nữ Việt Nam, con kính chúc bà bình an, hạnh phúc và viên mãn.",
+   "translate": ""
+  },
+  {
+   "id": "2010_bavo_11",
+   "content": "Chúc mừng 20/10! Con kính chúc mẹ luôn giữ được nụ cười hiền hậu ấy.",
+   "translate": ""
+  },
+  {
+   "id": "2010_bavo_12",
+   "content": "Ngày 20/10, cháu kính chúc bà sức khỏe như ý và tinh thần luôn minh mẫn.",
+   "translate": ""
+  },
+  {
+   "id": "2010_bavo_13",
+   "content": "Nhân ngày 20/10, con kính chúc mẹ chồng mọi điều tốt đẹp nhất sẽ luôn đến.",
+   "translate": ""
+  },
+  {
+   "id": "2010_bavo_14",
+   "content": "Chúc mừng ngày Phụ nữ Việt Nam! Con kính chúc bà an nhiên, tự tại và thật nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "2010_bavo_15",
+   "content": "Ngày 20/10, con kính chúc mẹ bớt lo cho con cháu và sống cho mình nhiều hơn.",
+   "translate": ""
+  },
+  {
+   "id": "2010_bavo_16",
+   "content": "Nhân ngày 20/10, cháu kính chúc bà phúc lộc đầy nhà, con cháu hiếu thảo đầy đàn.",
+   "translate": ""
+  },
+  {
+   "id": "2010_bavo_17",
+   "content": "Chúc mừng 20/10! Con kính chúc mẹ vợ sức khỏe bền bỉ và cuộc sống đủ đầy.",
+   "translate": ""
+  },
+  {
+   "id": "2010_bavo_18",
+   "content": "Ngày của phụ nữ Việt Nam, con kính chúc bà thật nhiều sức khỏe và thật nhiều hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "2010_bavo_19",
+   "content": "Nhân ngày 20/10, con kính chúc mẹ chồng an khang, thịnh vượng và vạn sự cát tường.",
+   "translate": ""
+  },
+  {
+   "id": "2010_bavo_20",
+   "content": "Chúc mừng ngày 20/10! Cháu kính chúc bà một ngày thật vui bên con cháu.",
+   "translate": ""
+  },
+  {
+   "id": "2010_bavo_21",
+   "content": "Ngày 20/10, con kính chúc mẹ luôn khỏe mạnh để con còn được báo hiếu thật lâu.",
+   "translate": ""
+  },
+  {
+   "id": "2010_bavo_22",
+   "content": "Nhân ngày Phụ nữ Việt Nam, con kính chúc bà mãi là người phụ nữ con kính trọng nhất.",
+   "translate": ""
+  },
+  {
+   "id": "2010_bavo_23",
+   "content": "Chúc mừng 20/10! Con kính chúc mẹ vợ bình an, thảnh thơi và thật nhiều tiếng cười.",
+   "translate": ""
+  },
+  {
+   "id": "2010_bavo_24",
+   "content": "Ngày 20/10, cháu kính chúc bà ngập tràn yêu thương từ cả đại gia đình.",
+   "translate": ""
+  },
+  {
+   "id": "2010_bavo_25",
+   "content": "Nhân ngày 20/10, con kính chúc mẹ chồng thân tâm an lạc và gia đạo hưng long.",
+   "translate": ""
+  },
+  {
+   "id": "2010_bavo_26",
+   "content": "Chúc mừng ngày Phụ nữ Việt Nam! Con kính chúc bà sống vui, sống khỏe và sống thật lâu.",
+   "translate": ""
+  },
+  {
+   "id": "2010_bavo_27",
+   "content": "Ngày 20/10, con kính chúc mẹ một ngày được nghỉ ngơi trọn vẹn, con lo việc nhà hôm nay.",
+   "translate": ""
+  },
+  {
+   "id": "2010_bavo_28",
+   "content": "Nhân ngày 20/10, cháu kính chúc bà mọi mong ước đều thành hiện thực.",
+   "translate": ""
+  },
+  {
+   "id": "2010_bavo_29",
+   "content": "Chúc mừng 20/10! Con kính chúc mẹ vợ mãi khỏe, mãi vui và mãi hạnh phúc.",
+   "translate": ""
+  },
+  {
+   "id": "2010_bavo_30",
+   "content": "Ngày của phụ nữ Việt Nam, con kính chúc bà an lành và viên mãn trong cuộc sống.",
+   "translate": ""
+  },
+  {
+   "id": "2010_bavo_31",
+   "content": "Nhân ngày 20/10, con kính chúc mẹ chồng thật nhiều sức khỏe và thật nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "2010_bavo_32",
+   "content": "Chúc mừng ngày 20/10! Cháu kính chúc bà trường thọ, an khang và luôn mỉm cười.",
+   "translate": ""
+  },
+  {
+   "id": "2010_bavo_33",
+   "content": "Ngày 20/10, con kính chúc mẹ nhận lại gấp nhiều lần tình yêu thương mẹ đã dành cho cả nhà.",
+   "translate": ""
+  },
+  {
+   "id": "2010_bavo_34",
+   "content": "Nhân ngày Phụ nữ Việt Nam, con kính chúc bà một ngày thật trọn vẹn và ý nghĩa.",
+   "translate": ""
+  },
+  {
+   "id": "2010_bavo_35",
+   "content": "Chúc mừng 20/10! Con kính chúc mẹ vợ sức khỏe dồi dào và tâm hồn luôn thư thái.",
+   "translate": ""
+  },
+  {
+   "id": "2010_bavo_36",
+   "content": "Ngày 20/10, cháu kính chúc bà vạn sự hanh thông và phúc đức ngày càng dày.",
+   "translate": ""
+  },
+  {
+   "id": "2010_bavo_37",
+   "content": "Nhân ngày 20/10, con kính chúc mẹ chồng luôn được cả nhà yêu thương và kính trọng.",
+   "translate": ""
+  },
+  {
+   "id": "2010_bavo_38",
+   "content": "Chúc mừng ngày Phụ nữ Việt Nam! Con kính chúc bà một ngày ấm áp bên con cháu.",
+   "translate": ""
+  },
+  {
+   "id": "2010_bavo_39",
+   "content": "Ngày 20/10, con kính chúc mẹ mãi là người phụ nữ tuyệt vời của gia đình mình.",
+   "translate": ""
+  },
+  {
+   "id": "2010_bavo_40",
+   "content": "Nhân ngày 20/10, cháu kính chúc bà mọi điều may mắn và tốt lành nhất.",
+   "translate": ""
+  }
+ ]
+}

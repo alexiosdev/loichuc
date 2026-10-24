@@ -1,0 +1,204 @@
+{
+ "result": [
+  {
+   "id": "baochi_1",
+   "content": "Nhân kỷ niệm ngày Báo chí Cách mạng Việt Nam, xin gửi tới các nhà báo, phóng viên, biên tập viên, những người làm việc trong ngành truyền thông, báo chí lời chúc sức khỏe, hạnh phúc và thành công trong sự nghiệp. Chúc các đồng chí sẽ luôn luôn giữ vững ngòi bút của mình để trở thành những chiến sĩ tiên phong trên mặt trận văn hóa tư tưởng.",
+   "translate": ""
+  },
+  {
+   "id": "baochi_2",
+   "content": "Năm nào cũng thế, cứ gần đến ngày Nhà báo Việt Nam 21/6 mình cứ thấy lòng nao nao, bởi trước đây, cũng đã một thời mình là đồng nghiệp của các bạn. Xin gửi tới các anh chị, các bạn và các em thân thương của tôi – những nhà báo tuyệt vời và đáng yêu những lời chúc tốt đẹp và sự ngưỡng mộ. Mong các bạn luôn giữ mãi ngọn lửa đam mê với nghề và hạnh phúc trọn vẹn trên con đường mà các bạn đang đi!",
+   "translate": ""
+  },
+  {
+   "id": "baochi_3",
+   "content": "Chúc mừng ngày nhà báo Việt Nam. Chúc các nhà báo mà mình luôn yêu quý sẽ có sức khỏe, nhất là sức khỏe trong tâm mình để vượt qua những cám dỗ, giữ được ngọn lửa nhiệt huyết trong tim.",
+   "translate": ""
+  },
+  {
+   "id": "baochi_4",
+   "content": "Nghề báo luôn gắn với vinh quang và không ít nhọc nhằn. Những nhà báo chân chính vẫn luôn làm cho nghề báo trở thành một nghề đáng trân trọng và tự hào. Chúc các anh, các chị, các bạn, các em một ngày thật vui vẻ,hạnh phúc trong tình cảm yêu thương chân thành của tất cả mọi người!",
+   "translate": ""
+  },
+  {
+   "id": "baochi_5",
+   "content": "Kính chúc các nhà báo, các phóng viên, biên tập viên thật nhiều sức khỏe, nhiều niềm vui và may mắn. Đặc biệt hãy luôn giữ vững ngòi bút, lập trường và sự khách quan, trung thực của mình nhé.",
+   "translate": ""
+  },
+  {
+   "id": "baochi_6",
+   "content": "Nhân Ngày Báo chí Cách mạng Việt Nam, xin gửi lời chúc tới các bác, anh, chị, em đã, đang và sẽ trở thành những nhà báo sức khỏe, hạnh phúc và luôn có cái tâm sáng, ngòi bút sắc để \"Chở bao nhiêu đạo thuyền không thẳm – đâm mấy thằng gian bút chẳng tà\"!",
+   "translate": ""
+  },
+  {
+   "id": "baochi_7",
+   "content": "Xin được gửi tới các anh chị, các bạn và các em, những nhà báo tuyệt vời và đáng yêu nhất những lời chúc tốt đẹp cùng với sự ngưỡng mộ. Mong các bạn luôn giữ mãi ngọn lửa đam mê với nghề nghiệp và hạnh phúc trọn vẹn trên con đường mà các bạn đang đi!",
+   "translate": ""
+  },
+  {
+   "id": "baochi_8",
+   "content": "Nhân ngày cách mạng báo chí Việt Nam 21/6, xin chúc tất cả các anh chị nhà báo sẽ có thật nhiều thành công trong sự nghiệp và cuộc sống.",
+   "translate": ""
+  },
+  {
+   "id": "baochi_9",
+   "content": "Nghề báo luôn gắn liền với vinh quang và không ít khó khăn, nhọc nhằn. Những nhà báo chân chính vẫn luôn làm cho nghề báo trở thành một nghề đáng được xã hội trân trọng và tự hào. Nhân ngày Báo chí Cách mạng Việt Nam (21/6) chúc các nhà báo một ngày thật vui vẻ, hạnh phúc trong tình cảm yêu thương chân thành của tất cả mọi người!",
+   "translate": ""
+  },
+  {
+   "id": "baochi_10",
+   "content": "Một buổi sáng nhẹ nhàng, một ngày đặc biệt của những người làm báo và của riêng mình. Chúc các anh chị phóng viên những người làm báo có một ngày hạnh phúc, mong các anh chị luôn mang đến sự thẳng thắn, trắng đen, đúng sai thật sự đến với độc giả. Mừng ngày nhà báo Việt Nam.",
+   "translate": ""
+  },
+  {
+   "id": "baochi_11",
+   "content": "Nhân ngày báo chí cách mạng Việt Nam, tôi xin gửi lời chúc tới các bác, các anh, các chị đã và đang trở thành nhà báo luôn có đủ sức khỏe, hạnh phúc tràn đầy và có một cái tâm sáng, ngòi bút sắc sảo để bảo vệ những cái đúng.",
+   "translate": ""
+  },
+  {
+   "id": "baochi_12",
+   "content": "Nhân ngày nhà báo Việt nam, chúc các anh chị và các em đang công tác trong ngànhbáo chí nhiều sức khỏe, dồi dào sức khỏe để có thể tiếp tục cống hiến cũng như tỏa sáng trên mặt trận báo chí.",
+   "translate": ""
+  },
+  {
+   "id": "baochi_13",
+   "content": "Chúc mừng ngày nhà báo. Gửi những lời chúc tốt đệp nhất đến các anh/chị. Chúc anh/chị thật nhiều sức khỏe ạ",
+   "translate": ""
+  },
+  {
+   "id": "baochi_14",
+   "content": "Nghề báo là một nghề vinh quanh nhưng cũng không ít nhọc nhằn. Và những nhà báo chân chính sẽ làm cho nghề báo trở thành một nghề vô cùng cao quý và đáng trân trọng. Chúc các anh chị, cùng các bạn, các em sẽ có một ngày hội nghề nghiệp thật vui vẻ, hạnh phúc trong tình cảm trân trọng, tương yêu chân thành của tất cả mọi người.",
+   "translate": ""
+  },
+  {
+   "id": "baochi_15",
+   "content": "Năm nào cũng vậy, cứ đến gần nhà báo 21/6 mình thấy nôn nao khó tả, bởi trước đây cũng có thời gian mình được làm đồng nghiệp của các bạn. Xin gửi tới các anh chị và các em – những nhà báo chân chính lời chúc tốt đẹp nhất và sự ngưỡng mộ. Chúc các bạn sẽ luôn giữ được ngọn lửa đam mê với nghề mình đã theo đuổi và tìm được hạnh phúc trọn vẹn trên con đường mà bạn đang đi.",
+   "translate": ""
+  },
+  {
+   "id": "baochi_16",
+   "content": "Chúc mừng ngày báo chí Việt Nam. Chúc các anh, chị, cô, chú và các bạn truyền thông, báo chí có thật nhiều sức khỏe và luôn thành công. Cám ơn mọi người đã ưu ái, đồng hành cùng tôi và góp phần đưa tôi đến gần với khán giả hơn",
+   "translate": ""
+  },
+  {
+   "id": "baochi_17",
+   "content": "Chúc mừng ngày nhà báo! Em chúc anh chị thân thương luôn vui vẻ, sức khỏe và hạnh phúc trong công việc cũng như những bài báo thật hay để chia sẻ cùng với độc giả.",
+   "translate": ""
+  },
+  {
+   "id": "baochi_18",
+   "content": "Chúc các anh chi em phóng viên làng báo được chân cứng đá mềm, đi lại hanh thông, bài vở an toàn và tiền lương thì đầy túi.",
+   "translate": ""
+  },
+  {
+   "id": "baochi_19",
+   "content": "Hôm nay là Ngày Báo chí Cách mạng, chớ không hẳn là ngày tôn vinh nghề làm báo, nhưng đúng là nhớ nghề viết, nhớ sông dài đường quanh co đêm hôm thức viết, nhớ giấy vở thiết kế và nhà in chầu chực phát hành...chúc các anh và các em làm báo kiếm nhiều tiền và sống bay bổng, dân chuyên nghiệp không bàn chuyện giỏi nghề làm gì cho nó thừa.",
+   "translate": ""
+  },
+  {
+   "id": "baochi_20",
+   "content": "Các bạn à, vậy là lại đến ngày 21/6 của năm nay rồi. Ngày báo chí cách mạng Việt Nam 21 tháng 6 là ngày hội nghề nghiệp của giới báo chí, hãy dành chút thời gian để gửi những lời nhắn đến cho đồng nghiệp hay bạn bè đang công tác trong ngành báo chí nhé.",
+   "translate": ""
+  },
+  {
+   "id": "baochi_21",
+   "content": "Nhân ngày 21.6 ngày nhà báo Việt Nam, xin được gửi lời chúc tất cả các anh chị em nhà báo luôn luôn thật nhiều sức khỏe, nhiều ý tưởng và nhiều đam mê với công việc mình đã lựa chọn. Chúc anh chị em luôn thành công.",
+   "translate": ""
+  },
+  {
+   "id": "baochi_22",
+   "content": "Thương chúc các anh chị em, bạn bè nhà báo của mình luôn tràn đầy năng lượng và nhiệt huyết để làm nghề! Chúc mừng ngày báo chí Việt Nam.",
+   "translate": ""
+  },
+  {
+   "id": "baochi_23",
+   "content": "Xin được gửi lời chúc mừng tới các nhà báo nhân ngày báo chí Việt nam, bao gồm các nhà báo vẫn đang cầm bút hoặc đã treo bút (đang gõ bàn phím và đã treo bàn phím) luôn luôn được mạnh khỏe và đầy nhiệt huyết khí thế với nghề.",
+   "translate": ""
+  },
+  {
+   "id": "baochi_24",
+   "content": "Ngày trung thu, anh chúc em luôn khỏe mạnh, tươi trẻ và công tác tốt, mãi mãi là tình yêu vĩ đại nhất của đời anh.",
+   "translate": ""
+  },
+  {
+   "id": "baochi_25",
+   "content": "Nhân ngày Báo chí Cách mạng Việt Nam 21/6, kính chúc các nhà báo luôn vững bút và vững tâm.",
+   "translate": ""
+  },
+  {
+   "id": "baochi_26",
+   "content": "Chúc mừng ngày 21/6! Chúc các anh chị phóng viên thật nhiều sức khỏe và nhiều tác phẩm hay.",
+   "translate": ""
+  },
+  {
+   "id": "baochi_27",
+   "content": "Nhân ngày Báo chí Việt Nam, chúc các nhà báo giữ mãi ngọn lửa nghề và sự trung thực.",
+   "translate": ""
+  },
+  {
+   "id": "baochi_28",
+   "content": "Chúc mừng ngày Báo chí Cách mạng Việt Nam! Chúc anh chị luôn sắc bén và bản lĩnh.",
+   "translate": ""
+  },
+  {
+   "id": "baochi_29",
+   "content": "Nhân ngày 21/6, chúc các nhà báo chân cứng đá mềm trên mọi nẻo đường tác nghiệp.",
+   "translate": ""
+  },
+  {
+   "id": "baochi_30",
+   "content": "Chúc mừng ngày Báo chí! Chúc anh chị luôn giữ được ngòi bút khách quan và công tâm.",
+   "translate": ""
+  },
+  {
+   "id": "baochi_31",
+   "content": "Nhân ngày 21/6, kính chúc những người làm báo thật nhiều sức khỏe và thành công.",
+   "translate": ""
+  },
+  {
+   "id": "baochi_32",
+   "content": "Chúc mừng ngày Báo chí Việt Nam! Chúc anh chị có thêm nhiều tác phẩm giá trị.",
+   "translate": ""
+  },
+  {
+   "id": "baochi_33",
+   "content": "Nhân ngày 21/6, chúc các nhà báo luôn vững vàng trước mọi áp lực.",
+   "translate": ""
+  },
+  {
+   "id": "baochi_34",
+   "content": "Chúc mừng ngày Báo chí Cách mạng! Chúc anh chị mãi tâm huyết với nghề.",
+   "translate": ""
+  },
+  {
+   "id": "baochi_35",
+   "content": "Nhân ngày 21/6, chúc những người cầm bút luôn giữ được sự tử tế và trách nhiệm.",
+   "translate": ""
+  },
+  {
+   "id": "baochi_36",
+   "content": "Chúc mừng ngày Báo chí Việt Nam! Chúc anh chị gặt hái thật nhiều thành công.",
+   "translate": ""
+  },
+  {
+   "id": "baochi_37",
+   "content": "Nhân ngày 21/6, kính chúc các nhà báo bình an trên mọi hành trình tác nghiệp.",
+   "translate": ""
+  },
+  {
+   "id": "baochi_38",
+   "content": "Chúc mừng ngày Báo chí! Chúc anh chị luôn là tiếng nói trung thực của xã hội.",
+   "translate": ""
+  },
+  {
+   "id": "baochi_39",
+   "content": "Nhân ngày 21/6, chúc các nhà báo sức khỏe dồi dào và ngòi bút sắc bén.",
+   "translate": ""
+  },
+  {
+   "id": "baochi_40",
+   "content": "Chúc mừng ngày Báo chí Cách mạng Việt Nam! Chúc anh chị vững tin và vững bước.",
+   "translate": ""
+  }
+ ]
+}

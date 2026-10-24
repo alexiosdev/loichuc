@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "83_tienganh_1",
+   "content": "Happy International Women's Day! Chúc bạn một ngày thật đẹp và thật nhiều niềm vui.",
+   "translate": ""
+  },
+  {
+   "id": "83_tienganh_2",
+   "content": "Happy Women's Day! May you always be strong, beautiful and happy.",
+   "translate": ""
+  },
+  {
+   "id": "83_tienganh_3",
+   "content": "Wishing you a wonderful 8th of March filled with love and appreciation.",
+   "translate": ""
+  },
+  {
+   "id": "83_tienganh_4",
+   "content": "Happy International Women's Day! You deserve every flower and every kind word today.",
+   "translate": ""
+  },
+  {
+   "id": "83_tienganh_5",
+   "content": "To an amazing woman: happy Women's Day. May your days be as bright as your smile.",
+   "translate": ""
+  },
+  {
+   "id": "83_tienganh_6",
+   "content": "Happy Women's Day! May you achieve everything you set your heart on.",
+   "translate": ""
+  },
+  {
+   "id": "83_tienganh_7",
+   "content": "Wishing you health, happiness and endless confidence this Women's Day.",
+   "translate": ""
+  },
+  {
+   "id": "83_tienganh_8",
+   "content": "Happy International Women's Day! Thank you for everything you do, every single day.",
+   "translate": ""
+  },
+  {
+   "id": "83_tienganh_9",
+   "content": "May this Women's Day remind you how strong and capable you truly are.",
+   "translate": ""
+  },
+  {
+   "id": "83_tienganh_10",
+   "content": "Happy Women's Day! Keep shining, keep dreaming and keep being wonderfully you.",
+   "translate": ""
+  },
+  {
+   "id": "83_tienganh_11",
+   "content": "Wishing you a day as lovely as you are. Happy International Women's Day!",
+   "translate": ""
+  },
+  {
+   "id": "83_tienganh_12",
+   "content": "Happy Women's Day! May you always be surrounded by love and respect.",
+   "translate": ""
+  },
+  {
+   "id": "83_tienganh_13",
+   "content": "To the woman who inspires everyone around her: happy Women's Day.",
+   "translate": ""
+  },
+  {
+   "id": "83_tienganh_14",
+   "content": "Happy International Women's Day! May your courage keep opening new doors.",
+   "translate": ""
+  },
+  {
+   "id": "83_tienganh_15",
+   "content": "Wishing you joy, success and peace of mind this Women's Day.",
+   "translate": ""
+  },
+  {
+   "id": "83_tienganh_16",
+   "content": "Happy Women's Day! You make the world a better place just by being in it.",
+   "translate": ""
+  },
+  {
+   "id": "83_tienganh_17",
+   "content": "May this 8th of March bring you flowers, kind words and a well-deserved rest.",
+   "translate": ""
+  },
+  {
+   "id": "83_tienganh_18",
+   "content": "Happy International Women's Day! Here is to strong women: may we know them and be them.",
+   "translate": ""
+  },
+  {
+   "id": "83_tienganh_19",
+   "content": "Wishing you a beautiful Women's Day and an even more beautiful year ahead.",
+   "translate": ""
+  },
+  {
+   "id": "83_tienganh_20",
+   "content": "Happy Women's Day! May you never doubt how much you are valued.",
+   "translate": ""
+  },
+  {
+   "id": "83_tienganh_21",
+   "content": "To my favourite woman: happy International Women's Day. You are simply the best.",
+   "translate": ""
+  },
+  {
+   "id": "83_tienganh_22",
+   "content": "Happy Women's Day! May your dreams grow bigger and your worries grow smaller.",
+   "translate": ""
+  },
+  {
+   "id": "83_tienganh_23",
+   "content": "Wishing you confidence, laughter and love today and always.",
+   "translate": ""
+  },
+  {
+   "id": "83_tienganh_24",
+   "content": "Happy International Women's Day! May you always feel appreciated and celebrated.",
+   "translate": ""
+  },
+  {
+   "id": "83_tienganh_25",
+   "content": "Happy Women's Day! Thank you for your strength, your kindness and your patience.",
+   "translate": ""
+  },
+  {
+   "id": "83_tienganh_26",
+   "content": "May this Women's Day bring you everything you have been working toward.",
+   "translate": ""
+  },
+  {
+   "id": "83_tienganh_27",
+   "content": "Happy International Women's Day! You are proof that strength and grace go together.",
+   "translate": ""
+  },
+  {
+   "id": "83_tienganh_28",
+   "content": "Wishing you a day full of smiles and a life full of blessings.",
+   "translate": ""
+  },
+  {
+   "id": "83_tienganh_29",
+   "content": "Happy Women's Day! May you always have the courage to choose yourself.",
+   "translate": ""
+  },
+  {
+   "id": "83_tienganh_30",
+   "content": "To an incredible woman: happy 8th of March. The world is better with you in it.",
+   "translate": ""
+  },
+  {
+   "id": "83_tienganh_31",
+   "content": "Happy International Women's Day! May your heart stay light and your spirit stay bold.",
+   "translate": ""
+  },
+  {
+   "id": "83_tienganh_32",
+   "content": "Wishing you health, love and well-deserved success this Women's Day.",
+   "translate": ""
+  },
+  {
+   "id": "83_tienganh_33",
+   "content": "Happy Women's Day! Keep breaking the rules that were never fair anyway.",
+   "translate": ""
+  },
+  {
+   "id": "83_tienganh_34",
+   "content": "May today remind you that you are enough, exactly as you are.",
+   "translate": ""
+  },
+  {
+   "id": "83_tienganh_35",
+   "content": "Happy International Women's Day! Wishing you happiness in every corner of your life.",
+   "translate": ""
+  },
+  {
+   "id": "83_tienganh_36",
+   "content": "Happy Women's Day! May your efforts always be seen and your worth never questioned.",
+   "translate": ""
+  },
+  {
+   "id": "83_tienganh_37",
+   "content": "Wishing you a joyful Women's Day and a future full of possibility.",
+   "translate": ""
+  },
+  {
+   "id": "83_tienganh_38",
+   "content": "Happy International Women's Day! You deserve the world and so much more.",
+   "translate": ""
+  },
+  {
+   "id": "83_tienganh_39",
+   "content": "Happy Women's Day! May you always walk with confidence and go to bed with peace.",
+   "translate": ""
+  },
+  {
+   "id": "83_tienganh_40",
+   "content": "To the woman I admire most: happy Women's Day. Thank you for everything.",
+   "translate": ""
+  },
+  {
+   "id": "83_tienganh_41",
+   "content": "Happy International Women's Day! May this year be your strongest and happiest yet.",
+   "translate": ""
+  },
+  {
+   "id": "83_tienganh_42",
+   "content": "Happy Women's Day! Wishing you love, laughter and a life you are proud of.",
+   "translate": ""
+  }
+ ]
+}

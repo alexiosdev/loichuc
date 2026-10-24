@@ -1,0 +1,214 @@
+{
+ "result": [
+  {
+   "id": "ngungon_haihuoc_1",
+   "content": "Ngủ ngon nhé! Chúc bạn mơ thấy tiền, nhiều tiền, rất nhiều tiền.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_haihuoc_2",
+   "content": "Chúc bạn ngủ ngon và đừng mơ thấy deadline.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_haihuoc_3",
+   "content": "Ngủ ngon! Chúc bạn đêm nay ngủ sâu đến mức báo thức cũng phải gọi ba lần.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_haihuoc_4",
+   "content": "Chúc bạn một giấc ngủ ngon, đừng lướt điện thoại nữa, mai lại than thiếu ngủ.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_haihuoc_5",
+   "content": "Ngủ ngon nhé! Chúc bạn mơ thấy crush nhắn tin trước.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_haihuoc_6",
+   "content": "Chúc bạn ngủ ngon, và nhớ cắm sạc điện thoại kẻo mai lại cuống.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_haihuoc_7",
+   "content": "Ngủ ngon! Chúc bạn đêm nay không bị muỗi làm phiền.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_haihuoc_8",
+   "content": "Chúc bạn một đêm ngon giấc và một sáng mai dậy đúng giờ, lần này thì thật nhé.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_haihuoc_9",
+   "content": "Ngủ ngon nhé! Chúc bạn mơ thấy mình trúng số và tỉnh dậy vẫn thấy vui.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_haihuoc_10",
+   "content": "Chúc bạn ngủ ngon, đừng thức khuya nữa, da đẹp mới quan trọng.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_haihuoc_11",
+   "content": "Ngủ ngon! Chúc bạn đêm nay không trằn trọc nghĩ về chuyện đã xảy ra năm năm trước.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_haihuoc_12",
+   "content": "Chúc bạn một giấc ngủ sâu, bỏ lại hết mọi drama của ngày hôm nay.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_haihuoc_13",
+   "content": "Ngủ ngon nhé! Chúc bạn mơ đẹp, và nếu mơ ác thì cũng mau quên.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_haihuoc_14",
+   "content": "Chúc bạn ngủ ngon, mai còn phải dậy đi kiếm tiền đấy.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_haihuoc_15",
+   "content": "Ngủ ngon! Chúc bạn đêm nay chăn ấm, gối êm và điều hòa đúng nhiệt độ.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_haihuoc_16",
+   "content": "Chúc bạn một đêm ngon giấc, đừng mơ thấy sếp gọi họp nhé.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_haihuoc_17",
+   "content": "Ngủ ngon nhé! Chúc bạn ngủ ngon đến mức sáng mai không nhớ hôm nay đã mệt thế nào.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_haihuoc_18",
+   "content": "Chúc bạn ngủ ngon, và nhớ là bỏ điện thoại xuống mới ngủ được.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_haihuoc_19",
+   "content": "Ngủ ngon! Chúc bạn mơ thấy mình đang nằm trên bãi biển chứ không phải trong phòng họp.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_haihuoc_20",
+   "content": "Chúc bạn một giấc ngủ ngon và một giấc mơ không có hóa đơn nào.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_haihuoc_21",
+   "content": "Ngủ ngon nhé! Chúc bạn đêm nay không ai nhắn tin làm bạn mất ngủ.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_haihuoc_22",
+   "content": "Chúc bạn ngủ ngon, mai dậy xinh đẹp và tràn đầy năng lượng.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_haihuoc_23",
+   "content": "Ngủ ngon! Chúc bạn đêm nay ngủ ngon hơn cả mèo nhà hàng xóm.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_haihuoc_24",
+   "content": "Chúc bạn một đêm yên bình, không tiếng ồn và không suy nghĩ lung tung.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_haihuoc_25",
+   "content": "Ngủ ngon nhé! Chúc bạn mơ thấy lương tháng này được tăng gấp đôi.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_haihuoc_26",
+   "content": "Chúc bạn ngủ ngon, đừng xem thêm tập phim nào nữa, mai lại hối hận.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_haihuoc_27",
+   "content": "Ngủ ngon! Chúc bạn đêm nay ngủ đủ tám tiếng, dù biết là khó.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_haihuoc_28",
+   "content": "Chúc bạn một giấc ngủ thật sâu và một sáng mai thật tỉnh táo.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_haihuoc_29",
+   "content": "Ngủ ngon nhé! Chúc bạn mơ thấy điều vui, và tỉnh dậy vẫn thấy vui.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_haihuoc_30",
+   "content": "Chúc bạn ngủ ngon, mai lại chiến tiếp, hôm nay thế là đủ rồi.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_haihuoc_31",
+   "content": "Ngủ ngon! Chúc bạn đêm nay không bị chuột rút và không bị tê tay.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_haihuoc_32",
+   "content": "Chúc bạn một đêm ngon giấc, và nhớ là đừng ăn khuya nữa nhé.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_haihuoc_33",
+   "content": "Ngủ ngon nhé! Chúc bạn ngủ ngon lành như hồi còn chưa đi làm.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_haihuoc_34",
+   "content": "Chúc bạn ngủ ngon, mai thức dậy mọi chuyện sẽ nhẹ nhàng hơn.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_haihuoc_35",
+   "content": "Ngủ ngon! Chúc bạn mơ thấy mình đang nghỉ phép dài ngày.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_haihuoc_36",
+   "content": "Chúc bạn một giấc ngủ ngon, đừng nghĩ nhiều, nghĩ nhiều cũng không giải quyết được gì lúc nửa đêm.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_haihuoc_37",
+   "content": "Ngủ ngon nhé! Chúc bạn đêm nay ngủ một mạch tới sáng.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_haihuoc_38",
+   "content": "Chúc bạn ngủ ngon, và chúc chiếc gối của bạn luôn mát ở cả hai mặt.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_haihuoc_39",
+   "content": "Ngủ ngon! Chúc bạn mai dậy sớm được, nhưng nếu không thì cũng không sao.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_haihuoc_40",
+   "content": "Chúc bạn một đêm thật ngon giấc và một ngày mai thật dễ thở.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_haihuoc_41",
+   "content": "Ngủ ngon nhé! Chúc bạn đêm nay không mơ thấy bài kiểm tra chưa ôn.",
+   "translate": ""
+  },
+  {
+   "id": "ngungon_haihuoc_42",
+   "content": "Chúc bạn ngủ ngon, mai lại là một ngày để than mệt tiếp.",
+   "translate": ""
+  }
+ ]
+}
